@@ -3,4 +3,5 @@ __pycache__/
 .idea/
 reports/*
 !reports/.gitkeep
+!reports/*.md
 jules_session_*.zip
