@@ -32,7 +32,8 @@ def test_fetch_random_repos_success(mock_urlopen):
 
 @patch("scripts.discover_repos.urllib.request.urlopen")
 def test_fetch_random_repos_failure(mock_urlopen):
-    mock_urlopen.side_effect = Exception("API Error")
+    import urllib.error
+    mock_urlopen.side_effect = urllib.error.URLError("API Error")
     repos = fetch_random_repos(count=20)
     assert repos == []
 

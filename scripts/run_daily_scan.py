@@ -23,19 +23,46 @@ def run_scan(repo, reports_dir, scanner_dir):
         print(f"Cloning {repo['name']}...")
         
         # Clone full depth to count branches correctly
-        subprocess.run(["git", "clone", repo["url"], target_dir], check=False, capture_output=True)
+        try:
+            subprocess.run(["git", "clone", repo["url"], target_dir], check=False, capture_output=True, timeout=300)
+        except subprocess.TimeoutExpired:
+            print(f"Clone timed out on {repo['name']}")
+            return {
+                "repo_name": repo['name'],
+                "repo_url": repo['url'],
+                "findings": [],
+                "metrics": {
+                    "files_scanned": 0,
+                    "branches_count": "Unknown",
+                    "repo_size": "Unknown",
+                    "scan_duration": 0
+                }
+            }
+        except Exception as e:
+            print(f"Error cloning repository: {e}")
+            return {
+                "repo_name": repo['name'],
+                "repo_url": repo['url'],
+                "findings": [],
+                "metrics": {
+                    "files_scanned": 0,
+                    "branches_count": "Unknown",
+                    "repo_size": "Unknown",
+                    "scan_duration": 0
+                }
+            }
         
         print(f"Scanning {repo['name']}...")
         
         # Get repository metrics
         try:
-            branches_proc = subprocess.run(["git", "-C", target_dir, "branch", "-r"], capture_output=True, text=True)
+            branches_proc = subprocess.run(["git", "-C", target_dir, "branch", "-r"], capture_output=True, text=True, timeout=30)
             branches_count = len([b for b in branches_proc.stdout.split('\n') if b.strip() and "->" not in b])
         except Exception:
             branches_count = "Unknown"
             
         try:
-            size_proc = subprocess.run(["du", "-sh", target_dir], capture_output=True, text=True)
+            size_proc = subprocess.run(["du", "-sh", target_dir], capture_output=True, text=True, timeout=30)
             repo_size = size_proc.stdout.split('\t')[0] if size_proc.stdout else "Unknown"
         except Exception:
             repo_size = "Unknown"
@@ -105,7 +132,34 @@ if __name__ == "__main__":
 """)
         
         # Run the runner script
-        process = subprocess.run(["python3", runner_script], capture_output=True, text=True)
+        try:
+            process = subprocess.run(["python3", runner_script], capture_output=True, text=True, timeout=600)
+        except subprocess.TimeoutExpired:
+            print(f"Scanner timed out on {repo['name']}")
+            return {
+                "repo_name": repo['name'],
+                "repo_url": repo['url'],
+                "findings": [],
+                "metrics": {
+                    "files_scanned": 0,
+                    "branches_count": branches_count,
+                    "repo_size": repo_size,
+                    "scan_duration": 600
+                }
+            }
+        except Exception as e:
+            print(f"Error running scanner: {e}")
+            return {
+                "repo_name": repo['name'],
+                "repo_url": repo['url'],
+                "findings": [],
+                "metrics": {
+                    "files_scanned": 0,
+                    "branches_count": branches_count,
+                    "repo_size": repo_size,
+                    "scan_duration": 0
+                }
+            }
         
         try:
             output = json.loads(process.stdout)
@@ -172,10 +226,10 @@ def main():
     with tempfile.TemporaryDirectory() as tmpdir:
         scanner_dir = os.path.join(tmpdir, "secret-scan")
         print(f"Cloning secret-scan dependency...")
-        subprocess.run(["git", "clone", "https://github.com/JMartynov/secret-scan.git", scanner_dir], check=True, capture_output=True)
+        subprocess.run(["git", "clone", "https://github.com/JMartynov/secret-scan.git", scanner_dir], check=True, capture_output=True, timeout=300)
         
         print("Installing secret-scan dependencies...")
-        subprocess.run(["pip", "install", "-r", os.path.join(scanner_dir, "requirements.txt")], check=True, capture_output=True)
+        subprocess.run(["pip", "install", "-r", os.path.join(scanner_dir, "requirements.txt")], check=True, capture_output=True, timeout=300)
         
         cumulative_results = []
         
