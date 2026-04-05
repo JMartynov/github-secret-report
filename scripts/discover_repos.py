@@ -1,5 +1,6 @@
 import json
 import urllib.request
+import urllib.error
 import os
 import random
 
@@ -21,7 +22,7 @@ def fetch_random_repos(count=20):
                 items = random.sample(items, count)
                 
             return [{"name": item["full_name"], "url": item["clone_url"], "status": "Hasn't yet validated"} for item in items]
-    except Exception as e:
+    except (urllib.error.URLError, json.JSONDecodeError) as e:
         print(f"Failed to fetch repos: {e}")
         return []
 
