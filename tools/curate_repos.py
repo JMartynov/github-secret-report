@@ -1,5 +1,6 @@
 import json
 import urllib.request
+import urllib.error
 import os
 
 def fetch_top_repos(language, count=100):
@@ -10,7 +11,7 @@ def fetch_top_repos(language, count=100):
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode())
             return [{"name": item["full_name"], "url": item["clone_url"]} for item in data.get("items", [])]
-    except Exception as e:
+    except (urllib.error.URLError, json.JSONDecodeError) as e:
         print(f"Failed to fetch repos for {language}: {e}")
         return []
 

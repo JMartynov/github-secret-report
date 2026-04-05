@@ -5,6 +5,7 @@ import tempfile
 import argparse
 import datetime
 import shutil
+import sys
 
 def load_state(state_file):
     if os.path.exists(state_file):
@@ -58,12 +59,16 @@ def run_scan(repo, reports_dir, scanner_dir):
         try:
             branches_proc = subprocess.run(["git", "-C", target_dir, "branch", "-r"], capture_output=True, text=True, timeout=30)
             branches_count = len([b for b in branches_proc.stdout.split('\n') if b.strip() and "->" not in b])
+        except subprocess.TimeoutExpired:
+            branches_count = "Unknown"
         except Exception:
             branches_count = "Unknown"
             
         try:
             size_proc = subprocess.run(["du", "-sh", target_dir], capture_output=True, text=True, timeout=30)
             repo_size = size_proc.stdout.split('\t')[0] if size_proc.stdout else "Unknown"
+        except subprocess.TimeoutExpired:
+            repo_size = "Unknown"
         except Exception:
             repo_size = "Unknown"
             
@@ -133,7 +138,7 @@ if __name__ == "__main__":
         
         # Run the runner script
         try:
-            process = subprocess.run(["python3", runner_script], capture_output=True, text=True, timeout=600)
+            process = subprocess.run([sys.executable, runner_script], capture_output=True, text=True, timeout=600)
         except subprocess.TimeoutExpired:
             print(f"Scanner timed out on {repo['name']}")
             return {
@@ -226,10 +231,18 @@ def main():
     with tempfile.TemporaryDirectory() as tmpdir:
         scanner_dir = os.path.join(tmpdir, "secret-scan")
         print(f"Cloning secret-scan dependency...")
-        subprocess.run(["git", "clone", "https://github.com/JMartynov/secret-scan.git", scanner_dir], check=True, capture_output=True, timeout=300)
-        
+        try:
+            subprocess.run(["git", "clone", "https://github.com/JMartynov/secret-scan.git", scanner_dir], check=True, capture_output=True, timeout=300)
+        except subprocess.TimeoutExpired:
+            print("Timed out cloning secret-scan dependency.")
+            return
+
         print("Installing secret-scan dependencies...")
-        subprocess.run(["pip", "install", "-r", os.path.join(scanner_dir, "requirements.txt")], check=True, capture_output=True, timeout=300)
+        try:
+            subprocess.run([sys.executable, "-m", "pip", "install", "-r", os.path.join(scanner_dir, "requirements.txt")], check=True, capture_output=True, timeout=300)
+        except subprocess.TimeoutExpired:
+            print("Timed out installing secret-scan dependencies.")
+            return
         
         cumulative_results = []
         

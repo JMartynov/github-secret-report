@@ -68,8 +68,16 @@ def test_report_formatting(mock_run):
         # but the third call is the runner execution.
         def mock_subprocess_run_side_effect(*args, **kwargs):
             cmd = args[0]
-            if "python3" in cmd and "runner.py" in cmd[-1]:
+            if "sys.executable" in str(cmd) or "python" in str(cmd[0]):
                 return mock_result
+            if "branch" in cmd:
+                mock_branches = MagicMock()
+                mock_branches.stdout = "  main\n  develop\n"
+                return mock_branches
+            if "du" in cmd:
+                mock_size = MagicMock()
+                mock_size.stdout = "10M\t.\n"
+                return mock_size
             return MagicMock()
             
         mock_run.side_effect = mock_subprocess_run_side_effect
