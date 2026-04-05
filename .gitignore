@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.idea/
+reports/*
+!reports/.gitkeep
+jules_session_*.zip
