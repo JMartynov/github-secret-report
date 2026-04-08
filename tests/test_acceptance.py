@@ -39,7 +39,8 @@ def test_full_cycle_report_generation(monkeypatch):
                     # Create fake requirements.txt and detector/obfuscator mock
                     with open(os.path.join(dest, "requirements.txt"), "w") as f:
                         f.write("")
-                    with open(os.path.join(dest, "detector.py"), "w") as f:
+                    os.makedirs(os.path.join(dest, "src"), exist_ok=True)
+                    with open(os.path.join(dest, "src", "detector.py"), "w") as f:
                         f.write("""
 class SecretDetector:
     def __init__(self, force_scan_all=False):
@@ -55,7 +56,7 @@ class SecretDetector:
                 self.risk = 'HIGH'
         return [Finding()]
 """)
-                    with open(os.path.join(dest, "obfuscator.py"), "w") as f:
+                    with open(os.path.join(dest, "src", "obfuscator.py"), "w") as f:
                         f.write("""
 class Obfuscator:
     def __init__(self, mode):

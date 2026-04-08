@@ -82,7 +82,7 @@ import os
 import json
 import time
 
-sys.path.append(r'{scanner_dir}')
+sys.path.append(os.path.join(r'{scanner_dir}', 'src'))
 
 from detector import SecretDetector
 from obfuscator import Obfuscator
