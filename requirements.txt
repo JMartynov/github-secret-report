@@ -1,3 +1,4 @@
 pytest
 google-re2
 faker
+py-secret-scan==3.0.2

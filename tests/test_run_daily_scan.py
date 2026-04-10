@@ -61,7 +61,6 @@ def test_report_formatting(mock_run):
         repo = {"name": "test/repo", "url": "https://github.com/test/repo"}
         reports_dir = os.path.join(tmpdir, "reports")
         os.makedirs(reports_dir, exist_ok=True)
-        scanner_dir = os.path.join(tmpdir, "scanner")
         
         # We need to simulate the execution where the runner script is written and executed
         # We don't actually need the runner to work since we mock subprocess.run, 
@@ -82,7 +81,7 @@ def test_report_formatting(mock_run):
             
         mock_run.side_effect = mock_subprocess_run_side_effect
         
-        result = run_scan(repo, reports_dir, scanner_dir)
+        result = run_scan(repo, reports_dir)
         assert result['findings'] == mock_output["findings"]
         assert result['metrics']['files_scanned'] == 150
         
@@ -104,7 +103,7 @@ def test_report_formatting(mock_run):
         assert "## Executive Summary" in content
         assert "test/repo" in content
         assert "## Repository Breakdown" in content
-        assert "`config.yaml` | aws_access_key | 10 | HIGH | 5.0 | `AKIAREDACTEDXXXXX`" in content
+        assert "`config.yaml` | aws_access_key | 10 | HIGH | HEAD | Unknown | `AKIAREDACTEDXXXXX`" in content
         
         # Ensure raw secrets are not present
         assert "AKIAIOSFODNN7EXAMPLE" not in content # Raw secret shouldn't be there
