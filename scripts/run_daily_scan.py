@@ -17,7 +17,7 @@ def save_state(state_file, state):
     with open(state_file, 'w') as f:
         json.dump(state, f, indent=4)
 
-def run_scan(repo, reports_dir, scanner_dir):
+def run_scan(repo, reports_dir):
     with tempfile.TemporaryDirectory() as tmpdir:
         # Clone target repo
         target_dir = os.path.join(tmpdir, "target_repo")
@@ -81,47 +81,97 @@ import sys
 import os
 import json
 import time
+import subprocess
 
-sys.path.append(os.path.join(r'{scanner_dir}', 'src'))
+# In CI/GitHub Action, it relies on python path finding site-packages.
+# If tests run from repo root, 'src' might resolve to local if not careful,
+# but tests now use global pip packages.
+from src.detector import SecretDetector
+from src.obfuscator import Obfuscator
 
-from detector import SecretDetector
-from obfuscator import Obfuscator
+def get_commits(target_dir):
+    try:
+        proc = subprocess.run(["git", "-C", target_dir, "log", "--all", "--format=%H|%an|%cI"], capture_output=True, text=True, check=True)
+        lines = proc.stdout.strip().split('\\n')
+        commits = []
+        for line in lines:
+            if line:
+                parts = line.split('|', 2)
+                if len(parts) == 3:
+                    commits.append({{"hash": parts[0], "author": parts[1], "date": parts[2]}})
+        return commits
+    except Exception:
+        return []
+
+def get_commit_files(target_dir, commit_hash):
+    try:
+        proc = subprocess.run(["git", "-C", target_dir, "diff-tree", "--no-commit-id", "--name-status", "-r", commit_hash], capture_output=True, text=True, check=True)
+        lines = proc.stdout.strip().split('\\n')
+        files = []
+        for line in lines:
+            if line:
+                parts = line.split('\\t', 1)
+                if len(parts) == 2:
+                    status, filepath = parts
+                    # Only check added or modified files
+                    if status.startswith('A') or status.startswith('M'):
+                        files.append(filepath)
+        return files
+    except Exception:
+        return []
+
+def get_file_content(target_dir, commit_hash, filepath):
+    try:
+        proc = subprocess.run(["git", "-C", target_dir, "show", f"{{commit_hash}}:{{filepath}}"], capture_output=True, text=True, errors="ignore")
+        if proc.returncode == 0:
+            return proc.stdout
+    except Exception:
+        pass
+    return None
 
 def main():
     start_time = time.time()
-    detector = SecretDetector(force_scan_all=True)
+    detector = SecretDetector(
+        force_scan_all=True,
+        mode="deep",
+        include_pii=True,
+        pii_regions=["us", "eu"]
+    )
     obfuscator = Obfuscator(mode="synthetic")
     all_findings = []
     
     target_dir = r'{target_dir}'
     files_scanned = 0
     
-    for root, dirs, files in os.walk(target_dir):
-        if '.git' in dirs:
-            dirs.remove('.git')
-        for file in files:
-            filepath = os.path.join(root, file)
-            rel_path = os.path.relpath(filepath, target_dir)
+    commits = get_commits(target_dir)
+
+    for commit in commits:
+        commit_hash = commit["hash"]
+        files = get_commit_files(target_dir, commit_hash)
+
+        for filepath in files:
             files_scanned += 1
-            try:
-                with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-                    content = f.read()
+            content = get_file_content(target_dir, commit_hash, filepath)
+            if content:
+                try:
                     findings = detector.scan(content)
                     for fn in findings:
-                        # Convert to dict and obfuscate match
                         fn_dict = {{
                             "rule": fn.rule,
-                            "filepath": rel_path,
+                            "filepath": filepath,
                             "line_num": fn.line_num,
                             "match": obfuscator.obfuscate(fn.match, [fn]),
                             "entropy": fn.entropy,
                             "score": fn.score,
-                            "risk": fn.risk
+                            "risk": fn.risk,
+                            "commit_id": commit_hash,
+                            "commit_author": commit["author"],
+                            "commit_date": commit["date"]
                         }}
                         all_findings.append(fn_dict)
-            except Exception as e:
-                pass
-                
+                except Exception:
+                    pass
+
     end_time = time.time()
     duration = end_time - start_time
     
@@ -227,35 +277,28 @@ def main():
         
     selected_repos, new_index = get_next_repos(repos, index, args.scan_count)
     
-    # Clone secret-scan once
-    with tempfile.TemporaryDirectory() as tmpdir:
-        scanner_dir = os.path.join(tmpdir, "secret-scan")
-        print(f"Cloning secret-scan dependency...")
-        try:
-            subprocess.run(["git", "clone", "https://github.com/JMartynov/secret-scan.git", scanner_dir], check=True, capture_output=True, timeout=300)
-        except subprocess.TimeoutExpired:
-            print("Timed out cloning secret-scan dependency.")
-            return
+    print("Installing py-secret-scan dependency...")
+    try:
+        subprocess.run([sys.executable, "-m", "pip", "install", "py-secret-scan==3.0.2"], check=True, capture_output=True, timeout=300)
+    except subprocess.TimeoutExpired:
+        print("Timed out installing py-secret-scan dependency.")
+        return
+    except subprocess.CalledProcessError as e:
+        print(f"Failed to install py-secret-scan: {e.stderr}")
+        return
 
-        print("Installing secret-scan dependencies...")
-        try:
-            subprocess.run([sys.executable, "-m", "pip", "install", "-r", os.path.join(scanner_dir, "requirements.txt")], check=True, capture_output=True, timeout=300)
-        except subprocess.TimeoutExpired:
-            print("Timed out installing secret-scan dependencies.")
-            return
+    cumulative_results = []
+
+    for i, repo in enumerate(selected_repos):
+        print(f"[{i+1}/{args.scan_count}] Scanning {repo['name']}")
+        res = run_scan(repo, reports_dir)
+        cumulative_results.append(res)
         
-        cumulative_results = []
-        
-        for i, repo in enumerate(selected_repos):
-            print(f"[{i+1}/{args.scan_count}] Scanning {repo['name']}")
-            res = run_scan(repo, reports_dir, scanner_dir)
-            cumulative_results.append(res)
-            
-        state["last_scanned_index"] = new_index
-        save_state(state_file, state)
-        
-        # Generate Cumulative Report
-        generate_cumulative_report(cumulative_results, reports_dir)
+    state["last_scanned_index"] = new_index
+    save_state(state_file, state)
+
+    # Generate Cumulative Report
+    generate_cumulative_report(cumulative_results, reports_dir)
         
 def generate_cumulative_report(results, reports_dir):
     date_str = datetime.datetime.now().strftime('%Y-%m-%d')
@@ -296,10 +339,10 @@ def generate_cumulative_report(results, reports_dir):
             
             if findings:
                 f.write("<details><summary><b>View Findings</b></summary>\n\n")
-                f.write("| File | Rule | Line | Risk | Score | Obfuscated Match |\n")
-                f.write("|---|---|---|---|---|---|\n")
+                f.write("| File | Rule | Line | Risk | Commit Hash | Commit Date | Obfuscated Match |\n")
+                f.write("|---|---|---|---|---|---|---|\n")
                 for fn in findings:
-                    f.write(f"| `{fn['filepath']}` | {fn['rule']} | {fn['line_num']} | {fn['risk']} | {fn['score']} | `{fn['match']}` |\n")
+                    f.write(f"| `{fn['filepath']}` | {fn['rule']} | {fn['line_num']} | {fn['risk']} | {fn.get('commit_id', 'HEAD')[:7]} | {fn.get('commit_date', 'Unknown')} | `{fn['match']}` |\n")
                 f.write("\n</details>\n\n")
             else:
                 f.write("*No secrets detected.*\n\n")

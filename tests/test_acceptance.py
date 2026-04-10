@@ -43,7 +43,7 @@ def test_full_cycle_report_generation(monkeypatch):
                     with open(os.path.join(dest, "src", "detector.py"), "w") as f:
                         f.write("""
 class SecretDetector:
-    def __init__(self, force_scan_all=False):
+    def __init__(self, force_scan_all=False, mode="balanced", include_pii=False, pii_regions=None):
         pass
     def scan(self, text):
         class Finding:
@@ -81,6 +81,50 @@ class Obfuscator:
                     stdout = ""
                     stderr = ""
                 return MockResult()
+            elif "git" in cmd and "log" in cmd:
+                class MockResult:
+                    returncode = 0
+                    stdout = "abc1234|Author|2023-01-01T00:00:00Z\n"
+                    stderr = ""
+                return MockResult()
+            elif "git" in cmd and "diff-tree" in cmd:
+                class MockResult:
+                    returncode = 0
+                    stdout = "A\ttest.txt\n"
+                    stderr = ""
+                return MockResult()
+            elif "git" in cmd and "show" in cmd:
+                class MockResult:
+                    returncode = 0
+                    stdout = "supersecret\n"
+                    stderr = ""
+                return MockResult()
+            elif "python" in str(cmd[0]) or "sys.executable" in str(cmd[0]):
+                # the runner logic uses subprocess to execute the generated python script
+                # we need to simulate the output of the runner script
+                if "runner.py" in str(cmd):
+                    class MockResult:
+                        returncode = 0
+                        stdout = json.dumps({
+                            "findings": [{
+                                "rule": "mock-rule",
+                                "filepath": "test.txt",
+                                "line_num": 1,
+                                "match": "REDACTED",
+                                "entropy": 4.0,
+                                "score": 5.0,
+                                "risk": "HIGH",
+                                "commit_id": "abc1234",
+                                "commit_author": "Author",
+                                "commit_date": "2023-01-01T00:00:00Z"
+                            }],
+                            "files_scanned": 1,
+                            "scan_duration_seconds": 0.1
+                        })
+                        stderr = ""
+                    return MockResult()
+                else:
+                    return original_run(cmd, *args, **kwargs)
             else:
                 return original_run(cmd, *args, **kwargs)
                 
@@ -95,20 +139,12 @@ class Obfuscator:
             
         selected_repos, new_index = get_next_repos(repos, state.get("last_scanned_index", 0), 1)
         
-        # We need a fake secret-scan dir
-        scanner_dir = os.path.join(tmpdir, "fake-secret-scan")
-        mock_subprocess_run(["git", "clone", "secret-scan", scanner_dir])
-        
-        # Need to put an empty __init__.py so runner can import it if necessary
-        with open(os.path.join(scanner_dir, "__init__.py"), "w") as f:
-            f.write("")
-            
         # Generate cumulative report manually since we mock run_scan loop
         from scripts.run_daily_scan import generate_cumulative_report
         
         cumulative_results = []
         for repo in selected_repos:
-            res = run_scan(repo, reports_dir, scanner_dir)
+            res = run_scan(repo, reports_dir)
             cumulative_results.append(res)
             
         generate_cumulative_report(cumulative_results, reports_dir)
