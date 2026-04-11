@@ -54,6 +54,9 @@ class SecretDetector:
                 self.entropy = 4.0
                 self.score = 5.0
                 self.risk = 'HIGH'
+                self.confidence = 0.9
+                self.suggestion = 'Fix it'
+                self.context = 'context of supersecret'
         return [Finding()]
 """)
                     with open(os.path.join(dest, "src", "obfuscator.py"), "w") as f:
@@ -114,6 +117,9 @@ class Obfuscator:
                                 "entropy": 4.0,
                                 "score": 5.0,
                                 "risk": "HIGH",
+                                "confidence": 0.9,
+                                "suggestion": "Fix it",
+                                "context": "context of REDACTED",
                                 "commit_id": "abc1234",
                                 "commit_author": "Author",
                                 "commit_date": "2023-01-01T00:00:00Z"
@@ -151,13 +157,21 @@ class Obfuscator:
             
         # Verify
         reports = os.listdir(reports_dir)
-        assert len(reports) == 1
-        assert reports[0].startswith("Cumulative-Report-")
-        with open(os.path.join(reports_dir, reports[0]), "r") as f:
+        assert len(reports) == 2 # Cumulative and daily_summary
+        cumulative_file = [r for r in reports if r.startswith("Cumulative-Report-")][0]
+        with open(os.path.join(reports_dir, cumulative_file), "r") as f:
             content = f.read()
             assert "test/dummy1" in content
             assert "REDACTED" in content
+            assert "Fix it" in content
+            assert "confidence" in content.lower()
             assert "supersecret" not in content # Raw secret must not be there
+            
+        summary_path = os.path.join(reports_dir, "daily_summary.md")
+        assert os.path.exists(summary_path)
+        with open(summary_path, "r") as f:
+            summary_content = f.read()
+            assert "| Date | Repos | Files | Findings | Duration |" in summary_content
 
 
 def test_configurable_limit(monkeypatch):

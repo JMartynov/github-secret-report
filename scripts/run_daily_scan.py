@@ -25,7 +25,8 @@ def run_scan(repo, reports_dir):
         
         # Clone full depth to count branches correctly
         try:
-            subprocess.run(["git", "clone", repo["url"], target_dir], check=False, capture_output=True, timeout=300)
+            # Removed small timeout for clone as requested "without time limitation" for branch validation
+            subprocess.run(["git", "clone", repo["url"], target_dir], check=False, capture_output=True, timeout=3600)
         except subprocess.TimeoutExpired:
             print(f"Clone timed out on {repo['name']}")
             return {
@@ -57,7 +58,7 @@ def run_scan(repo, reports_dir):
         
         # Get repository metrics
         try:
-            branches_proc = subprocess.run(["git", "-C", target_dir, "branch", "-r"], capture_output=True, text=True, timeout=30)
+            branches_proc = subprocess.run(["git", "-C", target_dir, "branch", "-r"], capture_output=True, text=True, timeout=60)
             branches_count = len([b for b in branches_proc.stdout.split('\n') if b.strip() and "->" not in b])
         except subprocess.TimeoutExpired:
             branches_count = "Unknown"
@@ -65,7 +66,7 @@ def run_scan(repo, reports_dir):
             branches_count = "Unknown"
             
         try:
-            size_proc = subprocess.run(["du", "-sh", target_dir], capture_output=True, text=True, timeout=30)
+            size_proc = subprocess.run(["du", "-sh", target_dir], capture_output=True, text=True, timeout=60)
             repo_size = size_proc.stdout.split('\t')[0] if size_proc.stdout else "Unknown"
         except subprocess.TimeoutExpired:
             repo_size = "Unknown"
@@ -84,13 +85,12 @@ import time
 import subprocess
 
 # In CI/GitHub Action, it relies on python path finding site-packages.
-# If tests run from repo root, 'src' might resolve to local if not careful,
-# but tests now use global pip packages.
 from src.detector import SecretDetector
 from src.obfuscator import Obfuscator
 
 def get_commits(target_dir):
     try:
+        # log --all ensures we see all branches
         proc = subprocess.run(["git", "-C", target_dir, "log", "--all", "--format=%H|%an|%cI"], capture_output=True, text=True, check=True)
         lines = proc.stdout.strip().split('\\n')
         commits = []
@@ -113,7 +113,6 @@ def get_commit_files(target_dir, commit_hash):
                 parts = line.split('\\t', 1)
                 if len(parts) == 2:
                     status, filepath = parts
-                    # Only check added or modified files
                     if status.startswith('A') or status.startswith('M'):
                         files.append(filepath)
         return files
@@ -157,13 +156,16 @@ def main():
                     findings = detector.scan(content)
                     for fn in findings:
                         fn_dict = {{
-                            "rule": fn.rule,
+                            "rule": getattr(fn, 'rule', getattr(fn, 'type', 'Unknown')),
                             "filepath": filepath,
                             "line_num": fn.line_num,
-                            "match": obfuscator.obfuscate(fn.match, [fn]),
-                            "entropy": fn.entropy,
-                            "score": fn.score,
+                            "match": obfuscator.obfuscate(fn.match if hasattr(fn, 'match') else fn.secret, [fn]),
+                            "entropy": getattr(fn, 'entropy', 0),
+                            "score": getattr(fn, 'score', getattr(fn, 'risk_score', 0)),
                             "risk": fn.risk,
+                            "confidence": getattr(fn, 'confidence', 'Unknown'),
+                            "suggestion": getattr(fn, 'suggestion', 'No suggestion provided.'),
+                            "context": obfuscator.obfuscate(getattr(fn, 'context', ''), [fn]),
                             "commit_id": commit_hash,
                             "commit_author": commit["author"],
                             "commit_date": commit["date"]
@@ -186,9 +188,9 @@ if __name__ == "__main__":
     main()
 """)
         
-        # Run the runner script
+        # Run the runner script - Increased timeout to 1800s (30 mins)
         try:
-            process = subprocess.run([sys.executable, runner_script], capture_output=True, text=True, timeout=600)
+            process = subprocess.run([sys.executable, runner_script], capture_output=True, text=True, timeout=1800)
         except subprocess.TimeoutExpired:
             print(f"Scanner timed out on {repo['name']}")
             return {
@@ -199,7 +201,7 @@ if __name__ == "__main__":
                     "files_scanned": 0,
                     "branches_count": branches_count,
                     "repo_size": repo_size,
-                    "scan_duration": 600
+                    "scan_duration": 1800
                 }
             }
         except Exception as e:
@@ -303,12 +305,14 @@ def main():
 def generate_cumulative_report(results, reports_dir):
     date_str = datetime.datetime.now().strftime('%Y-%m-%d')
     cumulative_path = os.path.join(reports_dir, f"Cumulative-Report-{date_str}.md")
+    compact_path = os.path.join(reports_dir, "daily_summary.md")
     
     total_repos = len(results)
     total_findings = sum(len(r['findings']) for r in results)
     total_files_scanned = sum(r['metrics']['files_scanned'] for r in results)
     total_duration = sum(r['metrics']['scan_duration'] for r in results)
     
+    # Update Cumulative Report
     with open(cumulative_path, "w") as f:
         f.write(f"# Daily Cumulative Secret Scan Report - {date_str}\n\n")
         
@@ -338,17 +342,46 @@ def generate_cumulative_report(results, reports_dir):
             f.write(f"- **Findings:** {len(findings)}\n\n")
             
             if findings:
-                f.write("<details><summary><b>View Findings</b></summary>\n\n")
-                f.write("| File | Rule | Line | Risk | Commit Hash | Commit Date | Obfuscated Match |\n")
-                f.write("|---|---|---|---|---|---|---|\n")
+                f.write("<details><summary><b>View Detailed Findings</b></summary>\n\n")
                 for fn in findings:
-                    f.write(f"| `{fn['filepath']}` | {fn['rule']} | {fn['line_num']} | {fn['risk']} | {fn.get('commit_id', 'HEAD')[:7]} | {fn.get('commit_date', 'Unknown')} | `{fn['match']}` |\n")
-                f.write("\n</details>\n\n")
+                    f.write(f"#### Finding: {fn['rule']} in `{fn['filepath']}`\n\n")
+                    f.write(f"| Attribute | Value |\n")
+                    f.write(f"|---|---|\n")
+                    f.write(f"| **Risk** | {fn['risk']} |\n")
+                    f.write(f"| **Score** | {fn['score']} |\n")
+                    f.write(f"| **Confidence** | {fn['confidence']} |\n")
+                    f.write(f"| **Line** | {fn['line_num']} |\n")
+                    f.write(f"| **Commit** | {fn.get('commit_id', 'HEAD')[:7]} |\n")
+                    f.write(f"| **Author** | {fn.get('commit_author', 'Unknown')} |\n")
+                    f.write(f"| **Date** | {fn.get('commit_date', 'Unknown')} |\n")
+                    f.write(f"| **Obfuscated Match** | `{fn['match']}` |\n\n")
+                    
+                    if fn.get('context'):
+                        f.write("**Context:**\n```\n")
+                        f.write(fn['context'])
+                        f.write("\n```\n\n")
+                    
+                    f.write(f"**Suggestion:** {fn['suggestion']}\n\n")
+                    f.write("---\n\n")
+                f.write("</details>\n\n")
             else:
                 f.write("*No secrets detected.*\n\n")
             f.write("---\n\n")
             
+    # Update/Create Compact Daily Summary
+    summary_line = f"| {date_str} | {total_repos} | {total_files_scanned} | {total_findings} | {round(total_duration, 2)}s |\n"
+    
+    if not os.path.exists(compact_path):
+        with open(compact_path, "w") as f:
+            f.write("# Compact Daily Secret Scan Summary\n\n")
+            f.write("| Date | Repos | Files | Findings | Duration |\n")
+            f.write("|---|---|---|---|---|\n")
+    
+    with open(compact_path, "a") as f:
+        f.write(summary_line)
+            
     print(f"Cumulative report saved to {cumulative_path}")
+    print(f"Compact summary updated at {compact_path}")
         
 if __name__ == "__main__":
     main()
