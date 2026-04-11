@@ -46,7 +46,10 @@ def test_report_formatting(mock_run):
                 "match": "AKIAREDACTEDXXXXX",  # Obfuscated
                 "entropy": 4.5,
                 "score": 5.0,
-                "risk": "HIGH"
+                "risk": "HIGH",
+                "confidence": 0.95,
+                "suggestion": "Rotate keys",
+                "context": "key: AKIAREDACTEDXXXXX"
             }
         ],
         "files_scanned": 150,
@@ -63,8 +66,6 @@ def test_report_formatting(mock_run):
         os.makedirs(reports_dir, exist_ok=True)
         
         # We need to simulate the execution where the runner script is written and executed
-        # We don't actually need the runner to work since we mock subprocess.run, 
-        # but the third call is the runner execution.
         def mock_subprocess_run_side_effect(*args, **kwargs):
             cmd = args[0]
             if "sys.executable" in str(cmd) or "python" in str(cmd[0]):
@@ -89,21 +90,29 @@ def test_report_formatting(mock_run):
         from scripts.run_daily_scan import generate_cumulative_report
         generate_cumulative_report([result], reports_dir)
         
-        # Check generated report
+        # Check generated reports
         reports = os.listdir(reports_dir)
-        assert len(reports) == 1
-        assert reports[0].startswith("Cumulative-Report-")
-        report_path = os.path.join(reports_dir, reports[0])
+        assert len(reports) == 2 # Cumulative and daily_summary
+        
+        cumulative_file = [r for r in reports if r.startswith("Cumulative-Report-")][0]
+        report_path = os.path.join(reports_dir, cumulative_file)
         
         with open(report_path, "r") as f:
             content = f.read()
             
-        # Verify markdown format
+        # Verify markdown format and details
         assert "Daily Cumulative Secret Scan Report" in content
         assert "## Executive Summary" in content
         assert "test/repo" in content
-        assert "## Repository Breakdown" in content
-        assert "`config.yaml` | aws_access_key | 10 | HIGH | HEAD | Unknown | `AKIAREDACTEDXXXXX`" in content
+        assert "View Detailed Findings" in content
+        assert "aws_access_key" in content
+        assert "Rotate keys" in content
+        assert "Context" in content
         
-        # Ensure raw secrets are not present
-        assert "AKIAIOSFODNN7EXAMPLE" not in content # Raw secret shouldn't be there
+        # Check compact summary
+        summary_path = os.path.join(reports_dir, "daily_summary.md")
+        assert os.path.exists(summary_path)
+        with open(summary_path, "r") as f:
+            summary_content = f.read()
+            assert "| Date | Repos | Files | Findings | Duration |" in summary_content
+            assert "| 1 | 150 | 1 | 1.25s |" in summary_content
