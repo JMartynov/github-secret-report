@@ -121,11 +121,11 @@ def get_commit_files(target_dir, commit_hash):
 
 def get_file_content(target_dir, commit_hash, filepath):
     try:
-        proc = subprocess.run(["git", "-C", target_dir, "show", f"{{commit_hash}}:{{filepath}}"], capture_output=True, text=True, errors="ignore")
+        proc = subprocess.run(["git", "-C", target_dir, "show", f"{{commit_hash}}:{{filepath}}", "--"], capture_output=True, text=True, errors="ignore", timeout=30)
         if proc.returncode == 0:
             return proc.stdout
-    except Exception:
-        pass
+    except (subprocess.SubprocessError, OSError) as e:
+        print(f"Error reading {{filepath}} at {{commit_hash}}: {{e}}", file=sys.stderr)
     return None
 
 def main():
