@@ -3,6 +3,7 @@ import os
 import json
 import tempfile
 import datetime
+import subprocess
 from unittest.mock import patch, MagicMock
 from scripts.run_daily_scan import get_next_repos, run_scan
 
@@ -30,6 +31,32 @@ def test_repo_rotation_all():
     assert selected_repos[0]["name"] == "repo0"
     assert selected_repos[3]["name"] == "repo0"
     assert new_index == 2
+
+
+@patch("scripts.run_daily_scan.subprocess.run")
+def test_run_scan_clone_timeout(mock_run):
+    """
+    Test that run_scan handles git clone timeout properly.
+    """
+    repo = {"name": "test/repo", "url": "https://github.com/test/repo"}
+
+    # We simulate a TimeoutExpired exception on the git clone subprocess.run call
+    mock_run.side_effect = subprocess.TimeoutExpired(cmd=["git", "clone", repo["url"], "dummy_dir"], timeout=3600)
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        reports_dir = os.path.join(tmpdir, "reports")
+        os.makedirs(reports_dir, exist_ok=True)
+
+        result = run_scan(repo, reports_dir)
+
+        assert result["repo_name"] == repo["name"]
+        assert result["repo_url"] == repo["url"]
+        assert result["findings"] == []
+        assert result["metrics"]["files_scanned"] == 0
+        assert result["metrics"]["branches_count"] == "Unknown"
+        assert result["metrics"]["repo_size"] == "Unknown"
+        assert result["metrics"]["scan_duration"] == 0
+
 
 @patch("scripts.run_daily_scan.subprocess.run")
 def test_report_formatting(mock_run):
