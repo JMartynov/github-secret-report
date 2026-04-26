@@ -4,7 +4,6 @@ import subprocess
 import tempfile
 import argparse
 import datetime
-import shutil
 import sys
 
 RUNNER_CODE_TEMPLATE = """
