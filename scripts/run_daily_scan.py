@@ -4,7 +4,6 @@ import subprocess
 import tempfile
 import argparse
 import datetime
-import shutil
 import sys
 
 def load_state(state_file):
