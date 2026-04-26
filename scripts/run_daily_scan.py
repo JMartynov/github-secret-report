@@ -119,15 +119,6 @@ def get_commit_files(target_dir, commit_hash):
     except Exception:
         return []
 
-def get_file_content(target_dir, commit_hash, filepath):
-    try:
-        proc = subprocess.run(["git", "-C", target_dir, "show", f"{{commit_hash}}:{{filepath}}"], capture_output=True, text=True, errors="ignore")
-        if proc.returncode == 0:
-            return proc.stdout
-    except Exception:
-        pass
-    return None
-
 def main():
     start_time = time.time()
     detector = SecretDetector(
@@ -144,35 +135,62 @@ def main():
     
     commits = get_commits(target_dir)
 
-    for commit in commits:
-        commit_hash = commit["hash"]
-        files = get_commit_files(target_dir, commit_hash)
+    cat_file_proc = subprocess.Popen(
+        ["git", "-C", target_dir, "cat-file", "--batch"],
+        stdin=subprocess.PIPE, stdout=subprocess.PIPE, text=False
+    )
 
-        for filepath in files:
-            files_scanned += 1
-            content = get_file_content(target_dir, commit_hash, filepath)
-            if content:
-                try:
-                    findings = detector.scan(content)
-                    for fn in findings:
-                        fn_dict = {{
-                            "rule": getattr(fn, 'rule', getattr(fn, 'type', 'Unknown')),
-                            "filepath": filepath,
-                            "line_num": fn.line_num,
-                            "match": obfuscator.obfuscate(fn.match if hasattr(fn, 'match') else fn.secret, [fn]),
-                            "entropy": getattr(fn, 'entropy', 0),
-                            "score": getattr(fn, 'score', getattr(fn, 'risk_score', 0)),
-                            "risk": fn.risk,
-                            "confidence": getattr(fn, 'confidence', 'Unknown'),
-                            "suggestion": getattr(fn, 'suggestion', 'No suggestion provided.'),
-                            "context": obfuscator.obfuscate(getattr(fn, 'context', ''), [fn]),
-                            "commit_id": commit_hash,
-                            "commit_author": commit["author"],
-                            "commit_date": commit["date"]
-                        }}
-                        all_findings.append(fn_dict)
-                except Exception:
-                    pass
+    try:
+        for commit in commits:
+            commit_hash = commit["hash"]
+            files = get_commit_files(target_dir, commit_hash)
+
+            for filepath in files:
+                files_scanned += 1
+
+                req = f"{{commit_hash}}:{{filepath}}\n".encode('utf-8')
+                cat_file_proc.stdin.write(req)
+                cat_file_proc.stdin.flush()
+
+                header = cat_file_proc.stdout.readline().decode('utf-8')
+                if header.endswith(" missing\n"):
+                    continue
+
+                parts = header.strip().split()
+                if len(parts) >= 3:
+                    size = int(parts[2])
+                    content_bytes = cat_file_proc.stdout.read(size)
+                    cat_file_proc.stdout.read(1)  # trailing newline
+                    content = content_bytes.decode('utf-8', errors='ignore')
+                else:
+                    continue
+
+                if content:
+                    try:
+                        findings = detector.scan(content)
+                        for fn in findings:
+                            fn_dict = {{
+                                "rule": getattr(fn, 'rule', getattr(fn, 'type', 'Unknown')),
+                                "filepath": filepath,
+                                "line_num": fn.line_num,
+                                "match": obfuscator.obfuscate(fn.match if hasattr(fn, 'match') else fn.secret, [fn]),
+                                "entropy": getattr(fn, 'entropy', 0),
+                                "score": getattr(fn, 'score', getattr(fn, 'risk_score', 0)),
+                                "risk": fn.risk,
+                                "confidence": getattr(fn, 'confidence', 'Unknown'),
+                                "suggestion": getattr(fn, 'suggestion', 'No suggestion provided.'),
+                                "context": obfuscator.obfuscate(getattr(fn, 'context', ''), [fn]),
+                                "commit_id": commit_hash,
+                                "commit_author": commit["author"],
+                                "commit_date": commit["date"]
+                            }}
+                            all_findings.append(fn_dict)
+                    except Exception:
+                        pass
+    finally:
+        cat_file_proc.stdin.close()
+        cat_file_proc.terminate()
+        cat_file_proc.wait()
 
     end_time = time.time()
     duration = end_time - start_time
