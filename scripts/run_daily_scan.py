@@ -91,31 +91,25 @@ from src.obfuscator import Obfuscator
 def get_commits(target_dir):
     try:
         # log --all ensures we see all branches
-        proc = subprocess.run(["git", "-C", target_dir, "log", "--all", "--format=%H|%an|%cI"], capture_output=True, text=True, check=True)
-        lines = proc.stdout.strip().split('\\n')
+        proc = subprocess.run(["git", "-C", target_dir, "log", "--all", "--name-status", "--format=COMMIT|%H|%an|%cI"], capture_output=True, text=True, check=True)
+        lines = proc.stdout.split('\n')
         commits = []
+        current_commit = None
         for line in lines:
-            if line:
-                parts = line.split('|', 2)
+            if line.startswith("COMMIT|"):
+                parts = line[7:].split('|', 2)
                 if len(parts) == 3:
-                    commits.append({{"hash": parts[0], "author": parts[1], "date": parts[2]}})
-        return commits
-    except Exception:
-        return []
-
-def get_commit_files(target_dir, commit_hash):
-    try:
-        proc = subprocess.run(["git", "-C", target_dir, "diff-tree", "--no-commit-id", "--name-status", "-r", commit_hash], capture_output=True, text=True, check=True)
-        lines = proc.stdout.strip().split('\\n')
-        files = []
-        for line in lines:
-            if line:
+                    current_commit = {{"hash": parts[0], "author": parts[1], "date": parts[2], "files": []}}
+                    commits.append(current_commit)
+            elif line.strip() == "":
+                continue
+            elif current_commit is not None:
                 parts = line.split('\\t', 1)
                 if len(parts) == 2:
                     status, filepath = parts
                     if status.startswith('A') or status.startswith('M'):
-                        files.append(filepath)
-        return files
+                        current_commit["files"].append(filepath)
+        return commits
     except Exception:
         return []
 
@@ -146,7 +140,7 @@ def main():
 
     for commit in commits:
         commit_hash = commit["hash"]
-        files = get_commit_files(target_dir, commit_hash)
+        files = commit.get("files", [])
 
         for filepath in files:
             files_scanned += 1
