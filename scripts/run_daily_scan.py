@@ -46,7 +46,8 @@ def get_commit_files(target_dir, commit_hash):
                     if status.startswith('A') or status.startswith('M'):
                         files.append(filepath)
         return files
-    except Exception:
+    except (subprocess.SubprocessError, OSError) as e:
+        print("Error getting commit files for " + commit_hash + ": " + str(e), file=sys.stderr)
         return []
 
 def get_file_content(target_dir, commit_hash, filepath):
