@@ -1,0 +1,12 @@
+--- scripts/run_daily_scan.py
++++ scripts/run_daily_scan.py
+@@ -42,8 +42,9 @@
+                     if status.startswith('A') or status.startswith('M'):
+                         files.append(filepath)
+         return files
+-    except Exception:
++    except (subprocess.SubprocessError, OSError) as e:
++        print(f"Error getting files for commit {commit_hash}: {e}", file=sys.stderr)
+         return []
+
+ def get_file_content(target_dir, commit_hash, filepath):

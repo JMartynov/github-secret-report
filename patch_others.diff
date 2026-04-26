@@ -1,0 +1,41 @@
+--- scripts/run_daily_scan.py
++++ scripts/run_daily_scan.py
+@@ -32,7 +32,8 @@
+                 if len(parts) == 3:
+                     commits.append({"hash": parts[0], "author": parts[1], "date": parts[2]})
+         return commits
+-    except Exception:
++    except (subprocess.SubprocessError, OSError) as e:
++        print(f"Error getting commits in {target_dir}: {e}", file=sys.stderr)
+         return []
+
+ def get_commit_files(target_dir, commit_hash):
+@@ -57,8 +58,8 @@
+         proc = subprocess.run(["git", "-C", target_dir, "show", f"{commit_hash}:{filepath}"], capture_output=True, text=True, errors="ignore")
+         if proc.returncode == 0:
+             return proc.stdout
+-    except Exception:
+-        pass
++    except (subprocess.SubprocessError, OSError) as e:
++        print(f"Error getting file content for {filepath} in commit {commit_hash}: {e}", file=sys.stderr)
+     return None
+
+ def main():
+@@ -166,7 +167,8 @@
+             branches_count = len([b for b in branches_proc.stdout.split('\n') if b.strip() and "->" not in b])
+         except subprocess.TimeoutExpired:
+             branches_count = "Unknown"
+-        except Exception:
++        except (subprocess.SubprocessError, OSError) as e:
++            print(f"Error getting branches count: {e}", file=sys.stderr)
+             branches_count = "Unknown"
+
+         try:
+@@ -174,7 +176,8 @@
+             repo_size = size_proc.stdout.split('\t')[0] if size_proc.stdout else "Unknown"
+         except subprocess.TimeoutExpired:
+             repo_size = "Unknown"
+-        except Exception:
++        except (subprocess.SubprocessError, OSError) as e:
++            print(f"Error getting repo size: {e}", file=sys.stderr)
+             repo_size = "Unknown"
