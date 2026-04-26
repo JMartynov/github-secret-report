@@ -1,27 +1,22 @@
 import json
-import urllib.request
 import urllib.error
 import os
 import random
+from utils.github_api import fetch_github_search_repos
 
 def fetch_random_repos(count=20):
     # Fetch random repos using a keyword like "python", "js", or "api" 
     # to avoid empty or junk repos, sort by recent updates.
     keywords = ["api", "backend", "frontend", "cli", "web", "tool", "library"]
     keyword = random.choice(keywords)
-    url = f"https://api.github.com/search/repositories?q={keyword}&sort=updated&order=desc&per_page=100"
-    
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     
     try:
-        with urllib.request.urlopen(req) as response:
-            data = json.loads(response.read().decode())
-            items = data.get("items", [])
-            # Pick a random subset of count
-            if len(items) > count:
-                items = random.sample(items, count)
-                
-            return [{"name": item["full_name"], "url": item["clone_url"], "status": "Hasn't yet validated"} for item in items]
+        items = fetch_github_search_repos(query=keyword, sort="updated", per_page=100)
+        # Pick a random subset of count
+        if len(items) > count:
+            items = random.sample(items, count)
+
+        return [{"name": item["full_name"], "url": item["clone_url"], "status": "Hasn't yet validated"} for item in items]
     except (urllib.error.URLError, json.JSONDecodeError) as e:
         print(f"Failed to fetch repos: {e}")
         return []

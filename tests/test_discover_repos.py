@@ -5,7 +5,7 @@ import tempfile
 from unittest.mock import patch, MagicMock
 from scripts.discover_repos import fetch_random_repos, main
 
-@patch("scripts.discover_repos.urllib.request.urlopen")
+@patch("utils.github_api.urllib.request.urlopen")
 def test_fetch_random_repos_success(mock_urlopen):
     # Mock the response from GitHub API
     mock_response = MagicMock()
@@ -30,7 +30,7 @@ def test_fetch_random_repos_success(mock_urlopen):
         assert "url" in repo
         assert repo["status"] == "Hasn't yet validated"
 
-@patch("scripts.discover_repos.urllib.request.urlopen")
+@patch("utils.github_api.urllib.request.urlopen")
 def test_fetch_random_repos_failure(mock_urlopen):
     import urllib.error
     mock_urlopen.side_effect = urllib.error.URLError("API Error")
