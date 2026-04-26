@@ -1,0 +1,128 @@
+import re
+
+with open("scripts/run_daily_scan.py", "r") as f:
+    content = f.read()
+
+old_write_block = '''        with open(runner_script, "w") as f:
+            f.write(f"""
+import sys
+import os
+import json
+import time
+import subprocess
+
+# In CI/GitHub Action, it relies on python path finding site-packages.
+from src.detector import SecretDetector
+from src.obfuscator import Obfuscator
+
+def get_commits(target_dir):
+    try:
+        # log --all ensures we see all branches
+        proc = subprocess.run(["git", "-C", target_dir, "log", "--all", "--format=%H|%an|%cI"], capture_output=True, text=True, check=True)
+        lines = proc.stdout.strip().split('\\n')
+        commits = []
+        for line in lines:
+            if line:
+                parts = line.split('|', 2)
+                if len(parts) == 3:
+                    commits.append({{"hash": parts[0], "author": parts[1], "date": parts[2]}})
+        return commits
+    except Exception:
+        return []
+
+def get_commit_files(target_dir, commit_hash):
+    try:
+        proc = subprocess.run(["git", "-C", target_dir, "diff-tree", "--no-commit-id", "--name-status", "-r", commit_hash], capture_output=True, text=True, check=True)
+        lines = proc.stdout.strip().split('\\n')
+        files = []
+        for line in lines:
+            if line:
+                parts = line.split('\\t', 1)
+                if len(parts) == 2:
+                    status, filepath = parts
+                    if status.startswith('A') or status.startswith('M'):
+                        files.append(filepath)
+        return files
+    except Exception:
+        return []
+
+def get_file_content(target_dir, commit_hash, filepath):
+    try:
+        proc = subprocess.run(["git", "-C", target_dir, "show", f"{{commit_hash}}:{{filepath}}"], capture_output=True, text=True, errors="ignore")
+        if proc.returncode == 0:
+            return proc.stdout
+    except Exception:
+        pass
+    return None
+
+def main():
+    start_time = time.time()
+    detector = SecretDetector(
+        force_scan_all=True,
+        mode="deep",
+        include_pii=True,
+        pii_regions=["us", "eu"]
+    )
+    obfuscator = Obfuscator(mode="synthetic")
+    all_findings = []
+
+    target_dir = r'{target_dir}'
+    files_scanned = 0
+
+    commits = get_commits(target_dir)
+
+    for commit in commits:
+        commit_hash = commit["hash"]
+        files = get_commit_files(target_dir, commit_hash)
+
+        for filepath in files:
+            files_scanned += 1
+            content = get_file_content(target_dir, commit_hash, filepath)
+            if content:
+                try:
+                    findings = detector.scan(content)
+                    for fn in findings:
+                        fn_dict = {{
+                            "rule": getattr(fn, 'rule', getattr(fn, 'type', 'Unknown')),
+                            "filepath": filepath,
+                            "line_num": fn.line_num,
+                            "match": obfuscator.obfuscate(fn.match if hasattr(fn, 'match') else fn.secret, [fn]),
+                            "entropy": getattr(fn, 'entropy', 0),
+                            "score": getattr(fn, 'score', getattr(fn, 'risk_score', 0)),
+                            "risk": fn.risk,
+                            "confidence": getattr(fn, 'confidence', 'Unknown'),
+                            "suggestion": getattr(fn, 'suggestion', 'No suggestion provided.'),
+                            "context": obfuscator.obfuscate(getattr(fn, 'context', ''), [fn]),
+                            "commit_id": commit_hash,
+                            "commit_author": commit["author"],
+                            "commit_date": commit["date"]
+                        }}
+                        all_findings.append(fn_dict)
+                except Exception:
+                    pass
+
+    end_time = time.time()
+    duration = end_time - start_time
+
+    output = {{
+        "findings": all_findings,
+        "files_scanned": files_scanned,
+        "scan_duration_seconds": round(duration, 2)
+    }}
+    print(json.dumps(output))
+
+if __name__ == "__main__":
+    main()
+""")'''
+
+new_write_block = '''        with open(runner_script, "w") as f:
+            f.write(RUNNER_CODE_TEMPLATE.replace("{{TARGET_DIR}}", json.dumps(target_dir)))'''
+
+if old_write_block in content:
+    content = content.replace(old_write_block, new_write_block)
+    print("Replaced!")
+else:
+    print("Could not find the block to replace!")
+
+with open("scripts/run_daily_scan.py", "w") as f:
+    f.write(content)
