@@ -7,6 +7,118 @@ import datetime
 import shutil
 import sys
 
+RUNNER_CODE_TEMPLATE = """
+import sys
+import os
+import json
+import time
+import subprocess
+
+# In CI/GitHub Action, it relies on python path finding site-packages.
+from src.detector import SecretDetector
+from src.obfuscator import Obfuscator
+
+def get_commits(target_dir):
+    try:
+        # log --all ensures we see all branches
+        proc = subprocess.run(["git", "-C", target_dir, "log", "--all", "--format=%H|%an|%cI"], capture_output=True, text=True, check=True)
+        lines = proc.stdout.strip().split('\\n')
+        commits = []
+        for line in lines:
+            if line:
+                parts = line.split('|', 2)
+                if len(parts) == 3:
+                    commits.append({"hash": parts[0], "author": parts[1], "date": parts[2]})
+        return commits
+    except Exception:
+        return []
+
+def get_commit_files(target_dir, commit_hash):
+    try:
+        proc = subprocess.run(["git", "-C", target_dir, "diff-tree", "--no-commit-id", "--name-status", "-r", commit_hash], capture_output=True, text=True, check=True)
+        lines = proc.stdout.strip().split('\\n')
+        files = []
+        for line in lines:
+            if line:
+                parts = line.split('\\t', 1)
+                if len(parts) == 2:
+                    status, filepath = parts
+                    if status.startswith('A') or status.startswith('M'):
+                        files.append(filepath)
+        return files
+    except (subprocess.SubprocessError, OSError) as e:
+        print("Error getting commit files for " + commit_hash + ": " + str(e), file=sys.stderr)
+        return []
+
+def get_file_content(target_dir, commit_hash, filepath):
+    try:
+        proc = subprocess.run(["git", "-C", target_dir, "show", f"{commit_hash}:{filepath}"], capture_output=True, text=True, errors="ignore")
+        if proc.returncode == 0:
+            return proc.stdout
+    except Exception:
+        pass
+    return None
+
+def main():
+    start_time = time.time()
+    detector = SecretDetector(
+        force_scan_all=True,
+        mode="deep",
+        include_pii=True,
+        pii_regions=["us", "eu"]
+    )
+    obfuscator = Obfuscator(mode="synthetic")
+    all_findings = []
+    
+    target_dir = r'{{TARGET_DIR}}'
+    files_scanned = 0
+    
+    commits = get_commits(target_dir)
+
+    for commit in commits:
+        commit_hash = commit["hash"]
+        files = get_commit_files(target_dir, commit_hash)
+
+        for filepath in files:
+            files_scanned += 1
+            content = get_file_content(target_dir, commit_hash, filepath)
+            if content:
+                try:
+                    findings = detector.scan(content)
+                    for fn in findings:
+                        fn_dict = {
+                            "rule": getattr(fn, 'rule', getattr(fn, 'type', 'Unknown')),
+                            "filepath": filepath,
+                            "line_num": fn.line_num,
+                            "match": obfuscator.obfuscate(fn.match if hasattr(fn, 'match') else fn.secret, [fn]),
+                            "entropy": getattr(fn, 'entropy', 0),
+                            "score": getattr(fn, 'score', getattr(fn, 'risk_score', 0)),
+                            "risk": fn.risk,
+                            "confidence": getattr(fn, 'confidence', 'Unknown'),
+                            "suggestion": getattr(fn, 'suggestion', 'No suggestion provided.'),
+                            "context": obfuscator.obfuscate(getattr(fn, 'context', ''), [fn]),
+                            "commit_id": commit_hash,
+                            "commit_author": commit["author"],
+                            "commit_date": commit["date"]
+                        }
+                        all_findings.append(fn_dict)
+                except Exception:
+                    pass
+
+    end_time = time.time()
+    duration = end_time - start_time
+    
+    output = {
+        "findings": all_findings,
+        "files_scanned": files_scanned,
+        "scan_duration_seconds": round(duration, 2)
+    }
+    print(json.dumps(output))
+
+if __name__ == "__main__":
+    main()
+"""
+
 def load_state(state_file):
     if os.path.exists(state_file):
         with open(state_file, 'r') as f:
@@ -22,7 +134,7 @@ def run_scan(repo, reports_dir):
         # Clone target repo
         target_dir = os.path.join(tmpdir, "target_repo")
         print(f"Cloning {repo['name']}...")
-        
+
         # Clone full depth to count branches correctly
         try:
             # Removed small timeout for clone as requested "without time limitation" for branch validation
@@ -53,9 +165,9 @@ def run_scan(repo, reports_dir):
                     "scan_duration": 0
                 }
             }
-        
+
         print(f"Scanning {repo['name']}...")
-        
+
         # Get repository metrics
         try:
             branches_proc = subprocess.run(["git", "-C", target_dir, "branch", "-r"], capture_output=True, text=True, timeout=60)
@@ -64,7 +176,7 @@ def run_scan(repo, reports_dir):
             branches_count = "Unknown"
         except Exception:
             branches_count = "Unknown"
-            
+
         try:
             size_proc = subprocess.run(["du", "-sh", target_dir], capture_output=True, text=True, timeout=60)
             repo_size = size_proc.stdout.split('\t')[0] if size_proc.stdout else "Unknown"
@@ -72,122 +184,12 @@ def run_scan(repo, reports_dir):
             repo_size = "Unknown"
         except Exception:
             repo_size = "Unknown"
-            
+
 
         # Create a small script that will run the scan programmatically
         runner_script = os.path.join(tmpdir, "runner.py")
         with open(runner_script, "w") as f:
-            f.write(f"""
-import sys
-import os
-import json
-import time
-import subprocess
-
-# In CI/GitHub Action, it relies on python path finding site-packages.
-from src.detector import SecretDetector
-from src.obfuscator import Obfuscator
-
-def get_commits(target_dir):
-    try:
-        # log --all ensures we see all branches
-        proc = subprocess.run(["git", "-C", target_dir, "log", "--all", "--format=%H|%an|%cI"], capture_output=True, text=True, check=True)
-        lines = proc.stdout.strip().split('\\n')
-        commits = []
-        for line in lines:
-            if line:
-                parts = line.split('|', 2)
-                if len(parts) == 3:
-                    commits.append({{"hash": parts[0], "author": parts[1], "date": parts[2]}})
-        return commits
-    except Exception:
-        return []
-
-def get_commit_files(target_dir, commit_hash):
-    try:
-        proc = subprocess.run(["git", "-C", target_dir, "diff-tree", "--no-commit-id", "--name-status", "-r", commit_hash], capture_output=True, text=True, check=True)
-        lines = proc.stdout.strip().split('\\n')
-        files = []
-        for line in lines:
-            if line:
-                parts = line.split('\\t', 1)
-                if len(parts) == 2:
-                    status, filepath = parts
-                    if status.startswith('A') or status.startswith('M'):
-                        files.append(filepath)
-        return files
-    except (subprocess.SubprocessError, OSError) as e:
-        print("Error getting commit files for " + commit_hash + ": " + str(e), file=sys.stderr)
-        return []
-
-def get_file_content(target_dir, commit_hash, filepath):
-    try:
-        proc = subprocess.run(["git", "-C", target_dir, "show", f"{{commit_hash}}:{{filepath}}"], capture_output=True, text=True, errors="ignore")
-        if proc.returncode == 0:
-            return proc.stdout
-    except Exception:
-        pass
-    return None
-
-def main():
-    start_time = time.time()
-    detector = SecretDetector(
-        force_scan_all=True,
-        mode="deep",
-        include_pii=True,
-        pii_regions=["us", "eu"]
-    )
-    obfuscator = Obfuscator(mode="synthetic")
-    all_findings = []
-    
-    target_dir = r'{target_dir}'
-    files_scanned = 0
-    
-    commits = get_commits(target_dir)
-
-    for commit in commits:
-        commit_hash = commit["hash"]
-        files = get_commit_files(target_dir, commit_hash)
-
-        for filepath in files:
-            files_scanned += 1
-            content = get_file_content(target_dir, commit_hash, filepath)
-            if content:
-                try:
-                    findings = detector.scan(content)
-                    for fn in findings:
-                        fn_dict = {{
-                            "rule": getattr(fn, 'rule', getattr(fn, 'type', 'Unknown')),
-                            "filepath": filepath,
-                            "line_num": fn.line_num,
-                            "match": obfuscator.obfuscate(fn.match if hasattr(fn, 'match') else fn.secret, [fn]),
-                            "entropy": getattr(fn, 'entropy', 0),
-                            "score": getattr(fn, 'score', getattr(fn, 'risk_score', 0)),
-                            "risk": fn.risk,
-                            "confidence": getattr(fn, 'confidence', 'Unknown'),
-                            "suggestion": getattr(fn, 'suggestion', 'No suggestion provided.'),
-                            "context": obfuscator.obfuscate(getattr(fn, 'context', ''), [fn]),
-                            "commit_id": commit_hash,
-                            "commit_author": commit["author"],
-                            "commit_date": commit["date"]
-                        }}
-                        all_findings.append(fn_dict)
-                except Exception:
-                    pass
-
-    end_time = time.time()
-    duration = end_time - start_time
-    
-    output = {{
-        "findings": all_findings,
-        "files_scanned": files_scanned,
-        "scan_duration_seconds": round(duration, 2)
-    }}
-    print(json.dumps(output))
-
-if __name__ == "__main__":
-    main()
-""")
+            f.write(RUNNER_CODE_TEMPLATE.replace("{{TARGET_DIR}}", target_dir))
         
         # Run the runner script - Increased timeout to 1800s (30 mins)
         try:

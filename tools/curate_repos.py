@@ -2,6 +2,7 @@ import json
 import urllib.request
 import urllib.error
 import os
+from concurrent.futures import ThreadPoolExecutor
 
 def fetch_top_repos(language, count=100):
     url = f"https://api.github.com/search/repositories?q=language:{language}&sort=stars&order=desc&per_page={count}"
@@ -20,9 +21,13 @@ def main():
     repos_per_lang = 100
     all_repos = []
 
-    for lang in languages:
-        print(f"Fetching top {repos_per_lang} repositories for {lang}...")
-        repos = fetch_top_repos(lang, repos_per_lang)
+    print(f"Fetching top {repos_per_lang} repositories for {len(languages)} languages concurrently...")
+
+    with ThreadPoolExecutor(max_workers=len(languages)) as executor:
+        # Use executor.map to maintain the order of languages
+        results = list(executor.map(lambda lang: fetch_top_repos(lang, repos_per_lang), languages))
+
+    for repos in results:
         all_repos.extend(repos)
 
     os.makedirs("data", exist_ok=True)
