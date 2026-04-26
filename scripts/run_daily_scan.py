@@ -100,7 +100,8 @@ def get_commits(target_dir):
                 if len(parts) == 3:
                     commits.append({{"hash": parts[0], "author": parts[1], "date": parts[2]}})
         return commits
-    except Exception:
+    except (subprocess.SubprocessError, OSError) as e:
+        print(f"Error getting commits: {{e}}", file=sys.stderr)
         return []
 
 def get_commit_files(target_dir, commit_hash):
@@ -116,7 +117,8 @@ def get_commit_files(target_dir, commit_hash):
                     if status.startswith('A') or status.startswith('M'):
                         files.append(filepath)
         return files
-    except Exception:
+    except (subprocess.SubprocessError, OSError) as e:
+        print(f"Error getting commit files: {{e}}", file=sys.stderr)
         return []
 
 def get_file_content(target_dir, commit_hash, filepath):
@@ -124,8 +126,8 @@ def get_file_content(target_dir, commit_hash, filepath):
         proc = subprocess.run(["git", "-C", target_dir, "show", f"{{commit_hash}}:{{filepath}}"], capture_output=True, text=True, errors="ignore")
         if proc.returncode == 0:
             return proc.stdout
-    except Exception:
-        pass
+    except (subprocess.SubprocessError, OSError) as e:
+        print(f"Error getting file content: {{e}}", file=sys.stderr)
     return None
 
 def main():
