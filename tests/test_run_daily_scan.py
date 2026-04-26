@@ -31,6 +31,12 @@ def test_repo_rotation_all():
     assert selected_repos[3]["name"] == "repo0"
     assert new_index == 2
 
+def test_repo_rotation_empty():
+    repos = []
+    selected_repos, new_index = get_next_repos(repos, 0, 5)
+    assert selected_repos == []
+    assert new_index == 0
+
 @patch("scripts.run_daily_scan.subprocess.run")
 def test_report_formatting(mock_run):
     """
