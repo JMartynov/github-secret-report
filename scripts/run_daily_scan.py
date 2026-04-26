@@ -5,6 +5,7 @@ import tempfile
 import argparse
 import datetime
 import sys
+import concurrent.futures
 
 RUNNER_CODE_TEMPLATE = """
 import sys
@@ -293,10 +294,13 @@ def main():
 
     cumulative_results = []
 
-    for i, repo in enumerate(selected_repos):
-        print(f"[{i+1}/{args.scan_count}] Scanning {repo['name']}")
-        res = run_scan(repo, reports_dir)
-        cumulative_results.append(res)
+    print(f"Starting parallel scan of {len(selected_repos)} repositories...")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        def scan_with_logging(i, repo):
+            print(f"[{i+1}/{args.scan_count}] Scanning {repo['name']}")
+            return run_scan(repo, reports_dir)
+
+        cumulative_results = list(executor.map(lambda x: scan_with_logging(x[0], x[1]), enumerate(selected_repos)))
         
     state["last_scanned_index"] = new_index
     save_state(state_file, state)
