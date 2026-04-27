@@ -113,33 +113,25 @@ def test_report_formatting(mock_run):
         assert result['findings'] == mock_output["findings"]
         assert result['metrics']['files_scanned'] == 150
         
-        # We now generate cumulative reports, so test the cumulative format
-        from scripts.run_daily_scan import generate_cumulative_report
-        generate_cumulative_report([result], reports_dir)
+        # We now append to the daily report, so test that format
+        from scripts.run_daily_scan import append_to_daily_report
+        append_to_daily_report([result], reports_dir)
         
         # Check generated reports
         reports = os.listdir(reports_dir)
-        assert len(reports) == 2 # Cumulative and daily_summary
+        assert len(reports) == 1
         
-        cumulative_file = [r for r in reports if r.startswith("Cumulative-Report-")][0]
-        report_path = os.path.join(reports_dir, cumulative_file)
+        daily_file = [r for r in reports if r.startswith("Daily-Report-")][0]
+        report_path = os.path.join(reports_dir, daily_file)
         
         with open(report_path, "r") as f:
             content = f.read()
             
         # Verify markdown format and details
-        assert "Daily Cumulative Secret Scan Report" in content
-        assert "## Executive Summary" in content
+        assert "Daily Secret Scan Report" in content
+        assert "This report is updated hourly." in content
         assert "test/repo" in content
         assert "View Detailed Findings" in content
         assert "aws_access_key" in content
         assert "Rotate keys" in content
         assert "Context" in content
-        
-        # Check compact summary
-        summary_path = os.path.join(reports_dir, "daily_summary.md")
-        assert os.path.exists(summary_path)
-        with open(summary_path, "r") as f:
-            summary_content = f.read()
-            assert "| Date | Repos | Files | Findings | Duration |" in summary_content
-            assert "| 1 | 150 | 1 | 1.25s |" in summary_content

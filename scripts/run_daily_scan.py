@@ -162,8 +162,8 @@ def run_scan(repo, reports_dir):
 
         # Clone full depth to count branches correctly
         try:
-            # Removed small timeout for clone as requested "without time limitation" for branch validation
-            subprocess.run(["git", "clone", repo["url"], target_dir], check=False, capture_output=True, timeout=3600)
+            # Reasonable timeout for clone to scan branches
+            subprocess.run(["git", "clone", repo["url"], target_dir], check=False, capture_output=True, timeout=600)
         except subprocess.TimeoutExpired:
             print(f"Clone timed out on {repo['name']}")
             return {
@@ -218,9 +218,9 @@ def run_scan(repo, reports_dir):
         with open(runner_script, "w") as f:
             f.write(RUNNER_CODE_TEMPLATE.replace("{{TARGET_DIR}}", target_dir))
         
-        # Run the runner script - Increased timeout to 1800s (30 mins)
+        # Run the runner script - timeout less than 1 hour (3500s) to scan files in branches
         try:
-            process = subprocess.run([sys.executable, runner_script], capture_output=True, text=True, timeout=1800)
+            process = subprocess.run([sys.executable, runner_script], capture_output=True, text=True, timeout=3500)
         except subprocess.TimeoutExpired:
             print(f"Scanner timed out on {repo['name']}")
             return {
@@ -287,7 +287,7 @@ def get_next_repos(repos, current_index, count):
 
 def main():
     parser = argparse.ArgumentParser(description="Daily Secret Scan")
-    parser.add_argument("--scan-count", type=int, default=20, help="Number of repos to scan")
+    parser.add_argument("--scan-count", type=int, default=1, help="Number of repos to scan")
     args = parser.parse_args()
     
     state_file = "data/scan_state.json"
@@ -332,33 +332,19 @@ def main():
     state["last_scanned_index"] = new_index
     save_state(state_file, state)
 
-    # Generate Cumulative Report
-    generate_cumulative_report(cumulative_results, reports_dir)
-        
-def generate_cumulative_report(results, reports_dir):
+    # Append to Daily Report
+    append_to_daily_report(cumulative_results, reports_dir)
+
+def append_to_daily_report(results, reports_dir):
     date_str = datetime.datetime.now().strftime('%Y-%m-%d')
-    cumulative_path = os.path.join(reports_dir, f"Cumulative-Report-{date_str}.md")
-    compact_path = os.path.join(reports_dir, "daily_summary.md")
+    daily_path = os.path.join(reports_dir, f"Daily-Report-{date_str}.md")
     
-    total_repos = len(results)
-    total_findings = sum(len(r['findings']) for r in results)
-    total_files_scanned = sum(r['metrics']['files_scanned'] for r in results)
-    total_duration = sum(r['metrics']['scan_duration'] for r in results)
-    
-    # Update Cumulative Report
-    with open(cumulative_path, "w") as f:
-        f.write(f"# Daily Cumulative Secret Scan Report - {date_str}\n\n")
-        
-        f.write("## Executive Summary\n\n")
-        f.write("| Metric | Value |\n")
-        f.write("|---|---|\n")
-        f.write(f"| **Total Repositories Scanned** | {total_repos} |\n")
-        f.write(f"| **Total Files Scanned** | {total_files_scanned} |\n")
-        f.write(f"| **Total Scan Duration** | {round(total_duration, 2)} seconds |\n")
-        f.write(f"| **Total Secrets Detected** | {total_findings} |\n\n")
-        
-        f.write("---\n\n")
-        f.write("## Repository Breakdown\n\n")
+    is_new = not os.path.exists(daily_path)
+    with open(daily_path, "a") as f:
+        if is_new:
+            f.write(f"# Daily Secret Scan Report - {date_str}\n\n")
+            f.write("This report is updated hourly. Cumulative totals are generated at the end of the day.\n\n")
+            f.write("---\n\n")
         
         for r in results:
             repo_name = r['repo_name']
@@ -401,20 +387,7 @@ def generate_cumulative_report(results, reports_dir):
                 f.write("*No secrets detected.*\n\n")
             f.write("---\n\n")
             
-    # Update/Create Compact Daily Summary
-    summary_line = f"| {date_str} | {total_repos} | {total_files_scanned} | {total_findings} | {round(total_duration, 2)}s |\n"
-    
-    if not os.path.exists(compact_path):
-        with open(compact_path, "w") as f:
-            f.write("# Compact Daily Secret Scan Summary\n\n")
-            f.write("| Date | Repos | Files | Findings | Duration |\n")
-            f.write("|---|---|---|---|---|\n")
-    
-    with open(compact_path, "a") as f:
-        f.write(summary_line)
-            
-    print(f"Cumulative report saved to {cumulative_path}")
-    print(f"Compact summary updated at {compact_path}")
+    print(f"Daily report updated at {daily_path}")
         
 if __name__ == "__main__":
     main()
