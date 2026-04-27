@@ -43,3 +43,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### django/django
+
+**URL:** https://github.com/django/django.git
+
+- **Files Scanned:** 236244
+- **Branches:** 3
+- **Size:** 364M
+- **Duration:** 1166.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
