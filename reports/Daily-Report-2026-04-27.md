@@ -71,3 +71,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### browser-use/browser-use
+
+**URL:** https://github.com/browser-use/browser-use.git
+
+- **Files Scanned:** 0
+- **Branches:** 513
+- **Size:** 42M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
