@@ -8,10 +8,10 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 **URL:** https://github.com/nvbn/thefuck.git
 
-- **Files Scanned:** 3351
+- **Files Scanned:** 0
 - **Branches:** 2
 - **Size:** 7.4M
-- **Duration:** 5.82s
+- **Duration:** 0s
 - **Findings:** 0
 
 *No secrets detected.*
