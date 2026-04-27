@@ -145,33 +145,28 @@ class Obfuscator:
             
         selected_repos, new_index = get_next_repos(repos, state.get("last_scanned_index", 0), 1)
         
-        # Generate cumulative report manually since we mock run_scan loop
-        from scripts.run_daily_scan import generate_cumulative_report
+        # Generate daily report manually since we mock run_scan loop
+        from scripts.run_daily_scan import append_to_daily_report
         
         cumulative_results = []
         for repo in selected_repos:
             res = run_scan(repo, reports_dir)
             cumulative_results.append(res)
             
-        generate_cumulative_report(cumulative_results, reports_dir)
+        append_to_daily_report(cumulative_results, reports_dir)
             
         # Verify
         reports = os.listdir(reports_dir)
-        assert len(reports) == 2 # Cumulative and daily_summary
-        cumulative_file = [r for r in reports if r.startswith("Cumulative-Report-")][0]
-        with open(os.path.join(reports_dir, cumulative_file), "r") as f:
+        assert len(reports) == 1
+        daily_file = [r for r in reports if r.startswith("Daily-Report-")][0]
+        with open(os.path.join(reports_dir, daily_file), "r") as f:
             content = f.read()
+            assert "Daily Secret Scan Report" in content
             assert "test/dummy1" in content
             assert "REDACTED" in content
             assert "Fix it" in content
             assert "confidence" in content.lower()
             assert "supersecret" not in content # Raw secret must not be there
-            
-        summary_path = os.path.join(reports_dir, "daily_summary.md")
-        assert os.path.exists(summary_path)
-        with open(summary_path, "r") as f:
-            summary_content = f.read()
-            assert "| Date | Repos | Files | Findings | Duration |" in summary_content
 
 
 def test_configurable_limit(monkeypatch):
