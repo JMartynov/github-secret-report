@@ -15,5 +15,3 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 - **Findings:** 0
 
 *No secrets detected.*
-
----
