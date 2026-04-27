@@ -29,3 +29,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hacksider/Deep-Live-Cam
+
+**URL:** https://github.com/hacksider/Deep-Live-Cam.git
+
+- **Files Scanned:** 849
+- **Branches:** 8
+- **Size:** 218M
+- **Duration:** 10.59s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
