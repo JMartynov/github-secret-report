@@ -57,3 +57,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### home-assistant/core
+
+**URL:** https://github.com/home-assistant/core.git
+
+- **Files Scanned:** 0
+- **Branches:** 420
+- **Size:** 1.1G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
