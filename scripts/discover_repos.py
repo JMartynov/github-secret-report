@@ -3,28 +3,50 @@ import urllib.request
 import urllib.error
 import os
 import random
+import time
+from scripts.dictionaries import generate_random_query
 
-def fetch_random_repos(count=20):
-    # Fetch random repos using a keyword like "python", "js", or "api" 
-    # to avoid empty or junk repos, sort by recent updates.
-    keywords = ["api", "backend", "frontend", "cli", "web", "tool", "library"]
-    keyword = random.choice(keywords)
-    url = f"https://api.github.com/search/repositories?q={keyword}&sort=updated&order=desc&per_page=100"
+def fetch_random_repos(count=20, existing_urls=None, max_attempts=10):
+    if existing_urls is None:
+        existing_urls = set()
+
+    found_repos = []
+    attempts = 0
     
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    
-    try:
-        with urllib.request.urlopen(req) as response:
-            data = json.loads(response.read().decode())
-            items = data.get("items", [])
-            # Pick a random subset of count
-            if len(items) > count:
-                items = random.sample(items, count)
+    while len(found_repos) < count and attempts < max_attempts:
+        attempts += 1
+        query = generate_random_query()
+        sort_opt = random.choice(["stars", "updated", "forks", ""])
+        sort_param = f"&sort={sort_opt}&order=desc" if sort_opt else ""
+
+        url = f"https://api.github.com/search/repositories?q={query}{sort_param}&per_page=100"
+
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+
+        try:
+            with urllib.request.urlopen(req) as response:
+                data = json.loads(response.read().decode())
+                items = data.get("items", [])
+                random.shuffle(items) # randomize order among top results
+
+                for item in items:
+                    clone_url = item["clone_url"]
+                    if clone_url not in existing_urls:
+                        found_repos.append({"name": item["full_name"], "url": clone_url, "status": "Hasn't yet validated"})
+                        existing_urls.add(clone_url)
+                        if len(found_repos) >= count:
+                            break
+
+            if len(found_repos) < count and attempts < max_attempts:
+                # Sleep briefly to avoid aggressive rate limits when looping
+                time.sleep(2)
                 
-            return [{"name": item["full_name"], "url": item["clone_url"], "status": "Hasn't yet validated"} for item in items]
-    except (urllib.error.URLError, json.JSONDecodeError) as e:
-        print(f"Failed to fetch repos: {e}")
-        return []
+        except (urllib.error.URLError, json.JSONDecodeError) as e:
+            print(f"Failed to fetch repos (attempt {attempts}): {e}")
+            # Backoff on error
+            time.sleep(5)
+
+    return found_repos
 
 def main(repos_file="data/target_repos.json"):
     # Load existing repos
@@ -37,20 +59,14 @@ def main(repos_file="data/target_repos.json"):
     existing_urls = {repo["url"] for repo in existing_repos}
 
     print(f"Discovering 20 new repositories...")
-    new_repos = fetch_random_repos(20)
+    new_repos = fetch_random_repos(count=20, existing_urls=existing_urls)
 
-    added_count = 0
-    for repo in new_repos:
-        if repo["url"] not in existing_urls:
-            existing_repos.append(repo)
-            existing_urls.add(repo["url"])
-            added_count += 1
-
-    if added_count > 0:
+    if new_repos:
+        existing_repos.extend(new_repos)
         os.makedirs(os.path.dirname(repos_file), exist_ok=True)
         with open(repos_file, 'w') as f:
             json.dump(existing_repos, f, indent=4)
-        print(f"Added {added_count} new unique repositories to {repos_file}")
+        print(f"Added {len(new_repos)} new unique repositories to {repos_file}")
     else:
         print("No new unique repositories found.")
 

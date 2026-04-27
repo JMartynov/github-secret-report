@@ -3293,5 +3293,105 @@
         "name": "Drobashik/axiony",
         "url": "https://github.com/Drobashik/axiony.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "atjiu/pybbs",
+        "url": "https://github.com/atjiu/pybbs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Philippus/elastic4s",
+        "url": "https://github.com/Philippus/elastic4s.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Jackson0714/PassJava-Platform",
+        "url": "https://github.com/Jackson0714/PassJava-Platform.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "typesense/typesense",
+        "url": "https://github.com/typesense/typesense.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jprante/elasticsearch-jdbc",
+        "url": "https://github.com/jprante/elasticsearch-jdbc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "donnemartin/dev-setup",
+        "url": "https://github.com/donnemartin/dev-setup.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "elasticsearch-dump/elasticsearch-dump",
+        "url": "https://github.com/elasticsearch-dump/elasticsearch-dump.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "elastic/elasticsearch-js",
+        "url": "https://github.com/elastic/elasticsearch-js.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "manticoresoftware/manticoresearch",
+        "url": "https://github.com/manticoresoftware/manticoresearch.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "elastic/elasticsearch-dsl-py",
+        "url": "https://github.com/elastic/elasticsearch-dsl-py.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "elastic/ansible-elasticsearch",
+        "url": "https://github.com/elastic/ansible-elasticsearch.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "googleapis/mcp-toolbox",
+        "url": "https://github.com/googleapis/mcp-toolbox.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JeffLi1993/springboot-learning-example",
+        "url": "https://github.com/JeffLi1993/springboot-learning-example.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "elastic/eui",
+        "url": "https://github.com/elastic/eui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "javahongxi/whatsmars",
+        "url": "https://github.com/javahongxi/whatsmars.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wazuh/wazuh-docker",
+        "url": "https://github.com/wazuh/wazuh-docker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "linhaojun857/aurora",
+        "url": "https://github.com/linhaojun857/aurora.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "samuelclay/NewsBlur",
+        "url": "https://github.com/samuelclay/NewsBlur.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pires/kubernetes-elasticsearch-cluster",
+        "url": "https://github.com/pires/kubernetes-elasticsearch-cluster.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mobz/elasticsearch-head",
+        "url": "https://github.com/mobz/elasticsearch-head.git",
+        "status": "Hasn't yet validated"
     }
 ]

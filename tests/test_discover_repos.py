@@ -49,14 +49,13 @@ def test_main_logic_with_duplicates(monkeypatch):
         with open(temp_repos_file, "w") as f:
             json.dump(initial_repos, f)
 
-        # Mock fetch_random_repos to return one new and one duplicate
+        # Mock fetch_random_repos to return one new repo (as duplicates are now handled in fetch_random_repos)
         mock_new_repos = [
-            {"name": "new/repo", "url": "https://github.com/new/repo.git", "status": "Hasn't yet validated"},
-            {"name": "existing/repo", "url": "https://github.com/existing/repo.git", "status": "Hasn't yet validated"}
+            {"name": "new/repo", "url": "https://github.com/new/repo.git", "status": "Hasn't yet validated"}
         ]
         
         # Patch the fetch function
-        monkeypatch.setattr("scripts.discover_repos.fetch_random_repos", lambda count: mock_new_repos)
+        monkeypatch.setattr("scripts.discover_repos.fetch_random_repos", lambda count=20, existing_urls=None, max_attempts=10: mock_new_repos)
         
         # Import main
         from scripts.discover_repos import main as discover_main
