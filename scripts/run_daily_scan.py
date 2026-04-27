@@ -21,42 +21,38 @@ from src.obfuscator import Obfuscator
 def get_commits(target_dir):
     try:
         # log --all ensures we see all branches
-        proc = subprocess.run(["git", "-C", target_dir, "log", "--all", "--format=%H|%an|%cI"], capture_output=True, text=True, check=True)
-        lines = proc.stdout.strip().split('\\n')
+        proc = subprocess.Popen(["git", "-C", target_dir, "log", "--all", "--name-status", "--format=COMMIT|%H|%an|%cI"], stdout=subprocess.PIPE, text=True)
         commits = []
-        for line in lines:
-            if line:
-                parts = line.split('|', 2)
+        current_commit = None
+        for line in proc.stdout:
+            if line.startswith("COMMIT|"):
+                parts = line[7:].strip().split('|', 2)
                 if len(parts) == 3:
-                    commits.append({"hash": parts[0], "author": parts[1], "date": parts[2]})
-        return commits
-    except Exception:
-        return []
-
-def get_commit_files(target_dir, commit_hash):
-    try:
-        proc = subprocess.run(["git", "-C", target_dir, "diff-tree", "--no-commit-id", "--name-status", "-r", commit_hash], capture_output=True, text=True, check=True)
-        lines = proc.stdout.strip().split('\\n')
-        files = []
-        for line in lines:
-            if line:
-                parts = line.split('\\t', 1)
+                    current_commit = {"hash": parts[0], "author": parts[1], "date": parts[2], "files": []}
+                    commits.append(current_commit)
+            elif line.strip() == "":
+                continue
+            elif current_commit is not None:
+                parts = line.strip().split('\\t', 1)
                 if len(parts) == 2:
                     status, filepath = parts
-                    if status.startswith('A') or status.startswith('M'):
-                        files.append(filepath)
-        return files
+                    if status.startswith('A') or status.startswith('M') or status.startswith('R') or status.startswith('C'):
+                        current_commit["files"].append(filepath)
+        proc.wait()
+        if proc.returncode != 0:
+            raise subprocess.SubprocessError(f"Git log failed with code {proc.returncode}")
+        return commits
     except (subprocess.SubprocessError, OSError) as e:
-        print("Error getting commit files for " + commit_hash + ": " + str(e), file=sys.stderr)
+        print(f"Error getting commits: {e}", file=sys.stderr)
         return []
 
 def get_file_content(target_dir, commit_hash, filepath):
     try:
-        proc = subprocess.run(["git", "-C", target_dir, "show", f"{commit_hash}:{filepath}"], capture_output=True, text=True, errors="ignore")
+        proc = subprocess.run(["git", "-C", target_dir, "show", f"{commit_hash}:{filepath}", "--"], capture_output=True, text=True, errors="ignore", timeout=30)
         if proc.returncode == 0:
             return proc.stdout
-    except Exception:
-        pass
+    except (subprocess.SubprocessError, OSError) as e:
+        print(f"Error reading {filepath} at {commit_hash}: {e}", file=sys.stderr)
     return None
 
 def main():
@@ -70,40 +66,69 @@ def main():
     obfuscator = Obfuscator(mode="synthetic")
     all_findings = []
     
-    target_dir = r'{{TARGET_DIR}}'
+    target_dir = {{TARGET_DIR}}
     files_scanned = 0
     
     commits = get_commits(target_dir)
 
-    for commit in commits:
-        commit_hash = commit["hash"]
-        files = get_commit_files(target_dir, commit_hash)
+    cat_file_proc = subprocess.Popen(
+        ["git", "-C", target_dir, "cat-file", "--batch"],
+        stdin=subprocess.PIPE, stdout=subprocess.PIPE, text=False
+    )
 
-        for filepath in files:
-            files_scanned += 1
-            content = get_file_content(target_dir, commit_hash, filepath)
-            if content:
-                try:
-                    findings = detector.scan(content)
-                    for fn in findings:
-                        fn_dict = {
-                            "rule": getattr(fn, 'rule', getattr(fn, 'type', 'Unknown')),
-                            "filepath": filepath,
-                            "line_num": fn.line_num,
-                            "match": obfuscator.obfuscate(fn.match if hasattr(fn, 'match') else fn.secret, [fn]),
-                            "entropy": getattr(fn, 'entropy', 0),
-                            "score": getattr(fn, 'score', getattr(fn, 'risk_score', 0)),
-                            "risk": fn.risk,
-                            "confidence": getattr(fn, 'confidence', 'Unknown'),
-                            "suggestion": getattr(fn, 'suggestion', 'No suggestion provided.'),
-                            "context": obfuscator.obfuscate(getattr(fn, 'context', ''), [fn]),
-                            "commit_id": commit_hash,
-                            "commit_author": commit["author"],
-                            "commit_date": commit["date"]
-                        }
-                        all_findings.append(fn_dict)
-                except Exception:
-                    pass
+    try:
+        for commit in commits:
+            commit_hash = commit["hash"]
+            files = commit.get("files", [])
+
+            for filepath in files:
+                files_scanned += 1
+
+                rev_path = f"{commit_hash}:{filepath}"
+                cat_file_proc.stdin.write((rev_path + '\\n').encode('utf-8'))
+                cat_file_proc.stdin.flush()
+
+                header = cat_file_proc.stdout.readline().decode('utf-8').strip()
+                if header.endswith("missing"):
+                    continue
+
+                _, type_, size_str = header.rsplit(" ", 2)
+                size = int(size_str)
+
+                content_bytes = cat_file_proc.stdout.read(size)
+                cat_file_proc.stdout.read(1) # consume trailing newline
+
+                if type_ != "blob":
+                    continue
+
+                content = content_bytes.decode('utf-8', errors='ignore')
+
+                if content:
+                    try:
+                        findings = detector.scan(content)
+                        for fn in findings:
+                            fn_dict = {
+                                "rule": getattr(fn, 'rule', getattr(fn, 'type', 'Unknown')),
+                                "filepath": filepath,
+                                "line_num": fn.line_num,
+                                "match": obfuscator.obfuscate(fn.match if hasattr(fn, 'match') else fn.secret, [fn]),
+                                "entropy": getattr(fn, 'entropy', 0),
+                                "score": getattr(fn, 'score', getattr(fn, 'risk_score', 0)),
+                                "risk": fn.risk,
+                                "confidence": getattr(fn, 'confidence', 'Unknown'),
+                                "suggestion": getattr(fn, 'suggestion', 'No suggestion provided.'),
+                                "context": obfuscator.obfuscate(getattr(fn, 'context', ''), [fn]),
+                                "commit_id": commit_hash,
+                                "commit_author": commit["author"],
+                                "commit_date": commit["date"]
+                            }
+                            all_findings.append(fn_dict)
+                    except Exception:
+                        pass
+
+    finally:
+        cat_file_proc.stdin.close()
+        cat_file_proc.wait()
 
     end_time = time.time()
     duration = end_time - start_time
@@ -152,7 +177,7 @@ def run_scan(repo, reports_dir):
                     "scan_duration": 0
                 }
             }
-        except Exception as e:
+        except (subprocess.SubprocessError, OSError) as e:
             print(f"Error cloning repository: {e}")
             return {
                 "repo_name": repo['name'],
@@ -174,7 +199,8 @@ def run_scan(repo, reports_dir):
             branches_count = len([b for b in branches_proc.stdout.split('\n') if b.strip() and "->" not in b])
         except subprocess.TimeoutExpired:
             branches_count = "Unknown"
-        except Exception:
+        except (subprocess.SubprocessError, OSError) as e:
+            print(f"Error getting branches count: {e}", file=sys.stderr)
             branches_count = "Unknown"
 
         try:
@@ -182,7 +208,8 @@ def run_scan(repo, reports_dir):
             repo_size = size_proc.stdout.split('\t')[0] if size_proc.stdout else "Unknown"
         except subprocess.TimeoutExpired:
             repo_size = "Unknown"
-        except Exception:
+        except (subprocess.SubprocessError, OSError) as e:
+            print(f"Error getting repo size: {e}", file=sys.stderr)
             repo_size = "Unknown"
 
 
