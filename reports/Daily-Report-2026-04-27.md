@@ -15,3 +15,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 - **Findings:** 0
 
 *No secrets detected.*
+### microsoft/markitdown
+
+**URL:** https://github.com/microsoft/markitdown.git
+
+- **Files Scanned:** 722
+- **Branches:** 9
+- **Size:** 29M
+- **Duration:** 3.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
