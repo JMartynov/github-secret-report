@@ -216,7 +216,7 @@ def run_scan(repo, reports_dir):
         # Create a small script that will run the scan programmatically
         runner_script = os.path.join(tmpdir, "runner.py")
         with open(runner_script, "w") as f:
-            f.write(RUNNER_CODE_TEMPLATE.replace("{{TARGET_DIR}}", target_dir))
+            f.write(RUNNER_CODE_TEMPLATE.replace("{{TARGET_DIR}}", f"'{target_dir}'"))
         
         # Run the runner script - timeout less than 1 hour (3500s) to scan files in branches
         try:
