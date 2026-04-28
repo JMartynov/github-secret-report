@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bregman-arie/devops-exercises
+
+**URL:** https://github.com/bregman-arie/devops-exercises.git
+
+- **Files Scanned:** 1679
+- **Branches:** 1
+- **Size:** 17M
+- **Duration:** 47.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

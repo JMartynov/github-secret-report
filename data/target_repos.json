@@ -3588,5 +3588,105 @@
         "name": "Linesmerrill/RxVerify",
         "url": "https://github.com/Linesmerrill/RxVerify.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sarvarunajvm/ideal-goggles",
+        "url": "https://github.com/sarvarunajvm/ideal-goggles.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "espressif/esp-ble-mesh-lib",
+        "url": "https://github.com/espressif/esp-ble-mesh-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "514360255/react-lib",
+        "url": "https://github.com/514360255/react-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Orange-OpenSource/ouds-flutter",
+        "url": "https://github.com/Orange-OpenSource/ouds-flutter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nih-at/libzip",
+        "url": "https://github.com/nih-at/libzip.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LedgerHQ/device-sdk-ts",
+        "url": "https://github.com/LedgerHQ/device-sdk-ts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Elly2018/Plugin-Videoplayer",
+        "url": "https://github.com/Elly2018/Plugin-Videoplayer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SeisComP/common",
+        "url": "https://github.com/SeisComP/common.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Pramod1309/Digital-Library",
+        "url": "https://github.com/Pramod1309/Digital-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "somudepa2813-sudo/Lunina-Library-Management",
+        "url": "https://github.com/somudepa2813-sudo/Lunina-Library-Management.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rustnumb/ecrust",
+        "url": "https://github.com/rustnumb/ecrust.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "graphql-hive/federation-composition",
+        "url": "https://github.com/graphql-hive/federation-composition.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ghop3243/Ukr_GFX_fonts",
+        "url": "https://github.com/ghop3243/Ukr_GFX_fonts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vipercodec/Medicure",
+        "url": "https://github.com/vipercodec/Medicure.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cloudnative-pg/machinery",
+        "url": "https://github.com/cloudnative-pg/machinery.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Anna1861/Smart-Library",
+        "url": "https://github.com/Anna1861/Smart-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fairphone-mirror/platform_external_rust_crates_shared_library",
+        "url": "https://github.com/fairphone-mirror/platform_external_rust_crates_shared_library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AP24110011504/library-management-system",
+        "url": "https://github.com/AP24110011504/library-management-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Khalidbangura/LUCT-Library",
+        "url": "https://github.com/Khalidbangura/LUCT-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sjelms/pdf-highlight-extraction",
+        "url": "https://github.com/sjelms/pdf-highlight-extraction.git",
+        "status": "Hasn't yet validated"
     }
 ]
