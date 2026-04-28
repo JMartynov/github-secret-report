@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### github/spec-kit
+
+**URL:** https://github.com/github/spec-kit.git
+
+- **Files Scanned:** 2257
+- **Branches:** 5
+- **Size:** 14M
+- **Duration:** 10.8s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
