@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sherlock-project/sherlock
+
+**URL:** https://github.com/sherlock-project/sherlock.git
+
+- **Files Scanned:** 3218
+- **Branches:** 9
+- **Size:** 20M
+- **Duration:** 28.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
