@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### fighting41love/funNLP
+
+**URL:** https://github.com/fighting41love/funNLP.git
+
+- **Files Scanned:** 303
+- **Branches:** 1
+- **Size:** 331M
+- **Duration:** 1.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
