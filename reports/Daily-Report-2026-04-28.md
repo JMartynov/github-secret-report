@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### infiniflow/ragflow
+
+**URL:** https://github.com/infiniflow/ragflow.git
+
+- **Files Scanned:** 32924
+- **Branches:** 3
+- **Size:** 202M
+- **Duration:** 2253.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
