@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### d2l-ai/d2l-zh
+
+**URL:** https://github.com/d2l-ai/d2l-zh.git
+
+- **Files Scanned:** 0
+- **Branches:** 4
+- **Size:** 461M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
