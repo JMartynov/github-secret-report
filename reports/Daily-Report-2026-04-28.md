@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### swisskyrepo/PayloadsAllTheThings
+
+**URL:** https://github.com/swisskyrepo/PayloadsAllTheThings.git
+
+- **Files Scanned:** 5434
+- **Branches:** 2
+- **Size:** 38M
+- **Duration:** 42.58s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

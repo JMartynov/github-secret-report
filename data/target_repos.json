@@ -4083,5 +4083,100 @@
         "name": "Angelv2774/veeva-vault-browser-automation",
         "url": "https://github.com/Angelv2774/veeva-vault-browser-automation.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AbhiModszYT/ModMenu",
+        "url": "https://github.com/AbhiModszYT/ModMenu.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alfanane/Stacked",
+        "url": "https://github.com/alfanane/Stacked.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "efex33/dnscache-go",
+        "url": "https://github.com/efex33/dnscache-go.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pucelle/ff-uix",
+        "url": "https://github.com/pucelle/ff-uix.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "reaatech/prompt-injection-bench",
+        "url": "https://github.com/reaatech/prompt-injection-bench.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Yurnero555/Signal-Dash",
+        "url": "https://github.com/Yurnero555/Signal-Dash.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amphp/amphp.org",
+        "url": "https://github.com/amphp/amphp.org.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "google/osv-scalibr",
+        "url": "https://github.com/google/osv-scalibr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "awththunder/cc-use-exp",
+        "url": "https://github.com/awththunder/cc-use-exp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Goku2018/library-management-system",
+        "url": "https://github.com/Goku2018/library-management-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nirupama3103-cell/SunScout",
+        "url": "https://github.com/nirupama3103-cell/SunScout.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NInga4iyu/js-modal-popup",
+        "url": "https://github.com/NInga4iyu/js-modal-popup.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zgornel/ParSitter.jl",
+        "url": "https://github.com/zgornel/ParSitter.jl.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nebilcan/SmartML",
+        "url": "https://github.com/nebilcan/SmartML.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tonybricko/block-library",
+        "url": "https://github.com/tonybricko/block-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jibarri/LinaCodec",
+        "url": "https://github.com/jibarri/LinaCodec.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "joshlacal/Petrel",
+        "url": "https://github.com/joshlacal/Petrel.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kim-em/lean-bench",
+        "url": "https://github.com/kim-em/lean-bench.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Mrji95/SudoPrint",
+        "url": "https://github.com/Mrji95/SudoPrint.git",
+        "status": "Hasn't yet validated"
     }
 ]
