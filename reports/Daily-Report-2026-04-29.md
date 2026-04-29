@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### josephmisiti/awesome-machine-learning
+
+**URL:** https://github.com/josephmisiti/awesome-machine-learning.git
+
+- **Files Scanned:** 1162
+- **Branches:** 4
+- **Size:** 3.3M
+- **Duration:** 12.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
