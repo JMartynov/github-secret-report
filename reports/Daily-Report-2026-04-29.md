@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### OpenHands/OpenHands
+
+**URL:** https://github.com/OpenHands/OpenHands.git
+
+- **Files Scanned:** 79422
+- **Branches:** 1263
+- **Size:** 340M
+- **Duration:** 2206.88s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
