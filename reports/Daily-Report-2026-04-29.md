@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pallets/flask
+
+**URL:** https://github.com/pallets/flask.git
+
+- **Files Scanned:** 0
+- **Branches:** 4
+- **Size:** 15M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
