@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### python/cpython
+
+**URL:** https://github.com/python/cpython.git
+
+- **Files Scanned:** 0
+- **Branches:** 6
+- **Size:** 953M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
