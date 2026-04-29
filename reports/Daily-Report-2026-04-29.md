@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### binary-husky/gpt_academic
+
+**URL:** https://github.com/binary-husky/gpt_academic.git
+
+- **Files Scanned:** 0
+- **Branches:** 43
+- **Size:** 83M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
