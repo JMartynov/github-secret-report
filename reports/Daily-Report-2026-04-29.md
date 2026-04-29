@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### PaddlePaddle/PaddleOCR
+
+**URL:** https://github.com/PaddlePaddle/PaddleOCR.git
+
+- **Files Scanned:** 0
+- **Branches:** 38
+- **Size:** 2.0G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
