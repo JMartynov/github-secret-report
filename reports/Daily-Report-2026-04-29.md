@@ -1,0 +1,20 @@
+# Daily Secret Scan Report - 2026-04-29
+
+This report is updated hourly. Cumulative totals are generated at the end of the day.
+
+---
+
+### vllm-project/vllm
+
+**URL:** https://github.com/vllm-project/vllm.git
+
+- **Files Scanned:** 0
+- **Branches:** 302
+- **Size:** 285M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
