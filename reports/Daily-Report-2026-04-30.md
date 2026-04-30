@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### keras-team/keras
+
+**URL:** https://github.com/keras-team/keras.git
+
+- **Files Scanned:** 47758
+- **Branches:** 44
+- **Size:** 69M
+- **Duration:** 256.26s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
