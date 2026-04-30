@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ansible/ansible
+
+**URL:** https://github.com/ansible/ansible.git
+
+- **Files Scanned:** 0
+- **Branches:** 57
+- **Size:** 313M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
