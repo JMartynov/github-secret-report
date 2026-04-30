@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pathwaycom/pathway
+
+**URL:** https://github.com/pathwaycom/pathway.git
+
+- **Files Scanned:** 15023
+- **Branches:** 3
+- **Size:** 352M
+- **Duration:** 1236.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
