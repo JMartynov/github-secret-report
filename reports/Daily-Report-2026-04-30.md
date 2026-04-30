@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### OpenBB-finance/OpenBB
+
+**URL:** https://github.com/OpenBB-finance/OpenBB.git
+
+- **Files Scanned:** 0
+- **Branches:** 26
+- **Size:** 2.6G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
