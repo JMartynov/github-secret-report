@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### xtekky/gpt4free
+
+**URL:** https://github.com/xtekky/gpt4free.git
+
+- **Files Scanned:** 0
+- **Branches:** 33
+- **Size:** 173M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
