@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### localstack/localstack
+
+**URL:** https://github.com/localstack/localstack.git
+
+- **Files Scanned:** 39451
+- **Branches:** 2
+- **Size:** 113M
+- **Duration:** 520.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

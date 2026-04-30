@@ -5633,5 +5633,85 @@
         "name": "static-web-apps-testing-org/synthetics-swa-appsettings-20260430181351",
         "url": "https://github.com/static-web-apps-testing-org/synthetics-swa-appsettings-20260430181351.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Livepeer-FrameWorks/monorepo",
+        "url": "https://github.com/Livepeer-FrameWorks/monorepo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Kleinster2/portuguese-drills-expanded",
+        "url": "https://github.com/Kleinster2/portuguese-drills-expanded.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SvetaKrava/chorrosion",
+        "url": "https://github.com/SvetaKrava/chorrosion.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "enzonotario/esjs-argentina-datos",
+        "url": "https://github.com/enzonotario/esjs-argentina-datos.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "antoniosaints/w-api-manager",
+        "url": "https://github.com/antoniosaints/w-api-manager.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Skytrion/Phantom-Wallet-Geteway-Solona-Api-Sdk-Connect-Web3",
+        "url": "https://github.com/Skytrion/Phantom-Wallet-Geteway-Solona-Api-Sdk-Connect-Web3.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker",
+        "url": "https://github.com/Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chpock/openusage-cli",
+        "url": "https://github.com/chpock/openusage-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "maxcalijuri/awesome-free-apis",
+        "url": "https://github.com/maxcalijuri/awesome-free-apis.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NamanVinayak/claude-code-hedge-fund",
+        "url": "https://github.com/NamanVinayak/claude-code-hedge-fund.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lphillipe/djangoflix-api",
+        "url": "https://github.com/lphillipe/djangoflix-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sarmadshakeel/fastscaff",
+        "url": "https://github.com/sarmadshakeel/fastscaff.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Catengue/stillepost",
+        "url": "https://github.com/Catengue/stillepost.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NikkkoPrime/zenith-image-generator",
+        "url": "https://github.com/NikkkoPrime/zenith-image-generator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bro-gervil/userApi",
+        "url": "https://github.com/bro-gervil/userApi.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lewi522/MT4-MT5-Trade-Copier-Backend",
+        "url": "https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend.git",
+        "status": "Hasn't yet validated"
     }
 ]
