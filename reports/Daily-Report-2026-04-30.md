@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### FoundationAgents/MetaGPT
+
+**URL:** https://github.com/FoundationAgents/MetaGPT.git
+
+- **Files Scanned:** 0
+- **Branches:** 28
+- **Size:** 224M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
