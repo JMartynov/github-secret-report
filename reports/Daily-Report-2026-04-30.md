@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### scikit-learn/scikit-learn
+
+**URL:** https://github.com/scikit-learn/scikit-learn.git
+
+- **Files Scanned:** 98314
+- **Branches:** 40
+- **Size:** 214M
+- **Duration:** 798.53s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
