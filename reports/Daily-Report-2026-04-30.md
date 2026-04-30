@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### karpathy/autoresearch
+
+**URL:** https://github.com/karpathy/autoresearch.git
+
+- **Files Scanned:** 73
+- **Branches:** 3
+- **Size:** 1.5M
+- **Duration:** 0.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
