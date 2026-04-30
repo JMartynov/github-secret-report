@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### labmlai/annotated_deep_learning_paper_implementations
+
+**URL:** https://github.com/labmlai/annotated_deep_learning_paper_implementations.git
+
+- **Files Scanned:** 10986
+- **Branches:** 2
+- **Size:** 374M
+- **Duration:** 91.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

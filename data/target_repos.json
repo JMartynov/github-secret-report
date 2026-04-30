@@ -5153,5 +5153,105 @@
         "name": "LuckDragonAsgard/wps-athletics-2026",
         "url": "https://github.com/LuckDragonAsgard/wps-athletics-2026.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Speckled-pharyngeal993/core",
+        "url": "https://github.com/Speckled-pharyngeal993/core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "atanu-isi/MRM-Findings-Library",
+        "url": "https://github.com/atanu-isi/MRM-Findings-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NVIDIA/Model-Optimizer",
+        "url": "https://github.com/NVIDIA/Model-Optimizer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Influish/influish-ui-lib",
+        "url": "https://github.com/Influish/influish-ui-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LoganEyram/NEA_CS_project",
+        "url": "https://github.com/LoganEyram/NEA_CS_project.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kimmoiranian586/PaperClaw",
+        "url": "https://github.com/kimmoiranian586/PaperClaw.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Capricious-storage478/japan-stay-tax",
+        "url": "https://github.com/Capricious-storage478/japan-stay-tax.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KudoAI/chatgpt.js",
+        "url": "https://github.com/KudoAI/chatgpt.js.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "open-circle/schema-benchmarks",
+        "url": "https://github.com/open-circle/schema-benchmarks.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KnowledgeSeed/tm1_bedrock_py",
+        "url": "https://github.com/KnowledgeSeed/tm1_bedrock_py.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MatrIx-MONoRePo/remix-contract-templates-lib",
+        "url": "https://github.com/MatrIx-MONoRePo/remix-contract-templates-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ragam2702/Library-System",
+        "url": "https://github.com/ragam2702/Library-System.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "robuxref2005/my_claude_skills",
+        "url": "https://github.com/robuxref2005/my_claude_skills.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pkjmesra/PKBrokers",
+        "url": "https://github.com/pkjmesra/PKBrokers.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yositomi-opu/stack_questions",
+        "url": "https://github.com/yositomi-opu/stack_questions.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shivamsinghmp/cyber_library",
+        "url": "https://github.com/shivamsinghmp/cyber_library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nghttp2/nghttp2",
+        "url": "https://github.com/nghttp2/nghttp2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MarkusNeusinger/anyplot",
+        "url": "https://github.com/MarkusNeusinger/anyplot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lneely/ollie",
+        "url": "https://github.com/lneely/ollie.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "startknowledge/Calculator-Library-Portal",
+        "url": "https://github.com/startknowledge/Calculator-Library-Portal.git",
+        "status": "Hasn't yet validated"
     }
 ]
