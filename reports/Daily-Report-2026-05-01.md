@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### unslothai/unsloth
+
+**URL:** https://github.com/unslothai/unsloth.git
+
+- **Files Scanned:** 0
+- **Branches:** 206
+- **Size:** 123M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
