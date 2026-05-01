@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### meta-llama/llama
+
+**URL:** https://github.com/meta-llama/llama.git
+
+- **Files Scanned:** 145
+- **Branches:** 17
+- **Size:** 2.7M
+- **Duration:** 0.28s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
