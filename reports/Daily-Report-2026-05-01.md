@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### scrapy/scrapy
+
+**URL:** https://github.com/scrapy/scrapy.git
+
+- **Files Scanned:** 0
+- **Branches:** 50
+- **Size:** 39M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
