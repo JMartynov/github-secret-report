@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### commaai/openpilot
+
+**URL:** https://github.com/commaai/openpilot.git
+
+- **Files Scanned:** 0
+- **Branches:** 143
+- **Size:** 1.3G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
