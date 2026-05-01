@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CorentinJ/Real-Time-Voice-Cloning
+
+**URL:** https://github.com/CorentinJ/Real-Time-Voice-Cloning.git
+
+- **Files Scanned:** 1788
+- **Branches:** 1
+- **Size:** 362M
+- **Duration:** 24.74s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
