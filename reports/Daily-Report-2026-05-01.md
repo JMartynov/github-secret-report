@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Z4nzu/hackingtool
+
+**URL:** https://github.com/Z4nzu/hackingtool.git
+
+- **Files Scanned:** 608
+- **Branches:** 2
+- **Size:** 4.1M
+- **Duration:** 1.43s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
