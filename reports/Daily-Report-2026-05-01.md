@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### openinterpreter/open-interpreter
+
+**URL:** https://github.com/openinterpreter/open-interpreter.git
+
+- **Files Scanned:** 22275
+- **Branches:** 11
+- **Size:** 112M
+- **Duration:** 214.91s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
