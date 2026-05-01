@@ -1,0 +1,169 @@
+# Daily Cumulative Secret Scan Report - 2026-04-30
+
+## Executive Summary
+
+| Metric | Value |
+|---|---|
+| **Total Repositories Scanned** | 11 |
+| **Total Files Scanned** | 221915 |
+| **Total Scan Duration** | 4740.33 seconds |
+| **Total Secrets Detected** | 0 |
+
+---
+
+## Repository Breakdown
+
+### hiyouga/LlamaFactory
+
+**URL:** https://github.com/hiyouga/LlamaFactory.git
+
+- **Files Scanned:** 10310
+- **Branches:** 1
+- **Size:** 29M
+- **Duration:** 36.51s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### ansible/ansible
+
+**URL:** https://github.com/ansible/ansible.git
+
+- **Files Scanned:** 0
+- **Branches:** 57
+- **Size:** 313M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### FoundationAgents/MetaGPT
+
+**URL:** https://github.com/FoundationAgents/MetaGPT.git
+
+- **Files Scanned:** 0
+- **Branches:** 28
+- **Size:** 224M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### labmlai/annotated_deep_learning_paper_implementations
+
+**URL:** https://github.com/labmlai/annotated_deep_learning_paper_implementations.git
+
+- **Files Scanned:** 10986
+- **Branches:** 2
+- **Size:** 374M
+- **Duration:** 91.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### xtekky/gpt4free
+
+**URL:** https://github.com/xtekky/gpt4free.git
+
+- **Files Scanned:** 0
+- **Branches:** 33
+- **Size:** 173M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### scikit-learn/scikit-learn
+
+**URL:** https://github.com/scikit-learn/scikit-learn.git
+
+- **Files Scanned:** 98314
+- **Branches:** 40
+- **Size:** 214M
+- **Duration:** 798.53s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### OpenBB-finance/OpenBB
+
+**URL:** https://github.com/OpenBB-finance/OpenBB.git
+
+- **Files Scanned:** 0
+- **Branches:** 26
+- **Size:** 2.6G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### karpathy/autoresearch
+
+**URL:** https://github.com/karpathy/autoresearch.git
+
+- **Files Scanned:** 73
+- **Branches:** 3
+- **Size:** 1.5M
+- **Duration:** 0.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### localstack/localstack
+
+**URL:** https://github.com/localstack/localstack.git
+
+- **Files Scanned:** 39451
+- **Branches:** 2
+- **Size:** 113M
+- **Duration:** 520.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### keras-team/keras
+
+**URL:** https://github.com/keras-team/keras.git
+
+- **Files Scanned:** 47758
+- **Branches:** 44
+- **Size:** 69M
+- **Duration:** 256.26s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### pathwaycom/pathway
+
+**URL:** https://github.com/pathwaycom/pathway.git
+
+- **Files Scanned:** 15023
+- **Branches:** 3
+- **Size:** 352M
+- **Duration:** 1236.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
