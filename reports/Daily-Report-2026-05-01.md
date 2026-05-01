@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### opendatalab/MinerU
+
+**URL:** https://github.com/opendatalab/MinerU.git
+
+- **Files Scanned:** 0
+- **Branches:** 78
+- **Size:** 173M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
