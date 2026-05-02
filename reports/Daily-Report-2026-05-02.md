@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ultralytics/yolov5
+
+**URL:** https://github.com/ultralytics/yolov5.git
+
+- **Files Scanned:** 6867
+- **Branches:** 10
+- **Size:** 21M
+- **Duration:** 790.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
