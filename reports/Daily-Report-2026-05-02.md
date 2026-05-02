@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### microsoft/autogen
+
+**URL:** https://github.com/microsoft/autogen.git
+
+- **Files Scanned:** 33142
+- **Branches:** 209
+- **Size:** 218M
+- **Duration:** 2914.58s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
