@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ultralytics/ultralytics
+
+**URL:** https://github.com/ultralytics/ultralytics.git
+
+- **Files Scanned:** 36306
+- **Branches:** 351
+- **Size:** 68M
+- **Duration:** 125.54s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
