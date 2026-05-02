@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### soimort/you-get
+
+**URL:** https://github.com/soimort/you-get.git
+
+- **Files Scanned:** 3429
+- **Branches:** 4
+- **Size:** 5.1M
+- **Duration:** 9.27s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
