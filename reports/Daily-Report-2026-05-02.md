@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### zylon-ai/private-gpt
+
+**URL:** https://github.com/zylon-ai/private-gpt.git
+
+- **Files Scanned:** 1089
+- **Branches:** 8
+- **Size:** 4.8M
+- **Duration:** 23.65s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
