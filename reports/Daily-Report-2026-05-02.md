@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### RVC-Boss/GPT-SoVITS
+
+**URL:** https://github.com/RVC-Boss/GPT-SoVITS.git
+
+- **Files Scanned:** 2177
+- **Branches:** 3
+- **Size:** 51M
+- **Duration:** 9.77s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
