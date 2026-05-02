@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ageitgey/face_recognition
+
+**URL:** https://github.com/ageitgey/face_recognition.git
+
+- **Files Scanned:** 428
+- **Branches:** 8
+- **Size:** 117M
+- **Duration:** 5.91s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
