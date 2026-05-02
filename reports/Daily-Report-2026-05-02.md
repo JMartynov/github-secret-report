@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### FoundationAgents/OpenManus
+
+**URL:** https://github.com/FoundationAgents/OpenManus.git
+
+- **Files Scanned:** 1651
+- **Branches:** 21
+- **Size:** 6.5M
+- **Duration:** 5.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
