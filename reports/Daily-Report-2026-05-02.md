@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Textualize/rich
+
+**URL:** https://github.com/Textualize/rich.git
+
+- **Files Scanned:** 8270
+- **Branches:** 30
+- **Size:** 71M
+- **Duration:** 114.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
