@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AntonOsika/gpt-engineer
+
+**URL:** https://github.com/AntonOsika/gpt-engineer.git
+
+- **Files Scanned:** 3744
+- **Branches:** 49
+- **Size:** 38M
+- **Duration:** 21.96s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
