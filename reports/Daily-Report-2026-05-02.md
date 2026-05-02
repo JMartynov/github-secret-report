@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### docling-project/docling
+
+**URL:** https://github.com/docling-project/docling.git
+
+- **Files Scanned:** 9611
+- **Branches:** 66
+- **Size:** 398M
+- **Duration:** 2478.52s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
