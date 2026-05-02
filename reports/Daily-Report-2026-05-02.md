@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### karpathy/nanoGPT
+
+**URL:** https://github.com/karpathy/nanoGPT.git
+
+- **Files Scanned:** 224
+- **Branches:** 6
+- **Size:** 1.8M
+- **Duration:** 21.78s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
