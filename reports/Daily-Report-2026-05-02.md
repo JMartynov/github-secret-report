@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### deepfakes/faceswap
+
+**URL:** https://github.com/deepfakes/faceswap.git
+
+- **Files Scanned:** 6819
+- **Branches:** 7
+- **Size:** 210M
+- **Duration:** 30.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
