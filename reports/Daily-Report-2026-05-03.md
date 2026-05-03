@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pandas-dev/pandas
+
+**URL:** https://github.com/pandas-dev/pandas.git
+
+- **Files Scanned:** 156970
+- **Branches:** 19
+- **Size:** 458M
+- **Duration:** 2420.84s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
