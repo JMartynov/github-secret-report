@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### karpathy/nanochat
+
+**URL:** https://github.com/karpathy/nanochat.git
+
+- **Files Scanned:** 618
+- **Branches:** 3
+- **Size:** 3.7M
+- **Duration:** 15.58s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
