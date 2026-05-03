@@ -8678,5 +8678,105 @@
         "name": "isa-ozturk/LenzeSDCardTool-releases",
         "url": "https://github.com/isa-ozturk/LenzeSDCardTool-releases.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "openstack-k8s-operators/lib-common",
+        "url": "https://github.com/openstack-k8s-operators/lib-common.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "z88dk/z88dk",
+        "url": "https://github.com/z88dk/z88dk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DavidHatami/rest-api-managing-64q6-qbml",
+        "url": "https://github.com/DavidHatami/rest-api-managing-64q6-qbml.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nerif7/vanguard-library-db",
+        "url": "https://github.com/nerif7/vanguard-library-db.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zu1-pvp/StableIndexVector",
+        "url": "https://github.com/zu1-pvp/StableIndexVector.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "daja11323/hid_monitor",
+        "url": "https://github.com/daja11323/hid_monitor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "manoharialamuri/jenkins-shared-library",
+        "url": "https://github.com/manoharialamuri/jenkins-shared-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "congvinhpham/Forms",
+        "url": "https://github.com/congvinhpham/Forms.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cjustin2/taapi-php",
+        "url": "https://github.com/cjustin2/taapi-php.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.instantly.suite",
+        "url": "https://github.com/soenneker/soenneker.instantly.suite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Syphaxzen/copier-dart-frb-wrapper",
+        "url": "https://github.com/Syphaxzen/copier-dart-frb-wrapper.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hareful/personaplex-voice-bot",
+        "url": "https://github.com/hareful/personaplex-voice-bot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zypluckyphoenix/library",
+        "url": "https://github.com/zypluckyphoenix/library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.github.repositories",
+        "url": "https://github.com/soenneker/soenneker.github.repositories.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "stdlib-js/stdlib",
+        "url": "https://github.com/stdlib-js/stdlib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aki-cell2366/worldmesh",
+        "url": "https://github.com/aki-cell2366/worldmesh.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kxrmahermano-ux/ax-score",
+        "url": "https://github.com/kxrmahermano-ux/ax-score.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amenendriyas/MusicLibraryOOP",
+        "url": "https://github.com/amenendriyas/MusicLibraryOOP.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "faishalnafi/jobs",
+        "url": "https://github.com/faishalnafi/jobs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dataplat/dbatools.library",
+        "url": "https://github.com/dataplat/dbatools.library.git",
+        "status": "Hasn't yet validated"
     }
 ]

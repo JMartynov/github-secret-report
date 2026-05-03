@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### xai-org/grok-1
+
+**URL:** https://github.com/xai-org/grok-1.git
+
+- **Files Scanned:** 21
+- **Branches:** 2
+- **Size:** 3.5M
+- **Duration:** 1.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
