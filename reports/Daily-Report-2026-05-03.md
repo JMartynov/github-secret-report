@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### odoo/odoo
+
+**URL:** https://github.com/odoo/odoo.git
+
+- **Files Scanned:** 0
+- **Branches:** Unknown
+- **Size:** Unknown
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
