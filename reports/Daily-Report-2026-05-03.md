@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Zie619/n8n-workflows
+
+**URL:** https://github.com/Zie619/n8n-workflows.git
+
+- **Files Scanned:** 30722
+- **Branches:** 5
+- **Size:** 83M
+- **Duration:** 112.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
