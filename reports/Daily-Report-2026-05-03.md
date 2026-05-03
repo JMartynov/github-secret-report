@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sansan0/TrendRadar
+
+**URL:** https://github.com/sansan0/TrendRadar.git
+
+- **Files Scanned:** 9711
+- **Branches:** 1
+- **Size:** 45M
+- **Duration:** 22.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
