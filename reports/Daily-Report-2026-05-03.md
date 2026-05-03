@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ComposioHQ/awesome-claude-skills
+
+**URL:** https://github.com/ComposioHQ/awesome-claude-skills.git
+
+- **Files Scanned:** 2383
+- **Branches:** 6
+- **Size:** 22M
+- **Duration:** 3.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
