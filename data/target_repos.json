@@ -9603,5 +9603,105 @@
         "name": "meta-pytorch/torchrec",
         "url": "https://github.com/meta-pytorch/torchrec.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "crvrlc/safety-audit-frontend",
+        "url": "https://github.com/crvrlc/safety-audit-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Dishonorpeachpit230/fijahu-5",
+        "url": "https://github.com/Dishonorpeachpit230/fijahu-5.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sylvalens/frontend",
+        "url": "https://github.com/sylvalens/frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "allan-roxx/labsynch-frontend",
+        "url": "https://github.com/allan-roxx/labsynch-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AlexisSGalarza/school-management-Frontend",
+        "url": "https://github.com/AlexisSGalarza/school-management-Frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mohankrishnalanda/Kronos",
+        "url": "https://github.com/mohankrishnalanda/Kronos.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "qlarr-surveys/frontend",
+        "url": "https://github.com/qlarr-surveys/frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GitHSP/expenseiq-frontend",
+        "url": "https://github.com/GitHSP/expenseiq-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Assttaroth/Atividades-FrontEnd",
+        "url": "https://github.com/Assttaroth/Atividades-FrontEnd.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "maxiratti/frontend_tp1",
+        "url": "https://github.com/maxiratti/frontend_tp1.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Keiner0624/Fluxy-frontend-react",
+        "url": "https://github.com/Keiner0624/Fluxy-frontend-react.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "manaramira2003-alt/dzshop-frontend",
+        "url": "https://github.com/manaramira2003-alt/dzshop-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tahfeezmizan/giovafilm-frontend",
+        "url": "https://github.com/tahfeezmizan/giovafilm-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mfaria0110/mfscars-frontend",
+        "url": "https://github.com/mfaria0110/mfscars-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JsonLevine/jason-portfolio",
+        "url": "https://github.com/JsonLevine/jason-portfolio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Slovakian-cuttle990/real-time-cursor-collab_frontend",
+        "url": "https://github.com/Slovakian-cuttle990/real-time-cursor-collab_frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "msimonae/UTFPResponde-frontend",
+        "url": "https://github.com/msimonae/UTFPResponde-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "WolffM/hadoku-task",
+        "url": "https://github.com/WolffM/hadoku-task.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cacamilo0/ascendia-frontend",
+        "url": "https://github.com/cacamilo0/ascendia-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lkongc1/Iac_AWS-Lambda_Integration",
+        "url": "https://github.com/lkongc1/Iac_AWS-Lambda_Integration.git",
+        "status": "Hasn't yet validated"
     }
 ]

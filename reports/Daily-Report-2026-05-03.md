@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lllyasviel/Fooocus
+
+**URL:** https://github.com/lllyasviel/Fooocus.git
+
+- **Files Scanned:** 3746
+- **Branches:** 15
+- **Size:** 51M
+- **Duration:** 12.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
