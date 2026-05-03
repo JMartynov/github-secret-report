@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### charlax/professional-programming
+
+**URL:** https://github.com/charlax/professional-programming.git
+
+- **Files Scanned:** 566
+- **Branches:** 1
+- **Size:** 9.7M
+- **Duration:** 5.61s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
