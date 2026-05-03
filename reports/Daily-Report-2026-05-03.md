@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### freqtrade/freqtrade
+
+**URL:** https://github.com/freqtrade/freqtrade.git
+
+- **Files Scanned:** 0
+- **Branches:** 9
+- **Size:** 771M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
