@@ -196,7 +196,7 @@ def run_scan(repo, reports_dir):
         # Get repository metrics
         try:
             branches_proc = subprocess.run(["git", "-C", target_dir, "branch", "-r"], capture_output=True, text=True, timeout=60)
-            branches_count = len([b for b in branches_proc.stdout.split('\n') if b.strip() and "->" not in b])
+            branches_count = sum(1 for b in branches_proc.stdout.split('\n') if b.strip() and "->" not in b)
         except subprocess.TimeoutExpired:
             branches_count = "Unknown"
         except (subprocess.SubprocessError, OSError) as e:
