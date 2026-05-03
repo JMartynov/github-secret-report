@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mem0ai/mem0
+
+**URL:** https://github.com/mem0ai/mem0.git
+
+- **Files Scanned:** 12821
+- **Branches:** 58
+- **Size:** 105M
+- **Duration:** 362.88s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
