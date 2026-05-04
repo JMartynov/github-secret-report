@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### facebook/react
+
+**URL:** https://github.com/facebook/react.git
+
+- **Files Scanned:** 0
+- **Branches:** 846
+- **Size:** 1018M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
