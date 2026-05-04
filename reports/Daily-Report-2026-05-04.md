@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### trekhleb/javascript-algorithms
+
+**URL:** https://github.com/trekhleb/javascript-algorithms.git
+
+- **Files Scanned:** 2965
+- **Branches:** 1
+- **Size:** 28M
+- **Duration:** 9.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
