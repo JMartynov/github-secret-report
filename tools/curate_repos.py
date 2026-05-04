@@ -10,7 +10,7 @@ def fetch_top_repos(language, count=100):
     
     try:
         with urllib.request.urlopen(req) as response:
-            data = json.loads(response.read().decode())
+            data = json.loads(response.read())
             return [{"name": item["full_name"], "url": item["clone_url"]} for item in data.get("items", [])]
     except (urllib.error.URLError, json.JSONDecodeError) as e:
         print(f"Failed to fetch repos for {language}: {e}")
