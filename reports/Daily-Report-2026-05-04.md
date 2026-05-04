@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### airbnb/javascript
+
+**URL:** https://github.com/airbnb/javascript.git
+
+- **Files Scanned:** 2471
+- **Branches:** 5
+- **Size:** 4.7M
+- **Duration:** 24.0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
