@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### TauricResearch/TradingAgents
+
+**URL:** https://github.com/TauricResearch/TradingAgents.git
+
+- **Files Scanned:** 533
+- **Branches:** 2
+- **Size:** 9.9M
+- **Duration:** 9.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
