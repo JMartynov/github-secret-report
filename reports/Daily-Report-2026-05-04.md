@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### minimaxir/big-list-of-naughty-strings
+
+**URL:** https://github.com/minimaxir/big-list-of-naughty-strings.git
+
+- **Files Scanned:** 235
+- **Branches:** 1
+- **Size:** 800K
+- **Duration:** 1.51s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
