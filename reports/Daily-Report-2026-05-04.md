@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### oobabooga/text-generation-webui
+
+**URL:** https://github.com/oobabooga/text-generation-webui.git
+
+- **Files Scanned:** 13812
+- **Branches:** 6
+- **Size:** 64M
+- **Duration:** 24.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

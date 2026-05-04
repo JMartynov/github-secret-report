@@ -10073,5 +10073,95 @@
         "name": "tapsi-box/tapsi-box-bom",
         "url": "https://github.com/tapsi-box/tapsi-box-bom.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OliverHesse/EasyGui",
+        "url": "https://github.com/OliverHesse/EasyGui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "joseontiveros/javascript-tetris",
+        "url": "https://github.com/joseontiveros/javascript-tetris.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Leiuo/library-admin",
+        "url": "https://github.com/Leiuo/library-admin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sawaron/Library",
+        "url": "https://github.com/Sawaron/Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Konsave1/Master",
+        "url": "https://github.com/Konsave1/Master.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iNeradipZmalup/my_management_client",
+        "url": "https://github.com/iNeradipZmalup/my_management_client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Riteekdhankhar/chhotu-ram-library",
+        "url": "https://github.com/Riteekdhankhar/chhotu-ram-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "suresh162/Smart-Library-Management-and-AI-Book-Recommendation-System",
+        "url": "https://github.com/suresh162/Smart-Library-Management-and-AI-Book-Recommendation-System.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CodSpeedHQ/codspeed-jvm",
+        "url": "https://github.com/CodSpeedHQ/codspeed-jvm.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "badrap/valita",
+        "url": "https://github.com/badrap/valita.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "EddieTYP/image-prompt-library",
+        "url": "https://github.com/EddieTYP/image-prompt-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mhmo91/schmancy",
+        "url": "https://github.com/mhmo91/schmancy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "houdissam/nec1",
+        "url": "https://github.com/houdissam/nec1.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "prchiiii/ZarCards",
+        "url": "https://github.com/prchiiii/ZarCards.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rrampoldi/rr_Libs",
+        "url": "https://github.com/rrampoldi/rr_Libs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JamshaidArshad130/DbContextBuilder",
+        "url": "https://github.com/JamshaidArshad130/DbContextBuilder.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SUP2Ak/matchigo-lua",
+        "url": "https://github.com/SUP2Ak/matchigo-lua.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "calixtod/EasyAndroidPermissions",
+        "url": "https://github.com/calixtod/EasyAndroidPermissions.git",
+        "status": "Hasn't yet validated"
     }
 ]
