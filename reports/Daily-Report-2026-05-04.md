@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NanmiCoder/MediaCrawler
+
+**URL:** https://github.com/NanmiCoder/MediaCrawler.git
+
+- **Files Scanned:** 2478
+- **Branches:** 10
+- **Size:** 54M
+- **Duration:** 9.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
