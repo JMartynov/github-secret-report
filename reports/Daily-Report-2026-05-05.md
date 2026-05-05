@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### axios/axios
+
+**URL:** https://github.com/axios/axios.git
+
+- **Files Scanned:** 6200
+- **Branches:** 5
+- **Size:** 31M
+- **Duration:** 135.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
