@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### facebook/create-react-app
+
+**URL:** https://github.com/facebook/create-react-app.git
+
+- **Files Scanned:** 11711
+- **Branches:** 28
+- **Size:** 37M
+- **Duration:** 115.57s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
