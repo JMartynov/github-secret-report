@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mui/material-ui
+
+**URL:** https://github.com/mui/material-ui.git
+
+- **Files Scanned:** 0
+- **Branches:** 45
+- **Size:** 1.2G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

@@ -11003,5 +11003,100 @@
         "name": "docker-library/meta",
         "url": "https://github.com/docker-library/meta.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rishisinha727/kundalibaba-frontend",
+        "url": "https://github.com/rishisinha727/kundalibaba-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lucascrollavezza-gh/vidapharma-frontend",
+        "url": "https://github.com/lucascrollavezza-gh/vidapharma-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "german-ai-forge/game-on-frontend",
+        "url": "https://github.com/german-ai-forge/game-on-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "massarojaver/massaro-frontend",
+        "url": "https://github.com/massarojaver/massaro-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "andersonssilva2/Task-Tracker-API",
+        "url": "https://github.com/andersonssilva2/Task-Tracker-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kentayamada-dev/kentayamada-dev",
+        "url": "https://github.com/kentayamada-dev/kentayamada-dev.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aires-create/FINQZ_PRO",
+        "url": "https://github.com/aires-create/FINQZ_PRO.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sl-Dubbing/sl-dubbing-frontend",
+        "url": "https://github.com/sl-Dubbing/sl-dubbing-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gaslightctf/frontend",
+        "url": "https://github.com/gaslightctf/frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "elmer-contacto-total/digitalclub-frontend",
+        "url": "https://github.com/elmer-contacto-total/digitalclub-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "halilege123/Pumpfun-Smart-Contract",
+        "url": "https://github.com/halilege123/Pumpfun-Smart-Contract.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AnotherUser010/frontend_appbus",
+        "url": "https://github.com/AnotherUser010/frontend_appbus.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "salasoliva27/nutria-app-dev",
+        "url": "https://github.com/salasoliva27/nutria-app-dev.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jjlcpr/fartscroll-lid",
+        "url": "https://github.com/jjlcpr/fartscroll-lid.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vicmusic0/ai-sdk-zustand",
+        "url": "https://github.com/vicmusic0/ai-sdk-zustand.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tienditamadrelucia/sistema-ventas-frontend",
+        "url": "https://github.com/tienditamadrelucia/sistema-ventas-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "devmalu15/ConnectSphereFrontend",
+        "url": "https://github.com/devmalu15/ConnectSphereFrontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Batbit01/sommelierlab-qr2-vite",
+        "url": "https://github.com/Batbit01/sommelierlab-qr2-vite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gabrielwelsing/tenis-front",
+        "url": "https://github.com/gabrielwelsing/tenis-front.git",
+        "status": "Hasn't yet validated"
     }
 ]
