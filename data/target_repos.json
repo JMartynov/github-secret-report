@@ -10613,5 +10613,105 @@
         "name": "galihpr32/g2g-seo-tools",
         "url": "https://github.com/galihpr32/g2g-seo-tools.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ukmda/ukmda-dataprocessing",
+        "url": "https://github.com/ukmda/ukmda-dataprocessing.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "azuresu/glaze",
+        "url": "https://github.com/azuresu/glaze.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nouman106/-Digital-Library-Hub",
+        "url": "https://github.com/nouman106/-Digital-Library-Hub.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "UltimaWorks/ultima-sdk-python",
+        "url": "https://github.com/UltimaWorks/ultima-sdk-python.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vufind-org/vufind",
+        "url": "https://github.com/vufind-org/vufind.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "googleapis/google-cloud-php",
+        "url": "https://github.com/googleapis/google-cloud-php.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tuananh/camaro",
+        "url": "https://github.com/tuananh/camaro.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DataDog/java-reggie",
+        "url": "https://github.com/DataDog/java-reggie.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nezaemmy/NezaButton",
+        "url": "https://github.com/Nezaemmy/NezaButton.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "getsentry/sentry-protos",
+        "url": "https://github.com/getsentry/sentry-protos.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Hotsauce09/aided",
+        "url": "https://github.com/Hotsauce09/aided.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SharpAstro/tianwen",
+        "url": "https://github.com/SharpAstro/tianwen.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "raghu-kadali/i27-shared-library",
+        "url": "https://github.com/raghu-kadali/i27-shared-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nvafiades1/threat-hunt-library",
+        "url": "https://github.com/Nvafiades1/threat-hunt-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Tunnelbasketballseason635/TensaiNeuro",
+        "url": "https://github.com/Tunnelbasketballseason635/TensaiNeuro.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SpaceTime-Vision-Robotics-Laboratory/drone-ioact",
+        "url": "https://github.com/SpaceTime-Vision-Robotics-Laboratory/drone-ioact.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "WalaAlmawali/Library-management-system",
+        "url": "https://github.com/WalaAlmawali/Library-management-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nightknighto/Library-Management-Backend-v2",
+        "url": "https://github.com/nightknighto/Library-Management-Backend-v2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "foundry-rs/foundry-core",
+        "url": "https://github.com/foundry-rs/foundry-core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mysterious1044/adabraka-ui",
+        "url": "https://github.com/mysterious1044/adabraka-ui.git",
+        "status": "Hasn't yet validated"
     }
 ]
