@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### typicode/json-server
+
+**URL:** https://github.com/typicode/json-server.git
+
+- **Files Scanned:** 2007
+- **Branches:** 16
+- **Size:** 4.8M
+- **Duration:** 24.62s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
