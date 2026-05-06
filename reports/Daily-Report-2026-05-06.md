@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sveltejs/svelte
+
+**URL:** https://github.com/sveltejs/svelte.git
+
+- **Files Scanned:** 84893
+- **Branches:** 213
+- **Size:** 177M
+- **Duration:** 248.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
