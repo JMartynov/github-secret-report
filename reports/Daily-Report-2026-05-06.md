@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### expressjs/express
+
+**URL:** https://github.com/expressjs/express.git
+
+- **Files Scanned:** 0
+- **Branches:** 17
+- **Size:** 13M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
