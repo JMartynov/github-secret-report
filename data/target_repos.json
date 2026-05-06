@@ -11743,5 +11743,85 @@
         "name": "SysGuides/sysguides-snapper-fedora",
         "url": "https://github.com/SysGuides/sysguides-snapper-fedora.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cnkang/chatgpt-web",
+        "url": "https://github.com/cnkang/chatgpt-web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "redpanda-data/redpanda",
+        "url": "https://github.com/redpanda-data/redpanda.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BeeDenley-Currie/Apis-Modoro",
+        "url": "https://github.com/BeeDenley-Currie/Apis-Modoro.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Userinum/fastAPI_project",
+        "url": "https://github.com/Userinum/fastAPI_project.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BJD23/API_Weather",
+        "url": "https://github.com/BJD23/API_Weather.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LuisAPI/LuisAPI",
+        "url": "https://github.com/LuisAPI/LuisAPI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SamuelKunle/zenith-pay-wallet",
+        "url": "https://github.com/SamuelKunle/zenith-pay-wallet.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AffableAWE/async-gateway-proxy",
+        "url": "https://github.com/AffableAWE/async-gateway-proxy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Roland-fARKER/sistema-licencias-vortex-api",
+        "url": "https://github.com/Roland-fARKER/sistema-licencias-vortex-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "0x7h11s/api",
+        "url": "https://github.com/0x7h11s/api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "microsoft/cluster-api-provider-azurestackhci",
+        "url": "https://github.com/microsoft/cluster-api-provider-azurestackhci.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pmmdesenvolvedor/task-manager-frontend-angular",
+        "url": "https://github.com/pmmdesenvolvedor/task-manager-frontend-angular.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mattiaspersson09/junisert",
+        "url": "https://github.com/mattiaspersson09/junisert.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kesington18/FastApi-tutorial",
+        "url": "https://github.com/kesington18/FastApi-tutorial.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ettamgangadhar46/eastvantage-address-book",
+        "url": "https://github.com/ettamgangadhar46/eastvantage-address-book.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "techwithai-telugu/ai-api",
+        "url": "https://github.com/techwithai-telugu/ai-api.git",
+        "status": "Hasn't yet validated"
     }
 ]

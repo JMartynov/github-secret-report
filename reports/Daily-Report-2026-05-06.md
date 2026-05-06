@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hakimel/reveal.js
+
+**URL:** https://github.com/hakimel/reveal.js.git
+
+- **Files Scanned:** 7844
+- **Branches:** 7
+- **Size:** 47M
+- **Duration:** 860.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
