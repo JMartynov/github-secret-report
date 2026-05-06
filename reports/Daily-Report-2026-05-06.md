@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### louislam/uptime-kuma
+
+**URL:** https://github.com/louislam/uptime-kuma.git
+
+- **Files Scanned:** 12805
+- **Branches:** 11
+- **Size:** 48M
+- **Duration:** 242.73s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
