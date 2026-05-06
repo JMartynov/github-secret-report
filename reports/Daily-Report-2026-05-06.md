@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### FortAwesome/Font-Awesome
+
+**URL:** https://github.com/FortAwesome/Font-Awesome.git
+
+- **Files Scanned:** 236417
+- **Branches:** 15
+- **Size:** 296M
+- **Duration:** 317.74s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

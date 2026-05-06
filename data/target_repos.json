@@ -11548,5 +11548,100 @@
         "name": "AdrianMarHur/fullstack_project",
         "url": "https://github.com/AdrianMarHur/fullstack_project.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lingpy/pysem",
+        "url": "https://github.com/lingpy/pysem.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yottahmd/ganim8-lib",
+        "url": "https://github.com/yottahmd/ganim8-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gs1109/library-backend",
+        "url": "https://github.com/gs1109/library-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JayTwoLab/jaytwo-library",
+        "url": "https://github.com/JayTwoLab/jaytwo-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "guycorbaz/mybibli",
+        "url": "https://github.com/guycorbaz/mybibli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bengaudry/library-manager",
+        "url": "https://github.com/bengaudry/library-manager.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.blazor.mediaquery",
+        "url": "https://github.com/soenneker/soenneker.blazor.mediaquery.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "faffa81/fexmem",
+        "url": "https://github.com/faffa81/fexmem.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zachfi/jsonnet-libs",
+        "url": "https://github.com/zachfi/jsonnet-libs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jameel62/php-book-library",
+        "url": "https://github.com/jameel62/php-book-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SamuraiMDR/ollamadrama",
+        "url": "https://github.com/SamuraiMDR/ollamadrama.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xiotii31/digital-library",
+        "url": "https://github.com/xiotii31/digital-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mikeb55/creative-engines",
+        "url": "https://github.com/mikeb55/creative-engines.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "acdh-oeaw/lib",
+        "url": "https://github.com/acdh-oeaw/lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dkecompany/aether-dialect",
+        "url": "https://github.com/dkecompany/aether-dialect.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bundasmanu/webrtc-frontend",
+        "url": "https://github.com/bundasmanu/webrtc-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "contextforge-org/contextforge-plugins-framework",
+        "url": "https://github.com/contextforge-org/contextforge-plugins-framework.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "edisonkamara/LIBRARY-MS",
+        "url": "https://github.com/edisonkamara/LIBRARY-MS.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AdguardTeam/FilterListManager",
+        "url": "https://github.com/AdguardTeam/FilterListManager.git",
+        "status": "Hasn't yet validated"
     }
 ]
