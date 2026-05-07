@@ -12628,5 +12628,105 @@
         "name": "sofyanebarakat-beep/ClimaNova",
         "url": "https://github.com/sofyanebarakat-beep/ClimaNova.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "niklaslundberg/Arbor.HttpClient",
+        "url": "https://github.com/niklaslundberg/Arbor.HttpClient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dohydrado/clipflow-webapp",
+        "url": "https://github.com/dohydrado/clipflow-webapp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "adrianoadias/carl-dev-tools",
+        "url": "https://github.com/adrianoadias/carl-dev-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SAP-samples/sap-devs-cli",
+        "url": "https://github.com/SAP-samples/sap-devs-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "booking-learn/vet_clinic_backend",
+        "url": "https://github.com/booking-learn/vet_clinic_backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thetinkerinc/sprout-cli",
+        "url": "https://github.com/thetinkerinc/sprout-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cnpem/sophys-cli-extensions",
+        "url": "https://github.com/cnpem/sophys-cli-extensions.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "spences10/my-pi",
+        "url": "https://github.com/spences10/my-pi.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "carloscapo19/Aerospace-Knowledge-Quiz-CLI",
+        "url": "https://github.com/carloscapo19/Aerospace-Knowledge-Quiz-CLI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ICTLearningSciences/ABE-Client",
+        "url": "https://github.com/ICTLearningSciences/ABE-Client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DrBaher/sign-cli",
+        "url": "https://github.com/DrBaher/sign-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ogulcancelik/herdr",
+        "url": "https://github.com/ogulcancelik/herdr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "d3023232-cloud/Clicker",
+        "url": "https://github.com/d3023232-cloud/Clicker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gaelic-ghost/SwiftASB",
+        "url": "https://github.com/gaelic-ghost/SwiftASB.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ntoledo319/Rupture",
+        "url": "https://github.com/ntoledo319/Rupture.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "doggy8088/imagegen-aoai",
+        "url": "https://github.com/doggy8088/imagegen-aoai.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Kaichera/sniff",
+        "url": "https://github.com/Kaichera/sniff.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sultanmia22/TechEasy-Client",
+        "url": "https://github.com/Sultanmia22/TechEasy-Client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sanity-io/cli",
+        "url": "https://github.com/sanity-io/cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sanil-Surve/royal-cars-client",
+        "url": "https://github.com/Sanil-Surve/royal-cars-client.git",
+        "status": "Hasn't yet validated"
     }
 ]

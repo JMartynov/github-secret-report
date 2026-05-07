@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### adam-p/markdown-here
+
+**URL:** https://github.com/adam-p/markdown-here.git
+
+- **Files Scanned:** 3729
+- **Branches:** 14
+- **Size:** 34M
+- **Duration:** 17.9s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
