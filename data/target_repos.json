@@ -12268,5 +12268,95 @@
         "name": "37C-Agency/landing-engine",
         "url": "https://github.com/37C-Agency/landing-engine.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "datarobot-oss/datarobot-genai",
+        "url": "https://github.com/datarobot-oss/datarobot-genai.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MasacoWang/prompt-library-site",
+        "url": "https://github.com/MasacoWang/prompt-library-site.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "compassinformatics/ngx-ol",
+        "url": "https://github.com/compassinformatics/ngx-ol.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JobCollins/fairness_pipeline_dev_toolkit",
+        "url": "https://github.com/JobCollins/fairness_pipeline_dev_toolkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Mykazi127/noxrunner",
+        "url": "https://github.com/Mykazi127/noxrunner.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fuqunaga/RosettaUI",
+        "url": "https://github.com/fuqunaga/RosettaUI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nihiL7331/oo-alloc",
+        "url": "https://github.com/nihiL7331/oo-alloc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sadafqureshia/Playerr",
+        "url": "https://github.com/sadafqureshia/Playerr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rifatislam9/rating-sync",
+        "url": "https://github.com/rifatislam9/rating-sync.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "owhis/briefcase-api",
+        "url": "https://github.com/owhis/briefcase-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "HologramLib/HologramLib",
+        "url": "https://github.com/HologramLib/HologramLib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Hajar2000Alfarsi/Library-management-system",
+        "url": "https://github.com/Hajar2000Alfarsi/Library-management-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "saltkh/Library-System",
+        "url": "https://github.com/saltkh/Library-System.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mr-kg/KGSoft.TinyHttpClient",
+        "url": "https://github.com/mr-kg/KGSoft.TinyHttpClient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "awesomeyooner/WireLib",
+        "url": "https://github.com/awesomeyooner/WireLib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "groovytune/groovy",
+        "url": "https://github.com/groovytune/groovy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "boschglobal/dse.modelc",
+        "url": "https://github.com/boschglobal/dse.modelc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kirucollo/BookRider-Web-App",
+        "url": "https://github.com/kirucollo/BookRider-Web-App.git",
+        "status": "Hasn't yet validated"
     }
 ]
