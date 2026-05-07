@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Mintplex-Labs/anything-llm
+
+**URL:** https://github.com/Mintplex-Labs/anything-llm.git
+
+- **Files Scanned:** 0
+- **Branches:** 96
+- **Size:** 79M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
