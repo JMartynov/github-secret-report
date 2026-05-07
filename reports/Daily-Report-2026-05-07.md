@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### angular/angular.js
+
+**URL:** https://github.com/angular/angular.js.git
+
+- **Files Scanned:** 45163
+- **Branches:** 22
+- **Size:** 148M
+- **Duration:** 489.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
