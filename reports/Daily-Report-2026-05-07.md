@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lodash/lodash
+
+**URL:** https://github.com/lodash/lodash.git
+
+- **Files Scanned:** 0
+- **Branches:** 7
+- **Size:** 57M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
