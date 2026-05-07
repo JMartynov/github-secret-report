@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jgraph/drawio-desktop
+
+**URL:** https://github.com/jgraph/drawio-desktop.git
+
+- **Files Scanned:** 0
+- **Branches:** 15
+- **Size:** 4.5M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
