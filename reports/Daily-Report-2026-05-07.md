@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### webpack/webpack
+
+**URL:** https://github.com/webpack/webpack.git
+
+- **Files Scanned:** 0
+- **Branches:** 52
+- **Size:** 169M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
