@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### prettier/prettier
+
+**URL:** https://github.com/prettier/prettier.git
+
+- **Files Scanned:** 85163
+- **Branches:** 14
+- **Size:** 237M
+- **Duration:** 1540.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
