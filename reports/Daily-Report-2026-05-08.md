@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### TryGhost/Ghost
+
+**URL:** https://github.com/TryGhost/Ghost.git
+
+- **Files Scanned:** 0
+- **Branches:** 492
+- **Size:** 560M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
