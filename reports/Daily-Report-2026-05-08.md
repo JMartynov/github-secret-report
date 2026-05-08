@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### azl397985856/leetcode
+
+**URL:** https://github.com/azl397985856/leetcode.git
+
+- **Files Scanned:** 9911
+- **Branches:** 6
+- **Size:** 220M
+- **Duration:** 30.83s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
