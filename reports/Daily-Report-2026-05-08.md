@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### scutan90/DeepLearning-500-questions
+
+**URL:** https://github.com/scutan90/DeepLearning-500-questions.git
+
+- **Files Scanned:** 3883
+- **Branches:** 1
+- **Size:** 395M
+- **Duration:** 7.96s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
