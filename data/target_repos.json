@@ -13703,5 +13703,80 @@
         "name": "prosody-events/prosody-py",
         "url": "https://github.com/prosody-events/prosody-py.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "inguy24/weewx-clearskies-api",
+        "url": "https://github.com/inguy24/weewx-clearskies-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AliceFresh/api_yatube1",
+        "url": "https://github.com/AliceFresh/api_yatube1.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "silveremartin-dev/Episteme",
+        "url": "https://github.com/silveremartin-dev/Episteme.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "eesast/api",
+        "url": "https://github.com/eesast/api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "matoussi-roua/search_engine_api",
+        "url": "https://github.com/matoussi-roua/search_engine_api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Xavier-Ochoa/prueba1_Xavier-Ochoa",
+        "url": "https://github.com/Xavier-Ochoa/prueba1_Xavier-Ochoa.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "afzal2222/API-REST",
+        "url": "https://github.com/afzal2222/API-REST.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CesarSoria2224/movies-drf-ci",
+        "url": "https://github.com/CesarSoria2224/movies-drf-ci.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nicofranca/DriveFast-API",
+        "url": "https://github.com/Nicofranca/DriveFast-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mathcelebrity/api",
+        "url": "https://github.com/mathcelebrity/api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ApiariTools/apiari",
+        "url": "https://github.com/ApiariTools/apiari.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hushh-labs/hushh_Tech_website",
+        "url": "https://github.com/hushh-labs/hushh_Tech_website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "VRossi18/rick-morty-portal",
+        "url": "https://github.com/VRossi18/rick-morty-portal.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jimurrito/whatdoesthefedsay",
+        "url": "https://github.com/jimurrito/whatdoesthefedsay.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nacho111111/SmartBooking-API",
+        "url": "https://github.com/nacho111111/SmartBooking-API.git",
+        "status": "Hasn't yet validated"
     }
 ]

@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### agalwood/Motrix
+
+**URL:** https://github.com/agalwood/Motrix.git
+
+- **Files Scanned:** 3817
+- **Branches:** 9
+- **Size:** 122M
+- **Duration:** 36.61s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
