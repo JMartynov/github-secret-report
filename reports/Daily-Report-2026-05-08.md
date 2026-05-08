@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### marktext/marktext
+
+**URL:** https://github.com/marktext/marktext.git
+
+- **Files Scanned:** 8355
+- **Branches:** 5
+- **Size:** 95M
+- **Duration:** 148.18s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
