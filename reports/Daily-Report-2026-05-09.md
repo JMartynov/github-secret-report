@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Semantic-Org/Semantic-UI
+
+**URL:** https://github.com/Semantic-Org/Semantic-UI.git
+
+- **Files Scanned:** 0
+- **Branches:** 34
+- **Size:** 130M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
