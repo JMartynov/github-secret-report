@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NARKOZ/hacker-scripts
+
+**URL:** https://github.com/NARKOZ/hacker-scripts.git
+
+- **Files Scanned:** 140
+- **Branches:** 1
+- **Size:** 604K
+- **Duration:** 0.11s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
