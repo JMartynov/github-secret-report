@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### iamkun/dayjs
+
+**URL:** https://github.com/iamkun/dayjs.git
+
+- **Files Scanned:** 4031
+- **Branches:** 10
+- **Size:** 11M
+- **Duration:** 10.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
