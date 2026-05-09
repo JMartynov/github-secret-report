@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### serverless/serverless
+
+**URL:** https://github.com/serverless/serverless.git
+
+- **Files Scanned:** 47543
+- **Branches:** 81
+- **Size:** 126M
+- **Duration:** 231.58s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
