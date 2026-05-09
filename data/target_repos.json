@@ -14633,5 +14633,100 @@
         "name": "klyrachain/frontend",
         "url": "https://github.com/klyrachain/frontend.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rubrion/web-client",
+        "url": "https://github.com/rubrion/web-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yoyo11q8/megabuff-cli",
+        "url": "https://github.com/yoyo11q8/megabuff-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ykadioui00-wq/Cliprz",
+        "url": "https://github.com/ykadioui00-wq/Cliprz.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "1nepika10/EeveeSpotifyRevivedPublic",
+        "url": "https://github.com/1nepika10/EeveeSpotifyRevivedPublic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BNCHVN/opencompat",
+        "url": "https://github.com/BNCHVN/opencompat.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Dicklesworthstone/pi_agent_rust",
+        "url": "https://github.com/Dicklesworthstone/pi_agent_rust.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Jamesking56/cloudfleet-cli-aur",
+        "url": "https://github.com/Jamesking56/cloudfleet-cli-aur.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thomd/claude-code-sandbox",
+        "url": "https://github.com/thomd/claude-code-sandbox.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Rohitraj77/Book-my-show-clone-CLI",
+        "url": "https://github.com/Rohitraj77/Book-my-show-clone-CLI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "uNDe347r7Ale-HiDDen/bsc-bnb-sniper-bot",
+        "url": "https://github.com/uNDe347r7Ale-HiDDen/bsc-bnb-sniper-bot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "renancsilva94/site-new-clima",
+        "url": "https://github.com/renancsilva94/site-new-clima.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ahnl/torium",
+        "url": "https://github.com/ahnl/torium.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "imnumb1/terraform-guardrail",
+        "url": "https://github.com/imnumb1/terraform-guardrail.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "teng-lin/notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jucyboy/pyo3-hint-transpiler",
+        "url": "https://github.com/jucyboy/pyo3-hint-transpiler.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "panayiotis-blip/pcprime-client-portal",
+        "url": "https://github.com/panayiotis-blip/pcprime-client-portal.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "osauer/ibkr",
+        "url": "https://github.com/osauer/ibkr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jhonatanchavezcastillo/INSTALADOR-DEV-IA-TOOLING-PARA-UBUNTU-SERVER",
+        "url": "https://github.com/jhonatanchavezcastillo/INSTALADOR-DEV-IA-TOOLING-PARA-UBUNTU-SERVER.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yadhavshetty/server-scripts-cli",
+        "url": "https://github.com/yadhavshetty/server-scripts-cli.git",
+        "status": "Hasn't yet validated"
     }
 ]
