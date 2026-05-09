@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### microsoft/monaco-editor
+
+**URL:** https://github.com/microsoft/monaco-editor.git
+
+- **Files Scanned:** 44724
+- **Branches:** 33
+- **Size:** 162M
+- **Duration:** 548.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
