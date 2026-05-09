@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### poteto/hiring-without-whiteboards
+
+**URL:** https://github.com/poteto/hiring-without-whiteboards.git
+
+- **Files Scanned:** 1634
+- **Branches:** 1
+- **Size:** 4.0M
+- **Duration:** 13.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
