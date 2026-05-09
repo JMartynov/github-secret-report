@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bigskysoftware/htmx
+
+**URL:** https://github.com/bigskysoftware/htmx.git
+
+- **Files Scanned:** 30417
+- **Branches:** 46
+- **Size:** 417M
+- **Duration:** 402.78s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
