@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gsd-build/get-shit-done
+
+**URL:** https://github.com/gsd-build/get-shit-done.git
+
+- **Files Scanned:** 9820
+- **Branches:** 228
+- **Size:** 34M
+- **Duration:** 61.14s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
