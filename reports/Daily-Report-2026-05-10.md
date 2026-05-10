@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nolimits4web/swiper
+
+**URL:** https://github.com/nolimits4web/swiper.git
+
+- **Files Scanned:** 10874
+- **Branches:** 11
+- **Size:** 86M
+- **Duration:** 244.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
