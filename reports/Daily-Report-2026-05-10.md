@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### parcel-bundler/parcel
+
+**URL:** https://github.com/parcel-bundler/parcel.git
+
+- **Files Scanned:** 0
+- **Branches:** 280
+- **Size:** 97M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
