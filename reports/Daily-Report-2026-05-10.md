@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yarnpkg/yarn
+
+**URL:** https://github.com/yarnpkg/yarn.git
+
+- **Files Scanned:** 27055
+- **Branches:** 123
+- **Size:** 228M
+- **Duration:** 135.92s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
