@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Leaflet/Leaflet
+
+**URL:** https://github.com/Leaflet/Leaflet.git
+
+- **Files Scanned:** 18554
+- **Branches:** 42
+- **Size:** 76M
+- **Duration:** 165.59s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
