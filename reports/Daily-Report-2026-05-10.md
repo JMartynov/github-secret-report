@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### GitSquared/edex-ui
+
+**URL:** https://github.com/GitSquared/edex-ui.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 51M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
