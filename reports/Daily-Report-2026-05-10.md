@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nwjs/nw.js
+
+**URL:** https://github.com/nwjs/nw.js.git
+
+- **Files Scanned:** 17615
+- **Branches:** 116
+- **Size:** 300M
+- **Duration:** 113.53s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
