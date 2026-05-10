@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### usebruno/bruno
+
+**URL:** https://github.com/usebruno/bruno.git
+
+- **Files Scanned:** 21821
+- **Branches:** 212
+- **Size:** 80M
+- **Duration:** 233.29s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
