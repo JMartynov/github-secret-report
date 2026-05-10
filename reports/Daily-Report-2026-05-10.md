@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bmad-code-org/BMAD-METHOD
+
+**URL:** https://github.com/bmad-code-org/BMAD-METHOD.git
+
+- **Files Scanned:** 25795
+- **Branches:** 117
+- **Size:** 57M
+- **Duration:** 141.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
