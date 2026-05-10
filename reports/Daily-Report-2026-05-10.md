@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### zen-browser/desktop
+
+**URL:** https://github.com/zen-browser/desktop.git
+
+- **Files Scanned:** 0
+- **Branches:** 9
+- **Size:** 5.7G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
