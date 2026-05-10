@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NaiboWang/EasySpider
+
+**URL:** https://github.com/NaiboWang/EasySpider.git
+
+- **Files Scanned:** 0
+- **Branches:** 2
+- **Size:** 244M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
