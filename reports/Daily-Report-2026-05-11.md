@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### goabstract/Awesome-Design-Tools
+
+**URL:** https://github.com/goabstract/Awesome-Design-Tools.git
+
+- **Files Scanned:** 0
+- **Branches:** 12
+- **Size:** 33M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
