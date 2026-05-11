@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### impress/impress.js
+
+**URL:** https://github.com/impress/impress.js.git
+
+- **Files Scanned:** 0
+- **Branches:** 7
+- **Size:** 9.8M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
