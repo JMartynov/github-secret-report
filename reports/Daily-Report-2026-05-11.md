@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Dogfalo/materialize
+
+**URL:** https://github.com/Dogfalo/materialize.git
+
+- **Files Scanned:** 17887
+- **Branches:** 24
+- **Size:** 176M
+- **Duration:** 177.77s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
