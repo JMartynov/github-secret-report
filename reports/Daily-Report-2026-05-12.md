@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### koajs/koa
+
+**URL:** https://github.com/koajs/koa.git
+
+- **Files Scanned:** 3192
+- **Branches:** 12
+- **Size:** 5.5M
+- **Duration:** 21.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
