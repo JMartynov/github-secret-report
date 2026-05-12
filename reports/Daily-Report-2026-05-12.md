@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### carbon-app/carbon
+
+**URL:** https://github.com/carbon-app/carbon.git
+
+- **Files Scanned:** 5662
+- **Branches:** 15
+- **Size:** 24M
+- **Duration:** 175.53s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
