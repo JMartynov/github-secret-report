@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### drawdb-io/drawdb
+
+**URL:** https://github.com/drawdb-io/drawdb.git
+
+- **Files Scanned:** 3275
+- **Branches:** 14
+- **Size:** 11M
+- **Duration:** 39.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
