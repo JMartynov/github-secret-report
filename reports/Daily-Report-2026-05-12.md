@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### fastify/fastify
+
+**URL:** https://github.com/fastify/fastify.git
+
+- **Files Scanned:** 10990
+- **Branches:** 26
+- **Size:** 15M
+- **Duration:** 40.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
