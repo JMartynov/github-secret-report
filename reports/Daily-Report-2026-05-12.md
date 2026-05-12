@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alvarotrigo/fullPage.js
+
+**URL:** https://github.com/alvarotrigo/fullPage.js.git
+
+- **Files Scanned:** 5603
+- **Branches:** 8
+- **Size:** 30M
+- **Duration:** 52.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
