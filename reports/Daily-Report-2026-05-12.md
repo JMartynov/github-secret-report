@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### markedjs/marked
+
+**URL:** https://github.com/markedjs/marked.git
+
+- **Files Scanned:** 7253
+- **Branches:** 1
+- **Size:** 14M
+- **Duration:** 264.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
