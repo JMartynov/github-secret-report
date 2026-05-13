@@ -18158,5 +18158,95 @@
         "name": "soenneker/soenneker.grafana.httpclients",
         "url": "https://github.com/soenneker/soenneker.grafana.httpclients.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xingyuli/beyond-local-file",
+        "url": "https://github.com/xingyuli/beyond-local-file.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ICJIA/filecap-cli",
+        "url": "https://github.com/ICJIA/filecap-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "diagrammo/homebrew-dgmo",
+        "url": "https://github.com/diagrammo/homebrew-dgmo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "danielbroquet/clickk_app",
+        "url": "https://github.com/danielbroquet/clickk_app.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "arad1do/buzzbit-cli",
+        "url": "https://github.com/arad1do/buzzbit-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fairscape/fairscape-cli",
+        "url": "https://github.com/fairscape/fairscape-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "INDUWARA-P-JAYASINGHE/git-recently",
+        "url": "https://github.com/INDUWARA-P-JAYASINGHE/git-recently.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "coilysiren/cli-mcp",
+        "url": "https://github.com/coilysiren/cli-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AI-wuji/wuji-legion-codex",
+        "url": "https://github.com/AI-wuji/wuji-legion-codex.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wonddark/op_client",
+        "url": "https://github.com/wonddark/op_client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "artemiosds/clinic-flow-buddy-70",
+        "url": "https://github.com/artemiosds/clinic-flow-buddy-70.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "reVrost/mpal-cli",
+        "url": "https://github.com/reVrost/mpal-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "markeglseder/flux2-dev-lora-toolkit",
+        "url": "https://github.com/markeglseder/flux2-dev-lora-toolkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "precinctplatforms/clientcode",
+        "url": "https://github.com/precinctplatforms/clientcode.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dongquoctien/news-tok",
+        "url": "https://github.com/dongquoctien/news-tok.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "advancedchile/ToothClicker",
+        "url": "https://github.com/advancedchile/ToothClicker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jonwilliams84/cli-anything-nightscout",
+        "url": "https://github.com/jonwilliams84/cli-anything-nightscout.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lukacf/meerkat",
+        "url": "https://github.com/lukacf/meerkat.git",
+        "status": "Hasn't yet validated"
     }
 ]
