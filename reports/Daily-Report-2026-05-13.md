@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gchq/CyberChef
+
+**URL:** https://github.com/gchq/CyberChef.git
+
+- **Files Scanned:** 10931
+- **Branches:** 9
+- **Size:** 159M
+- **Duration:** 492.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
