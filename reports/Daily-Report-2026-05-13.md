@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### typicode/husky
+
+**URL:** https://github.com/typicode/husky.git
+
+- **Files Scanned:** 2901
+- **Branches:** 11
+- **Size:** 6.2M
+- **Duration:** 53.67s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
