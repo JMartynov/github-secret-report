@@ -18248,5 +18248,100 @@
         "name": "lukacf/meerkat",
         "url": "https://github.com/lukacf/meerkat.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cizyypie/digital-library",
+        "url": "https://github.com/cizyypie/digital-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "crodorg/fuga",
+        "url": "https://github.com/crodorg/fuga.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ray-project/ray",
+        "url": "https://github.com/ray-project/ray.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ephes/ops-library",
+        "url": "https://github.com/ephes/ops-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chonkie-inc/chonkie",
+        "url": "https://github.com/chonkie-inc/chonkie.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rmos5/PaymentTerminalService",
+        "url": "https://github.com/rmos5/PaymentTerminalService.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rashmii2210/LibraryManagementSystem",
+        "url": "https://github.com/rashmii2210/LibraryManagementSystem.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KarimAlkabily/library-management-fastapi",
+        "url": "https://github.com/KarimAlkabily/library-management-fastapi.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "frenchfries9638-ui/ao3-library",
+        "url": "https://github.com/frenchfries9638-ui/ao3-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vimal-kumarm/book-library-app",
+        "url": "https://github.com/vimal-kumarm/book-library-app.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vitermoldy/Viygo-Salon",
+        "url": "https://github.com/vitermoldy/Viygo-Salon.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LAPKB/PmetricsModelLib",
+        "url": "https://github.com/LAPKB/PmetricsModelLib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ufoo68/ufoo-ui",
+        "url": "https://github.com/ufoo68/ufoo-ui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "363045841/KLineChartQuant",
+        "url": "https://github.com/363045841/KLineChartQuant.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PressingButtons/G2D",
+        "url": "https://github.com/PressingButtons/G2D.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Cynthiaz1012/LibraryManagementSystem",
+        "url": "https://github.com/Cynthiaz1012/LibraryManagementSystem.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kekedy0212-design/library-management-system",
+        "url": "https://github.com/kekedy0212-design/library-management-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vorbei/x-library-feed",
+        "url": "https://github.com/vorbei/x-library-feed.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "margarita-form/salty-css",
+        "url": "https://github.com/margarita-form/salty-css.git",
+        "status": "Hasn't yet validated"
     }
 ]

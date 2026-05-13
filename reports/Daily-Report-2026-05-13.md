@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### qishibo/AnotherRedisDesktopManager
+
+**URL:** https://github.com/qishibo/AnotherRedisDesktopManager.git
+
+- **Files Scanned:** 3525
+- **Branches:** 77
+- **Size:** 11M
+- **Duration:** 34.84s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
