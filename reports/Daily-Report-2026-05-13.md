@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### TheAlgorithms/JavaScript
+
+**URL:** https://github.com/TheAlgorithms/JavaScript.git
+
+- **Files Scanned:** 3109
+- **Branches:** 6
+- **Size:** 6.9M
+- **Duration:** 9.14s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
