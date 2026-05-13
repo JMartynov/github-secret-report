@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ryanhanwu/How-To-Ask-Questions-The-Smart-Way
+
+**URL:** https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way.git
+
+- **Files Scanned:** 261
+- **Branches:** 1
+- **Size:** 796K
+- **Duration:** 1.18s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
