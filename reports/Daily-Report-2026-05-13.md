@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pcottle/learnGitBranching
+
+**URL:** https://github.com/pcottle/learnGitBranching.git
+
+- **Files Scanned:** 8716
+- **Branches:** 19
+- **Size:** 70M
+- **Duration:** 408.29s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
