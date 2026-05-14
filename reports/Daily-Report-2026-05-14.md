@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### avelino/awesome-go
+
+**URL:** https://github.com/avelino/awesome-go.git
+
+- **Files Scanned:** 4614
+- **Branches:** 4
+- **Size:** 15M
+- **Duration:** 133.97s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
