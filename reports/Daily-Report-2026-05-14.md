@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### golang/go
+
+**URL:** https://github.com/golang/go.git
+
+- **Files Scanned:** 262320
+- **Branches:** 64
+- **Size:** 633M
+- **Duration:** 2506.12s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
