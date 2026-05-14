@@ -18603,5 +18603,90 @@
         "name": "thematters/matters-server",
         "url": "https://github.com/thematters/matters-server.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "univcorp2-ctrl/openmythos-gpt-claude-api",
+        "url": "https://github.com/univcorp2-ctrl/openmythos-gpt-claude-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "julioblaq/sigma-core-os",
+        "url": "https://github.com/julioblaq/sigma-core-os.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dosmoon/VideoCraft",
+        "url": "https://github.com/dosmoon/VideoCraft.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gumadeiras/twopy",
+        "url": "https://github.com/gumadeiras/twopy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yadavlokesh1/AD-User-Audit-Tool",
+        "url": "https://github.com/yadavlokesh1/AD-User-Audit-Tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chitinhq/chitin",
+        "url": "https://github.com/chitinhq/chitin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "seiffayed/Password_Manager",
+        "url": "https://github.com/seiffayed/Password_Manager.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fernandotonon/QtMeshEditor",
+        "url": "https://github.com/fernandotonon/QtMeshEditor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "solidcitizen/smart",
+        "url": "https://github.com/solidcitizen/smart.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zqybw98/careerops-tracker",
+        "url": "https://github.com/zqybw98/careerops-tracker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AlirezaBelal/iran-contact-data-pipeline",
+        "url": "https://github.com/AlirezaBelal/iran-contact-data-pipeline.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Soggaling/Kitty-tools-MAC-install",
+        "url": "https://github.com/Soggaling/Kitty-tools-MAC-install.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mo187brk/Power-System-Transmission-Tool",
+        "url": "https://github.com/mo187brk/Power-System-Transmission-Tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xlabs-club/awesome-x-ops",
+        "url": "https://github.com/xlabs-club/awesome-x-ops.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OWASP-BLT/BLT-Monitor",
+        "url": "https://github.com/OWASP-BLT/BLT-Monitor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hmelberg/thora",
+        "url": "https://github.com/hmelberg/thora.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cityjia/foundry-utils",
+        "url": "https://github.com/cityjia/foundry-utils.git",
+        "status": "Hasn't yet validated"
     }
 ]
