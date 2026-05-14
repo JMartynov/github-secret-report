@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### songquanpeng/one-api
+
+**URL:** https://github.com/songquanpeng/one-api.git
+
+- **Files Scanned:** 5340
+- **Branches:** 7
+- **Size:** 21M
+- **Duration:** 29.89s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
