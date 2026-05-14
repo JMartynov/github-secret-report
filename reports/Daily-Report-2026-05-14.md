@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lovell/sharp
+
+**URL:** https://github.com/lovell/sharp.git
+
+- **Files Scanned:** 9624
+- **Branches:** 2
+- **Size:** 108M
+- **Duration:** 38.14s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
