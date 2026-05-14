@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### airbnb/lottie-web
+
+**URL:** https://github.com/airbnb/lottie-web.git
+
+- **Files Scanned:** 12868
+- **Branches:** 70
+- **Size:** 405M
+- **Duration:** 205.54s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
