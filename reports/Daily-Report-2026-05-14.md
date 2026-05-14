@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lutzroeder/netron
+
+**URL:** https://github.com/lutzroeder/netron.git
+
+- **Files Scanned:** 20270
+- **Branches:** 3
+- **Size:** 125M
+- **Duration:** 668.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
