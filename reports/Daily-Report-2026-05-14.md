@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gulpjs/gulp
+
+**URL:** https://github.com/gulpjs/gulp.git
+
+- **Files Scanned:** 1753
+- **Branches:** 3
+- **Size:** 2.2M
+- **Duration:** 1.4s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
