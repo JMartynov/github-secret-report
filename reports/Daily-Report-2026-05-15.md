@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nektos/act
+
+**URL:** https://github.com/nektos/act.git
+
+- **Files Scanned:** 9808
+- **Branches:** 32
+- **Size:** 138M
+- **Duration:** 82.3s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
