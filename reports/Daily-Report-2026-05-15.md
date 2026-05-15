@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### caddyserver/caddy
+
+**URL:** https://github.com/caddyserver/caddy.git
+
+- **Files Scanned:** 15651
+- **Branches:** 42
+- **Size:** 28M
+- **Duration:** 78.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
