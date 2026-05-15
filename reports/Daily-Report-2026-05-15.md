@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### fatedier/frp
+
+**URL:** https://github.com/fatedier/frp.git
+
+- **Files Scanned:** 9343
+- **Branches:** 4
+- **Size:** 36M
+- **Duration:** 69.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
