@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jesseduffield/lazygit
+
+**URL:** https://github.com/jesseduffield/lazygit.git
+
+- **Files Scanned:** 0
+- **Branches:** 54
+- **Size:** 181M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
