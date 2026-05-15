@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### syncthing/syncthing
+
+**URL:** https://github.com/syncthing/syncthing.git
+
+- **Files Scanned:** 0
+- **Branches:** 7
+- **Size:** 142M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
