@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gin-gonic/gin
+
+**URL:** https://github.com/gin-gonic/gin.git
+
+- **Files Scanned:** 6130
+- **Branches:** 19
+- **Size:** 13M
+- **Duration:** 27.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
