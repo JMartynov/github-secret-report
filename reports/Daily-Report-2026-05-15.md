@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### moby/moby
+
+**URL:** https://github.com/moby/moby.git
+
+- **Files Scanned:** 214083
+- **Branches:** 18
+- **Size:** 410M
+- **Duration:** 1357.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
