@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### usememos/memos
+
+**URL:** https://github.com/usememos/memos.git
+
+- **Files Scanned:** 24393
+- **Branches:** 2
+- **Size:** 49M
+- **Duration:** 152.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
