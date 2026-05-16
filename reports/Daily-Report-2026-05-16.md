@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### go-gitea/gitea
+
+**URL:** https://github.com/go-gitea/gitea.git
+
+- **Files Scanned:** 161098
+- **Branches:** 21
+- **Size:** 390M
+- **Duration:** 1415.52s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
