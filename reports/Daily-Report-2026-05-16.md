@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rclone/rclone
+
+**URL:** https://github.com/rclone/rclone.git
+
+- **Files Scanned:** 72447
+- **Branches:** 215
+- **Size:** 287M
+- **Duration:** 853.4s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
