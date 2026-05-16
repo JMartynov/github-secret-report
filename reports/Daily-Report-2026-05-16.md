@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jesseduffield/lazydocker
+
+**URL:** https://github.com/jesseduffield/lazydocker.git
+
+- **Files Scanned:** 7487
+- **Branches:** 10
+- **Size:** 62M
+- **Duration:** 30.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
