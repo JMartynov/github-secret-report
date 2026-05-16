@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ethereum/go-ethereum
+
+**URL:** https://github.com/ethereum/go-ethereum.git
+
+- **Files Scanned:** 0
+- **Branches:** 68
+- **Size:** 322M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

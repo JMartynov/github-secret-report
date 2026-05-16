@@ -21218,5 +21218,95 @@
         "name": "jeampier/novedad-app-frontend",
         "url": "https://github.com/jeampier/novedad-app-frontend.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GamemodeG/ocr_scanner_gemini",
+        "url": "https://github.com/GamemodeG/ocr_scanner_gemini.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Michal1337/clinician-co-pilot",
+        "url": "https://github.com/Michal1337/clinician-co-pilot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zikovitsh/db-mover",
+        "url": "https://github.com/zikovitsh/db-mover.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "marcello-vieira/yt-downloader",
+        "url": "https://github.com/marcello-vieira/yt-downloader.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "recodeee/gitguardex",
+        "url": "https://github.com/recodeee/gitguardex.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "karim10062009/oidc4vc-static-resol",
+        "url": "https://github.com/karim10062009/oidc4vc-static-resol.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GabrielFR-Dev/Clinica-Pediatria",
+        "url": "https://github.com/GabrielFR-Dev/Clinica-Pediatria.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gentityapp/cli",
+        "url": "https://github.com/gentityapp/cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "openCoreEMR/oce-cli-manage-users",
+        "url": "https://github.com/openCoreEMR/oce-cli-manage-users.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CLI-stack/genie_agent",
+        "url": "https://github.com/CLI-stack/genie_agent.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fabiootempesta/claude-routines",
+        "url": "https://github.com/fabiootempesta/claude-routines.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PR0x0Ne/CliwonJagungtea",
+        "url": "https://github.com/PR0x0Ne/CliwonJagungtea.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "00Seixas/upfy-clipes",
+        "url": "https://github.com/00Seixas/upfy-clipes.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "koklolkok/client2",
+        "url": "https://github.com/koklolkok/client2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Juraiyah/smugmug-bulk-downloader",
+        "url": "https://github.com/Juraiyah/smugmug-bulk-downloader.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zzyyfff/agent-handoff",
+        "url": "https://github.com/zzyyfff/agent-handoff.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fabiootempesta/codex-routines",
+        "url": "https://github.com/fabiootempesta/codex-routines.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wsadaaaa/translategemma-cli",
+        "url": "https://github.com/wsadaaaa/translategemma-cli.git",
+        "status": "Hasn't yet validated"
     }
 ]
