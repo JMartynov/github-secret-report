@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pocketbase/pocketbase
+
+**URL:** https://github.com/pocketbase/pocketbase.git
+
+- **Files Scanned:** 29244
+- **Branches:** 3
+- **Size:** 153M
+- **Duration:** 160.23s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
