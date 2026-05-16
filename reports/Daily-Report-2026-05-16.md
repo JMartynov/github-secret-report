@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### FiloSottile/mkcert
+
+**URL:** https://github.com/FiloSottile/mkcert.git
+
+- **Files Scanned:** 417
+- **Branches:** 1
+- **Size:** 2.1M
+- **Duration:** 1.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

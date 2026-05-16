@@ -20703,5 +20703,100 @@
         "name": "secumarocgroup-ship-it/secumaroc-website",
         "url": "https://github.com/secumarocgroup-ship-it/secumaroc-website.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alexissan/ai-release-radar-cli",
+        "url": "https://github.com/alexissan/ai-release-radar-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AltairaLabs/PromptKit",
+        "url": "https://github.com/AltairaLabs/PromptKit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "licyk/ani2xcur-cli",
+        "url": "https://github.com/licyk/ani2xcur-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "invertebratekinanesthesia779/aios-core",
+        "url": "https://github.com/invertebratekinanesthesia779/aios-core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "benclawbot/clicky-windows",
+        "url": "https://github.com/benclawbot/clicky-windows.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "juice094/syncthing-rust",
+        "url": "https://github.com/juice094/syncthing-rust.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LucasNagtegaal908/QuotaClimat_CAPSTONE",
+        "url": "https://github.com/LucasNagtegaal908/QuotaClimat_CAPSTONE.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FiloAI/OpenAgentClient",
+        "url": "https://github.com/FiloAI/OpenAgentClient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rafslazy/SECCAT2PARQUET",
+        "url": "https://github.com/rafslazy/SECCAT2PARQUET.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gunny158/mobile-clinic-application",
+        "url": "https://github.com/gunny158/mobile-clinic-application.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Tokiomkd/struct-cli",
+        "url": "https://github.com/Tokiomkd/struct-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dictybase-docker/github-actions",
+        "url": "https://github.com/dictybase-docker/github-actions.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amarbel-llc/madder",
+        "url": "https://github.com/amarbel-llc/madder.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thithoai/ccbox",
+        "url": "https://github.com/thithoai/ccbox.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shardulg2002/android-sdk-installer",
+        "url": "https://github.com/shardulg2002/android-sdk-installer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "louie47690/zeicheck",
+        "url": "https://github.com/louie47690/zeicheck.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pabz616/playwright-cli",
+        "url": "https://github.com/pabz616/playwright-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nfsarch33/cursor-tools",
+        "url": "https://github.com/nfsarch33/cursor-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "putdotio/taizn",
+        "url": "https://github.com/putdotio/taizn.git",
+        "status": "Hasn't yet validated"
     }
 ]
