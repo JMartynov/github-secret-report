@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### etcd-io/etcd
+
+**URL:** https://github.com/etcd-io/etcd.git
+
+- **Files Scanned:** 78086
+- **Branches:** 30
+- **Size:** 120M
+- **Duration:** 526.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
