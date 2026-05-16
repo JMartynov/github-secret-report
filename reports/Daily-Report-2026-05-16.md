@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### traefik/traefik
+
+**URL:** https://github.com/traefik/traefik.git
+
+- **Files Scanned:** 53714
+- **Branches:** 29
+- **Size:** 144M
+- **Duration:** 383.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
