@@ -21853,5 +21853,100 @@
         "name": "ShaiCohen-ops/Praat-plugin_AudioTools",
         "url": "https://github.com/ShaiCohen-ops/Praat-plugin_AudioTools.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Abhrankan-Chakrabarti/geometric-admin-dashboard",
+        "url": "https://github.com/Abhrankan-Chakrabarti/geometric-admin-dashboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Kennata/libraryms",
+        "url": "https://github.com/Kennata/libraryms.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "katolikov/ClockForge",
+        "url": "https://github.com/katolikov/ClockForge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bolorundurowb/OmniAssert",
+        "url": "https://github.com/bolorundurowb/OmniAssert.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "babadany2999/FastProtobuf",
+        "url": "https://github.com/babadany2999/FastProtobuf.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "opensite-ai/opensite-ui",
+        "url": "https://github.com/opensite-ai/opensite-ui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DanielBhatti/Eli",
+        "url": "https://github.com/DanielBhatti/Eli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vilaj46/start-library",
+        "url": "https://github.com/vilaj46/start-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "borb-pdf/borb",
+        "url": "https://github.com/borb-pdf/borb.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wundii/flowcrafter",
+        "url": "https://github.com/wundii/flowcrafter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ora-commons/ora",
+        "url": "https://github.com/ora-commons/ora.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agnostic-t/xsocks",
+        "url": "https://github.com/agnostic-t/xsocks.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ekkx/yaylib",
+        "url": "https://github.com/ekkx/yaylib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "subzeroid/aiograpi",
+        "url": "https://github.com/subzeroid/aiograpi.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mhmd313haidar-cmyk/ahlulbayt-library",
+        "url": "https://github.com/mhmd313haidar-cmyk/ahlulbayt-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mostlymaxi/cargo-athena",
+        "url": "https://github.com/mostlymaxi/cargo-athena.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ndahn/yonder",
+        "url": "https://github.com/ndahn/yonder.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "UsagiApp/core-parsers",
+        "url": "https://github.com/UsagiApp/core-parsers.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "reportportal/client-Python",
+        "url": "https://github.com/reportportal/client-Python.git",
+        "status": "Hasn't yet validated"
     }
 ]
