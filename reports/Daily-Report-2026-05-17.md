@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cli/cli
+
+**URL:** https://github.com/cli/cli.git
+
+- **Files Scanned:** 25925
+- **Branches:** 224
+- **Size:** 103M
+- **Duration:** 101.38s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
