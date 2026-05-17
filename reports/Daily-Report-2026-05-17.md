@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### spf13/cobra
+
+**URL:** https://github.com/spf13/cobra.git
+
+- **Files Scanned:** 1868
+- **Branches:** 8
+- **Size:** 3.3M
+- **Duration:** 7.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
