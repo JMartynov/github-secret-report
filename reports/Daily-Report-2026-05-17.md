@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### astaxie/build-web-application-with-golang
+
+**URL:** https://github.com/astaxie/build-web-application-with-golang.git
+
+- **Files Scanned:** 12160
+- **Branches:** 1
+- **Size:** 193M
+- **Duration:** 23.0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
