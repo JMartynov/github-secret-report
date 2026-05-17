@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hashicorp/terraform
+
+**URL:** https://github.com/hashicorp/terraform.git
+
+- **Files Scanned:** 0
+- **Branches:** 843
+- **Size:** 407M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
