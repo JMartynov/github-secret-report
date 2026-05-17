@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### coreybutler/nvm-windows
+
+**URL:** https://github.com/coreybutler/nvm-windows.git
+
+- **Files Scanned:** 653
+- **Branches:** 18
+- **Size:** 40M
+- **Duration:** 3.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
