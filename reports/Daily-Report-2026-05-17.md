@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gogs/gogs
+
+**URL:** https://github.com/gogs/gogs.git
+
+- **Files Scanned:** 31267
+- **Branches:** 14
+- **Size:** 253M
+- **Duration:** 279.59s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
