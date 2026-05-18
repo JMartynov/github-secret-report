@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gofiber/fiber
+
+**URL:** https://github.com/gofiber/fiber.git
+
+- **Files Scanned:** 15831
+- **Branches:** 26
+- **Size:** 64M
+- **Duration:** 153.0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
