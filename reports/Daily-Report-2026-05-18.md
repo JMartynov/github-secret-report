@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pingcap/tidb
+
+**URL:** https://github.com/pingcap/tidb.git
+
+- **Files Scanned:** 0
+- **Branches:** 384
+- **Size:** 791M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
