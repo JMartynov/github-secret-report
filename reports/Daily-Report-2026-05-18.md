@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### go-gorm/gorm
+
+**URL:** https://github.com/go-gorm/gorm.git
+
+- **Files Scanned:** 6998
+- **Branches:** 15
+- **Size:** 7.1M
+- **Duration:** 18.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
