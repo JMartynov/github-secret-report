@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### istio/istio
+
+**URL:** https://github.com/istio/istio.git
+
+- **Files Scanned:** 0
+- **Branches:** 301
+- **Size:** 360M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
