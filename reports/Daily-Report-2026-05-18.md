@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### evanw/esbuild
+
+**URL:** https://github.com/evanw/esbuild.git
+
+- **Files Scanned:** 23265
+- **Branches:** 3
+- **Size:** 32M
+- **Duration:** 568.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
