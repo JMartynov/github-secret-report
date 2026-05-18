@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### danielmiessler/Fabric
+
+**URL:** https://github.com/danielmiessler/Fabric.git
+
+- **Files Scanned:** 11325
+- **Branches:** 3
+- **Size:** 181M
+- **Duration:** 339.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
