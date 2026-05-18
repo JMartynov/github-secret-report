@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### photoprism/photoprism
+
+**URL:** https://github.com/photoprism/photoprism.git
+
+- **Files Scanned:** 0
+- **Branches:** 52
+- **Size:** 464M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
