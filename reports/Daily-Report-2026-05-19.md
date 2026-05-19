@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### unknwon/the-way-to-go_ZH_CN
+
+**URL:** https://github.com/unknwon/the-way-to-go_ZH_CN.git
+
+- **Files Scanned:** 3497
+- **Branches:** 1
+- **Size:** 19M
+- **Duration:** 3.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
