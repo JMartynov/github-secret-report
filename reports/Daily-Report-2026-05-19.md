@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### schollz/croc
+
+**URL:** https://github.com/schollz/croc.git
+
+- **Files Scanned:** 13547
+- **Branches:** 48
+- **Size:** 27M
+- **Duration:** 54.12s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
