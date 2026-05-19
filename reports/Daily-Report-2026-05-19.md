@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### 1Panel-dev/1Panel
+
+**URL:** https://github.com/1Panel-dev/1Panel.git
+
+- **Files Scanned:** 0
+- **Branches:** 50
+- **Size:** 132M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
