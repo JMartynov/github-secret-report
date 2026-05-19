@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hashicorp/vault
+
+**URL:** https://github.com/hashicorp/vault.git
+
+- **Files Scanned:** 0
+- **Branches:** 2878
+- **Size:** 431M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
