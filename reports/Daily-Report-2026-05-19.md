@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### juanfont/headscale
+
+**URL:** https://github.com/juanfont/headscale.git
+
+- **Files Scanned:** 18421
+- **Branches:** 74
+- **Size:** 411M
+- **Duration:** 222.26s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
