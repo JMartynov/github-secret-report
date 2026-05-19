@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### XTLS/Xray-core
+
+**URL:** https://github.com/XTLS/Xray-core.git
+
+- **Files Scanned:** 10064
+- **Branches:** 73
+- **Size:** 38M
+- **Duration:** 27.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
