@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### IceWhaleTech/CasaOS
+
+**URL:** https://github.com/IceWhaleTech/CasaOS.git
+
+- **Files Scanned:** 0
+- **Branches:** 3
+- **Size:** 186M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

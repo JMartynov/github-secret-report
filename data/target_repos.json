@@ -24243,5 +24243,85 @@
         "name": "linq-team/linq-python",
         "url": "https://github.com/linq-team/linq-python.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Thea-Energy/basalt",
+        "url": "https://github.com/Thea-Energy/basalt.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shakfu/chimera",
+        "url": "https://github.com/shakfu/chimera.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ChrisNisbet01/easy_pc",
+        "url": "https://github.com/ChrisNisbet01/easy_pc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "himanshuhunterbaba/PyPTY",
+        "url": "https://github.com/himanshuhunterbaba/PyPTY.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dtmskull/fastoml",
+        "url": "https://github.com/dtmskull/fastoml.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thedavidhoffman/abs-tv-roku",
+        "url": "https://github.com/thedavidhoffman/abs-tv-roku.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mrharoon927/DinoGame",
+        "url": "https://github.com/mrharoon927/DinoGame.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FeryaelJustice/SuperNewsApp",
+        "url": "https://github.com/FeryaelJustice/SuperNewsApp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fa8i/Agentify",
+        "url": "https://github.com/fa8i/Agentify.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "utensils/ptywright",
+        "url": "https://github.com/utensils/ptywright.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GoogleCloudPlatform/cloud-sql-go-connector",
+        "url": "https://github.com/GoogleCloudPlatform/cloud-sql-go-connector.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dimitris-di/lude-kit",
+        "url": "https://github.com/dimitris-di/lude-kit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tier4/ota-image-builder",
+        "url": "https://github.com/tier4/ota-image-builder.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KotlinMania/ember-ml-kotlin",
+        "url": "https://github.com/KotlinMania/ember-ml-kotlin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "greergan/SlimLibraryPackager",
+        "url": "https://github.com/greergan/SlimLibraryPackager.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "javajack/xlfill",
+        "url": "https://github.com/javajack/xlfill.git",
+        "status": "Hasn't yet validated"
     }
 ]
