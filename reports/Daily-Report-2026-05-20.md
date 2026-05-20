@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### aquasecurity/trivy
+
+**URL:** https://github.com/aquasecurity/trivy.git
+
+- **Files Scanned:** 0
+- **Branches:** 25
+- **Size:** 1.1G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
