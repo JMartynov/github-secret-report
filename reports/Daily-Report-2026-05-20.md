@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### halfrost/LeetCode-Go
+
+**URL:** https://github.com/halfrost/LeetCode-Go.git
+
+- **Files Scanned:** 18568
+- **Branches:** 4
+- **Size:** 48M
+- **Duration:** 26.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
