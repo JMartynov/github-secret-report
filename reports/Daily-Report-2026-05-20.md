@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### filebrowser/filebrowser
+
+**URL:** https://github.com/filebrowser/filebrowser.git
+
+- **Files Scanned:** 0
+- **Branches:** 7
+- **Size:** 33M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
