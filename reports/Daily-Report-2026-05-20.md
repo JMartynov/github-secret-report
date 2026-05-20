@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### wailsapp/wails
+
+**URL:** https://github.com/wailsapp/wails.git
+
+- **Files Scanned:** 0
+- **Branches:** 338
+- **Size:** 554M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
