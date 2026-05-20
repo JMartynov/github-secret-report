@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ehang-io/nps
+
+**URL:** https://github.com/ehang-io/nps.git
+
+- **Files Scanned:** 0
+- **Branches:** 8
+- **Size:** 16M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
