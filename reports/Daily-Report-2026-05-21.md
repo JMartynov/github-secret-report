@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### zeromicro/go-zero
+
+**URL:** https://github.com/zeromicro/go-zero.git
+
+- **Files Scanned:** 12578
+- **Branches:** 12
+- **Size:** 58M
+- **Duration:** 47.79s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
