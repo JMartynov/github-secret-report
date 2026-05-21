@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### derailed/k9s
+
+**URL:** https://github.com/derailed/k9s.git
+
+- **Files Scanned:** 18013
+- **Branches:** 33
+- **Size:** 76M
+- **Duration:** 89.57s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
