@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### glanceapp/glance
+
+**URL:** https://github.com/glanceapp/glance.git
+
+- **Files Scanned:** 1950
+- **Branches:** 5
+- **Size:** 38M
+- **Duration:** 10.62s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
