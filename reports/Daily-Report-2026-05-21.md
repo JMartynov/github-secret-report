@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### restic/restic
+
+**URL:** https://github.com/restic/restic.git
+
+- **Files Scanned:** 42853
+- **Branches:** 10
+- **Size:** 103M
+- **Duration:** 266.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
