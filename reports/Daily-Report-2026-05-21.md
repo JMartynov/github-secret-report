@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AdguardTeam/AdGuardHome
+
+**URL:** https://github.com/AdguardTeam/AdGuardHome.git
+
+- **Files Scanned:** 28997
+- **Branches:** 132
+- **Size:** 42M
+- **Duration:** 170.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
