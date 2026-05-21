@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### k3s-io/k3s
+
+**URL:** https://github.com/k3s-io/k3s.git
+
+- **Files Scanned:** 0
+- **Branches:** 43
+- **Size:** 614M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
