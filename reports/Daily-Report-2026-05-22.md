@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### labstack/echo
+
+**URL:** https://github.com/labstack/echo.git
+
+- **Files Scanned:** 7917
+- **Branches:** 8
+- **Size:** 9.3M
+- **Duration:** 18.89s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
