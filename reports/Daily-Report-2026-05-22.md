@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SagerNet/sing-box
+
+**URL:** https://github.com/SagerNet/sing-box.git
+
+- **Files Scanned:** 0
+- **Branches:** 39
+- **Size:** 31M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
