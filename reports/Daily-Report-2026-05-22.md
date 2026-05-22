@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cockroachdb/cockroach
+
+**URL:** https://github.com/cockroachdb/cockroach.git
+
+- **Files Scanned:** 0
+- **Branches:** 57
+- **Size:** 2.7G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
