@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### seaweedfs/seaweedfs
+
+**URL:** https://github.com/seaweedfs/seaweedfs.git
+
+- **Files Scanned:** 48768
+- **Branches:** 146
+- **Size:** 363M
+- **Duration:** 518.43s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

@@ -25423,5 +25423,90 @@
         "name": "horext/app-client",
         "url": "https://github.com/horext/app-client.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AudiusProject/api",
+        "url": "https://github.com/AudiusProject/api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "latexdingh/latexd",
+        "url": "https://github.com/latexdingh/latexd.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lbruton/StakTrakrApi",
+        "url": "https://github.com/lbruton/StakTrakrApi.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "justoneapi/justoneapi-mcp",
+        "url": "https://github.com/justoneapi/justoneapi-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jalya07/ApiMiniApp",
+        "url": "https://github.com/jalya07/ApiMiniApp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "prasanna7codes/Grow-Cursor-Backend",
+        "url": "https://github.com/prasanna7codes/Grow-Cursor-Backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "catowabisabi/Agentic-RAG-LLMs-API",
+        "url": "https://github.com/catowabisabi/Agentic-RAG-LLMs-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pmxt-dev/pmxt-mcp",
+        "url": "https://github.com/pmxt-dev/pmxt-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lokashrinav/gpu-checkpoint-gvisor",
+        "url": "https://github.com/lokashrinav/gpu-checkpoint-gvisor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pulumi/pulumi-kubernetes",
+        "url": "https://github.com/pulumi/pulumi-kubernetes.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "addeswe/spotifyplayer",
+        "url": "https://github.com/addeswe/spotifyplayer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "k1yuse/fotdata-api",
+        "url": "https://github.com/k1yuse/fotdata-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alexhass/syr_connect",
+        "url": "https://github.com/alexhass/syr_connect.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AhmetBabli/AI-Portfolio-Assistant",
+        "url": "https://github.com/AhmetBabli/AI-Portfolio-Assistant.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tweaki-io/cdn-lc",
+        "url": "https://github.com/tweaki-io/cdn-lc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mhendric1436/statespec",
+        "url": "https://github.com/mhendric1436/statespec.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mihailsinM/crazy-desert-racing-api",
+        "url": "https://github.com/mihailsinM/crazy-desert-racing-api.git",
+        "status": "Hasn't yet validated"
     }
 ]
