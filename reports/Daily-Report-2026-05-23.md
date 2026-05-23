@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hashicorp/consul
+
+**URL:** https://github.com/hashicorp/consul.git
+
+- **Files Scanned:** 0
+- **Branches:** 650
+- **Size:** 580M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
