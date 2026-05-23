@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### micro-editor/micro
+
+**URL:** https://github.com/micro-editor/micro.git
+
+- **Files Scanned:** 0
+- **Branches:** 24
+- **Size:** 18M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
