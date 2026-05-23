@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### tailscale/tailscale
+
+**URL:** https://github.com/tailscale/tailscale.git
+
+- **Files Scanned:** 48299
+- **Branches:** 1114
+- **Size:** 109M
+- **Duration:** 480.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
