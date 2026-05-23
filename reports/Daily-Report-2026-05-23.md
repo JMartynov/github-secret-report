@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### fyne-io/fyne
+
+**URL:** https://github.com/fyne-io/fyne.git
+
+- **Files Scanned:** 46560
+- **Branches:** 12
+- **Size:** 141M
+- **Duration:** 217.6s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
