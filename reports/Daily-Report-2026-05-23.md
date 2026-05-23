@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### github/github-mcp-server
+
+**URL:** https://github.com/github/github-mcp-server.git
+
+- **Files Scanned:** 7715
+- **Branches:** 242
+- **Size:** 58M
+- **Duration:** 41.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
