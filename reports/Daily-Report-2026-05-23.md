@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### helm/helm
+
+**URL:** https://github.com/helm/helm.git
+
+- **Files Scanned:** 30255
+- **Branches:** 69
+- **Size:** 42M
+- **Duration:** 68.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
