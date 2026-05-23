@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### binwiederhier/ntfy
+
+**URL:** https://github.com/binwiederhier/ntfy.git
+
+- **Files Scanned:** 9519
+- **Branches:** 57
+- **Size:** 65M
+- **Duration:** 116.59s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
