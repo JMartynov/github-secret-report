@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### openfaas/faas
+
+**URL:** https://github.com/openfaas/faas.git
+
+- **Files Scanned:** 18037
+- **Branches:** 8
+- **Size:** 56M
+- **Duration:** 97.1s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
