@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### go-kit/kit
+
+**URL:** https://github.com/go-kit/kit.git
+
+- **Files Scanned:** 3630
+- **Branches:** 9
+- **Size:** 9.6M
+- **Duration:** 5.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
