@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sipeed/picoclaw
+
+**URL:** https://github.com/sipeed/picoclaw.git
+
+- **Files Scanned:** 9067
+- **Branches:** 14
+- **Size:** 66M
+- **Duration:** 61.93s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
