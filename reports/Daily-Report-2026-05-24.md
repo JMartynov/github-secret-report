@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### authelia/authelia
+
+**URL:** https://github.com/authelia/authelia.git
+
+- **Files Scanned:** 57270
+- **Branches:** 79
+- **Size:** 112M
+- **Duration:** 1302.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
