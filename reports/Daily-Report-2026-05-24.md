@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Wox-launcher/Wox
+
+**URL:** https://github.com/Wox-launcher/Wox.git
+
+- **Files Scanned:** 0
+- **Branches:** 7
+- **Size:** 433M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
