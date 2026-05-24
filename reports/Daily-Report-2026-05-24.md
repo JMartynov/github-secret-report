@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### goharbor/harbor
+
+**URL:** https://github.com/goharbor/harbor.git
+
+- **Files Scanned:** 102605
+- **Branches:** 118
+- **Size:** 294M
+- **Duration:** 510.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
