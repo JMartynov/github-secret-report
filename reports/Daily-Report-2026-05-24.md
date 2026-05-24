@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### projectdiscovery/nuclei
+
+**URL:** https://github.com/projectdiscovery/nuclei.git
+
+- **Files Scanned:** 17779
+- **Branches:** 63
+- **Size:** 66M
+- **Duration:** 134.56s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
