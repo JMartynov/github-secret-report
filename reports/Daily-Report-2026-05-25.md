@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sirupsen/logrus
+
+**URL:** https://github.com/sirupsen/logrus.git
+
+- **Files Scanned:** 1547
+- **Branches:** 8
+- **Size:** 2.0M
+- **Duration:** 2.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
