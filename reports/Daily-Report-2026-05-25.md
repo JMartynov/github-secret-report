@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Snailclimb/JavaGuide
+
+**URL:** https://github.com/Snailclimb/JavaGuide.git
+
+- **Files Scanned:** 13333
+- **Branches:** 3
+- **Size:** 190M
+- **Duration:** 45.61s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
