@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nsqio/nsq
+
+**URL:** https://github.com/nsqio/nsq.git
+
+- **Files Scanned:** 5132
+- **Branches:** 2
+- **Size:** 19M
+- **Duration:** 15.81s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
