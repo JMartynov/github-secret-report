@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### stretchr/testify
+
+**URL:** https://github.com/stretchr/testify.git
+
+- **Files Scanned:** 2010
+- **Branches:** 13
+- **Size:** 3.6M
+- **Duration:** 12.72s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
