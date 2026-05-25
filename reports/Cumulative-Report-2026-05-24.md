@@ -1,0 +1,169 @@
+# Daily Cumulative Secret Scan Report - 2026-05-24
+
+## Executive Summary
+
+| Metric | Value |
+|---|---|
+| **Total Repositories Scanned** | 11 |
+| **Total Files Scanned** | 210854 |
+| **Total Scan Duration** | 2117.17 seconds |
+| **Total Secrets Detected** | 0 |
+
+---
+
+## Repository Breakdown
+
+### abiosoft/colima
+
+**URL:** https://github.com/abiosoft/colima.git
+
+- **Files Scanned:** 2306
+- **Branches:** 5
+- **Size:** 5.4M
+- **Duration:** 4.68s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### grafana/loki
+
+**URL:** https://github.com/grafana/loki.git
+
+- **Files Scanned:** 0
+- **Branches:** 1284
+- **Size:** 1.1G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### goharbor/harbor
+
+**URL:** https://github.com/goharbor/harbor.git
+
+- **Files Scanned:** 102605
+- **Branches:** 118
+- **Size:** 294M
+- **Duration:** 510.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### tmrts/go-patterns
+
+**URL:** https://github.com/tmrts/go-patterns.git
+
+- **Files Scanned:** 160
+- **Branches:** 2
+- **Size:** 1.4M
+- **Duration:** 0.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### projectdiscovery/nuclei
+
+**URL:** https://github.com/projectdiscovery/nuclei.git
+
+- **Files Scanned:** 17779
+- **Branches:** 63
+- **Size:** 66M
+- **Duration:** 134.56s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### go-kit/kit
+
+**URL:** https://github.com/go-kit/kit.git
+
+- **Files Scanned:** 3630
+- **Branches:** 9
+- **Size:** 9.6M
+- **Duration:** 5.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### authelia/authelia
+
+**URL:** https://github.com/authelia/authelia.git
+
+- **Files Scanned:** 57270
+- **Branches:** 79
+- **Size:** 112M
+- **Duration:** 1302.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### cloudreve/cloudreve
+
+**URL:** https://github.com/cloudreve/cloudreve.git
+
+- **Files Scanned:** 0
+- **Branches:** 7
+- **Size:** 17M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### sipeed/picoclaw
+
+**URL:** https://github.com/sipeed/picoclaw.git
+
+- **Files Scanned:** 9067
+- **Branches:** 14
+- **Size:** 66M
+- **Duration:** 61.93s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Wox-launcher/Wox
+
+**URL:** https://github.com/Wox-launcher/Wox.git
+
+- **Files Scanned:** 0
+- **Branches:** 7
+- **Size:** 433M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### openfaas/faas
+
+**URL:** https://github.com/openfaas/faas.git
+
+- **Files Scanned:** 18037
+- **Branches:** 8
+- **Size:** 56M
+- **Duration:** 97.1s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
