@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dapr/dapr
+
+**URL:** https://github.com/dapr/dapr.git
+
+- **Files Scanned:** 48087
+- **Branches:** 98
+- **Size:** 246M
+- **Duration:** 406.14s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
