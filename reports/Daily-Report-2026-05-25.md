@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gitleaks/gitleaks
+
+**URL:** https://github.com/gitleaks/gitleaks.git
+
+- **Files Scanned:** 6759
+- **Branches:** 7
+- **Size:** 9.9M
+- **Duration:** 23.84s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
