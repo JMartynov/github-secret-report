@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### macrozheng/mall
+
+**URL:** https://github.com/macrozheng/mall.git
+
+- **Files Scanned:** 4424
+- **Branches:** 4
+- **Size:** 77M
+- **Duration:** 14.59s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
