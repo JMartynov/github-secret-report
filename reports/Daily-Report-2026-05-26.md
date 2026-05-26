@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### iluwatar/java-design-patterns
+
+**URL:** https://github.com/iluwatar/java-design-patterns.git
+
+- **Files Scanned:** 36820
+- **Branches:** 25
+- **Size:** 115M
+- **Duration:** 40.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
