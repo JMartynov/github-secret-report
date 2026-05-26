@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### spring-projects/spring-boot
+
+**URL:** https://github.com/spring-projects/spring-boot.git
+
+- **Files Scanned:** 244362
+- **Branches:** 25
+- **Size:** 349M
+- **Duration:** 879.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
