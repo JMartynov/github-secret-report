@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### MisterBooo/LeetCodeAnimation
+
+**URL:** https://github.com/MisterBooo/LeetCodeAnimation.git
+
+- **Files Scanned:** 846
+- **Branches:** 1
+- **Size:** 1.3G
+- **Duration:** 21.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
