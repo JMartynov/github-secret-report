@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### GrowingGit/GitHub-Chinese-Top-Charts
+
+**URL:** https://github.com/GrowingGit/GitHub-Chinese-Top-Charts.git
+
+- **Files Scanned:** 63926
+- **Branches:** 1
+- **Size:** 124M
+- **Duration:** 127.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
