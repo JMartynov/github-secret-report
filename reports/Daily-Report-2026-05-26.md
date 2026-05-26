@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### doocs/advanced-java
+
+**URL:** https://github.com/doocs/advanced-java.git
+
+- **Files Scanned:** 2622
+- **Branches:** 1
+- **Size:** 45M
+- **Duration:** 56.91s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
