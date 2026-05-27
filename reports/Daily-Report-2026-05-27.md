@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### TheAlgorithms/Java
+
+**URL:** https://github.com/TheAlgorithms/Java.git
+
+- **Files Scanned:** 8421
+- **Branches:** 2
+- **Size:** 18M
+- **Duration:** 12.96s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
