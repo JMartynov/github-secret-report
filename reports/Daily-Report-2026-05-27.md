@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### termux/termux-app
+
+**URL:** https://github.com/termux/termux-app.git
+
+- **Files Scanned:** 3955
+- **Branches:** 19
+- **Size:** 11M
+- **Duration:** 12.17s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
