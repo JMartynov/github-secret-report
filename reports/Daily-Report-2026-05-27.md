@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### spring-projects/spring-framework
+
+**URL:** https://github.com/spring-projects/spring-framework.git
+
+- **Files Scanned:** 269392
+- **Branches:** 19
+- **Size:** 362M
+- **Duration:** 1105.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
