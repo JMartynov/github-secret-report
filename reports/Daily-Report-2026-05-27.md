@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NationalSecurityAgency/ghidra
+
+**URL:** https://github.com/NationalSecurityAgency/ghidra.git
+
+- **Files Scanned:** 96227
+- **Branches:** 3
+- **Size:** 782M
+- **Duration:** 317.97s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
