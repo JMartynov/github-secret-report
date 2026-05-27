@@ -1,0 +1,113 @@
+# Daily Cumulative Secret Scan Report - 2026-05-26
+
+## Executive Summary
+
+| Metric | Value |
+|---|---|
+| **Total Repositories Scanned** | 7 |
+| **Total Files Scanned** | 353000 |
+| **Total Scan Duration** | 1139.88 seconds |
+| **Total Secrets Detected** | 0 |
+
+---
+
+## Repository Breakdown
+
+### krahets/hello-algo
+
+**URL:** https://github.com/krahets/hello-algo.git
+
+- **Files Scanned:** 0
+- **Branches:** 5
+- **Size:** 576M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### GrowingGit/GitHub-Chinese-Top-Charts
+
+**URL:** https://github.com/GrowingGit/GitHub-Chinese-Top-Charts.git
+
+- **Files Scanned:** 63926
+- **Branches:** 1
+- **Size:** 124M
+- **Duration:** 127.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### iluwatar/java-design-patterns
+
+**URL:** https://github.com/iluwatar/java-design-patterns.git
+
+- **Files Scanned:** 36820
+- **Branches:** 25
+- **Size:** 115M
+- **Duration:** 40.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### macrozheng/mall
+
+**URL:** https://github.com/macrozheng/mall.git
+
+- **Files Scanned:** 4424
+- **Branches:** 4
+- **Size:** 77M
+- **Duration:** 14.59s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### spring-projects/spring-boot
+
+**URL:** https://github.com/spring-projects/spring-boot.git
+
+- **Files Scanned:** 244362
+- **Branches:** 25
+- **Size:** 349M
+- **Duration:** 879.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### doocs/advanced-java
+
+**URL:** https://github.com/doocs/advanced-java.git
+
+- **Files Scanned:** 2622
+- **Branches:** 1
+- **Size:** 45M
+- **Duration:** 56.91s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### MisterBooo/LeetCodeAnimation
+
+**URL:** https://github.com/MisterBooo/LeetCodeAnimation.git
+
+- **Files Scanned:** 846
+- **Branches:** 1
+- **Size:** 1.3G
+- **Duration:** 21.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
