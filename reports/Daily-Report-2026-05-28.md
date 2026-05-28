@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dbeaver/dbeaver
+
+**URL:** https://github.com/dbeaver/dbeaver.git
+
+- **Files Scanned:** 224127
+- **Branches:** 151
+- **Size:** 294M
+- **Duration:** 540.98s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
