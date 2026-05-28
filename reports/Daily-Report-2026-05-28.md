@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### apache/dubbo
+
+**URL:** https://github.com/apache/dubbo.git
+
+- **Files Scanned:** 98096
+- **Branches:** 36
+- **Size:** 111M
+- **Duration:** 150.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
