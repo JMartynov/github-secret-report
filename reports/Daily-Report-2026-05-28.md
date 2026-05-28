@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### halo-dev/halo
+
+**URL:** https://github.com/halo-dev/halo.git
+
+- **Files Scanned:** 0
+- **Branches:** 36
+- **Size:** 114M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
