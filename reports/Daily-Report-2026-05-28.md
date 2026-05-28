@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### skylot/jadx
+
+**URL:** https://github.com/skylot/jadx.git
+
+- **Files Scanned:** 0
+- **Branches:** 4
+- **Size:** 47M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
