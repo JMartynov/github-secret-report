@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ReactiveX/RxJava
+
+**URL:** https://github.com/ReactiveX/RxJava.git
+
+- **Files Scanned:** 173666
+- **Branches:** 7
+- **Size:** 188M
+- **Duration:** 1013.61s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
