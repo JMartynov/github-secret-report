@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### PhilJay/MPAndroidChart
+
+**URL:** https://github.com/PhilJay/MPAndroidChart.git
+
+- **Files Scanned:** 8535
+- **Branches:** 6
+- **Size:** 33M
+- **Duration:** 26.8s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
