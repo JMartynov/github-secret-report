@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jeecgboot/JeecgBoot
+
+**URL:** https://github.com/jeecgboot/JeecgBoot.git
+
+- **Files Scanned:** 23233
+- **Branches:** 10
+- **Size:** 177M
+- **Duration:** 997.37s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
