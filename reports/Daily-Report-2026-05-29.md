@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### YunaiV/ruoyi-vue-pro
+
+**URL:** https://github.com/YunaiV/ruoyi-vue-pro.git
+
+- **Files Scanned:** 85996
+- **Branches:** 6
+- **Size:** 269M
+- **Duration:** 238.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
