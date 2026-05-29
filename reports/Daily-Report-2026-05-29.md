@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ashishps1/awesome-system-design-resources
+
+**URL:** https://github.com/ashishps1/awesome-system-design-resources.git
+
+- **Files Scanned:** 185
+- **Branches:** 2
+- **Size:** 4.3M
+- **Duration:** 0.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
