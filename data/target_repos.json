@@ -30463,5 +30463,95 @@
         "name": "YWaiKa/gta5rp-redux-launcher-data",
         "url": "https://github.com/YWaiKa/gta5rp-redux-launcher-data.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chabelbossa/library-management-system",
+        "url": "https://github.com/chabelbossa/library-management-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Asura361/ravc",
+        "url": "https://github.com/Asura361/ravc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "r-lyeh/single_file_libs",
+        "url": "https://github.com/r-lyeh/single_file_libs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RattlingJester/embed-ui",
+        "url": "https://github.com/RattlingJester/embed-ui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nbonamy/multi-llm-ts",
+        "url": "https://github.com/nbonamy/multi-llm-ts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jettify/uf-ahrs",
+        "url": "https://github.com/jettify/uf-ahrs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "marbou92/Musicefy",
+        "url": "https://github.com/marbou92/Musicefy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LunarDesign/CriticalLibrary",
+        "url": "https://github.com/LunarDesign/CriticalLibrary.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "forgeggweb/director-gamer",
+        "url": "https://github.com/forgeggweb/director-gamer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "VVradio/vv-radio-hub",
+        "url": "https://github.com/VVradio/vv-radio-hub.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "device-management-toolkit/deployment",
+        "url": "https://github.com/device-management-toolkit/deployment.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dan7i/Library_Login_Record",
+        "url": "https://github.com/dan7i/Library_Login_Record.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "liwei-cpp/IOv2",
+        "url": "https://github.com/liwei-cpp/IOv2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rahatsaini/breadCrumb-library",
+        "url": "https://github.com/rahatsaini/breadCrumb-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OpenZeppelin/openzeppelin-confidential-contracts",
+        "url": "https://github.com/OpenZeppelin/openzeppelin-confidential-contracts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Popoeson/e-library",
+        "url": "https://github.com/Popoeson/e-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chrisgavin/slacktoken",
+        "url": "https://github.com/chrisgavin/slacktoken.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OscarHernandezMartinez2/gpui-nav",
+        "url": "https://github.com/OscarHernandezMartinez2/gpui-nav.git",
+        "status": "Hasn't yet validated"
     }
 ]

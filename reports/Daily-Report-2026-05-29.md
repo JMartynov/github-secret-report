@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### doocs/leetcode
+
+**URL:** https://github.com/doocs/leetcode.git
+
+- **Files Scanned:** 0
+- **Branches:** 2
+- **Size:** 1.2G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
