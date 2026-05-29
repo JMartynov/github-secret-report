@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alibaba/arthas
+
+**URL:** https://github.com/alibaba/arthas.git
+
+- **Files Scanned:** 40189
+- **Branches:** 22
+- **Size:** 93M
+- **Duration:** 94.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
