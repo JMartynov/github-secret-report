@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SeleniumHQ/selenium
+
+**URL:** https://github.com/SeleniumHQ/selenium.git
+
+- **Files Scanned:** 527622
+- **Branches:** 161
+- **Size:** 2.4G
+- **Duration:** 2535.87s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
