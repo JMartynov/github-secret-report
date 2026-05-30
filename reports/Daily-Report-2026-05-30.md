@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### keycloak/keycloak
+
+**URL:** https://github.com/keycloak/keycloak.git
+
+- **Files Scanned:** 0
+- **Branches:** 34
+- **Size:** 760M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
