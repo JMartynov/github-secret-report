@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### xkcoding/spring-boot-demo
+
+**URL:** https://github.com/xkcoding/spring-boot-demo.git
+
+- **Files Scanned:** 5282
+- **Branches:** 10
+- **Size:** 26M
+- **Duration:** 4.61s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
