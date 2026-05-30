@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Blankj/AndroidUtilCode
+
+**URL:** https://github.com/Blankj/AndroidUtilCode.git
+
+- **Files Scanned:** 32639
+- **Branches:** 2
+- **Size:** 60M
+- **Duration:** 44.97s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
