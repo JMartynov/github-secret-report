@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### zxing/zxing
+
+**URL:** https://github.com/zxing/zxing.git
+
+- **Files Scanned:** 32585
+- **Branches:** 2
+- **Size:** 390M
+- **Duration:** 67.33s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
