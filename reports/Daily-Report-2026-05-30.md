@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alibaba/easyexcel
+
+**URL:** https://github.com/alibaba/easyexcel.git
+
+- **Files Scanned:** 0
+- **Branches:** 29
+- **Size:** 106M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
