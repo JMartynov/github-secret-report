@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alibaba/nacos
+
+**URL:** https://github.com/alibaba/nacos.git
+
+- **Files Scanned:** 45563
+- **Branches:** 34
+- **Size:** 206M
+- **Duration:** 395.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
