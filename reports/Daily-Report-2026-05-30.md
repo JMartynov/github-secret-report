@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### netty/netty
+
+**URL:** https://github.com/netty/netty.git
+
+- **Files Scanned:** 139880
+- **Branches:** 30
+- **Size:** 158M
+- **Duration:** 482.55s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
