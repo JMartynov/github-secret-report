@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bumptech/glide
+
+**URL:** https://github.com/bumptech/glide.git
+
+- **Files Scanned:** 0
+- **Branches:** 101
+- **Size:** 185M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
