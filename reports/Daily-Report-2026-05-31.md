@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### xuxueli/xxl-job
+
+**URL:** https://github.com/xuxueli/xxl-job.git
+
+- **Files Scanned:** 9258
+- **Branches:** 26
+- **Size:** 57M
+- **Duration:** 18.12s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
