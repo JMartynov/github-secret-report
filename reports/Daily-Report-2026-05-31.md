@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yuliskov/SmartTube
+
+**URL:** https://github.com/yuliskov/SmartTube.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 172M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
