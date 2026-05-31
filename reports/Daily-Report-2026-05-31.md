@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### chinabugotech/hutool
+
+**URL:** https://github.com/chinabugotech/hutool.git
+
+- **Files Scanned:** 85360
+- **Branches:** 4
+- **Size:** 99M
+- **Duration:** 97.6s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
