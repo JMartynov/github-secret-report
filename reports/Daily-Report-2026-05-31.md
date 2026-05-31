@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### apolloconfig/apollo
+
+**URL:** https://github.com/apolloconfig/apollo.git
+
+- **Files Scanned:** 76854
+- **Branches:** 15
+- **Size:** 90M
+- **Duration:** 119.8s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
