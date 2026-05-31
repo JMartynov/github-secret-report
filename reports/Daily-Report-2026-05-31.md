@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alibaba/canal
+
+**URL:** https://github.com/alibaba/canal.git
+
+- **Files Scanned:** 8590
+- **Branches:** 13
+- **Size:** 76M
+- **Duration:** 28.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
