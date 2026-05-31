@@ -1,0 +1,155 @@
+# Daily Cumulative Secret Scan Report - 2026-05-30
+
+## Executive Summary
+
+| Metric | Value |
+|---|---|
+| **Total Repositories Scanned** | 10 |
+| **Total Files Scanned** | 796825 |
+| **Total Scan Duration** | 3564.07 seconds |
+| **Total Secrets Detected** | 0 |
+
+---
+
+## Repository Breakdown
+
+### airbnb/lottie-android
+
+**URL:** https://github.com/airbnb/lottie-android.git
+
+- **Files Scanned:** 13254
+- **Branches:** 56
+- **Size:** 201M
+- **Duration:** 32.79s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### bumptech/glide
+
+**URL:** https://github.com/bumptech/glide.git
+
+- **Files Scanned:** 0
+- **Branches:** 101
+- **Size:** 185M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### netty/netty
+
+**URL:** https://github.com/netty/netty.git
+
+- **Files Scanned:** 139880
+- **Branches:** 30
+- **Size:** 158M
+- **Duration:** 482.55s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### SeleniumHQ/selenium
+
+**URL:** https://github.com/SeleniumHQ/selenium.git
+
+- **Files Scanned:** 527622
+- **Branches:** 161
+- **Size:** 2.4G
+- **Duration:** 2535.87s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### xkcoding/spring-boot-demo
+
+**URL:** https://github.com/xkcoding/spring-boot-demo.git
+
+- **Files Scanned:** 5282
+- **Branches:** 10
+- **Size:** 26M
+- **Duration:** 4.61s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### zxing/zxing
+
+**URL:** https://github.com/zxing/zxing.git
+
+- **Files Scanned:** 32585
+- **Branches:** 2
+- **Size:** 390M
+- **Duration:** 67.33s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### alibaba/easyexcel
+
+**URL:** https://github.com/alibaba/easyexcel.git
+
+- **Files Scanned:** 0
+- **Branches:** 29
+- **Size:** 106M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Blankj/AndroidUtilCode
+
+**URL:** https://github.com/Blankj/AndroidUtilCode.git
+
+- **Files Scanned:** 32639
+- **Branches:** 2
+- **Size:** 60M
+- **Duration:** 44.97s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### keycloak/keycloak
+
+**URL:** https://github.com/keycloak/keycloak.git
+
+- **Files Scanned:** 0
+- **Branches:** 34
+- **Size:** 760M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### alibaba/nacos
+
+**URL:** https://github.com/alibaba/nacos.git
+
+- **Files Scanned:** 45563
+- **Branches:** 34
+- **Size:** 206M
+- **Duration:** 395.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
