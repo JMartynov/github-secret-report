@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ityouknow/spring-boot-examples
+
+**URL:** https://github.com/ityouknow/spring-boot-examples.git
+
+- **Files Scanned:** 2023
+- **Branches:** 4
+- **Size:** 13M
+- **Duration:** 0.97s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
