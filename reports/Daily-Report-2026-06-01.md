@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lenve/vhr
+
+**URL:** https://github.com/lenve/vhr.git
+
+- **Files Scanned:** 1031
+- **Branches:** 31
+- **Size:** 18M
+- **Duration:** 20.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
