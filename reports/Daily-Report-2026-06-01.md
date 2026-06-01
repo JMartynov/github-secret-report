@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### DrKLO/Telegram
+
+**URL:** https://github.com/DrKLO/Telegram.git
+
+- **Files Scanned:** 0
+- **Branches:** 3
+- **Size:** 1.4G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
