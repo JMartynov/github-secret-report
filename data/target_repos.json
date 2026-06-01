@@ -32363,5 +32363,85 @@
         "name": "electron-rare/life-web",
         "url": "https://github.com/electron-rare/life-web.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jeanmarc-webdev/working-with-apis-portfolio",
+        "url": "https://github.com/jeanmarc-webdev/working-with-apis-portfolio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Yarzky/headless-inventory-api",
+        "url": "https://github.com/Yarzky/headless-inventory-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "boston-library/curator",
+        "url": "https://github.com/boston-library/curator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OpenStackweb/summit-api",
+        "url": "https://github.com/OpenStackweb/summit-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SocketDev/socket-sdk-js",
+        "url": "https://github.com/SocketDev/socket-sdk-js.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Hariprasad-sri/sri-sapthagiri-backend",
+        "url": "https://github.com/Hariprasad-sri/sri-sapthagiri-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thexxx880/API",
+        "url": "https://github.com/thexxx880/API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xlabtg/FinLayer",
+        "url": "https://github.com/xlabtg/FinLayer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "musabbozkurt/api-gateway-service",
+        "url": "https://github.com/musabbozkurt/api-gateway-service.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "emersonfelipesp/proxbox-api",
+        "url": "https://github.com/emersonfelipesp/proxbox-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "R887645/RetailCo-Data-Platform-HNG-Stage-8_TeamF",
+        "url": "https://github.com/R887645/RetailCo-Data-Platform-HNG-Stage-8_TeamF.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BambooHR/bhr-api-php",
+        "url": "https://github.com/BambooHR/bhr-api-php.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ramirogioia/prode_amigos_api",
+        "url": "https://github.com/ramirogioia/prode_amigos_api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ItsMeEAera/claude-switcher",
+        "url": "https://github.com/ItsMeEAera/claude-switcher.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cemilparlar/my-json-api-main-elit",
+        "url": "https://github.com/cemilparlar/my-json-api-main-elit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GuilhermeGuedes1/orbit-api",
+        "url": "https://github.com/GuilhermeGuedes1/orbit-api.git",
+        "status": "Hasn't yet validated"
     }
 ]

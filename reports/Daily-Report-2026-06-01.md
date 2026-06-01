@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alibaba/druid
+
+**URL:** https://github.com/alibaba/druid.git
+
+- **Files Scanned:** 75038
+- **Branches:** 56
+- **Size:** 157M
+- **Duration:** 280.54s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
