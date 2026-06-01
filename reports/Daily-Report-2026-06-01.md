@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### wuyouzhuguli/SpringAll
+
+**URL:** https://github.com/wuyouzhuguli/SpringAll.git
+
+- **Files Scanned:** 1562
+- **Branches:** 9
+- **Size:** 13M
+- **Duration:** 1.0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
