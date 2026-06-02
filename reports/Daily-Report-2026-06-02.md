@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### OpenAPITools/openapi-generator
+
+**URL:** https://github.com/OpenAPITools/openapi-generator.git
+
+- **Files Scanned:** 0
+- **Branches:** 133
+- **Size:** 1.6G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
