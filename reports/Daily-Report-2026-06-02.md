@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### qiurunze123/miaosha
+
+**URL:** https://github.com/qiurunze123/miaosha.git
+
+- **Files Scanned:** 3859
+- **Branches:** 3
+- **Size:** 118M
+- **Duration:** 145.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
