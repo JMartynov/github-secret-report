@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### crossoverJie/JCSprout
+
+**URL:** https://github.com/crossoverJie/JCSprout.git
+
+- **Files Scanned:** 952
+- **Branches:** 6
+- **Size:** 19M
+- **Duration:** 1.36s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
