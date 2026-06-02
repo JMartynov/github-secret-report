@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### kestra-io/kestra
+
+**URL:** https://github.com/kestra-io/kestra.git
+
+- **Files Scanned:** 65249
+- **Branches:** 103
+- **Size:** 166M
+- **Duration:** 547.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
