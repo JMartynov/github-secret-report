@@ -33403,5 +33403,85 @@
         "name": "basnijholt/agent-cli",
         "url": "https://github.com/basnijholt/agent-cli.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lowkeyjojo/roblox-creator-automator",
+        "url": "https://github.com/lowkeyjojo/roblox-creator-automator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "T-vK/android-firewallctl",
+        "url": "https://github.com/T-vK/android-firewallctl.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "oigrex666/mcp-context-chronicler",
+        "url": "https://github.com/oigrex666/mcp-context-chronicler.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tachyurgy/hey-claude",
+        "url": "https://github.com/tachyurgy/hey-claude.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jlevi001/client-tracker",
+        "url": "https://github.com/jlevi001/client-tracker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ezequielnz/client-micropymes",
+        "url": "https://github.com/Ezequielnz/client-micropymes.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dbarwikowski/pumex",
+        "url": "https://github.com/dbarwikowski/pumex.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ryenwang/pire-browser",
+        "url": "https://github.com/ryenwang/pire-browser.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JECT-Study/VS-4th-Client",
+        "url": "https://github.com/JECT-Study/VS-4th-Client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fusengine/fuse-browser",
+        "url": "https://github.com/fusengine/fuse-browser.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "orchestrator-dev/asd",
+        "url": "https://github.com/orchestrator-dev/asd.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "carefreeman1018-design/clinic-line-bot",
+        "url": "https://github.com/carefreeman1018-design/clinic-line-bot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MALIKABDULLAHAWAN/future.clinic",
+        "url": "https://github.com/MALIKABDULLAHAWAN/future.clinic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MisterTK/semantex",
+        "url": "https://github.com/MisterTK/semantex.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "philippepascal/apm",
+        "url": "https://github.com/philippepascal/apm.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "danielgwilson/image-skill-cli",
+        "url": "https://github.com/danielgwilson/image-skill-cli.git",
+        "status": "Hasn't yet validated"
     }
 ]
