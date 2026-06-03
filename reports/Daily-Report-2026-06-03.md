@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alibaba/fastjson
+
+**URL:** https://github.com/alibaba/fastjson.git
+
+- **Files Scanned:** 28051
+- **Branches:** 24
+- **Size:** 38M
+- **Duration:** 84.56s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
