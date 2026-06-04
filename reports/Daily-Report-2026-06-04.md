@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### greenrobot/EventBus
+
+**URL:** https://github.com/greenrobot/EventBus.git
+
+- **Files Scanned:** 1542
+- **Branches:** 11
+- **Size:** 3.2M
+- **Duration:** 1.91s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
