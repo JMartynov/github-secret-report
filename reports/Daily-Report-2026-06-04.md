@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### libgdx/libgdx
+
+**URL:** https://github.com/libgdx/libgdx.git
+
+- **Files Scanned:** 0
+- **Branches:** 13
+- **Size:** 1.2G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
