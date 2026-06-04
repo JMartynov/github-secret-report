@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### apache/skywalking
+
+**URL:** https://github.com/apache/skywalking.git
+
+- **Files Scanned:** 0
+- **Branches:** 16
+- **Size:** 228M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
