@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### scwang90/SmartRefreshLayout
+
+**URL:** https://github.com/scwang90/SmartRefreshLayout.git
+
+- **Files Scanned:** 8328
+- **Branches:** 7
+- **Size:** 343M
+- **Duration:** 41.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
