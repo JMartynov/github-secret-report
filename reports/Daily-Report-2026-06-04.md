@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jenkinsci/jenkins
+
+**URL:** https://github.com/jenkinsci/jenkins.git
+
+- **Files Scanned:** 149766
+- **Branches:** 59
+- **Size:** 252M
+- **Duration:** 718.73s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
