@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Netflix/Hystrix
+
+**URL:** https://github.com/Netflix/Hystrix.git
+
+- **Files Scanned:** 6262
+- **Branches:** 12
+- **Size:** 17M
+- **Duration:** 45.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
