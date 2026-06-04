@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### proxyee-down-org/proxyee-down
+
+**URL:** https://github.com/proxyee-down-org/proxyee-down.git
+
+- **Files Scanned:** 2433
+- **Branches:** 14
+- **Size:** 35M
+- **Duration:** 5.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
