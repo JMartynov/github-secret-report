@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dataease/dataease
+
+**URL:** https://github.com/dataease/dataease.git
+
+- **Files Scanned:** 0
+- **Branches:** 36
+- **Size:** 497M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
