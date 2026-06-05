@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### iBotPeaches/Apktool
+
+**URL:** https://github.com/iBotPeaches/Apktool.git
+
+- **Files Scanned:** 0
+- **Branches:** 12
+- **Size:** 398M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
