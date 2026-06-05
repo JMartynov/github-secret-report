@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### redisson/redisson
+
+**URL:** https://github.com/redisson/redisson.git
+
+- **Files Scanned:** 57613
+- **Branches:** 7
+- **Size:** 74M
+- **Duration:** 157.82s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
