@@ -1,0 +1,127 @@
+# Daily Cumulative Secret Scan Report - 2026-06-04
+
+## Executive Summary
+
+| Metric | Value |
+|---|---|
+| **Total Repositories Scanned** | 8 |
+| **Total Files Scanned** | 467778 |
+| **Total Scan Duration** | 2903.95 seconds |
+| **Total Secrets Detected** | 0 |
+
+---
+
+## Repository Breakdown
+
+### bazelbuild/bazel
+
+**URL:** https://github.com/bazelbuild/bazel.git
+
+- **Files Scanned:** 299447
+- **Branches:** 432
+- **Size:** 1.3G
+- **Duration:** 2091.34s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### scwang90/SmartRefreshLayout
+
+**URL:** https://github.com/scwang90/SmartRefreshLayout.git
+
+- **Files Scanned:** 8328
+- **Branches:** 7
+- **Size:** 343M
+- **Duration:** 41.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### jenkinsci/jenkins
+
+**URL:** https://github.com/jenkinsci/jenkins.git
+
+- **Files Scanned:** 149766
+- **Branches:** 59
+- **Size:** 252M
+- **Duration:** 718.73s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### libgdx/libgdx
+
+**URL:** https://github.com/libgdx/libgdx.git
+
+- **Files Scanned:** 0
+- **Branches:** 13
+- **Size:** 1.2G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### proxyee-down-org/proxyee-down
+
+**URL:** https://github.com/proxyee-down-org/proxyee-down.git
+
+- **Files Scanned:** 2433
+- **Branches:** 14
+- **Size:** 35M
+- **Duration:** 5.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### apache/skywalking
+
+**URL:** https://github.com/apache/skywalking.git
+
+- **Files Scanned:** 0
+- **Branches:** 16
+- **Size:** 228M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### greenrobot/EventBus
+
+**URL:** https://github.com/greenrobot/EventBus.git
+
+- **Files Scanned:** 1542
+- **Branches:** 11
+- **Size:** 3.2M
+- **Duration:** 1.91s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Netflix/Hystrix
+
+**URL:** https://github.com/Netflix/Hystrix.git
+
+- **Files Scanned:** 6262
+- **Branches:** 12
+- **Size:** 17M
+- **Duration:** 45.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
