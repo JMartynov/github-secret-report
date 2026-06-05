@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### LSPosed/LSPosed
+
+**URL:** https://github.com/LSPosed/LSPosed.git
+
+- **Files Scanned:** 0
+- **Branches:** 11
+- **Size:** 28M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
