@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### doocs/source-code-hunter
+
+**URL:** https://github.com/doocs/source-code-hunter.git
+
+- **Files Scanned:** 3922
+- **Branches:** 1
+- **Size:** 117M
+- **Duration:** 8.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
