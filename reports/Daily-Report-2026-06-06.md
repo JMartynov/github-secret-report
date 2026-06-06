@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### oracle/graal
+
+**URL:** https://github.com/oracle/graal.git
+
+- **Files Scanned:** 437793
+- **Branches:** 206
+- **Size:** 861M
+- **Duration:** 1966.0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
