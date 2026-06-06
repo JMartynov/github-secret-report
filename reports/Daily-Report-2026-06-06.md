@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### thingsboard/thingsboard
+
+**URL:** https://github.com/thingsboard/thingsboard.git
+
+- **Files Scanned:** 319127
+- **Branches:** 101
+- **Size:** 484M
+- **Duration:** 3241.07s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
