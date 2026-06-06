@@ -35008,5 +35008,85 @@
         "name": "Nerderizer/Website-Twitch-Commands",
         "url": "https://github.com/Nerderizer/Website-Twitch-Commands.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alandesouzars/gccli",
+        "url": "https://github.com/alandesouzars/gccli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "faresbenbelkacem/OpenRouterBench",
+        "url": "https://github.com/faresbenbelkacem/OpenRouterBench.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "commitshow/commitshow",
+        "url": "https://github.com/commitshow/commitshow.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "grider-pk/Open-AutoGLM-Hybrid",
+        "url": "https://github.com/grider-pk/Open-AutoGLM-Hybrid.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "syntharea/letsllm-cli",
+        "url": "https://github.com/syntharea/letsllm-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cp-yu/opsx",
+        "url": "https://github.com/cp-yu/opsx.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CodeWithRafik/tenk",
+        "url": "https://github.com/CodeWithRafik/tenk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zeya10/svelte-bash",
+        "url": "https://github.com/zeya10/svelte-bash.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "johnnyxlemonade/framework",
+        "url": "https://github.com/johnnyxlemonade/framework.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sarakimz/go-secrets-scanner",
+        "url": "https://github.com/Sarakimz/go-secrets-scanner.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ratimon/openquok-monorepo",
+        "url": "https://github.com/Ratimon/openquok-monorepo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Manuelgr928/rusty-beaker",
+        "url": "https://github.com/Manuelgr928/rusty-beaker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "anekanews777/tinytracker",
+        "url": "https://github.com/anekanews777/tinytracker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ccharafeddine/ClipSmith",
+        "url": "https://github.com/ccharafeddine/ClipSmith.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Kinneresh99/airdrop-commander",
+        "url": "https://github.com/Kinneresh99/airdrop-commander.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "n8n-io/n8n",
+        "url": "https://github.com/n8n-io/n8n.git",
+        "status": "Hasn't yet validated"
     }
 ]

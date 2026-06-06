@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### openjdk/jdk
+
+**URL:** https://github.com/openjdk/jdk.git
+
+- **Files Scanned:** 0
+- **Branches:** 306
+- **Size:** 2.4G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
