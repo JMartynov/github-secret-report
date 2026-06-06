@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ashishps1/awesome-low-level-design
+
+**URL:** https://github.com/ashishps1/awesome-low-level-design.git
+
+- **Files Scanned:** 0
+- **Branches:** 2
+- **Size:** 44M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
