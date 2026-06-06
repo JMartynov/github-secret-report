@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### kunal-kushwaha/DSA-Bootcamp-Java
+
+**URL:** https://github.com/kunal-kushwaha/DSA-Bootcamp-Java.git
+
+- **Files Scanned:** 1191
+- **Branches:** 5
+- **Size:** 215M
+- **Duration:** 9.48s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
