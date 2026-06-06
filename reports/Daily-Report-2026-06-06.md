@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### elunez/eladmin
+
+**URL:** https://github.com/elunez/eladmin.git
+
+- **Files Scanned:** 4702
+- **Branches:** 2
+- **Size:** 11M
+- **Duration:** 5.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
