@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CarGuo/GSYVideoPlayer
+
+**URL:** https://github.com/CarGuo/GSYVideoPlayer.git
+
+- **Files Scanned:** 9578
+- **Branches:** 5
+- **Size:** 491M
+- **Duration:** 64.94s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
