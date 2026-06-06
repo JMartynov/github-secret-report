@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### apache/rocketmq
+
+**URL:** https://github.com/apache/rocketmq.git
+
+- **Files Scanned:** 51492
+- **Branches:** 68
+- **Size:** 82M
+- **Duration:** 175.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
