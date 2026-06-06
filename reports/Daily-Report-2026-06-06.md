@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### google/ExoPlayer
+
+**URL:** https://github.com/google/ExoPlayer.git
+
+- **Files Scanned:** 167898
+- **Branches:** 5
+- **Size:** 704M
+- **Duration:** 962.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
