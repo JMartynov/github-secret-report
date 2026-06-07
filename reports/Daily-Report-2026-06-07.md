@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ReactiveX/RxAndroid
+
+**URL:** https://github.com/ReactiveX/RxAndroid.git
+
+- **Files Scanned:** 1318
+- **Branches:** 3
+- **Size:** 1.9M
+- **Duration:** 1.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
