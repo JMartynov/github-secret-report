@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mybatis/mybatis-3
+
+**URL:** https://github.com/mybatis/mybatis-3.git
+
+- **Files Scanned:** 603172
+- **Branches:** 12
+- **Size:** 186M
+- **Duration:** 1226.88s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
