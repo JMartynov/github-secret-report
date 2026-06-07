@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### JetBrains/intellij-community
+
+**URL:** https://github.com/JetBrains/intellij-community.git
+
+- **Files Scanned:** 0
+- **Branches:** 3753
+- **Size:** 7.9G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
