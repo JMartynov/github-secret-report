@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### linlinjava/litemall
+
+**URL:** https://github.com/linlinjava/litemall.git
+
+- **Files Scanned:** 0
+- **Branches:** 5
+- **Size:** 46M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
