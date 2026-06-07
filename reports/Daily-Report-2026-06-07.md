@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dianping/cat
+
+**URL:** https://github.com/dianping/cat.git
+
+- **Files Scanned:** 0
+- **Branches:** 20
+- **Size:** 188M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
