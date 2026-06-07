@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yudaocode/SpringBoot-Labs
+
+**URL:** https://github.com/yudaocode/SpringBoot-Labs.git
+
+- **Files Scanned:** 7217
+- **Branches:** 11
+- **Size:** 45M
+- **Duration:** 2.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
