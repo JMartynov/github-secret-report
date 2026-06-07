@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### didi/DoKit
+
+**URL:** https://github.com/didi/DoKit.git
+
+- **Files Scanned:** 33351
+- **Branches:** 62
+- **Size:** 147M
+- **Duration:** 53.93s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
