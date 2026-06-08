@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### huginn/huginn
+
+**URL:** https://github.com/huginn/huginn.git
+
+- **Files Scanned:** 8034
+- **Branches:** 18
+- **Size:** 19M
+- **Duration:** 14.8s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
