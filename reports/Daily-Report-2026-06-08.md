@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jekyll/jekyll
+
+**URL:** https://github.com/jekyll/jekyll.git
+
+- **Files Scanned:** 0
+- **Branches:** 62
+- **Size:** 80M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
