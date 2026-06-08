@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mastodon/mastodon
+
+**URL:** https://github.com/mastodon/mastodon.git
+
+- **Files Scanned:** 136102
+- **Branches:** 205
+- **Size:** 490M
+- **Duration:** 2585.79s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
