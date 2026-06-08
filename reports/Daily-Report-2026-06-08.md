@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### maybe-finance/maybe
+
+**URL:** https://github.com/maybe-finance/maybe.git
+
+- **Files Scanned:** 9829
+- **Branches:** 15
+- **Size:** 20M
+- **Duration:** 9.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
