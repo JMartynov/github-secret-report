@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rails/rails
+
+**URL:** https://github.com/rails/rails.git
+
+- **Files Scanned:** 0
+- **Branches:** 78
+- **Size:** 359M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
