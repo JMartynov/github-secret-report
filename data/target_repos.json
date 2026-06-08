@@ -36513,5 +36513,85 @@
         "name": "altanapps/wes-agent",
         "url": "https://github.com/altanapps/wes-agent.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nickdill/megalisk-cli",
+        "url": "https://github.com/nickdill/megalisk-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Hollow7Mint/clipboard-viewer",
+        "url": "https://github.com/Hollow7Mint/clipboard-viewer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "eduroqu3/Clinica-VidaPlena",
+        "url": "https://github.com/eduroqu3/Clinica-VidaPlena.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ecolonco/aremko-cli",
+        "url": "https://github.com/ecolonco/aremko-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "opensme-jeff/aidx-client-onboard",
+        "url": "https://github.com/opensme-jeff/aidx-client-onboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sherif69-sa/DevS69-sdetkit",
+        "url": "https://github.com/sherif69-sa/DevS69-sdetkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "seanpoyner/homebrew-forge",
+        "url": "https://github.com/seanpoyner/homebrew-forge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "claudio-roi-master/app-clientes",
+        "url": "https://github.com/claudio-roi-master/app-clientes.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "1one1one11/pb-client-hub",
+        "url": "https://github.com/1one1one11/pb-client-hub.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gbabbu41/Clipwise",
+        "url": "https://github.com/gbabbu41/Clipwise.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tleanne1/rocky-clinic-threat-hunt",
+        "url": "https://github.com/tleanne1/rocky-clinic-threat-hunt.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "v0id-X/buqs-client",
+        "url": "https://github.com/v0id-X/buqs-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dark-matter08/remote-ledger",
+        "url": "https://github.com/dark-matter08/remote-ledger.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "heznpc/cairn",
+        "url": "https://github.com/heznpc/cairn.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amarbel-llc/crap",
+        "url": "https://github.com/amarbel-llc/crap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "maikramer/clified",
+        "url": "https://github.com/maikramer/clified.git",
+        "status": "Hasn't yet validated"
     }
 ]
