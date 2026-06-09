@@ -37143,5 +37143,90 @@
         "name": "wasin-tha/tbh_tool",
         "url": "https://github.com/wasin-tha/tbh_tool.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DucMinhNe/docker-nestjs-api",
+        "url": "https://github.com/DucMinhNe/docker-nestjs-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yaelgarpalm/balashte-api",
+        "url": "https://github.com/yaelgarpalm/balashte-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hcubasd/upgraded-disco",
+        "url": "https://github.com/hcubasd/upgraded-disco.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rodrigo-barraza/prism-service",
+        "url": "https://github.com/rodrigo-barraza/prism-service.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "modmex/modmex-lambda",
+        "url": "https://github.com/modmex/modmex-lambda.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "eemax/centric-api",
+        "url": "https://github.com/eemax/centric-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kevinThulnith/DevOps",
+        "url": "https://github.com/kevinThulnith/DevOps.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "supersimplesuper/super-api-embed",
+        "url": "https://github.com/supersimplesuper/super-api-embed.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "randhupaksi/absensi-cn-api",
+        "url": "https://github.com/randhupaksi/absensi-cn-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "camunda/orchestration-cluster-api-python",
+        "url": "https://github.com/camunda/orchestration-cluster-api-python.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "HYChou0515/specstar",
+        "url": "https://github.com/HYChou0515/specstar.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "imbraceltd/api-sdk",
+        "url": "https://github.com/imbraceltd/api-sdk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "godzillaN101/openai-nim-proxy",
+        "url": "https://github.com/godzillaN101/openai-nim-proxy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vermaKanishk01/mern-ecommerce-backend",
+        "url": "https://github.com/vermaKanishk01/mern-ecommerce-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fuyuxiang/echo-agent",
+        "url": "https://github.com/fuyuxiang/echo-agent.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ArcheLabs/vibly-indexer",
+        "url": "https://github.com/ArcheLabs/vibly-indexer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Vimal-raj17/-invoice-management-api--",
+        "url": "https://github.com/Vimal-raj17/-invoice-management-api--.git",
+        "status": "Hasn't yet validated"
     }
 ]
