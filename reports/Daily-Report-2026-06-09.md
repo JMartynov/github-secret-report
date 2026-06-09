@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### fastlane/fastlane
+
+**URL:** https://github.com/fastlane/fastlane.git
+
+- **Files Scanned:** 41354
+- **Branches:** 60
+- **Size:** 169M
+- **Duration:** 158.18s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
