@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rapid7/metasploit-framework
+
+**URL:** https://github.com/rapid7/metasploit-framework.git
+
+- **Files Scanned:** 0
+- **Branches:** 26
+- **Size:** 1.5G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
