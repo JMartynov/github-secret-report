@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### kilimchoi/engineering-blogs
+
+**URL:** https://github.com/kilimchoi/engineering-blogs.git
+
+- **Files Scanned:** 1718
+- **Branches:** 3
+- **Size:** 1.9M
+- **Duration:** 8.45s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
