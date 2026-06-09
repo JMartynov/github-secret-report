@@ -37398,5 +37398,95 @@
         "name": "Super-Protocol/sp-vm-tools",
         "url": "https://github.com/Super-Protocol/sp-vm-tools.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SteelPostman/loushang-free",
+        "url": "https://github.com/SteelPostman/loushang-free.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LegacyCodeHQ/clarity-cli",
+        "url": "https://github.com/LegacyCodeHQ/clarity-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bache00/tools",
+        "url": "https://github.com/bache00/tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PrideSquidExalt/email-signature-generator-tool",
+        "url": "https://github.com/PrideSquidExalt/email-signature-generator-tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "h2pack-speedrun/adamantSpeedrun-LiveSplit",
+        "url": "https://github.com/h2pack-speedrun/adamantSpeedrun-LiveSplit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DigitalTYPSAUS/AUT-0048-Automated_File_Organizer",
+        "url": "https://github.com/DigitalTYPSAUS/AUT-0048-Automated_File_Organizer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pwnwriter/haylxon",
+        "url": "https://github.com/pwnwriter/haylxon.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sinhanaman2701/LLM-Router-Chatbot",
+        "url": "https://github.com/sinhanaman2701/LLM-Router-Chatbot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Locko2901/lastfm-to-ytm",
+        "url": "https://github.com/Locko2901/lastfm-to-ytm.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SuperAdam47/best-polymarket-analysis-tool",
+        "url": "https://github.com/SuperAdam47/best-polymarket-analysis-tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ashishb/amazing-sandbox",
+        "url": "https://github.com/ashishb/amazing-sandbox.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bcourbage/homebrew-tap",
+        "url": "https://github.com/bcourbage/homebrew-tap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dannihell/farmacia-tools",
+        "url": "https://github.com/dannihell/farmacia-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "atlas-php/atlas",
+        "url": "https://github.com/atlas-php/atlas.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sircharlo/meeting-media-manager",
+        "url": "https://github.com/sircharlo/meeting-media-manager.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iWrityDev/ki-tools-de",
+        "url": "https://github.com/iWrityDev/ki-tools-de.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ebelo/dm01-dmav-migration",
+        "url": "https://github.com/ebelo/dm01-dmav-migration.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mroops0111/openapi-mcp-gateway",
+        "url": "https://github.com/mroops0111/openapi-mcp-gateway.git",
+        "status": "Hasn't yet validated"
     }
 ]

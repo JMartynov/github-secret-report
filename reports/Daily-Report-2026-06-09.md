@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### freeCodeCamp/devdocs
+
+**URL:** https://github.com/freeCodeCamp/devdocs.git
+
+- **Files Scanned:** 14486
+- **Branches:** 11
+- **Size:** 49M
+- **Duration:** 13.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
