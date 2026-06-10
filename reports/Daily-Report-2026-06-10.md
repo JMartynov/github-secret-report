@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ruby/ruby
+
+**URL:** https://github.com/ruby/ruby.git
+
+- **Files Scanned:** 0
+- **Branches:** 32
+- **Size:** 503M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
