@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### heartcombo/devise
+
+**URL:** https://github.com/heartcombo/devise.git
+
+- **Files Scanned:** 10185
+- **Branches:** 33
+- **Size:** 8.8M
+- **Duration:** 17.29s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
