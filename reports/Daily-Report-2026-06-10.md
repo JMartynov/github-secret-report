@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### matteocrippa/awesome-swift
+
+**URL:** https://github.com/matteocrippa/awesome-swift.git
+
+- **Files Scanned:** 3715
+- **Branches:** 2
+- **Size:** 9.2M
+- **Duration:** 95.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
