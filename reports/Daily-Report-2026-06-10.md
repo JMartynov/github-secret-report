@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hashicorp/vagrant
+
+**URL:** https://github.com/hashicorp/vagrant.git
+
+- **Files Scanned:** 0
+- **Branches:** 112
+- **Size:** 102M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

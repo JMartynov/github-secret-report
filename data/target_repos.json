@@ -37823,5 +37823,75 @@
         "name": "EKKOLearnAI/hermes-web-ui",
         "url": "https://github.com/EKKOLearnAI/hermes-web-ui.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jasonworden/supervision-lib",
+        "url": "https://github.com/jasonworden/supervision-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tamarAbramowitz/LetterLibraryWebsite",
+        "url": "https://github.com/tamarAbramowitz/LetterLibraryWebsite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Marouwanna/Library-Logging-System",
+        "url": "https://github.com/Marouwanna/Library-Logging-System.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Catmono/bpe-tokenizer-ts",
+        "url": "https://github.com/Catmono/bpe-tokenizer-ts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lunasamaswang/BookManager",
+        "url": "https://github.com/lunasamaswang/BookManager.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AscendionPlatformEngineering/knowledge-library",
+        "url": "https://github.com/AscendionPlatformEngineering/knowledge-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kairos-code-dev/zlink",
+        "url": "https://github.com/kairos-code-dev/zlink.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "siddharth123684/effect-llm-docs",
+        "url": "https://github.com/siddharth123684/effect-llm-docs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alisendjsc-crypto/wuld-ink",
+        "url": "https://github.com/alisendjsc-crypto/wuld-ink.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "malonaz/core",
+        "url": "https://github.com/malonaz/core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "foforivera/pocketcli",
+        "url": "https://github.com/foforivera/pocketcli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DLR-TS/SUMOLibraries",
+        "url": "https://github.com/DLR-TS/SUMOLibraries.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "radzenhq/radzen-blazor",
+        "url": "https://github.com/radzenhq/radzen-blazor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "libcdio/cdio-utils-rs",
+        "url": "https://github.com/libcdio/cdio-utils-rs.git",
+        "status": "Hasn't yet validated"
     }
 ]
