@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gitlabhq/gitlabhq
+
+**URL:** https://github.com/gitlabhq/gitlabhq.git
+
+- **Files Scanned:** 0
+- **Branches:** 2239
+- **Size:** 3.3G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
