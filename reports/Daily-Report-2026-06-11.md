@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Homebrew/homebrew-core
+
+**URL:** https://github.com/Homebrew/homebrew-core.git
+
+- **Files Scanned:** 708295
+- **Branches:** 72
+- **Size:** 1.3G
+- **Duration:** 1147.59s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
