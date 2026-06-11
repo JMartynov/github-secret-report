@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### spree/spree
+
+**URL:** https://github.com/spree/spree.git
+
+- **Files Scanned:** 0
+- **Branches:** 1588
+- **Size:** 408M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
