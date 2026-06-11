@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lewagon/setup
+
+**URL:** https://github.com/lewagon/setup.git
+
+- **Files Scanned:** 3812
+- **Branches:** 7
+- **Size:** 35M
+- **Duration:** 13.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

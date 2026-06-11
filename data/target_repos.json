@@ -38328,5 +38328,85 @@
         "name": "2ndlifeinc/chrome-helper-public",
         "url": "https://github.com/2ndlifeinc/chrome-helper-public.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "seihyoumirai/karotter-api-reference",
+        "url": "https://github.com/seihyoumirai/karotter-api-reference.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fsans/FMS-ODATA-MCP",
+        "url": "https://github.com/fsans/FMS-ODATA-MCP.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bagus-api/storage",
+        "url": "https://github.com/bagus-api/storage.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JaehwanPark/KORStockScan",
+        "url": "https://github.com/JaehwanPark/KORStockScan.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "oldjs/CLIProxyAPI",
+        "url": "https://github.com/oldjs/CLIProxyAPI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LuizaDiBlasio/JoobsProject",
+        "url": "https://github.com/LuizaDiBlasio/JoobsProject.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "commis/iptv-api",
+        "url": "https://github.com/commis/iptv-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.spotify.openapiclient",
+        "url": "https://github.com/soenneker/soenneker.spotify.openapiclient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "raadkasem/T-Lang",
+        "url": "https://github.com/raadkasem/T-Lang.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sunghoonkwak/toss_api",
+        "url": "https://github.com/sunghoonkwak/toss_api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ali241124/mnist-digit-classifier",
+        "url": "https://github.com/Ali241124/mnist-digit-classifier.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sahatfi/Forurensning-API-pipeline-prosjekt",
+        "url": "https://github.com/Sahatfi/Forurensning-API-pipeline-prosjekt.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DonaRashmitha-dev/rag-document-QA",
+        "url": "https://github.com/DonaRashmitha-dev/rag-document-QA.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Loliconus/Weather-Dashboard-Open-Meteo-API",
+        "url": "https://github.com/Loliconus/Weather-Dashboard-Open-Meteo-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SocketSomeone/cent.js",
+        "url": "https://github.com/SocketSomeone/cent.js.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ouros-App/ms-api-legal",
+        "url": "https://github.com/Ouros-App/ms-api-legal.git",
+        "status": "Hasn't yet validated"
     }
 ]
