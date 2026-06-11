@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### postalserver/postal
+
+**URL:** https://github.com/postalserver/postal.git
+
+- **Files Scanned:** 2855
+- **Branches:** 8
+- **Size:** 8.2M
+- **Duration:** 14.55s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
