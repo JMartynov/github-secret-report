@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CocoaPods/CocoaPods
+
+**URL:** https://github.com/CocoaPods/CocoaPods.git
+
+- **Files Scanned:** 0
+- **Branches:** 68
+- **Size:** 209M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
