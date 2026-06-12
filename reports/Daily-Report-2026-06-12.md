@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gollum/gollum
+
+**URL:** https://github.com/gollum/gollum.git
+
+- **Files Scanned:** 15994
+- **Branches:** 50
+- **Size:** 159M
+- **Duration:** 41.53s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
