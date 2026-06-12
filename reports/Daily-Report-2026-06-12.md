@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### basecamp/kamal
+
+**URL:** https://github.com/basecamp/kamal.git
+
+- **Files Scanned:** 5699
+- **Branches:** 47
+- **Size:** 5.8M
+- **Duration:** 7.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
