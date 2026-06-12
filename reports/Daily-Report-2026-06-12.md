@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### neutraltone/awesome-stock-resources
+
+**URL:** https://github.com/neutraltone/awesome-stock-resources.git
+
+- **Files Scanned:** 412
+- **Branches:** 1
+- **Size:** 1.2M
+- **Duration:** 1.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
