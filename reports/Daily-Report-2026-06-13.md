@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### tmuxinator/tmuxinator
+
+**URL:** https://github.com/tmuxinator/tmuxinator.git
+
+- **Files Scanned:** 1792
+- **Branches:** 17
+- **Size:** 2.2M
+- **Duration:** 2.58s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
