@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### github-linguist/linguist
+
+**URL:** https://github.com/github-linguist/linguist.git
+
+- **Files Scanned:** 0
+- **Branches:** 11
+- **Size:** 91M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
