@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### capistrano/capistrano
+
+**URL:** https://github.com/capistrano/capistrano.git
+
+- **Files Scanned:** 7253
+- **Branches:** 4
+- **Size:** 7.7M
+- **Duration:** 12.74s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
