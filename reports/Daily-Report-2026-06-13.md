@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ubicloud/ubicloud
+
+**URL:** https://github.com/ubicloud/ubicloud.git
+
+- **Files Scanned:** 33612
+- **Branches:** 251
+- **Size:** 43M
+- **Duration:** 108.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
