@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sinatra/sinatra
+
+**URL:** https://github.com/sinatra/sinatra.git
+
+- **Files Scanned:** 0
+- **Branches:** 5
+- **Size:** 11M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
