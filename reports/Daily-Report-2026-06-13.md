@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rubocop/rubocop
+
+**URL:** https://github.com/rubocop/rubocop.git
+
+- **Files Scanned:** 59579
+- **Branches:** 32
+- **Size:** 77M
+- **Duration:** 378.52s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
