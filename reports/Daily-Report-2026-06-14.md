@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ruby-grape/grape
+
+**URL:** https://github.com/ruby-grape/grape.git
+
+- **Files Scanned:** 9148
+- **Branches:** 62
+- **Size:** 12M
+- **Duration:** 53.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
