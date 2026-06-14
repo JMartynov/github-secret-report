@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### docusealco/docuseal
+
+**URL:** https://github.com/docusealco/docuseal.git
+
+- **Files Scanned:** 9332
+- **Branches:** 1
+- **Size:** 17M
+- **Duration:** 54.52s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
