@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### faker-ruby/faker
+
+**URL:** https://github.com/faker-ruby/faker.git
+
+- **Files Scanned:** 11157
+- **Branches:** 16
+- **Size:** 26M
+- **Duration:** 20.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
