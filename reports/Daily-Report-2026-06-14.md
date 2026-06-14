@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### activeadmin/activeadmin
+
+**URL:** https://github.com/activeadmin/activeadmin.git
+
+- **Files Scanned:** 21756
+- **Branches:** 36
+- **Size:** 22M
+- **Duration:** 76.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
