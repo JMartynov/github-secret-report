@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jordansissel/fpm
+
+**URL:** https://github.com/jordansissel/fpm.git
+
+- **Files Scanned:** 5474
+- **Branches:** 70
+- **Size:** 5.4M
+- **Duration:** 9.6s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
