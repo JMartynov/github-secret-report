@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### greatghoul/remote-working
+
+**URL:** https://github.com/greatghoul/remote-working.git
+
+- **Files Scanned:** 1348
+- **Branches:** 1
+- **Size:** 3.5M
+- **Duration:** 4.81s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
