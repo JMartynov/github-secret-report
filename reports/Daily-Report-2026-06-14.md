@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### DeathKing/Learning-SICP
+
+**URL:** https://github.com/DeathKing/Learning-SICP.git
+
+- **Files Scanned:** 1036
+- **Branches:** 1
+- **Size:** 21M
+- **Duration:** 22.67s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
