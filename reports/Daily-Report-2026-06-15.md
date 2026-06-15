@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### thoughtbot/guides
+
+**URL:** https://github.com/thoughtbot/guides.git
+
+- **Files Scanned:** 1096
+- **Branches:** 33
+- **Size:** 2.0M
+- **Duration:** 1.46s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
