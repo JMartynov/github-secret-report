@@ -41238,5 +41238,75 @@
         "name": "denisvivdenko/chatops-frontend-base",
         "url": "https://github.com/denisvivdenko/chatops-frontend-base.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "petersnoek-hu/portflow-api-python",
+        "url": "https://github.com/petersnoek-hu/portflow-api-python.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ramayudaM/FitTrack-api",
+        "url": "https://github.com/ramayudaM/FitTrack-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gabriel-corto/api.buki.ao",
+        "url": "https://github.com/gabriel-corto/api.buki.ao.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/typespec",
+        "url": "https://github.com/api-evangelist/typespec.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Tibaass/base-lunar-api",
+        "url": "https://github.com/Tibaass/base-lunar-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/ttm-technologies",
+        "url": "https://github.com/api-evangelist/ttm-technologies.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/truelayer",
+        "url": "https://github.com/api-evangelist/truelayer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Isi86/IsiProxy",
+        "url": "https://github.com/Isi86/IsiProxy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/tulip-interfaces",
+        "url": "https://github.com/api-evangelist/tulip-interfaces.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lfreis/ai-app-builder-pro",
+        "url": "https://github.com/lfreis/ai-app-builder-pro.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/truework",
+        "url": "https://github.com/api-evangelist/truework.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "immortalbob/MiniSearch_Intents",
+        "url": "https://github.com/immortalbob/MiniSearch_Intents.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "010Monkey/iptv-api",
+        "url": "https://github.com/010Monkey/iptv-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/tvdb",
+        "url": "https://github.com/api-evangelist/tvdb.git",
+        "status": "Hasn't yet validated"
     }
 ]

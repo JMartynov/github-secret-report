@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### imathis/octopress
+
+**URL:** https://github.com/imathis/octopress.git
+
+- **Files Scanned:** 4365
+- **Branches:** 16
+- **Size:** 4.1M
+- **Duration:** 4.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
