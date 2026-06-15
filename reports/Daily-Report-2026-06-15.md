@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### resque/resque
+
+**URL:** https://github.com/resque/resque.git
+
+- **Files Scanned:** 3640
+- **Branches:** 5
+- **Size:** 4.2M
+- **Duration:** 7.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
