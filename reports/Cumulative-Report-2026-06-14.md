@@ -1,0 +1,141 @@
+# Daily Cumulative Secret Scan Report - 2026-06-14
+
+## Executive Summary
+
+| Metric | Value |
+|---|---|
+| **Total Repositories Scanned** | 9 |
+| **Total Files Scanned** | 70032 |
+| **Total Scan Duration** | 256.99 seconds |
+| **Total Secrets Detected** | 0 |
+
+---
+
+## Repository Breakdown
+
+### Shopify/liquid
+
+**URL:** https://github.com/Shopify/liquid.git
+
+- **Files Scanned:** 10781
+- **Branches:** 312
+- **Size:** 8.8M
+- **Duration:** 14.91s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### docusealco/docuseal
+
+**URL:** https://github.com/docusealco/docuseal.git
+
+- **Files Scanned:** 9332
+- **Branches:** 1
+- **Size:** 17M
+- **Duration:** 54.52s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### faker-ruby/faker
+
+**URL:** https://github.com/faker-ruby/faker.git
+
+- **Files Scanned:** 11157
+- **Branches:** 16
+- **Size:** 26M
+- **Duration:** 20.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### greatghoul/remote-working
+
+**URL:** https://github.com/greatghoul/remote-working.git
+
+- **Files Scanned:** 1348
+- **Branches:** 1
+- **Size:** 3.5M
+- **Duration:** 4.81s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### jordansissel/fpm
+
+**URL:** https://github.com/jordansissel/fpm.git
+
+- **Files Scanned:** 5474
+- **Branches:** 70
+- **Size:** 5.4M
+- **Duration:** 9.6s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### DeathKing/Learning-SICP
+
+**URL:** https://github.com/DeathKing/Learning-SICP.git
+
+- **Files Scanned:** 1036
+- **Branches:** 1
+- **Size:** 21M
+- **Duration:** 22.67s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### teamcapybara/capybara
+
+**URL:** https://github.com/teamcapybara/capybara.git
+
+- **Files Scanned:** 0
+- **Branches:** 318
+- **Size:** 17M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### ruby-grape/grape
+
+**URL:** https://github.com/ruby-grape/grape.git
+
+- **Files Scanned:** 9148
+- **Branches:** 62
+- **Size:** 12M
+- **Duration:** 53.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### activeadmin/activeadmin
+
+**URL:** https://github.com/activeadmin/activeadmin.git
+
+- **Files Scanned:** 21756
+- **Branches:** 36
+- **Size:** 22M
+- **Duration:** 76.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
