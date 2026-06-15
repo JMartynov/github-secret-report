@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### freeCodeCamp/how-to-contribute-to-open-source
+
+**URL:** https://github.com/freeCodeCamp/how-to-contribute-to-open-source.git
+
+- **Files Scanned:** 751
+- **Branches:** 2
+- **Size:** 2.4M
+- **Duration:** 1.27s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

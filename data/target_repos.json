@@ -41143,5 +41143,100 @@
         "name": "hugogirona/pfe",
         "url": "https://github.com/hugogirona/pfe.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MemisApp/memis-frontend",
+        "url": "https://github.com/MemisApp/memis-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vintasoftware/vinta-schedule-frontend-web",
+        "url": "https://github.com/vintasoftware/vinta-schedule-frontend-web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KuramaSyu/WerSu-Frontend",
+        "url": "https://github.com/KuramaSyu/WerSu-Frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nbarradev/ERP_fronted",
+        "url": "https://github.com/nbarradev/ERP_fronted.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "EDUARDO-HERNANDEZ-PZK/Pre-Practica_Frontend_Soda_Hodgson",
+        "url": "https://github.com/EDUARDO-HERNANDEZ-PZK/Pre-Practica_Frontend_Soda_Hodgson.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nathnaelt17/frontend",
+        "url": "https://github.com/Nathnaelt17/frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Magurin/tildes_frontend",
+        "url": "https://github.com/Magurin/tildes_frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "azreon-lab1/tracks-player",
+        "url": "https://github.com/azreon-lab1/tracks-player.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DrakesCousin/docker-compose-reactjs-live",
+        "url": "https://github.com/DrakesCousin/docker-compose-reactjs-live.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amanuel1221/amanuel-portfolio",
+        "url": "https://github.com/amanuel1221/amanuel-portfolio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "andyapo/APYTDLP",
+        "url": "https://github.com/andyapo/APYTDLP.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "markgrigorenko/RollStoryFrontend",
+        "url": "https://github.com/markgrigorenko/RollStoryFrontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hfgwygey/yu-ai-agent",
+        "url": "https://github.com/hfgwygey/yu-ai-agent.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MateoAcha/Lab1Frontend",
+        "url": "https://github.com/MateoAcha/Lab1Frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MeiqMeiq/notes-app-pontnau",
+        "url": "https://github.com/MeiqMeiq/notes-app-pontnau.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agenteinfosoftwareia/bryanvest-frontend",
+        "url": "https://github.com/agenteinfosoftwareia/bryanvest-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "openedx/frontend-app-authoring",
+        "url": "https://github.com/openedx/frontend-app-authoring.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sarfrazsaeed/smart-hr-job-matching",
+        "url": "https://github.com/sarfrazsaeed/smart-hr-job-matching.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "denisvivdenko/chatops-frontend-base",
+        "url": "https://github.com/denisvivdenko/chatops-frontend-base.git",
+        "status": "Hasn't yet validated"
     }
 ]
