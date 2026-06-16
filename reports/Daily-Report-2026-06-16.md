@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### thoughtbot/paperclip
+
+**URL:** https://github.com/thoughtbot/paperclip.git
+
+- **Files Scanned:** 4337
+- **Branches:** 10
+- **Size:** 5.6M
+- **Duration:** 7.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
