@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### antiwork/gumroad
+
+**URL:** https://github.com/antiwork/gumroad.git
+
+- **Files Scanned:** 29265
+- **Branches:** 174
+- **Size:** 579M
+- **Duration:** 431.92s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
