@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### javan/whenever
+
+**URL:** https://github.com/javan/whenever.git
+
+- **Files Scanned:** 923
+- **Branches:** 2
+- **Size:** 1.3M
+- **Duration:** 0.81s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
