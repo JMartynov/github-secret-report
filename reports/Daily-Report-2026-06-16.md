@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ankane/pghero
+
+**URL:** https://github.com/ankane/pghero.git
+
+- **Files Scanned:** 2772
+- **Branches:** 14
+- **Size:** 4.8M
+- **Duration:** 7.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
