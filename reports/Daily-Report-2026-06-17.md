@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### thoughtbot/factory_bot
+
+**URL:** https://github.com/thoughtbot/factory_bot.git
+
+- **Files Scanned:** 5900
+- **Branches:** 11
+- **Size:** 6.4M
+- **Duration:** 8.81s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
