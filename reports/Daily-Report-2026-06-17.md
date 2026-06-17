@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Freika/dawarich
+
+**URL:** https://github.com/Freika/dawarich.git
+
+- **Files Scanned:** 20737
+- **Branches:** 76
+- **Size:** 104M
+- **Duration:** 83.85s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
