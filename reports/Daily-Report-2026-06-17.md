@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### kaminari/kaminari
+
+**URL:** https://github.com/kaminari/kaminari.git
+
+- **Files Scanned:** 3313
+- **Branches:** 11
+- **Size:** 2.8M
+- **Duration:** 2.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
