@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### heartcombo/simple_form
+
+**URL:** https://github.com/heartcombo/simple_form.git
+
+- **Files Scanned:** 0
+- **Branches:** 24
+- **Size:** 4.3M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
