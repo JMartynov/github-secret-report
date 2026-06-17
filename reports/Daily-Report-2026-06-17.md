@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### chef/chef
+
+**URL:** https://github.com/chef/chef.git
+
+- **Files Scanned:** 0
+- **Branches:** 908
+- **Size:** 418M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
