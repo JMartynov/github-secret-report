@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### omniauth/omniauth
+
+**URL:** https://github.com/omniauth/omniauth.git
+
+- **Files Scanned:** 3324
+- **Branches:** 13
+- **Size:** 3.9M
+- **Duration:** 2.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
