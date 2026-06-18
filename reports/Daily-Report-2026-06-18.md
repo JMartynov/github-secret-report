@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### github/scientist
+
+**URL:** https://github.com/github/scientist.git
+
+- **Files Scanned:** 260
+- **Branches:** 5
+- **Size:** 616K
+- **Duration:** 0.71s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
