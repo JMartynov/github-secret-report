@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### puma/puma
+
+**URL:** https://github.com/puma/puma.git
+
+- **Files Scanned:** 9654
+- **Branches:** 67
+- **Size:** 17M
+- **Duration:** 28.0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
