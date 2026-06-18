@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### railsadminteam/rails_admin
+
+**URL:** https://github.com/railsadminteam/rails_admin.git
+
+- **Files Scanned:** 17825
+- **Branches:** 11
+- **Size:** 31M
+- **Duration:** 27.68s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
