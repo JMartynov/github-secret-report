@@ -1,0 +1,20 @@
+# Daily Secret Scan Report - 2026-06-19
+
+This report is updated hourly. Cumulative totals are generated at the end of the day.
+
+---
+
+### github-changelog-generator/github-changelog-generator
+
+**URL:** https://github.com/github-changelog-generator/github-changelog-generator.git
+
+- **Files Scanned:** 2633
+- **Branches:** 19
+- **Size:** 7.9M
+- **Duration:** 454.3s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
