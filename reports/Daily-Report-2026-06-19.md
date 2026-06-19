@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### flyerhzm/bullet
+
+**URL:** https://github.com/flyerhzm/bullet.git
+
+- **Files Scanned:** 4519
+- **Branches:** 53
+- **Size:** 3.2M
+- **Duration:** 5.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
