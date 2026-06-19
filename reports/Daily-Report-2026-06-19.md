@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### paper-trail-gem/paper_trail
+
+**URL:** https://github.com/paper-trail-gem/paper_trail.git
+
+- **Files Scanned:** 5942
+- **Branches:** 27
+- **Size:** 6.2M
+- **Duration:** 15.48s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
