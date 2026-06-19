@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### realm/jazzy
+
+**URL:** https://github.com/realm/jazzy.git
+
+- **Files Scanned:** 0
+- **Branches:** 10
+- **Size:** 98M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
