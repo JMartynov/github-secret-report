@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### presidentbeef/brakeman
+
+**URL:** https://github.com/presidentbeef/brakeman.git
+
+- **Files Scanned:** 36237
+- **Branches:** 62
+- **Size:** 58M
+- **Duration:** 112.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
