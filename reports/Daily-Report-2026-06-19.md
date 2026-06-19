@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### basecamp/fizzy
+
+**URL:** https://github.com/basecamp/fizzy.git
+
+- **Files Scanned:** 27172
+- **Branches:** 76
+- **Size:** 76M
+- **Duration:** 1841.6s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
