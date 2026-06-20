@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### BetterErrors/better_errors
+
+**URL:** https://github.com/BetterErrors/better_errors.git
+
+- **Files Scanned:** 1001
+- **Branches:** 5
+- **Size:** 3.3M
+- **Duration:** 1.6s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
