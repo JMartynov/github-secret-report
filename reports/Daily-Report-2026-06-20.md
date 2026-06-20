@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bkeepers/dotenv
+
+**URL:** https://github.com/bkeepers/dotenv.git
+
+- **Files Scanned:** 975
+- **Branches:** 8
+- **Size:** 1.4M
+- **Duration:** 0.84s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
