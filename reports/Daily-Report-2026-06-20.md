@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sj26/mailcatcher
+
+**URL:** https://github.com/sj26/mailcatcher.git
+
+- **Files Scanned:** 896
+- **Branches:** 4
+- **Size:** 2.0M
+- **Duration:** 1.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
