@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### chyingp/nodejs-learning-guide
+
+**URL:** https://github.com/chyingp/nodejs-learning-guide.git
+
+- **Files Scanned:** 1062
+- **Branches:** 5
+- **Size:** 5.3M
+- **Duration:** 0.71s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
