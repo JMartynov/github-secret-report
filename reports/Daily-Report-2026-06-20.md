@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pry/pry
+
+**URL:** https://github.com/pry/pry.git
+
+- **Files Scanned:** 12556
+- **Branches:** 8
+- **Size:** 12M
+- **Duration:** 22.9s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
