@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ankane/searchkick
+
+**URL:** https://github.com/ankane/searchkick.git
+
+- **Files Scanned:** 5981
+- **Branches:** 20
+- **Size:** 4.8M
+- **Duration:** 25.23s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
