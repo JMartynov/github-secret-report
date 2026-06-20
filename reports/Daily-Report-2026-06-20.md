@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### guard/guard
+
+**URL:** https://github.com/guard/guard.git
+
+- **Files Scanned:** 6116
+- **Branches:** 7
+- **Size:** 5.7M
+- **Duration:** 10.84s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
