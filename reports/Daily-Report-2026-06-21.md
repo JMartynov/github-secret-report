@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### instructure/canvas-lms
+
+**URL:** https://github.com/instructure/canvas-lms.git
+
+- **Files Scanned:** 0
+- **Branches:** 377
+- **Size:** 2.8G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
