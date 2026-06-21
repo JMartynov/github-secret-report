@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### urbanadventurer/WhatWeb
+
+**URL:** https://github.com/urbanadventurer/WhatWeb.git
+
+- **Files Scanned:** 29402
+- **Branches:** 2
+- **Size:** 36M
+- **Duration:** 23.73s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
