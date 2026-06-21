@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alexreisner/geocoder
+
+**URL:** https://github.com/alexreisner/geocoder.git
+
+- **Files Scanned:** 4430
+- **Branches:** 6
+- **Size:** 6.5M
+- **Duration:** 9.72s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
