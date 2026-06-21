@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ryanb/cancan
+
+**URL:** https://github.com/ryanb/cancan.git
+
+- **Files Scanned:** 1033
+- **Branches:** 2
+- **Size:** 1.3M
+- **Duration:** 1.37s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
