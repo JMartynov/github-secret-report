@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### norman/friendly_id
+
+**URL:** https://github.com/norman/friendly_id.git
+
+- **Files Scanned:** 5666
+- **Branches:** 18
+- **Size:** 4.8M
+- **Duration:** 9.84s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
