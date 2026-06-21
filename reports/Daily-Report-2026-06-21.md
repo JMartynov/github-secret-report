@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### busyloop/lolcat
+
+**URL:** https://github.com/busyloop/lolcat.git
+
+- **Files Scanned:** 110
+- **Branches:** 1
+- **Size:** 916K
+- **Duration:** 0.11s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
