@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hanami/hanami
+
+**URL:** https://github.com/hanami/hanami.git
+
+- **Files Scanned:** 8409
+- **Branches:** 37
+- **Size:** 30M
+- **Duration:** 12.81s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
