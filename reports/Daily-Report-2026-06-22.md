@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### github/markup
+
+**URL:** https://github.com/github/markup.git
+
+- **Files Scanned:** 0
+- **Branches:** 19
+- **Size:** 1.8M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

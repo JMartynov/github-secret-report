@@ -45323,5 +45323,85 @@
         "name": "hack-dance/homebrew-tap",
         "url": "https://github.com/hack-dance/homebrew-tap.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OnlyTerp/grok-research-session",
+        "url": "https://github.com/OnlyTerp/grok-research-session.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CertaMesh/gaze-laravel",
+        "url": "https://github.com/CertaMesh/gaze-laravel.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Topseeder1/bob-cli",
+        "url": "https://github.com/Topseeder1/bob-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "golamrabbi73/ai-prompt-hub-client",
+        "url": "https://github.com/golamrabbi73/ai-prompt-hub-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Pilotdesk/homebrew-flow",
+        "url": "https://github.com/Pilotdesk/homebrew-flow.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Rabbinur/rabbinur-muktar-portfolio-client",
+        "url": "https://github.com/Rabbinur/rabbinur-muktar-portfolio-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Antiz96/manora",
+        "url": "https://github.com/Antiz96/manora.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JaakkoLipp/EUV-cli",
+        "url": "https://github.com/JaakkoLipp/EUV-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "InfiniMatrix/cliccatutor-mvp",
+        "url": "https://github.com/InfiniMatrix/cliccatutor-mvp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "telus-labs/stagecraft",
+        "url": "https://github.com/telus-labs/stagecraft.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jnMetaCode/superpowers-zh",
+        "url": "https://github.com/jnMetaCode/superpowers-zh.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mtrias/clique",
+        "url": "https://github.com/mtrias/clique.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mdaemon-technologies/socket.io-client-proxy",
+        "url": "https://github.com/mdaemon-technologies/socket.io-client-proxy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aatomasi-bot/Clinic-Suite",
+        "url": "https://github.com/aatomasi-bot/Clinic-Suite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pacontrerasj/KBTDEL-AUY-1104--SharedClientV2",
+        "url": "https://github.com/pacontrerasj/KBTDEL-AUY-1104--SharedClientV2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "naeemsadiq39/devctl",
+        "url": "https://github.com/naeemsadiq39/devctl.git",
+        "status": "Hasn't yet validated"
     }
 ]
