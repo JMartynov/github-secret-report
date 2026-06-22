@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### felixonmars/dnsmasq-china-list
+
+**URL:** https://github.com/felixonmars/dnsmasq-china-list.git
+
+- **Files Scanned:** 0
+- **Branches:** Unknown
+- **Size:** Unknown
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
