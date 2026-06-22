@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### deependu5960/chat-app-backend
+
+**URL:** https://github.com/deependu5960/chat-app-backend.git
+
+- **Files Scanned:** 25
+- **Branches:** 1
+- **Size:** 328K
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
