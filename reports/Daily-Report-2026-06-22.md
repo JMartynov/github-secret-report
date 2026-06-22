@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### venmo/synx
+
+**URL:** https://github.com/venmo/synx.git
+
+- **Files Scanned:** 390
+- **Branches:** 21
+- **Size:** 21M
+- **Duration:** 1.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
