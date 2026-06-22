@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### vcr/vcr
+
+**URL:** https://github.com/vcr/vcr.git
+
+- **Files Scanned:** 0
+- **Branches:** 33
+- **Size:** 6.1M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
