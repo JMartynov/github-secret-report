@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Xandrua/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto
+
+**URL:** https://github.com/Xandrua/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto.git
+
+- **Files Scanned:** 16125
+- **Branches:** 1
+- **Size:** 18M
+- **Duration:** 4.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
