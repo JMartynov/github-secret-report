@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Anandh-dev/expense-backend
+
+**URL:** https://github.com/Anandh-dev/expense-backend.git
+
+- **Files Scanned:** 1129
+- **Branches:** 1
+- **Size:** 14M
+- **Duration:** 2.43s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
