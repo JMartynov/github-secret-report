@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### vamsikrishnach25-star/mediscan-ai-backend
+
+**URL:** https://github.com/vamsikrishnach25-star/mediscan-ai-backend.git
+
+- **Files Scanned:** 103
+- **Branches:** 1
+- **Size:** 716K
+- **Duration:** 0.07s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
