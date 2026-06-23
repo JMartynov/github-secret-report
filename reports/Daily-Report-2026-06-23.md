@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### azertyuiop3003/The-Wordle-Game
+
+**URL:** https://github.com/azertyuiop3003/The-Wordle-Game.git
+
+- **Files Scanned:** 69
+- **Branches:** 1
+- **Size:** 7.3M
+- **Duration:** 0.43s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
