@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Manukesharwani09/fintechBackend
+
+**URL:** https://github.com/Manukesharwani09/fintechBackend.git
+
+- **Files Scanned:** 119
+- **Branches:** 1
+- **Size:** 620K
+- **Duration:** 0.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
