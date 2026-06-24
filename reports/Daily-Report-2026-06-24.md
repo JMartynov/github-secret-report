@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Kirooshana15/service_folow_backend
+
+**URL:** https://github.com/Kirooshana15/service_folow_backend.git
+
+- **Files Scanned:** 138
+- **Branches:** 1
+- **Size:** 1.9M
+- **Duration:** 0.34s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
