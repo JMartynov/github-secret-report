@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### KeniaVargascz/plotcraft-backend
+
+**URL:** https://github.com/KeniaVargascz/plotcraft-backend.git
+
+- **Files Scanned:** 1336
+- **Branches:** 1
+- **Size:** 5.1M
+- **Duration:** 4.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

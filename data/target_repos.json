@@ -46423,5 +46423,90 @@
         "name": "danskernesdigitalebibliotek/dpl-web",
         "url": "https://github.com/danskernesdigitalebibliotek/dpl-web.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Michalw101/Aesthetics-Clinic",
+        "url": "https://github.com/Michalw101/Aesthetics-Clinic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rustledger/rustledger",
+        "url": "https://github.com/rustledger/rustledger.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Finfra/homebrew-tap",
+        "url": "https://github.com/Finfra/homebrew-tap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "codecoradev/uteke",
+        "url": "https://github.com/codecoradev/uteke.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "canonical/spark-client-snap",
+        "url": "https://github.com/canonical/spark-client-snap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "samiullahhussai/clickspectre",
+        "url": "https://github.com/samiullahhussai/clickspectre.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "linxule/deepthonk",
+        "url": "https://github.com/linxule/deepthonk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cyberspacesec/snir-skills",
+        "url": "https://github.com/cyberspacesec/snir-skills.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nubiga-lima/climate-mortgage-abm",
+        "url": "https://github.com/Nubiga-lima/climate-mortgage-abm.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DataDog/datadog-api-client-ruby",
+        "url": "https://github.com/DataDog/datadog-api-client-ruby.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Brusdeylins/ppt-skill",
+        "url": "https://github.com/Brusdeylins/ppt-skill.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ankitcharolia/kiro-gateway",
+        "url": "https://github.com/ankitcharolia/kiro-gateway.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Vesperis-group/mnemo",
+        "url": "https://github.com/Vesperis-group/mnemo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Lawrence-le/solidcue",
+        "url": "https://github.com/Lawrence-le/solidcue.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NeuraVlix/ClipLauncher",
+        "url": "https://github.com/NeuraVlix/ClipLauncher.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Alabaykin/course-cli",
+        "url": "https://github.com/Alabaykin/course-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DataDog/datadog-api-client-rust",
+        "url": "https://github.com/DataDog/datadog-api-client-rust.git",
+        "status": "Hasn't yet validated"
     }
 ]
