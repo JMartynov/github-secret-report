@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### neerajsingla506/SehatMitra-Backend
+
+**URL:** https://github.com/neerajsingla506/SehatMitra-Backend.git
+
+- **Files Scanned:** 2
+- **Branches:** 1
+- **Size:** 192K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
