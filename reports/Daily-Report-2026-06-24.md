@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yuzu697/PROYECTO_Pwn3d
+
+**URL:** https://github.com/yuzu697/PROYECTO_Pwn3d.git
+
+- **Files Scanned:** 81
+- **Branches:** 1
+- **Size:** 912K
+- **Duration:** 0.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
