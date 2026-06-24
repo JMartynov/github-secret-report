@@ -1,0 +1,20 @@
+# Daily Secret Scan Report - 2026-06-24
+
+This report is updated hourly. Cumulative totals are generated at the end of the day.
+
+---
+
+### pamfilico/pamfilico-python-sse
+
+**URL:** https://github.com/pamfilico/pamfilico-python-sse.git
+
+- **Files Scanned:** 48
+- **Branches:** 1
+- **Size:** 472K
+- **Duration:** 0.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
