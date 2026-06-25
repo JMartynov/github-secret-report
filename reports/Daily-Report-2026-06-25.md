@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### simonlemon333/duckcode
+
+**URL:** https://github.com/simonlemon333/duckcode.git
+
+- **Files Scanned:** 188
+- **Branches:** 1
+- **Size:** 1.1M
+- **Duration:** 0.53s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
