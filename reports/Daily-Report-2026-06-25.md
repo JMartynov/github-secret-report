@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### judhajitdebnath/juspay-grid-demo
+
+**URL:** https://github.com/judhajitdebnath/juspay-grid-demo.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** 120K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
