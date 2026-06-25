@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jacquesdleblanc2-beep/mj-realty-coaching-frontend
+
+**URL:** https://github.com/jacquesdleblanc2-beep/mj-realty-coaching-frontend.git
+
+- **Files Scanned:** 253
+- **Branches:** 1
+- **Size:** 1.8M
+- **Duration:** 1.18s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
