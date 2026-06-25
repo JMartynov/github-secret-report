@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AppThere/loki-file-access
+
+**URL:** https://github.com/AppThere/loki-file-access.git
+
+- **Files Scanned:** 45
+- **Branches:** 1
+- **Size:** 504K
+- **Duration:** 0.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
