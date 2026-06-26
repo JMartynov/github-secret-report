@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dldydtn0805/youtube-atlas-frontend
+
+**URL:** https://github.com/dldydtn0805/youtube-atlas-frontend.git
+
+- **Files Scanned:** 2977
+- **Branches:** 4
+- **Size:** 9.7M
+- **Duration:** 21.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
