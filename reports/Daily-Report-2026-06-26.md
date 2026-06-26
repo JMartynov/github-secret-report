@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Atta-Ullah96/healthbridge-frontend
+
+**URL:** https://github.com/Atta-Ullah96/healthbridge-frontend.git
+
+- **Files Scanned:** 116
+- **Branches:** 1
+- **Size:** 2.4M
+- **Duration:** 0.33s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
