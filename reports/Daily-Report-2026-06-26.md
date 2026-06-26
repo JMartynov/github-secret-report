@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### curtom/Inkflow_Website
+
+**URL:** https://github.com/curtom/Inkflow_Website.git
+
+- **Files Scanned:** 5204
+- **Branches:** 14
+- **Size:** 18M
+- **Duration:** 11.74s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
