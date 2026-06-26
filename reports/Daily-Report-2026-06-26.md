@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### herto2007-prog/fairpadel-frontend
+
+**URL:** https://github.com/herto2007-prog/fairpadel-frontend.git
+
+- **Files Scanned:** 1926
+- **Branches:** 3
+- **Size:** 6.3M
+- **Duration:** 11.87s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
