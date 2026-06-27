@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### tgriebel/Chess
+
+**URL:** https://github.com/tgriebel/Chess.git
+
+- **Files Scanned:** 481
+- **Branches:** 1
+- **Size:** 17M
+- **Duration:** 2.84s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
