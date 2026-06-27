@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### FOUNDERLOQE/loqe-frontend
+
+**URL:** https://github.com/FOUNDERLOQE/loqe-frontend.git
+
+- **Files Scanned:** 167
+- **Branches:** 1
+- **Size:** 1.1M
+- **Duration:** 0.69s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
