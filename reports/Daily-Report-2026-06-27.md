@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### MayaFiddler/front-end-schowcase
+
+**URL:** https://github.com/MayaFiddler/front-end-schowcase.git
+
+- **Files Scanned:** 67
+- **Branches:** 1
+- **Size:** 408K
+- **Duration:** 0.07s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
