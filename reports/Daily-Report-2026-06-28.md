@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mingul26/clinic-voice-ai
+
+**URL:** https://github.com/mingul26/clinic-voice-ai.git
+
+- **Files Scanned:** 84
+- **Branches:** 1
+- **Size:** 660K
+- **Duration:** 0.13s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
