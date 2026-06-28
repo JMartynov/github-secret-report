@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### qubitrenegade/qbrd-tools
+
+**URL:** https://github.com/qubitrenegade/qbrd-tools.git
+
+- **Files Scanned:** 385
+- **Branches:** 1
+- **Size:** 2.8M
+- **Duration:** 1.51s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
