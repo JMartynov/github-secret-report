@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rudrankriyam/App-Store-Connect-CLI
+
+**URL:** https://github.com/rudrankriyam/App-Store-Connect-CLI.git
+
+- **Files Scanned:** 14282
+- **Branches:** 10
+- **Size:** 114M
+- **Duration:** 122.6s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
