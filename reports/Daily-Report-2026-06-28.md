@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### FURiOus-ParADox/bsc-bnb-sniper-bot
+
+**URL:** https://github.com/FURiOus-ParADox/bsc-bnb-sniper-bot.git
+
+- **Files Scanned:** 33506
+- **Branches:** 1
+- **Size:** 21M
+- **Duration:** 2844.3s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
