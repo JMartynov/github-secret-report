@@ -49928,5 +49928,85 @@
         "name": "charalamposlamprou/b64-k8s-secrets-tool",
         "url": "https://github.com/charalamposlamprou/b64-k8s-secrets-tool.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "glours/hakoniwa",
+        "url": "https://github.com/glours/hakoniwa.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "eysong/C-V2XConformanceAnalyzer",
+        "url": "https://github.com/eysong/C-V2XConformanceAnalyzer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nathanmartins/mtg-mcp",
+        "url": "https://github.com/nathanmartins/mtg-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "IlhamNasrullahB/push2run-4-5-1-0-release-unlocker",
+        "url": "https://github.com/IlhamNasrullahB/push2run-4-5-1-0-release-unlocker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "philippkramer92-cyber/toolwahl-dashboard",
+        "url": "https://github.com/philippkramer92-cyber/toolwahl-dashboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tpcopeland/Stata-Tools",
+        "url": "https://github.com/tpcopeland/Stata-Tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ItsMeJohnRhey/pastello-6-0-98-toolbox",
+        "url": "https://github.com/ItsMeJohnRhey/pastello-6-0-98-toolbox.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "smco4all-sketch/Advanced-Uninstaller-Pro-Toolkit",
+        "url": "https://github.com/smco4all-sketch/Advanced-Uninstaller-Pro-Toolkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Boisteroux/mnm-tools",
+        "url": "https://github.com/Boisteroux/mnm-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "podman-container-tools/podman",
+        "url": "https://github.com/podman-container-tools/podman.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "coastal-ms/DST-DuneServerTool",
+        "url": "https://github.com/coastal-ms/DST-DuneServerTool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "eitanf1336/dotfiles",
+        "url": "https://github.com/eitanf1336/dotfiles.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Fabiojvv/ai-cortex-hub",
+        "url": "https://github.com/Fabiojvv/ai-cortex-hub.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sabari-2701/Notepad-Toolkit-2.3.0.30-Release",
+        "url": "https://github.com/sabari-2701/Notepad-Toolkit-2.3.0.30-Release.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "javimosch/awesome-machin",
+        "url": "https://github.com/javimosch/awesome-machin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "studypreptools/student-tools",
+        "url": "https://github.com/studypreptools/student-tools.git",
+        "status": "Hasn't yet validated"
     }
 ]
