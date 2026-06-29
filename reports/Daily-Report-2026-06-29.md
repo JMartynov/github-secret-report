@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lobs-ai/lobs-core
+
+**URL:** https://github.com/lobs-ai/lobs-core.git
+
+- **Files Scanned:** 0
+- **Branches:** 3
+- **Size:** 12M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
