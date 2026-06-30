@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### safahbo/GuvenliWebYazilimiGelistirmeProjesi
+
+**URL:** https://github.com/safahbo/GuvenliWebYazilimiGelistirmeProjesi.git
+
+- **Files Scanned:** 42
+- **Branches:** 1
+- **Size:** 456K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
