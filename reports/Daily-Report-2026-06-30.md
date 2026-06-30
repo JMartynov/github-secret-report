@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Ap73MKa/museum-web
+
+**URL:** https://github.com/Ap73MKa/museum-web.git
+
+- **Files Scanned:** 92
+- **Branches:** 2
+- **Size:** 25M
+- **Duration:** 1.77s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
