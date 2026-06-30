@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### aletoapp/ale
+
+**URL:** https://github.com/aletoapp/ale.git
+
+- **Files Scanned:** 550
+- **Branches:** 3
+- **Size:** 31M
+- **Duration:** 5.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
