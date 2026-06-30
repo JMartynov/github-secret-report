@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Hyperiongate/Shiftwork-Solutions-Website
+
+**URL:** https://github.com/Hyperiongate/Shiftwork-Solutions-Website.git
+
+- **Files Scanned:** 1253
+- **Branches:** 1
+- **Size:** 247M
+- **Duration:** 13.84s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
