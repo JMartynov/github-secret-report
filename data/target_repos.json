@@ -50643,5 +50643,95 @@
         "name": "caelum/gnarus-api-assets",
         "url": "https://github.com/caelum/gnarus-api-assets.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ALTAYayaz/dispatcher-extension-libs-public",
+        "url": "https://github.com/ALTAYayaz/dispatcher-extension-libs-public.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "diagrams/diagrams-lib",
+        "url": "https://github.com/diagrams/diagrams-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bitpay/java-bitpay-client",
+        "url": "https://github.com/bitpay/java-bitpay-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "moicsm/Android-Mem-Kit",
+        "url": "https://github.com/moicsm/Android-Mem-Kit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Hexroth/juspay-hyperswitch-realtime-dashboard",
+        "url": "https://github.com/Hexroth/juspay-hyperswitch-realtime-dashboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Pigeongif/porn-gif-pigeon",
+        "url": "https://github.com/Pigeongif/porn-gif-pigeon.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "brandonbothell/popyt",
+        "url": "https://github.com/brandonbothell/popyt.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "prodmodfour/rotom-table",
+        "url": "https://github.com/prodmodfour/rotom-table.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AldoCorco/ni-play-series-hypr-toolkit",
+        "url": "https://github.com/AldoCorco/ni-play-series-hypr-toolkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "carltonfsmith/pcg-cpp",
+        "url": "https://github.com/carltonfsmith/pcg-cpp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "procoders/superpowers-v",
+        "url": "https://github.com/procoders/superpowers-v.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "photon-hq/discord-api",
+        "url": "https://github.com/photon-hq/discord-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "supmsorong/synthwave-realstrat-legacy",
+        "url": "https://github.com/supmsorong/synthwave-realstrat-legacy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "quitecoder12/AI-Engineer-Library",
+        "url": "https://github.com/quitecoder12/AI-Engineer-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "elcicd/el-CICD",
+        "url": "https://github.com/elcicd/el-CICD.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "subhacademic-cmd/prompt-craft-ecommerce-visuals",
+        "url": "https://github.com/subhacademic-cmd/prompt-craft-ecommerce-visuals.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "necat101/c-stdlib-tokenization-footgun-lab",
+        "url": "https://github.com/necat101/c-stdlib-tokenization-footgun-lab.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Quaver/Quaver.API",
+        "url": "https://github.com/Quaver/Quaver.API.git",
+        "status": "Hasn't yet validated"
     }
 ]

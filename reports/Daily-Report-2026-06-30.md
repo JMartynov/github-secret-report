@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### anupam-anand-ojha/Muzeek-app-Frontend
+
+**URL:** https://github.com/anupam-anand-ojha/Muzeek-app-Frontend.git
+
+- **Files Scanned:** 137
+- **Branches:** 1
+- **Size:** 552K
+- **Duration:** 0.38s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
