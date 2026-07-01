@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Krishna0812/Fincile-website-1-
+
+**URL:** https://github.com/Krishna0812/Fincile-website-1-.git
+
+- **Files Scanned:** 159
+- **Branches:** 1
+- **Size:** 3.5M
+- **Duration:** 0.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
