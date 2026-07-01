@@ -50953,5 +50953,80 @@
         "name": "28yu/28tools-download",
         "url": "https://github.com/28yu/28tools-download.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RaspberryPiFoundation/editor-api",
+        "url": "https://github.com/RaspberryPiFoundation/editor-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "itsankit52/REST-API-s",
+        "url": "https://github.com/itsankit52/REST-API-s.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "qiye2234/iptv-api",
+        "url": "https://github.com/qiye2234/iptv-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sgliu123/reader-auth-pages",
+        "url": "https://github.com/sgliu123/reader-auth-pages.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jwohlfert23/laravel-api-query",
+        "url": "https://github.com/jwohlfert23/laravel-api-query.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FatemehSooki/Project-Signup-Login-API",
+        "url": "https://github.com/FatemehSooki/Project-Signup-Login-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Defoebensonkellogg/v2.kernel.api",
+        "url": "https://github.com/Defoebensonkellogg/v2.kernel.api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rajatslakhina/swiftui-reorderable-containers-demo",
+        "url": "https://github.com/rajatslakhina/swiftui-reorderable-containers-demo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MaggieAlmaelizabethio/v2.script.api",
+        "url": "https://github.com/MaggieAlmaelizabethio/v2.script.api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Theo99658/myiptv-api",
+        "url": "https://github.com/Theo99658/myiptv-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "G-Core/nginx-rust",
+        "url": "https://github.com/G-Core/nginx-rust.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "codewithsumesh/fastapi-blog-backend",
+        "url": "https://github.com/codewithsumesh/fastapi-blog-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "distlerfelix-create/Fs25-api",
+        "url": "https://github.com/distlerfelix-create/Fs25-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hritiksah15/CareAttend",
+        "url": "https://github.com/hritiksah15/CareAttend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "justserpapi/google-maps-places",
+        "url": "https://github.com/justserpapi/google-maps-places.git",
+        "status": "Hasn't yet validated"
     }
 ]

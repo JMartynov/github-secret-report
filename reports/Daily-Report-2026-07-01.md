@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Josh-Cena/old-website
+
+**URL:** https://github.com/Josh-Cena/old-website.git
+
+- **Files Scanned:** 22291
+- **Branches:** 2
+- **Size:** 382M
+- **Duration:** 222.51s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
