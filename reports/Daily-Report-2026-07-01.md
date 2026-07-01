@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### HarlieTran/ProjectApplication
+
+**URL:** https://github.com/HarlieTran/ProjectApplication.git
+
+- **Files Scanned:** 532
+- **Branches:** 3
+- **Size:** 76M
+- **Duration:** 133.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
