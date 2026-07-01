@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### theaspiringhuman/ah-website
+
+**URL:** https://github.com/theaspiringhuman/ah-website.git
+
+- **Files Scanned:** 5892
+- **Branches:** 5
+- **Size:** 376M
+- **Duration:** 93.34s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
