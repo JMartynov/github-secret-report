@@ -51203,5 +51203,95 @@
         "name": "gaia-react/gaia",
         "url": "https://github.com/gaia-react/gaia.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DSB-117/brainblast",
+        "url": "https://github.com/DSB-117/brainblast.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ghoul37438/nextgen-client",
+        "url": "https://github.com/ghoul37438/nextgen-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ClickHouse/clickhouse-connect",
+        "url": "https://github.com/ClickHouse/clickhouse-connect.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wagnerguerra/OneClick_v2",
+        "url": "https://github.com/wagnerguerra/OneClick_v2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "burakgon/remote-coder",
+        "url": "https://github.com/burakgon/remote-coder.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AmazeContinuityProjects/AmazeCC-CLI",
+        "url": "https://github.com/AmazeContinuityProjects/AmazeCC-CLI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cloud-sdk-builds/client-sagemaker-runtime",
+        "url": "https://github.com/cloud-sdk-builds/client-sagemaker-runtime.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ZaxbyHub/opencode-swarm",
+        "url": "https://github.com/ZaxbyHub/opencode-swarm.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "confluentinc/cli",
+        "url": "https://github.com/confluentinc/cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yairchu/moops",
+        "url": "https://github.com/yairchu/moops.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Alihan90/ClinicRe",
+        "url": "https://github.com/Alihan90/ClinicRe.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yoursjarvis/veylo-client",
+        "url": "https://github.com/yoursjarvis/veylo-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aissatoubarry-dot/exoProduitClient",
+        "url": "https://github.com/aissatoubarry-dot/exoProduitClient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "noBlock125/claude-opus-interface-toolkit",
+        "url": "https://github.com/noBlock125/claude-opus-interface-toolkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "julesklord/arbol",
+        "url": "https://github.com/julesklord/arbol.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "leobgm/iostreamer-client-app",
+        "url": "https://github.com/leobgm/iostreamer-client-app.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kaskamon/Kaska.Climb",
+        "url": "https://github.com/kaskamon/Kaska.Climb.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "adriangmrraa/clinicforge",
+        "url": "https://github.com/adriangmrraa/clinicforge.git",
+        "status": "Hasn't yet validated"
     }
 ]
