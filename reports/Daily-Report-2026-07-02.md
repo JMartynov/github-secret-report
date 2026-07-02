@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Dbaird2/Garmoth-Web-Scraper
+
+**URL:** https://github.com/Dbaird2/Garmoth-Web-Scraper.git
+
+- **Files Scanned:** 709
+- **Branches:** 3
+- **Size:** 2.7M
+- **Duration:** 1.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
