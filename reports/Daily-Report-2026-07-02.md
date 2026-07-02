@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Abderrahmanem5/GPA-Calculator
+
+**URL:** https://github.com/Abderrahmanem5/GPA-Calculator.git
+
+- **Files Scanned:** 48
+- **Branches:** 1
+- **Size:** 368K
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

@@ -51468,5 +51468,105 @@
         "name": "linux-mobile-broadband/libqmi",
         "url": "https://github.com/linux-mobile-broadband/libqmi.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "marthijn/Sidio.Geography",
+        "url": "https://github.com/marthijn/Sidio.Geography.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cquillen/ibkr-conduit",
+        "url": "https://github.com/cquillen/ibkr-conduit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "IamIshani/Online-Library-System",
+        "url": "https://github.com/IamIshani/Online-Library-System.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "librarycibm/library",
+        "url": "https://github.com/librarycibm/library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OpenPuya/PY32F410_Firmware",
+        "url": "https://github.com/OpenPuya/PY32F410_Firmware.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ansys/ansys-tools-common",
+        "url": "https://github.com/ansys/ansys-tools-common.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OpenPuya/PY32F090_Firmware",
+        "url": "https://github.com/OpenPuya/PY32F090_Firmware.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xberg-io/alef",
+        "url": "https://github.com/xberg-io/alef.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OpenPuya/PY32F403_Firmware",
+        "url": "https://github.com/OpenPuya/PY32F403_Firmware.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Haldiram1937/CodexBar-Win",
+        "url": "https://github.com/Haldiram1937/CodexBar-Win.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kipcole9/tempo",
+        "url": "https://github.com/kipcole9/tempo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "subdiox/incipit",
+        "url": "https://github.com/subdiox/incipit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vishalyadav000232/library-backend",
+        "url": "https://github.com/vishalyadav000232/library-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bvrvlibrary-lab/library-management-system",
+        "url": "https://github.com/bvrvlibrary-lab/library-management-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "misty-step/harness-kit",
+        "url": "https://github.com/misty-step/harness-kit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "solita/functional-utils",
+        "url": "https://github.com/solita/functional-utils.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dyannadle/AdvancedLibraryManagementSystem",
+        "url": "https://github.com/dyannadle/AdvancedLibraryManagementSystem.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ignitezahid/AniListSync",
+        "url": "https://github.com/ignitezahid/AniListSync.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aashiqueqarn/sanskrit_nmt_neural_machine_translation",
+        "url": "https://github.com/aashiqueqarn/sanskrit_nmt_neural_machine_translation.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OpenPuya/PY32L090_Firmware",
+        "url": "https://github.com/OpenPuya/PY32L090_Firmware.git",
+        "status": "Hasn't yet validated"
     }
 ]
