@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### EurFelux/gh-cherry
+
+**URL:** https://github.com/EurFelux/gh-cherry.git
+
+- **Files Scanned:** 166
+- **Branches:** 7
+- **Size:** 680K
+- **Duration:** 0.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
