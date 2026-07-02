@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Julio-Martel/client-management-platform-api
+
+**URL:** https://github.com/Julio-Martel/client-management-platform-api.git
+
+- **Files Scanned:** 60
+- **Branches:** 1
+- **Size:** 280K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
