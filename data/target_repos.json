@@ -51383,5 +51383,90 @@
         "name": "headiescannabiscompany-arch/growpath-commerical-frontend",
         "url": "https://github.com/headiescannabiscompany-arch/growpath-commerical-frontend.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "antonioluzzi/crystal-0js",
+        "url": "https://github.com/antonioluzzi/crystal-0js.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yasserfarouk/negmas",
+        "url": "https://github.com/yasserfarouk/negmas.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vercel/ai",
+        "url": "https://github.com/vercel/ai.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ncn16/byte-counter",
+        "url": "https://github.com/ncn16/byte-counter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chartlite/chartlite",
+        "url": "https://github.com/chartlite/chartlite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "linuxarena/control-tower",
+        "url": "https://github.com/linuxarena/control-tower.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gbdk-2020/gbdk-2020",
+        "url": "https://github.com/gbdk-2020/gbdk-2020.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FasterXML/jackson-datatype-joda",
+        "url": "https://github.com/FasterXML/jackson-datatype-joda.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "waffiqaziz/country-picker-android",
+        "url": "https://github.com/waffiqaziz/country-picker-android.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.stripe.suite",
+        "url": "https://github.com/soenneker/soenneker.stripe.suite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.blazor.google.analytics",
+        "url": "https://github.com/soenneker/soenneker.blazor.google.analytics.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "a-novel-kit/nodelib",
+        "url": "https://github.com/a-novel-kit/nodelib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "magdysayed/laravel-sdk",
+        "url": "https://github.com/magdysayed/laravel-sdk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rust-lang/annotate-snippets-rs",
+        "url": "https://github.com/rust-lang/annotate-snippets-rs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yossefahmed6332/LibrarySystem.mvc",
+        "url": "https://github.com/yossefahmed6332/LibrarySystem.mvc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Hexrotb/juspay-hyperswitch-realtime-dashboard",
+        "url": "https://github.com/Hexrotb/juspay-hyperswitch-realtime-dashboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "linux-mobile-broadband/libqmi",
+        "url": "https://github.com/linux-mobile-broadband/libqmi.git",
+        "status": "Hasn't yet validated"
     }
 ]
