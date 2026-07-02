@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jesse-black/covgate
+
+**URL:** https://github.com/jesse-black/covgate.git
+
+- **Files Scanned:** 1238
+- **Branches:** 6
+- **Size:** 4.7M
+- **Duration:** 2.72s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
