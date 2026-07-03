@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cucumber/messages-cli
+
+**URL:** https://github.com/cucumber/messages-cli.git
+
+- **Files Scanned:** 585
+- **Branches:** 29
+- **Size:** 1.2M
+- **Duration:** 0.81s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
