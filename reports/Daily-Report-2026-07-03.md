@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SamukaArcanjo/lading-page-clinica
+
+**URL:** https://github.com/SamukaArcanjo/lading-page-clinica.git
+
+- **Files Scanned:** 18
+- **Branches:** 1
+- **Size:** 13M
+- **Duration:** 0.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
