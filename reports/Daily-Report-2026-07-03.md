@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### BMC-INC/frostwig-cli
+
+**URL:** https://github.com/BMC-INC/frostwig-cli.git
+
+- **Files Scanned:** 81
+- **Branches:** 1
+- **Size:** 5.6M
+- **Duration:** 6.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
