@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### vcs-python/vcspull
+
+**URL:** https://github.com/vcs-python/vcspull.git
+
+- **Files Scanned:** 0
+- **Branches:** 52
+- **Size:** 14M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
