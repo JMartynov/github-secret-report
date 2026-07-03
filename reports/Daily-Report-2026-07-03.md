@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### general-intelligence-systems/bpmn-tools
+
+**URL:** https://github.com/general-intelligence-systems/bpmn-tools.git
+
+- **Files Scanned:** 10
+- **Branches:** 2
+- **Size:** 296K
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
