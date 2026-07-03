@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### marcusquinn/aidevops
+
+**URL:** https://github.com/marcusquinn/aidevops.git
+
+- **Files Scanned:** 65284
+- **Branches:** 178
+- **Size:** 311M
+- **Duration:** 1426.46s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
