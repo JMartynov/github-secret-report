@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### TencentCloud/tencentcloud-cli-intl-en
+
+**URL:** https://github.com/TencentCloud/tencentcloud-cli-intl-en.git
+
+- **Files Scanned:** 10040
+- **Branches:** 1
+- **Size:** 140M
+- **Duration:** 385.82s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
