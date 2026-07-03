@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### donovan-yohan/relay-ide
+
+**URL:** https://github.com/donovan-yohan/relay-ide.git
+
+- **Files Scanned:** 9468
+- **Branches:** 95
+- **Size:** 28M
+- **Duration:** 66.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
