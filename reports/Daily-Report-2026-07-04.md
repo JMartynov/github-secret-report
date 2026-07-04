@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### McGradys201/clinic-app
+
+**URL:** https://github.com/McGradys201/clinic-app.git
+
+- **Files Scanned:** 12
+- **Branches:** 1
+- **Size:** 272K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
