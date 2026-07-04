@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ctardy/mirageia
+
+**URL:** https://github.com/ctardy/mirageia.git
+
+- **Files Scanned:** 369
+- **Branches:** 2
+- **Size:** 1.8M
+- **Duration:** 1.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
