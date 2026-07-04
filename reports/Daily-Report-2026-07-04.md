@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Sarah-Ammar/selenium-restassured-framework
+
+**URL:** https://github.com/Sarah-Ammar/selenium-restassured-framework.git
+
+- **Files Scanned:** 34
+- **Branches:** 1
+- **Size:** 460K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
