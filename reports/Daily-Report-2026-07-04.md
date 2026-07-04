@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mycelium-io/homebrew-tap
+
+**URL:** https://github.com/mycelium-io/homebrew-tap.git
+
+- **Files Scanned:** 70
+- **Branches:** 1
+- **Size:** 228K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
