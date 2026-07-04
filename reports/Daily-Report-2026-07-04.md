@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SOELexicon/clickup_framework
+
+**URL:** https://github.com/SOELexicon/clickup_framework.git
+
+- **Files Scanned:** 4593
+- **Branches:** 62
+- **Size:** 27M
+- **Duration:** 21.85s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
