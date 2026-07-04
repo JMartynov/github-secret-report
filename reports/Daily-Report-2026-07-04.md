@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### JulianDeclercq/obsidian-cli.nvim
+
+**URL:** https://github.com/JulianDeclercq/obsidian-cli.nvim.git
+
+- **Files Scanned:** 32
+- **Branches:** 1
+- **Size:** 256K
+- **Duration:** 0.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
