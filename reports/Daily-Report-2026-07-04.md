@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cemilparlar/my-json-api-live
+
+**URL:** https://github.com/cemilparlar/my-json-api-live.git
+
+- **Files Scanned:** 113836
+- **Branches:** 1
+- **Size:** 84M
+- **Duration:** 518.56s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
