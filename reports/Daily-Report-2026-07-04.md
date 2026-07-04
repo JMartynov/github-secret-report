@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ZHANGSHUNLIN/ttl-cli
+
+**URL:** https://github.com/ZHANGSHUNLIN/ttl-cli.git
+
+- **Files Scanned:** 170
+- **Branches:** 3
+- **Size:** 1.4M
+- **Duration:** 0.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
