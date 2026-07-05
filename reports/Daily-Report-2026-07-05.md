@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lifeFedorovAlexey/wr-api
+
+**URL:** https://github.com/lifeFedorovAlexey/wr-api.git
+
+- **Files Scanned:** 727
+- **Branches:** 14
+- **Size:** 2.2M
+- **Duration:** 4.51s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
