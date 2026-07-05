@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### JesperNordkvist/Lowkey-Intune-Functions
+
+**URL:** https://github.com/JesperNordkvist/Lowkey-Intune-Functions.git
+
+- **Files Scanned:** 493
+- **Branches:** 1
+- **Size:** 1.3M
+- **Duration:** 0.57s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
