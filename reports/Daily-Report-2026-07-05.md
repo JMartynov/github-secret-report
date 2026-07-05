@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### youknowhim/Zrovyn_Backend_Assignment
+
+**URL:** https://github.com/youknowhim/Zrovyn_Backend_Assignment.git
+
+- **Files Scanned:** 21
+- **Branches:** 1
+- **Size:** 556K
+- **Duration:** 0.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
