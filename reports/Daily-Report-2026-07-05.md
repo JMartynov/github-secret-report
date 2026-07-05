@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### apiHyperliquid/apiHyperliquid.github.io
+
+**URL:** https://github.com/apiHyperliquid/apiHyperliquid.github.io.git
+
+- **Files Scanned:** 24810
+- **Branches:** 1
+- **Size:** 4.0G
+- **Duration:** 2385.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
