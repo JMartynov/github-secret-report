@@ -135,3 +135,18 @@ def test_report_formatting(mock_run):
         assert "aws_access_key" in content
         assert "Rotate keys" in content
         assert "Context" in content
+
+from unittest.mock import mock_open
+from scripts.run_daily_scan import load_state
+
+def test_load_state_file_exists():
+    mock_json_content = '{"last_scanned_index": 5}'
+    with patch('os.path.exists', return_value=True):
+        with patch('builtins.open', mock_open(read_data=mock_json_content)):
+            state = load_state("dummy_file.json")
+            assert state == {"last_scanned_index": 5}
+
+def test_load_state_file_not_exists():
+    with patch('os.path.exists', return_value=False):
+        state = load_state("dummy_file.json")
+        assert state == {"last_scanned_index": 0}
