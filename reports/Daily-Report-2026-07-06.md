@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### raphaelkach/db-api-message
+
+**URL:** https://github.com/raphaelkach/db-api-message.git
+
+- **Files Scanned:** 83916
+- **Branches:** 1
+- **Size:** 2.2G
+- **Duration:** 384.88s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
