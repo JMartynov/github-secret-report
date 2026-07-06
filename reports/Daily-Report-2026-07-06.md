@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dawiddiwad/checkmate
+
+**URL:** https://github.com/dawiddiwad/checkmate.git
+
+- **Files Scanned:** 1063
+- **Branches:** 11
+- **Size:** 8.5M
+- **Duration:** 9.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
