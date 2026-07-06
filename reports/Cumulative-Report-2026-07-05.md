@@ -1,0 +1,141 @@
+# Daily Cumulative Secret Scan Report - 2026-07-05
+
+## Executive Summary
+
+| Metric | Value |
+|---|---|
+| **Total Repositories Scanned** | 9 |
+| **Total Files Scanned** | 101138 |
+| **Total Scan Duration** | 2409.54 seconds |
+| **Total Secrets Detected** | 0 |
+
+---
+
+## Repository Breakdown
+
+### weatherisgood2/ngpt
+
+**URL:** https://github.com/weatherisgood2/ngpt.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### apiHyperliquid/apiHyperliquid.github.io
+
+**URL:** https://github.com/apiHyperliquid/apiHyperliquid.github.io.git
+
+- **Files Scanned:** 24810
+- **Branches:** 1
+- **Size:** 4.0G
+- **Duration:** 2385.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### JesperNordkvist/Lowkey-Intune-Functions
+
+**URL:** https://github.com/JesperNordkvist/Lowkey-Intune-Functions.git
+
+- **Files Scanned:** 493
+- **Branches:** 1
+- **Size:** 1.3M
+- **Duration:** 0.57s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### nexonreloaded/nxn-weathersync
+
+**URL:** https://github.com/nexonreloaded/nxn-weathersync.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### lifeFedorovAlexey/wr-api
+
+**URL:** https://github.com/lifeFedorovAlexey/wr-api.git
+
+- **Files Scanned:** 727
+- **Branches:** 14
+- **Size:** 2.2M
+- **Duration:** 4.51s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### youknowhim/Zrovyn_Backend_Assignment
+
+**URL:** https://github.com/youknowhim/Zrovyn_Backend_Assignment.git
+
+- **Files Scanned:** 21
+- **Branches:** 1
+- **Size:** 556K
+- **Duration:** 0.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Lumatror/Tyx-CryptoToken-Convert-Cryptocurrency-Exchange-SniperBot
+
+**URL:** https://github.com/Lumatror/Tyx-CryptoToken-Convert-Cryptocurrency-Exchange-SniperBot.git
+
+- **Files Scanned:** 18767
+- **Branches:** 1
+- **Size:** 8.3M
+- **Duration:** 2.55s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Walukapah/SRI-API-STORE
+
+**URL:** https://github.com/Walukapah/SRI-API-STORE.git
+
+- **Files Scanned:** 56320
+- **Branches:** 1
+- **Size:** 28M
+- **Duration:** 16.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### LesterKen1904/api_gateway_worker
+
+**URL:** https://github.com/LesterKen1904/api_gateway_worker.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
