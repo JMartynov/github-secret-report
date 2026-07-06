@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Jexephum/LumiTerra-Crypto-Game-Token-Api
+
+**URL:** https://github.com/Jexephum/LumiTerra-Crypto-Game-Token-Api.git
+
+- **Files Scanned:** 2027
+- **Branches:** 1
+- **Size:** 3.2M
+- **Duration:** 0.69s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
