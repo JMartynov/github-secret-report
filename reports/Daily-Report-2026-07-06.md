@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lbunproject/BASEswap-api-price
+
+**URL:** https://github.com/lbunproject/BASEswap-api-price.git
+
+- **Files Scanned:** 0
+- **Branches:** Unknown
+- **Size:** Unknown
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
