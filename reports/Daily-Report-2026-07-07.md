@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mycasevalues/mycasevalue-app
+
+**URL:** https://github.com/mycasevalues/mycasevalue-app.git
+
+- **Files Scanned:** 12594
+- **Branches:** 27
+- **Size:** 26M
+- **Duration:** 80.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
