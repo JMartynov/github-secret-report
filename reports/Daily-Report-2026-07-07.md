@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sadziwacynthia-bot/school-app
+
+**URL:** https://github.com/sadziwacynthia-bot/school-app.git
+
+- **Files Scanned:** 265
+- **Branches:** 1
+- **Size:** 896K
+- **Duration:** 0.57s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
