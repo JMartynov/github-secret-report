@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### subin912/fisa06-todos-api
+
+**URL:** https://github.com/subin912/fisa06-todos-api.git
+
+- **Files Scanned:** 2754
+- **Branches:** 1
+- **Size:** 1.7M
+- **Duration:** 0.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
