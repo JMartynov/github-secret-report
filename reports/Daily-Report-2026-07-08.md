@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### BytewiseSolutions/tsoinyane-school
+
+**URL:** https://github.com/BytewiseSolutions/tsoinyane-school.git
+
+- **Files Scanned:** 1195
+- **Branches:** 1
+- **Size:** 10M
+- **Duration:** 2.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
