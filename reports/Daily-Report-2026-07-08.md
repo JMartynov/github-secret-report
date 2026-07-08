@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bleds22e/DataWranglingWebsite
+
+**URL:** https://github.com/bleds22e/DataWranglingWebsite.git
+
+- **Files Scanned:** 1124
+- **Branches:** 3
+- **Size:** 37M
+- **Duration:** 42.83s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
