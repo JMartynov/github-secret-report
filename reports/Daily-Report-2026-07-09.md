@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### tonykainga/Summative-Lab-Part-2-Personal-Website-With-html-and-css
+
+**URL:** https://github.com/tonykainga/Summative-Lab-Part-2-Personal-Website-With-html-and-css.git
+
+- **Files Scanned:** 74
+- **Branches:** 1
+- **Size:** 616K
+- **Duration:** 20.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
