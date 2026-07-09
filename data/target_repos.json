@@ -56638,5 +56638,85 @@
         "name": "irrramei/Boleteria",
         "url": "https://github.com/irrramei/Boleteria.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DibbenduOjha/dev-tools",
+        "url": "https://github.com/DibbenduOjha/dev-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "danfry1/homebrew-tap",
+        "url": "https://github.com/danfry1/homebrew-tap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chwdt/vanmoof-tools",
+        "url": "https://github.com/chwdt/vanmoof-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "framerslab/agentos",
+        "url": "https://github.com/framerslab/agentos.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FiberTrades/session-tool-app",
+        "url": "https://github.com/FiberTrades/session-tool-app.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "oxford-deep/kinopoisk-imdb-letterboxd-migration",
+        "url": "https://github.com/oxford-deep/kinopoisk-imdb-letterboxd-migration.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ZenithVal/OSCLeash",
+        "url": "https://github.com/ZenithVal/OSCLeash.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Hektor502/guild2-modding-toolkit",
+        "url": "https://github.com/Hektor502/guild2-modding-toolkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LordBooming/Smart-Access-Control-Auditor",
+        "url": "https://github.com/LordBooming/Smart-Access-Control-Auditor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Par-B/par-skills",
+        "url": "https://github.com/Par-B/par-skills.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thomdehoog/ZMART-microscopy",
+        "url": "https://github.com/thomdehoog/ZMART-microscopy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "edwardplushboy-max/LONGPORT-DualSMA-SPY-AutoTrading-System",
+        "url": "https://github.com/edwardplushboy-max/LONGPORT-DualSMA-SPY-AutoTrading-System.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "eduardoalchieri/aps-tools",
+        "url": "https://github.com/eduardoalchieri/aps-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fynnoman/OverviewTool",
+        "url": "https://github.com/fynnoman/OverviewTool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gregtuc/memsync",
+        "url": "https://github.com/gregtuc/memsync.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "waozixyz/flint",
+        "url": "https://github.com/waozixyz/flint.git",
+        "status": "Hasn't yet validated"
     }
 ]
