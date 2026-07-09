@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Dhruvvvv04/Website
+
+**URL:** https://github.com/Dhruvvvv04/Website.git
+
+- **Files Scanned:** 9
+- **Branches:** 1
+- **Size:** 324K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
