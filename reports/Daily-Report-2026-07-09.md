@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gvdenbro/web-aler-ts
+
+**URL:** https://github.com/gvdenbro/web-aler-ts.git
+
+- **Files Scanned:** 28445
+- **Branches:** 4
+- **Size:** 318M
+- **Duration:** 248.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
