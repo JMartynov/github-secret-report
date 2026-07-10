@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### zhonghuaY/web-terminal
+
+**URL:** https://github.com/zhonghuaY/web-terminal.git
+
+- **Files Scanned:** 292
+- **Branches:** 23
+- **Size:** 1.4M
+- **Duration:** 2.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
