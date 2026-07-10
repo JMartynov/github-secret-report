@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ManjuSri21/campus-asset-management-system
+
+**URL:** https://github.com/ManjuSri21/campus-asset-management-system.git
+
+- **Files Scanned:** 1950
+- **Branches:** 1
+- **Size:** 28M
+- **Duration:** 3.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
