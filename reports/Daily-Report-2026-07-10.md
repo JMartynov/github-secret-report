@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alexbeatnik/ManulEngine
+
+**URL:** https://github.com/alexbeatnik/ManulEngine.git
+
+- **Files Scanned:** 1609
+- **Branches:** 1
+- **Size:** 9.3M
+- **Duration:** 8.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
