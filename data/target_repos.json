@@ -57368,5 +57368,85 @@
         "name": "scottbrown/setlist",
         "url": "https://github.com/scottbrown/setlist.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "covoiturage-gouv-fr/mono",
+        "url": "https://github.com/covoiturage-gouv-fr/mono.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jesselopez08/zeepod-webapp",
+        "url": "https://github.com/jesselopez08/zeepod-webapp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "knvz-data-analytics/API-Todo-List",
+        "url": "https://github.com/knvz-data-analytics/API-Todo-List.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CelestialBrain/brainpool",
+        "url": "https://github.com/CelestialBrain/brainpool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Mpsanchez12/ProyectoApi-Dinosaurios",
+        "url": "https://github.com/Mpsanchez12/ProyectoApi-Dinosaurios.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "developmentseed/multistore",
+        "url": "https://github.com/developmentseed/multistore.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Diksha-sngh57/youtube-medallion-pipeline",
+        "url": "https://github.com/Diksha-sngh57/youtube-medallion-pipeline.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kristopher-pn/zalo-transfer-data",
+        "url": "https://github.com/kristopher-pn/zalo-transfer-data.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "phenobarbital/ai-parrot",
+        "url": "https://github.com/phenobarbital/ai-parrot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dinushchathurya/nestjs-task-management-api",
+        "url": "https://github.com/dinushchathurya/nestjs-task-management-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agustincf/Arcade1v1",
+        "url": "https://github.com/agustincf/Arcade1v1.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "andrewheins55-hue/taapi-go",
+        "url": "https://github.com/andrewheins55-hue/taapi-go.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AIRI-Foundation/AISC-Platform-Web",
+        "url": "https://github.com/AIRI-Foundation/AISC-Platform-Web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Braian-paC/TaskManager_API",
+        "url": "https://github.com/Braian-paC/TaskManager_API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tianshanmap/haru-service-api",
+        "url": "https://github.com/tianshanmap/haru-service-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nguyengiabinh23-prog/tadpole",
+        "url": "https://github.com/nguyengiabinh23-prog/tadpole.git",
+        "status": "Hasn't yet validated"
     }
 ]

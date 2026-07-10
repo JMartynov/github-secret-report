@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### insanext/orbyx-web
+
+**URL:** https://github.com/insanext/orbyx-web.git
+
+- **Files Scanned:** 1264
+- **Branches:** 1
+- **Size:** 72M
+- **Duration:** 30.61s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
