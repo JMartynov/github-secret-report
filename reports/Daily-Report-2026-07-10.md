@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NamanSaxena2029/AADONA
+
+**URL:** https://github.com/NamanSaxena2029/AADONA.git
+
+- **Files Scanned:** 2133
+- **Branches:** 2
+- **Size:** 388M
+- **Duration:** 31.78s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
