@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### observatorioaysen/web_aysen
+
+**URL:** https://github.com/observatorioaysen/web_aysen.git
+
+- **Files Scanned:** 376
+- **Branches:** 1
+- **Size:** 388K
+- **Duration:** 0.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
