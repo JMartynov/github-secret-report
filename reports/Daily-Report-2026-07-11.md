@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### amolwaghmare05/trackify
+
+**URL:** https://github.com/amolwaghmare05/trackify.git
+
+- **Files Scanned:** 514
+- **Branches:** 1
+- **Size:** 2.3M
+- **Duration:** 2.54s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
