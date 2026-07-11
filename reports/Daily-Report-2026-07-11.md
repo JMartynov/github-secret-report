@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SumitGoswami9400/E-Commerce--API
+
+**URL:** https://github.com/SumitGoswami9400/E-Commerce--API.git
+
+- **Files Scanned:** 223
+- **Branches:** 1
+- **Size:** 77M
+- **Duration:** 10.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
