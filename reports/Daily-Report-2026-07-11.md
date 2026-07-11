@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sayakamasaoka1028-bit/study-app
+
+**URL:** https://github.com/sayakamasaoka1028-bit/study-app.git
+
+- **Files Scanned:** 226
+- **Branches:** 2
+- **Size:** 3.8M
+- **Duration:** 0.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
