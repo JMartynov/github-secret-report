@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Devashishk28/Web-Dev
+
+**URL:** https://github.com/Devashishk28/Web-Dev.git
+
+- **Files Scanned:** 98
+- **Branches:** 2
+- **Size:** 181M
+- **Duration:** 3.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
