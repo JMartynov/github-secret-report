@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ngochuong123/congnghephanmem_webbanhang
+
+**URL:** https://github.com/ngochuong123/congnghephanmem_webbanhang.git
+
+- **Files Scanned:** 1312
+- **Branches:** 1
+- **Size:** 15M
+- **Duration:** 2.69s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
