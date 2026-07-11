@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Jexephum/Pancake-Protectors-Crypto-Game-Token-Api
+
+**URL:** https://github.com/Jexephum/Pancake-Protectors-Crypto-Game-Token-Api.git
+
+- **Files Scanned:** 1895
+- **Branches:** 1
+- **Size:** 1.7M
+- **Duration:** 0.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
