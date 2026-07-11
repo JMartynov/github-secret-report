@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ankikukshal/Calculator
+
+**URL:** https://github.com/ankikukshal/Calculator.git
+
+- **Files Scanned:** 2
+- **Branches:** 1
+- **Size:** 196K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
