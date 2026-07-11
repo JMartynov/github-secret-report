@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### JehuelZ/LLDM_WEB_DISPLAY
+
+**URL:** https://github.com/JehuelZ/LLDM_WEB_DISPLAY.git
+
+- **Files Scanned:** 1939
+- **Branches:** 4
+- **Size:** 13M
+- **Duration:** 18.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
