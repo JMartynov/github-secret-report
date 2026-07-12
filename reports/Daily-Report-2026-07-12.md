@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### web-infra-dev/rspack
+
+**URL:** https://github.com/web-infra-dev/rspack.git
+
+- **Files Scanned:** 0
+- **Branches:** 447
+- **Size:** 276M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
