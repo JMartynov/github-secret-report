@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Stay03/ccserver
+
+**URL:** https://github.com/Stay03/ccserver.git
+
+- **Files Scanned:** 93
+- **Branches:** 1
+- **Size:** 588K
+- **Duration:** 0.17s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
