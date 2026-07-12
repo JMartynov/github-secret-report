@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sittiponpu774/market-scanner-api
+
+**URL:** https://github.com/sittiponpu774/market-scanner-api.git
+
+- **Files Scanned:** 21325
+- **Branches:** 1
+- **Size:** 25M
+- **Duration:** 160.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
