@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### LeeJungJea/PG_DEV_GUIDE_API
+
+**URL:** https://github.com/LeeJungJea/PG_DEV_GUIDE_API.git
+
+- **Files Scanned:** 377
+- **Branches:** 1
+- **Size:** 1.7M
+- **Duration:** 0.55s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
