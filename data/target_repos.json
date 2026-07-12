@@ -59018,5 +59018,95 @@
         "name": "berntpopp/sysndd",
         "url": "https://github.com/berntpopp/sysndd.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Imd11/prompt-drawer",
+        "url": "https://github.com/Imd11/prompt-drawer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "biradial-plimsoll741/muxarr",
+        "url": "https://github.com/biradial-plimsoll741/muxarr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jeevan9s/device-libs",
+        "url": "https://github.com/jeevan9s/device-libs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "spyrosadventure/PKZLib",
+        "url": "https://github.com/spyrosadventure/PKZLib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "laureeneighth256/depot-downloader-js",
+        "url": "https://github.com/laureeneighth256/depot-downloader-js.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "a00s/ugplot",
+        "url": "https://github.com/a00s/ugplot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "drylikov/gSendMail",
+        "url": "https://github.com/drylikov/gSendMail.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sini/den-hoag",
+        "url": "https://github.com/sini/den-hoag.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wix/interact",
+        "url": "https://github.com/wix/interact.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rezack/Charlie-KiCAD_library",
+        "url": "https://github.com/rezack/Charlie-KiCAD_library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "akovalenko/tclnostr",
+        "url": "https://github.com/akovalenko/tclnostr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pawelbien/network_automation",
+        "url": "https://github.com/pawelbien/network_automation.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Andiurne/hmHyprLib",
+        "url": "https://github.com/Andiurne/hmHyprLib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hpe-2026/jenkins-shared-library",
+        "url": "https://github.com/hpe-2026/jenkins-shared-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Hosuke/fulu",
+        "url": "https://github.com/Hosuke/fulu.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jakerains/AgentSkills",
+        "url": "https://github.com/jakerains/AgentSkills.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "terrarium-earth/Common-Storage-Lib",
+        "url": "https://github.com/terrarium-earth/Common-Storage-Lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ahmadadeeb749-oss/GameLib",
+        "url": "https://github.com/ahmadadeeb749-oss/GameLib.git",
+        "status": "Hasn't yet validated"
     }
 ]
