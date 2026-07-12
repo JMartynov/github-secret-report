@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Sourav-shrma/neuro-ai-chat
+
+**URL:** https://github.com/Sourav-shrma/neuro-ai-chat.git
+
+- **Files Scanned:** 96
+- **Branches:** 1
+- **Size:** 1.4M
+- **Duration:** 2.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
