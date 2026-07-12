@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### caxros2/Octopull
+
+**URL:** https://github.com/caxros2/Octopull.git
+
+- **Files Scanned:** 3
+- **Branches:** 1
+- **Size:** 196K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
