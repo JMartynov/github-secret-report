@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Omio-saha/Spotify_Data_Pipe_Snowflake
+
+**URL:** https://github.com/Omio-saha/Spotify_Data_Pipe_Snowflake.git
+
+- **Files Scanned:** 5
+- **Branches:** 1
+- **Size:** 192K
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
