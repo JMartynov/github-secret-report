@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### astralcollar/difffrog
+
+**URL:** https://github.com/astralcollar/difffrog.git
+
+- **Files Scanned:** 98
+- **Branches:** 2
+- **Size:** 1.6M
+- **Duration:** 51.45s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
