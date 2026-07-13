@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NOUMANHASSAN1/OSSP_INDIVIDUAL_HAREGEWEYN-ATAKLT-REDA_bdu1601704_A
+
+**URL:** https://github.com/NOUMANHASSAN1/OSSP_INDIVIDUAL_HAREGEWEYN-ATAKLT-REDA_bdu1601704_A.git
+
+- **Files Scanned:** 5
+- **Branches:** 1
+- **Size:** 6.3M
+- **Duration:** 0.3s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
