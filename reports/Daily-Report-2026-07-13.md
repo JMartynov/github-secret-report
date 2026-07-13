@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gkhandake/qurl
+
+**URL:** https://github.com/gkhandake/qurl.git
+
+- **Files Scanned:** 50
+- **Branches:** 1
+- **Size:** 1.5M
+- **Duration:** 0.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
