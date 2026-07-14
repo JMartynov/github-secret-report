@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### zyiyi2537-crypto/mcp-server-agentic-toolkit
+
+**URL:** https://github.com/zyiyi2537-crypto/mcp-server-agentic-toolkit.git
+
+- **Files Scanned:** 46
+- **Branches:** 1
+- **Size:** 412K
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
