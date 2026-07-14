@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bacherol/threat_intelligence_lists
+
+**URL:** https://github.com/bacherol/threat_intelligence_lists.git
+
+- **Files Scanned:** 44508
+- **Branches:** 1
+- **Size:** 84M
+- **Duration:** 76.3s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
