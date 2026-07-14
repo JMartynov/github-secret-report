@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ReinerBforartists/HT_Stockplugin_hider
+
+**URL:** https://github.com/ReinerBforartists/HT_Stockplugin_hider.git
+
+- **Files Scanned:** 18
+- **Branches:** 1
+- **Size:** 812K
+- **Duration:** 0.07s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
