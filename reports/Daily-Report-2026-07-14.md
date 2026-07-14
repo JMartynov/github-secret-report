@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lzukw/ScreenRes
+
+**URL:** https://github.com/lzukw/ScreenRes.git
+
+- **Files Scanned:** 25
+- **Branches:** 1
+- **Size:** 708K
+- **Duration:** 0.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
