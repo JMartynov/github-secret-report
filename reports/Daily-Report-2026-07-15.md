@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### EverestAPI/EverestAPI.github.io
+
+**URL:** https://github.com/EverestAPI/EverestAPI.github.io.git
+
+- **Files Scanned:** 4899
+- **Branches:** 3
+- **Size:** 420M
+- **Duration:** 141.77s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
