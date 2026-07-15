@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Edan1309/Event-management-api-ETITC
+
+**URL:** https://github.com/Edan1309/Event-management-api-ETITC.git
+
+- **Files Scanned:** 83
+- **Branches:** 1
+- **Size:** 568K
+- **Duration:** 0.12s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

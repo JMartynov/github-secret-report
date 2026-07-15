@@ -61368,5 +61368,85 @@
         "name": "PauloUNSA/scheduler-api-main",
         "url": "https://github.com/PauloUNSA/scheduler-api-main.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "explicit09/awidat",
+        "url": "https://github.com/explicit09/awidat.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tkakashofficial-dev/clinic-saas",
+        "url": "https://github.com/tkakashofficial-dev/clinic-saas.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shokk/homebrew-plaudpoller",
+        "url": "https://github.com/shokk/homebrew-plaudpoller.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Luqhhh/Noise-aware-Parameter-Efficient-CLIP-Fine-tuning",
+        "url": "https://github.com/Luqhhh/Noise-aware-Parameter-Efficient-CLIP-Fine-tuning.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kennethyork/OllamaDev-Qt",
+        "url": "https://github.com/kennethyork/OllamaDev-Qt.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FlorianBruniaux/claude-code-ultimate-guide-landing",
+        "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide-landing.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "marketingdudeAZ/clientportal",
+        "url": "https://github.com/marketingdudeAZ/clientportal.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "basilshine/cofi_client",
+        "url": "https://github.com/basilshine/cofi_client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "allebb/conductor",
+        "url": "https://github.com/allebb/conductor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "terraform-automations/ember-cli-api-double",
+        "url": "https://github.com/terraform-automations/ember-cli-api-double.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "scttfrdmn/inkcap",
+        "url": "https://github.com/scttfrdmn/inkcap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "trevormil/TerMinal",
+        "url": "https://github.com/trevormil/TerMinal.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "saiahi/env-vault-agent",
+        "url": "https://github.com/saiahi/env-vault-agent.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "freelawproject/courtlistener-api-client",
+        "url": "https://github.com/freelawproject/courtlistener-api-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yorgai/ORG2",
+        "url": "https://github.com/yorgai/ORG2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Dev-Reds/crux-client",
+        "url": "https://github.com/Dev-Reds/crux-client.git",
+        "status": "Hasn't yet validated"
     }
 ]
