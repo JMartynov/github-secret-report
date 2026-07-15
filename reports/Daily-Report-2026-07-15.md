@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alaskaintel/alaskaintel-json
+
+**URL:** https://github.com/alaskaintel/alaskaintel-json.git
+
+- **Files Scanned:** 0
+- **Branches:** 2
+- **Size:** 4.1G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
