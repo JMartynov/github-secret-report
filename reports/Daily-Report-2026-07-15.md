@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### vinq1911/amimica
+
+**URL:** https://github.com/vinq1911/amimica.git
+
+- **Files Scanned:** 137
+- **Branches:** 1
+- **Size:** 1.7M
+- **Duration:** 0.28s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
