@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Arakento/Annotation-Tool
+
+**URL:** https://github.com/Arakento/Annotation-Tool.git
+
+- **Files Scanned:** 25
+- **Branches:** 1
+- **Size:** 4.5M
+- **Duration:** 0.3s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
