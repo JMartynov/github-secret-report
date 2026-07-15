@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### appcker/Aimmy
+
+**URL:** https://github.com/appcker/Aimmy.git
+
+- **Files Scanned:** 1
+- **Branches:** 1
+- **Size:** 196K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
