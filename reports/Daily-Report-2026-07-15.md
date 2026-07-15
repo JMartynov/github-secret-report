@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Wexicore/Phantom-Wallet-Integration-Bridge-Solona-Api-Connect
+
+**URL:** https://github.com/Wexicore/Phantom-Wallet-Integration-Bridge-Solona-Api-Connect.git
+
+- **Files Scanned:** 6689
+- **Branches:** 1
+- **Size:** 7.3M
+- **Duration:** 1.38s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
