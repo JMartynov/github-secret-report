@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### HubSpot/HubSpot-public-api-spec-collection
+
+**URL:** https://github.com/HubSpot/HubSpot-public-api-spec-collection.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 325M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
