@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Amaac20/CRUD-de-Usuarios-Prueba-controlada-de-fuerza-bruta-contra-tu-propia-API
+
+**URL:** https://github.com/Amaac20/CRUD-de-Usuarios-Prueba-controlada-de-fuerza-bruta-contra-tu-propia-API.git
+
+- **Files Scanned:** 5
+- **Branches:** 1
+- **Size:** 208K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

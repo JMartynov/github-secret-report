@@ -61758,5 +61758,95 @@
         "name": "ggzmn/vet-appointments-basic",
         "url": "https://github.com/ggzmn/vet-appointments-basic.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "flagos-ai/FlagGems",
+        "url": "https://github.com/flagos-ai/FlagGems.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Vireakrom/odin-exercise-library",
+        "url": "https://github.com/Vireakrom/odin-exercise-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xmidt-org/jwskeychain",
+        "url": "https://github.com/xmidt-org/jwskeychain.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AliEgeErzin/ssaju",
+        "url": "https://github.com/AliEgeErzin/ssaju.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Lord1Egypt/KemetCore",
+        "url": "https://github.com/Lord1Egypt/KemetCore.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "real-a11y/real-a11y-dev",
+        "url": "https://github.com/real-a11y/real-a11y-dev.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mitre/saf",
+        "url": "https://github.com/mitre/saf.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fafalone/WinDevLib",
+        "url": "https://github.com/fafalone/WinDevLib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "python-trio/trio",
+        "url": "https://github.com/python-trio/trio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "diamitani/pat-portfolio",
+        "url": "https://github.com/diamitani/pat-portfolio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "islaagnet27/llm-cost",
+        "url": "https://github.com/islaagnet27/llm-cost.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "unitaryfoundation/pyqrack",
+        "url": "https://github.com/unitaryfoundation/pyqrack.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "navi0289/llm-rag",
+        "url": "https://github.com/navi0289/llm-rag.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "reuven77/eLibrary",
+        "url": "https://github.com/reuven77/eLibrary.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "damien-robotsix/robotsix-board",
+        "url": "https://github.com/damien-robotsix/robotsix-board.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Featherwolf/ReStoreGD",
+        "url": "https://github.com/Featherwolf/ReStoreGD.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Giskard-AI/giskard-oss",
+        "url": "https://github.com/Giskard-AI/giskard-oss.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "artgins/gobj-ui.js",
+        "url": "https://github.com/artgins/gobj-ui.js.git",
+        "status": "Hasn't yet validated"
     }
 ]
