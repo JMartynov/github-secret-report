@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SUAN-MWI/API
+
+**URL:** https://github.com/SUAN-MWI/API.git
+
+- **Files Scanned:** 34481
+- **Branches:** 1
+- **Size:** 30M
+- **Duration:** 267.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
