@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Casper-Tech-ke/sportify-api
+
+**URL:** https://github.com/Casper-Tech-ke/sportify-api.git
+
+- **Files Scanned:** 5648
+- **Branches:** 1
+- **Size:** 3.1M
+- **Duration:** 1.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
