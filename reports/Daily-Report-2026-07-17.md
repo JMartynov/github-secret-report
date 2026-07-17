@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### per2jensen/dar-backup
+
+**URL:** https://github.com/per2jensen/dar-backup.git
+
+- **Files Scanned:** 5013
+- **Branches:** 2
+- **Size:** 237M
+- **Duration:** 27.58s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
