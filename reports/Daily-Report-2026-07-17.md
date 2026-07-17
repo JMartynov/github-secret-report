@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ImageMagick/ImageMagick
+
+**URL:** https://github.com/ImageMagick/ImageMagick.git
+
+- **Files Scanned:** 120981
+- **Branches:** 1
+- **Size:** 238M
+- **Duration:** 2335.87s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
