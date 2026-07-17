@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pofice/voice-input-method
+
+**URL:** https://github.com/pofice/voice-input-method.git
+
+- **Files Scanned:** 426
+- **Branches:** 3
+- **Size:** 2.9M
+- **Duration:** 0.67s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
