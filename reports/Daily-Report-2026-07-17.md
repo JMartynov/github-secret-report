@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jonobenjamin/Strava
+
+**URL:** https://github.com/jonobenjamin/Strava.git
+
+- **Files Scanned:** 86
+- **Branches:** 1
+- **Size:** 103M
+- **Duration:** 2.14s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
