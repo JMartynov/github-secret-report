@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### maszynka/gh-crfix
+
+**URL:** https://github.com/maszynka/gh-crfix.git
+
+- **Files Scanned:** 2374
+- **Branches:** 17
+- **Size:** 2.9M
+- **Duration:** 3.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
