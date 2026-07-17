@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yiwywo18ypwtp1/speedrun-api
+
+**URL:** https://github.com/yiwywo18ypwtp1/speedrun-api.git
+
+- **Files Scanned:** 59
+- **Branches:** 1
+- **Size:** 488K
+- **Duration:** 0.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
