@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rlrghb/homebrew-tap
+
+**URL:** https://github.com/rlrghb/homebrew-tap.git
+
+- **Files Scanned:** 26
+- **Branches:** 1
+- **Size:** 204K
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
