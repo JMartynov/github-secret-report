@@ -64373,5 +64373,75 @@
         "name": "mjonesy/research-agent",
         "url": "https://github.com/mjonesy/research-agent.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "siriusra/Alexandria",
+        "url": "https://github.com/siriusra/Alexandria.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NightingNine/sillytavern-scripts",
+        "url": "https://github.com/NightingNine/sillytavern-scripts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "octanejs/octane",
+        "url": "https://github.com/octanejs/octane.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AlanNichi/code19",
+        "url": "https://github.com/AlanNichi/code19.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GameCult/CultLib",
+        "url": "https://github.com/GameCult/CultLib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nsatri55/yandex-images-parser",
+        "url": "https://github.com/nsatri55/yandex-images-parser.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "P4suta/libarchive_oxide",
+        "url": "https://github.com/P4suta/libarchive_oxide.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "varciasz/nbp_rates",
+        "url": "https://github.com/varciasz/nbp_rates.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "echo682/CodeForge-UI",
+        "url": "https://github.com/echo682/CodeForge-UI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "codinglombok/LombokCharts",
+        "url": "https://github.com/codinglombok/LombokCharts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aether-lang-org/aether-ui",
+        "url": "https://github.com/aether-lang-org/aether-ui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NordcomInc/nordstar",
+        "url": "https://github.com/NordcomInc/nordstar.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "taynotfound/open-stacks-library",
+        "url": "https://github.com/taynotfound/open-stacks-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "HypothesisWorks/hypothesis",
+        "url": "https://github.com/HypothesisWorks/hypothesis.git",
+        "status": "Hasn't yet validated"
     }
 ]
