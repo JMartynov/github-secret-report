@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### albertogiuntelli-hue/client-mobile
+
+**URL:** https://github.com/albertogiuntelli-hue/client-mobile.git
+
+- **Files Scanned:** 371
+- **Branches:** 1
+- **Size:** 13M
+- **Duration:** 1.36s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
