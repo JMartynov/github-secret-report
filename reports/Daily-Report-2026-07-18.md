@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gptme/gptme
+
+**URL:** https://github.com/gptme/gptme.git
+
+- **Files Scanned:** 0
+- **Branches:** 483
+- **Size:** 99M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
