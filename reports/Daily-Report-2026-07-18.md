@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### angelxmoreno/reddit-readonly-php-client
+
+**URL:** https://github.com/angelxmoreno/reddit-readonly-php-client.git
+
+- **Files Scanned:** 141
+- **Branches:** 1
+- **Size:** 1.1M
+- **Duration:** 0.54s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
