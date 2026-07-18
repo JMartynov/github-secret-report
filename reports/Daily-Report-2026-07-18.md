@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### EsmeMP/CLI_README
+
+**URL:** https://github.com/EsmeMP/CLI_README.git
+
+- **Files Scanned:** 124
+- **Branches:** 1
+- **Size:** 876K
+- **Duration:** 0.27s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
