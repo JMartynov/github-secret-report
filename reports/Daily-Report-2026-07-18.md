@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### DhananjayaKD/clickhouse-hqj
+
+**URL:** https://github.com/DhananjayaKD/clickhouse-hqj.git
+
+- **Files Scanned:** 19
+- **Branches:** 1
+- **Size:** 2.9M
+- **Duration:** 0.1s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
