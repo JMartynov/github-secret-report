@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### vicentereig/whatsapp-cli
+
+**URL:** https://github.com/vicentereig/whatsapp-cli.git
+
+- **Files Scanned:** 87
+- **Branches:** 1
+- **Size:** 544K
+- **Duration:** 0.37s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
