@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### skstmdals1-ctrl/bybit-dashboard-client1
+
+**URL:** https://github.com/skstmdals1-ctrl/bybit-dashboard-client1.git
+
+- **Files Scanned:** 152230
+- **Branches:** 1
+- **Size:** 93M
+- **Duration:** 446.11s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
