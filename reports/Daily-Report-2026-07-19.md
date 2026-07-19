@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Abhijeet-Gautam5702/forg
+
+**URL:** https://github.com/Abhijeet-Gautam5702/forg.git
+
+- **Files Scanned:** 238
+- **Branches:** 2
+- **Size:** 4.2M
+- **Duration:** 0.83s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
