@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### samadsoomro/clinicflow-health
+
+**URL:** https://github.com/samadsoomro/clinicflow-health.git
+
+- **Files Scanned:** 740
+- **Branches:** 1
+- **Size:** 3.9M
+- **Duration:** 2.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
