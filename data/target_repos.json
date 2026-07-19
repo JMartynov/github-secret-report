@@ -64613,5 +64613,75 @@
         "name": "klein-website/klein-website.github.io",
         "url": "https://github.com/klein-website/klein-website.github.io.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "coralogix/cx-cli",
+        "url": "https://github.com/coralogix/cx-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ParthivKapadiya/Patel-Clinic",
+        "url": "https://github.com/ParthivKapadiya/Patel-Clinic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hsukenooi/comic-pipeline",
+        "url": "https://github.com/hsukenooi/comic-pipeline.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shutterstories/Client-Gallery",
+        "url": "https://github.com/shutterstories/Client-Gallery.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DazzleML/Claude-Session-Backup",
+        "url": "https://github.com/DazzleML/Claude-Session-Backup.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "anshulforyou/grandma",
+        "url": "https://github.com/anshulforyou/grandma.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Insajin/autopus-adk",
+        "url": "https://github.com/Insajin/autopus-adk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "manaflow-ai/cmux",
+        "url": "https://github.com/manaflow-ai/cmux.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wordbricks/onequery",
+        "url": "https://github.com/wordbricks/onequery.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rekal-dev/rekal-cli",
+        "url": "https://github.com/rekal-dev/rekal-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JJX9810/click-and-craft-scene",
+        "url": "https://github.com/JJX9810/click-and-craft-scene.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wolewd/deploycli",
+        "url": "https://github.com/wolewd/deploycli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Joelorbit/Blog_Cli",
+        "url": "https://github.com/Joelorbit/Blog_Cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "uzigolan/rad-agent-toolkit",
+        "url": "https://github.com/uzigolan/rad-agent-toolkit.git",
+        "status": "Hasn't yet validated"
     }
 ]
