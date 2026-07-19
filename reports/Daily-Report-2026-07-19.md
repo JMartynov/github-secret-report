@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### manasvidr/multi-client-quiz-system
+
+**URL:** https://github.com/manasvidr/multi-client-quiz-system.git
+
+- **Files Scanned:** 42
+- **Branches:** 1
+- **Size:** 324K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

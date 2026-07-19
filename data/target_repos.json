@@ -64683,5 +64683,85 @@
         "name": "uzigolan/rad-agent-toolkit",
         "url": "https://github.com/uzigolan/rad-agent-toolkit.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Chetoh16/photo-mosaic",
+        "url": "https://github.com/Chetoh16/photo-mosaic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "denispanov/diff-native",
+        "url": "https://github.com/denispanov/diff-native.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yoep/fx-torrent",
+        "url": "https://github.com/yoep/fx-torrent.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pxoqxo/Pxoqxo.UnitTest",
+        "url": "https://github.com/pxoqxo/Pxoqxo.UnitTest.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hivellm/veclite",
+        "url": "https://github.com/hivellm/veclite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gnustep/libs-gui",
+        "url": "https://github.com/gnustep/libs-gui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "akkirrai1337/hibiki",
+        "url": "https://github.com/akkirrai1337/hibiki.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RoundingWell/hl7",
+        "url": "https://github.com/RoundingWell/hl7.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ng-log/ng-log",
+        "url": "https://github.com/ng-log/ng-log.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Mrk2121/library-hours-cache",
+        "url": "https://github.com/Mrk2121/library-hours-cache.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "prometheus/client_java",
+        "url": "https://github.com/prometheus/client_java.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DefensX/medusa",
+        "url": "https://github.com/DefensX/medusa.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "XWBarton/kochel",
+        "url": "https://github.com/XWBarton/kochel.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "evoluhq/evolu",
+        "url": "https://github.com/evoluhq/evolu.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "indexable-inc/plumb",
+        "url": "https://github.com/indexable-inc/plumb.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "StarGazer2906/QuantEngine",
+        "url": "https://github.com/StarGazer2906/QuantEngine.git",
+        "status": "Hasn't yet validated"
     }
 ]
