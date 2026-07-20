@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Eldissone/InforCliente
+
+**URL:** https://github.com/Eldissone/InforCliente.git
+
+- **Files Scanned:** 1611
+- **Branches:** 2
+- **Size:** 29M
+- **Duration:** 17.23s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
