@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### wonderlydotcom/homebrew-tap
+
+**URL:** https://github.com/wonderlydotcom/homebrew-tap.git
+
+- **Files Scanned:** 100
+- **Branches:** 1
+- **Size:** 264K
+- **Duration:** 0.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
