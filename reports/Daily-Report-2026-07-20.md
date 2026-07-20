@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Drobashik/axiony
+
+**URL:** https://github.com/Drobashik/axiony.git
+
+- **Files Scanned:** 1358
+- **Branches:** 58
+- **Size:** 4.6M
+- **Duration:** 3.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
