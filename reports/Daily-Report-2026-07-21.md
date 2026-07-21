@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yycds001/iptv-api
+
+**URL:** https://github.com/yycds001/iptv-api.git
+
+- **Files Scanned:** 13958
+- **Branches:** 1
+- **Size:** 1.4G
+- **Duration:** 949.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
