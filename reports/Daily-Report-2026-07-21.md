@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### andyxia2022/iptv-api
+
+**URL:** https://github.com/andyxia2022/iptv-api.git
+
+- **Files Scanned:** 9624
+- **Branches:** 1
+- **Size:** 1.5G
+- **Duration:** 544.73s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

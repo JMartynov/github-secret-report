@@ -66358,5 +66358,85 @@
         "name": "magnopus-opensource/connected-spaces-platform-web",
         "url": "https://github.com/magnopus-opensource/connected-spaces-platform-web.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "microsoft/MAPIStubLibrary",
+        "url": "https://github.com/microsoft/MAPIStubLibrary.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "recharts/recharts",
+        "url": "https://github.com/recharts/recharts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ulfgard/muMCMC",
+        "url": "https://github.com/Ulfgard/muMCMC.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "konflux-ci/deptriage",
+        "url": "https://github.com/konflux-ci/deptriage.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "operator-framework/operator-lib",
+        "url": "https://github.com/operator-framework/operator-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mayuso/PNGToSVG",
+        "url": "https://github.com/mayuso/PNGToSVG.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "salehmohammed2016-pixel/edu-library-bot",
+        "url": "https://github.com/salehmohammed2016-pixel/edu-library-bot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BeAPI/be-a11y",
+        "url": "https://github.com/BeAPI/be-a11y.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "imagineVid/Awesome-seedance-2-5-prompts-and-skills",
+        "url": "https://github.com/imagineVid/Awesome-seedance-2-5-prompts-and-skills.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "loykin/apirun",
+        "url": "https://github.com/loykin/apirun.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PrayagPatel1/Feedforward-Neural-Network-Classifier-Library",
+        "url": "https://github.com/PrayagPatel1/Feedforward-Neural-Network-Classifier-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kyledelfin2006/library-api-system",
+        "url": "https://github.com/kyledelfin2006/library-api-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Patsakas/Nemesis",
+        "url": "https://github.com/Patsakas/Nemesis.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "johnnygizmo/blender-asset-phonebook",
+        "url": "https://github.com/johnnygizmo/blender-asset-phonebook.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "twigglits/steam-launch-options-bot",
+        "url": "https://github.com/twigglits/steam-launch-options-bot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "southleft/ds-contracts-poc",
+        "url": "https://github.com/southleft/ds-contracts-poc.git",
+        "status": "Hasn't yet validated"
     }
 ]
