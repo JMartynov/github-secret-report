@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### soenneker/soenneker.render.runners.openapiclient
+
+**URL:** https://github.com/soenneker/soenneker.render.runners.openapiclient.git
+
+- **Files Scanned:** 370
+- **Branches:** 3
+- **Size:** 800K
+- **Duration:** 0.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
