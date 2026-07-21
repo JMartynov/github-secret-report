@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cheny17-art/ip-tv-api
+
+**URL:** https://github.com/cheny17-art/ip-tv-api.git
+
+- **Files Scanned:** 9728
+- **Branches:** 1
+- **Size:** 1.6G
+- **Duration:** 735.59s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
