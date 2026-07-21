@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ajoynul832-source/animex-api
+
+**URL:** https://github.com/ajoynul832-source/animex-api.git
+
+- **Files Scanned:** 246
+- **Branches:** 1
+- **Size:** 1.9M
+- **Duration:** 1.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
