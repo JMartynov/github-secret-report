@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### MountainGod2/cb-events
+
+**URL:** https://github.com/MountainGod2/cb-events.git
+
+- **Files Scanned:** 2842
+- **Branches:** 3
+- **Size:** 6.3M
+- **Duration:** 216.07s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
