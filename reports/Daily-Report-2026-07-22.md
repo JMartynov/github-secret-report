@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### XinYi27/iptv-api
+
+**URL:** https://github.com/XinYi27/iptv-api.git
+
+- **Files Scanned:** 14135
+- **Branches:** 1
+- **Size:** 1.4G
+- **Duration:** 1056.89s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
