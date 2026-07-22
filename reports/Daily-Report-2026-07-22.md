@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SebaDev-Junior98/C-django-moviebrain
+
+**URL:** https://github.com/SebaDev-Junior98/C-django-moviebrain.git
+
+- **Files Scanned:** 129
+- **Branches:** 1
+- **Size:** 18M
+- **Duration:** 1.6s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
