@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### fderuiter/imednet-python-sdk
+
+**URL:** https://github.com/fderuiter/imednet-python-sdk.git
+
+- **Files Scanned:** 9654
+- **Branches:** 18
+- **Size:** 13M
+- **Duration:** 38.45s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
