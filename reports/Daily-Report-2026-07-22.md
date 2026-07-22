@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bacardi-rum/iptv-api
+
+**URL:** https://github.com/bacardi-rum/iptv-api.git
+
+- **Files Scanned:** 14356
+- **Branches:** 1
+- **Size:** 1.2G
+- **Duration:** 367.55s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
