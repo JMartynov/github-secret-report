@@ -67093,5 +67093,85 @@
         "name": "openagentsworld/openagents",
         "url": "https://github.com/openagentsworld/openagents.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ben-kuhn/nix-ham-packages",
+        "url": "https://github.com/ben-kuhn/nix-ham-packages.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Aprimo-Connect/aprimo-editor-tools",
+        "url": "https://github.com/Aprimo-Connect/aprimo-editor-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LIN4CRE/1files",
+        "url": "https://github.com/LIN4CRE/1files.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "epiverse-trace/vaccineff",
+        "url": "https://github.com/epiverse-trace/vaccineff.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "foxssss991/Freight-Rate-Calculator-",
+        "url": "https://github.com/foxssss991/Freight-Rate-Calculator-.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "exception-coder/kai-toolbox",
+        "url": "https://github.com/exception-coder/kai-toolbox.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nickbrett1/agy-telemetry",
+        "url": "https://github.com/nickbrett1/agy-telemetry.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sworrl/KVN_AUST",
+        "url": "https://github.com/sworrl/KVN_AUST.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JarrettOneSource/solomons-dark-modding",
+        "url": "https://github.com/JarrettOneSource/solomons-dark-modding.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Azure/azure-policy-linter",
+        "url": "https://github.com/Azure/azure-policy-linter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lucasmulato/ai-sec-toolkit",
+        "url": "https://github.com/lucasmulato/ai-sec-toolkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "smikeparsons/tools",
+        "url": "https://github.com/smikeparsons/tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "leburgeon/pi_tools",
+        "url": "https://github.com/leburgeon/pi_tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AreteLimen/mycelium-agent-tools",
+        "url": "https://github.com/AreteLimen/mycelium-agent-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hpennn/ocr-tool",
+        "url": "https://github.com/hpennn/ocr-tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thesimpledev/goLocalMermaid",
+        "url": "https://github.com/thesimpledev/goLocalMermaid.git",
+        "status": "Hasn't yet validated"
     }
 ]

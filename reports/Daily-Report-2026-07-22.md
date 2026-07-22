@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alex8616/FaceApi
+
+**URL:** https://github.com/alex8616/FaceApi.git
+
+- **Files Scanned:** 41
+- **Branches:** 1
+- **Size:** 1.7M
+- **Duration:** 6.38s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
