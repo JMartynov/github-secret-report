@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### z01-ahaufun/iptv-api
+
+**URL:** https://github.com/z01-ahaufun/iptv-api.git
+
+- **Files Scanned:** 13275
+- **Branches:** 1
+- **Size:** 1.4G
+- **Duration:** 952.85s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
