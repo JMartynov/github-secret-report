@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### BrookSK/LumiClinic
+
+**URL:** https://github.com/BrookSK/LumiClinic.git
+
+- **Files Scanned:** 2621
+- **Branches:** 1
+- **Size:** 13M
+- **Duration:** 6.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
