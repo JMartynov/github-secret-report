@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### YumanKh/SecureVault-CLI-Cpp
+
+**URL:** https://github.com/YumanKh/SecureVault-CLI-Cpp.git
+
+- **Files Scanned:** 81
+- **Branches:** 2
+- **Size:** 468K
+- **Duration:** 0.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
