@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bug-ops/zeph
+
+**URL:** https://github.com/bug-ops/zeph.git
+
+- **Files Scanned:** 23972
+- **Branches:** 3
+- **Size:** 91M
+- **Duration:** 677.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
