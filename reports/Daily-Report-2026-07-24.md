@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NguyenMav/Project_Urban_Pedestrian_Climate_Impact_Prediction
+
+**URL:** https://github.com/NguyenMav/Project_Urban_Pedestrian_Climate_Impact_Prediction.git
+
+- **Files Scanned:** 9
+- **Branches:** 1
+- **Size:** 2.1M
+- **Duration:** 23.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
