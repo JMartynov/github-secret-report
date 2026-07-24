@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### tier4/ota-client
+
+**URL:** https://github.com/tier4/ota-client.git
+
+- **Files Scanned:** 6920
+- **Branches:** 34
+- **Size:** 15M
+- **Duration:** 219.77s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
