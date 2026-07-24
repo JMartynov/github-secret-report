@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### goxtf/portmap-cli
+
+**URL:** https://github.com/goxtf/portmap-cli.git
+
+- **Files Scanned:** 127
+- **Branches:** 1
+- **Size:** 792K
+- **Duration:** 0.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
