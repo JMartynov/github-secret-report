@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ghost-clio/aegis-mesh
+
+**URL:** https://github.com/ghost-clio/aegis-mesh.git
+
+- **Files Scanned:** 48279
+- **Branches:** 1
+- **Size:** 39M
+- **Duration:** 28.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
