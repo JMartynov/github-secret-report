@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Tempo-Organization/tempo-binary-tool-manager
+
+**URL:** https://github.com/Tempo-Organization/tempo-binary-tool-manager.git
+
+- **Files Scanned:** 39
+- **Branches:** 1
+- **Size:** 388K
+- **Duration:** 0.26s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
