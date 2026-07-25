@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### icedream/werkler
+
+**URL:** https://github.com/icedream/werkler.git
+
+- **Files Scanned:** 819
+- **Branches:** 30
+- **Size:** 2.7M
+- **Duration:** 12.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
