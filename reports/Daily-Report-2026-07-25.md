@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Prakash6381/rarch
+
+**URL:** https://github.com/Prakash6381/rarch.git
+
+- **Files Scanned:** 80
+- **Branches:** 1
+- **Size:** 1.8M
+- **Duration:** 0.28s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
