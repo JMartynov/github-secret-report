@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### chanhui0829/FlowChat
+
+**URL:** https://github.com/chanhui0829/FlowChat.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
