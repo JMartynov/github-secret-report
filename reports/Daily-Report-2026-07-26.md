@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pridezzz/m365-admin-toolkit
+
+**URL:** https://github.com/pridezzz/m365-admin-toolkit.git
+
+- **Files Scanned:** 7
+- **Branches:** 1
+- **Size:** 224K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
