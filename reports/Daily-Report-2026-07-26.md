@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### manav8498/Shadow
+
+**URL:** https://github.com/manav8498/Shadow.git
+
+- **Files Scanned:** 2629
+- **Branches:** 11
+- **Size:** 47M
+- **Duration:** 26.33s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
