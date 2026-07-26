@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rob-stout/homebrew-tap
+
+**URL:** https://github.com/rob-stout/homebrew-tap.git
+
+- **Files Scanned:** 32
+- **Branches:** 1
+- **Size:** 212K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
