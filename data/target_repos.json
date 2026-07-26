@@ -69883,5 +69883,90 @@
         "name": "rpg2go/reportingengine_backend",
         "url": "https://github.com/rpg2go/reportingengine_backend.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "olelbis/myminivault",
+        "url": "https://github.com/olelbis/myminivault.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AntonNPersson/tower-ot-client",
+        "url": "https://github.com/AntonNPersson/tower-ot-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tinyrack-net/dotweave",
+        "url": "https://github.com/tinyrack-net/dotweave.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "unleafy/luogu-cli",
+        "url": "https://github.com/unleafy/luogu-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "backrunner/start-claude",
+        "url": "https://github.com/backrunner/start-claude.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ai-agent-assembly/agent-assembly",
+        "url": "https://github.com/ai-agent-assembly/agent-assembly.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amasen02/linkedin-content-manager",
+        "url": "https://github.com/amasen02/linkedin-content-manager.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nyandajr/tanzania-climate-watch",
+        "url": "https://github.com/nyandajr/tanzania-climate-watch.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amasen02/fastdl",
+        "url": "https://github.com/amasen02/fastdl.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "prestigyo/refugio-climatico",
+        "url": "https://github.com/prestigyo/refugio-climatico.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "TomoOkuyama/clinosim",
+        "url": "https://github.com/TomoOkuyama/clinosim.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SimakinKonstantin/NGINX-log-analyzer",
+        "url": "https://github.com/SimakinKonstantin/NGINX-log-analyzer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "valkia/aramgg_client",
+        "url": "https://github.com/valkia/aramgg_client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "japer-technology/ubuntu-zombie",
+        "url": "https://github.com/japer-technology/ubuntu-zombie.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "salesforcecli/plugin-analytics",
+        "url": "https://github.com/salesforcecli/plugin-analytics.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Zaib058/client",
+        "url": "https://github.com/Zaib058/client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "0xGI0/PicConverter",
+        "url": "https://github.com/0xGI0/PicConverter.git",
+        "status": "Hasn't yet validated"
     }
 ]

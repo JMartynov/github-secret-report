@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Lyrothanak20/Impacket_Reference
+
+**URL:** https://github.com/Lyrothanak20/Impacket_Reference.git
+
+- **Files Scanned:** 6
+- **Branches:** 1
+- **Size:** 1.4M
+- **Duration:** 0.1s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
