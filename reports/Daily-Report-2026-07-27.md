@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Orange-OpenSource/ouds-flutter
+
+**URL:** https://github.com/Orange-OpenSource/ouds-flutter.git
+
+- **Files Scanned:** 64129
+- **Branches:** 9
+- **Size:** 112M
+- **Duration:** 477.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
