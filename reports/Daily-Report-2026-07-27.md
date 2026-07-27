@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SeisComP/common
+
+**URL:** https://github.com/SeisComP/common.git
+
+- **Files Scanned:** 22129
+- **Branches:** 11
+- **Size:** 160M
+- **Duration:** 335.4s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
