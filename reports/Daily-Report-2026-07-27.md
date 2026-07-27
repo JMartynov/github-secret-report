@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### LedgerHQ/device-sdk-ts
+
+**URL:** https://github.com/LedgerHQ/device-sdk-ts.git
+
+- **Files Scanned:** 0
+- **Branches:** 186
+- **Size:** 134M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
