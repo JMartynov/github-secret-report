@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Pramod1309/Digital-Library
+
+**URL:** https://github.com/Pramod1309/Digital-Library.git
+
+- **Files Scanned:** 1186
+- **Branches:** 1
+- **Size:** 8.0M
+- **Duration:** 12.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
