@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nih-at/libzip
+
+**URL:** https://github.com/nih-at/libzip.git
+
+- **Files Scanned:** 15242
+- **Branches:** 1
+- **Size:** 57M
+- **Duration:** 25.48s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
