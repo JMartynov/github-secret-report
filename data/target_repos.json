@@ -70453,5 +70453,100 @@
         "name": "richlander/dotnet-inspect",
         "url": "https://github.com/richlander/dotnet-inspect.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "requisite-study641/EEG_Deformer",
+        "url": "https://github.com/requisite-study641/EEG_Deformer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ROCm/libhipcxx",
+        "url": "https://github.com/ROCm/libhipcxx.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "0717lee/pixelforge",
+        "url": "https://github.com/0717lee/pixelforge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ValentinTarnovsky/SnLib",
+        "url": "https://github.com/ValentinTarnovsky/SnLib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JohnStrunk/CommonCast",
+        "url": "https://github.com/JohnStrunk/CommonCast.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "inglele/renzo-games",
+        "url": "https://github.com/inglele/renzo-games.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "martincostello/sqllocaldb",
+        "url": "https://github.com/martincostello/sqllocaldb.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "phillarmonic/ai-skills",
+        "url": "https://github.com/phillarmonic/ai-skills.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "detain/phlix-mobile-client",
+        "url": "https://github.com/detain/phlix-mobile-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "detain/phlix-windows-client",
+        "url": "https://github.com/detain/phlix-windows-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bimdata/bcf-components",
+        "url": "https://github.com/bimdata/bcf-components.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Lalitsingh0708/CPP_Library_Management_System_LALIT_BAGHEL",
+        "url": "https://github.com/Lalitsingh0708/CPP_Library_Management_System_LALIT_BAGHEL.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "naveenkumarns2111-git/library-mangement",
+        "url": "https://github.com/naveenkumarns2111-git/library-mangement.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nobl9/govy",
+        "url": "https://github.com/nobl9/govy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "torrealdehydic125/bookshelf",
+        "url": "https://github.com/torrealdehydic125/bookshelf.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FabrizioCafolla/harness-walle",
+        "url": "https://github.com/FabrizioCafolla/harness-walle.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "futamura/ImageExtract",
+        "url": "https://github.com/futamura/ImageExtract.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AbhinAshok/Library-website",
+        "url": "https://github.com/AbhinAshok/Library-website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "stdlib-js/blas",
+        "url": "https://github.com/stdlib-js/blas.git",
+        "status": "Hasn't yet validated"
     }
 ]
