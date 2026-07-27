@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Elly2018/Plugin-Videoplayer
+
+**URL:** https://github.com/Elly2018/Plugin-Videoplayer.git
+
+- **Files Scanned:** 0
+- **Branches:** 3
+- **Size:** 650M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
