@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### graphql-hive/federation-composition
+
+**URL:** https://github.com/graphql-hive/federation-composition.git
+
+- **Files Scanned:** 1690
+- **Branches:** 11
+- **Size:** 6.2M
+- **Duration:** 17.56s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
