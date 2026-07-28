@@ -71438,5 +71438,70 @@
         "name": "HenryOn2021/clinical-risk-modelling-nhanes",
         "url": "https://github.com/HenryOn2021/clinical-risk-modelling-nhanes.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nonwill/nw3rdBuild",
+        "url": "https://github.com/nonwill/nw3rdBuild.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JAANULO/pwr-regulatory-assistant",
+        "url": "https://github.com/JAANULO/pwr-regulatory-assistant.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Narek-D8v/arduino-web-compiler",
+        "url": "https://github.com/Narek-D8v/arduino-web-compiler.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cornerstonejs/cornerstone3D",
+        "url": "https://github.com/cornerstonejs/cornerstone3D.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ANONYMOUSEJR/Movie-Info-Browser",
+        "url": "https://github.com/ANONYMOUSEJR/Movie-Info-Browser.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NaveenDeepak/emachines",
+        "url": "https://github.com/NaveenDeepak/emachines.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.azure.notificationhubs.maui",
+        "url": "https://github.com/soenneker/soenneker.azure.notificationhubs.maui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SamsonandDelilah/SciRust",
+        "url": "https://github.com/SamsonandDelilah/SciRust.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ltatarev/react-native-template",
+        "url": "https://github.com/ltatarev/react-native-template.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kareem-m-alaraj/ALMS-Advanced-Library-Management-System",
+        "url": "https://github.com/kareem-m-alaraj/ALMS-Advanced-Library-Management-System.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pulibrary/pulfalight",
+        "url": "https://github.com/pulibrary/pulfalight.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sift-stack/sift",
+        "url": "https://github.com/sift-stack/sift.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "StefanBartl/lib.nvim",
+        "url": "https://github.com/StefanBartl/lib.nvim.git",
+        "status": "Hasn't yet validated"
     }
 ]

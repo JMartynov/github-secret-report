@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cloudnative-pg/machinery
+
+**URL:** https://github.com/cloudnative-pg/machinery.git
+
+- **Files Scanned:** 544
+- **Branches:** 4
+- **Size:** 1.5M
+- **Duration:** 1.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
