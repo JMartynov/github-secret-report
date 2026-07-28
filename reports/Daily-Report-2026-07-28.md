@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### vipercodec/Medicure
+
+**URL:** https://github.com/vipercodec/Medicure.git
+
+- **Files Scanned:** 159
+- **Branches:** 1
+- **Size:** 53M
+- **Duration:** 2.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
