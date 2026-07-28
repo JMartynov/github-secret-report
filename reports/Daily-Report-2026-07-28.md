@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Anna1861/Smart-Library
+
+**URL:** https://github.com/Anna1861/Smart-Library.git
+
+- **Files Scanned:** 196
+- **Branches:** 1
+- **Size:** 1.5M
+- **Duration:** 0.65s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
