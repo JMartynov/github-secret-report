@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### fairphone-mirror/platform_external_rust_crates_shared_library
+
+**URL:** https://github.com/fairphone-mirror/platform_external_rust_crates_shared_library.git
+
+- **Files Scanned:** 39
+- **Branches:** 27
+- **Size:** 336K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
