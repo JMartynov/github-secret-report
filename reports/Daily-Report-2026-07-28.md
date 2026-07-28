@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rustnumb/ecrust
+
+**URL:** https://github.com/rustnumb/ecrust.git
+
+- **Files Scanned:** 581
+- **Branches:** 2
+- **Size:** 14M
+- **Duration:** 1.73s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
