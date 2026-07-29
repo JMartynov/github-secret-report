@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### INVERSEARENA/inversearena-frontend
+
+**URL:** https://github.com/INVERSEARENA/inversearena-frontend.git
+
+- **Files Scanned:** 26646
+- **Branches:** 3
+- **Size:** 38M
+- **Duration:** 194.18s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
