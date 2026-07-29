@@ -72288,5 +72288,80 @@
         "name": "giantswarm/devctl",
         "url": "https://github.com/giantswarm/devctl.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Masterofquestions/aura-docs",
+        "url": "https://github.com/Masterofquestions/aura-docs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Agathadickensmickm88/v1.data.api",
+        "url": "https://github.com/Agathadickensmickm88/v1.data.api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ni/ni-apis",
+        "url": "https://github.com/ni/ni-apis.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LucasTyrrell/JARVIS-MK2",
+        "url": "https://github.com/LucasTyrrell/JARVIS-MK2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xander-pinto/xp-daily",
+        "url": "https://github.com/xander-pinto/xp-daily.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "anurag-roy/poke-api",
+        "url": "https://github.com/anurag-roy/poke-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LorenBll/Cipher",
+        "url": "https://github.com/LorenBll/Cipher.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lautidf/flowboard-api",
+        "url": "https://github.com/lautidf/flowboard-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kozecawaf745820/binance-trading-bot",
+        "url": "https://github.com/kozecawaf745820/binance-trading-bot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wkdtngur951-droid/fisa06-weather-api",
+        "url": "https://github.com/wkdtngur951-droid/fisa06-weather-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "danamohammad/danamohammad.github.io",
+        "url": "https://github.com/danamohammad/danamohammad.github.io.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tlgolder/apiyaw",
+        "url": "https://github.com/tlgolder/apiyaw.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rferraz1/ai-resume-screener-api",
+        "url": "https://github.com/rferraz1/ai-resume-screener-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Joey-Kot/Browser-Extractor",
+        "url": "https://github.com/Joey-Kot/Browser-Extractor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sailinglocmarcabrahamcohenpatr-ops/sailingloc-api",
+        "url": "https://github.com/sailinglocmarcabrahamcohenpatr-ops/sailingloc-api.git",
+        "status": "Hasn't yet validated"
     }
 ]

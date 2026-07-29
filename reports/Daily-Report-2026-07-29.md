@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### shivansh179/trip-frontend
+
+**URL:** https://github.com/shivansh179/trip-frontend.git
+
+- **Files Scanned:** 1789
+- **Branches:** 2
+- **Size:** 130M
+- **Duration:** 16.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
