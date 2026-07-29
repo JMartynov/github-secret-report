@@ -72188,5 +72188,105 @@
         "name": "tabinohito/stm32_library",
         "url": "https://github.com/tabinohito/stm32_library.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vndofiell/CLIEMTE-garrabot",
+        "url": "https://github.com/vndofiell/CLIEMTE-garrabot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "craigjmidwinter/mail-muncher",
+        "url": "https://github.com/craigjmidwinter/mail-muncher.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sethk727-crypto/ClipFarming-Brand",
+        "url": "https://github.com/sethk727-crypto/ClipFarming-Brand.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zernio-dev/zernio-cli",
+        "url": "https://github.com/zernio-dev/zernio-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rs1705/ssc-prep-client",
+        "url": "https://github.com/rs1705/ssc-prep-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "noirproto/noir-cli",
+        "url": "https://github.com/noirproto/noir-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RustGrid/rustgrid-agent",
+        "url": "https://github.com/RustGrid/rustgrid-agent.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yuezhimin03/nebula-raid-unity-client",
+        "url": "https://github.com/yuezhimin03/nebula-raid-unity-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ssamba1/untell",
+        "url": "https://github.com/ssamba1/untell.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Srivalli2811/clinisight-platform",
+        "url": "https://github.com/Srivalli2811/clinisight-platform.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sidney-afk/client-analytics",
+        "url": "https://github.com/sidney-afk/client-analytics.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "moisesfilho/gmail-cli",
+        "url": "https://github.com/moisesfilho/gmail-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "autumnust/agent-sessions",
+        "url": "https://github.com/autumnust/agent-sessions.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "E1442020/dental-clinic",
+        "url": "https://github.com/E1442020/dental-clinic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BASHBOP/otito",
+        "url": "https://github.com/BASHBOP/otito.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Montlondon/montgomery-clinica",
+        "url": "https://github.com/Montlondon/montgomery-clinica.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DynamicDevices/briar",
+        "url": "https://github.com/DynamicDevices/briar.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "melody940504-ai/clientflow",
+        "url": "https://github.com/melody940504-ai/clientflow.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "matteoscurati/ai-consultants",
+        "url": "https://github.com/matteoscurati/ai-consultants.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "giantswarm/devctl",
+        "url": "https://github.com/giantswarm/devctl.git",
+        "status": "Hasn't yet validated"
     }
 ]
