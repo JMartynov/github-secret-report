@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sjelms/pdf-highlight-extraction
+
+**URL:** https://github.com/sjelms/pdf-highlight-extraction.git
+
+- **Files Scanned:** 1488
+- **Branches:** 1
+- **Size:** 19M
+- **Duration:** 420.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
