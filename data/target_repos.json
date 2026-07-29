@@ -71838,5 +71838,80 @@
         "name": "qualithm/operator-go",
         "url": "https://github.com/qualithm/operator-go.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sakuranokikeieikikakubu-cloud/clinic-test2",
+        "url": "https://github.com/sakuranokikeieikikakubu-cloud/clinic-test2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "abiswas97/sentei",
+        "url": "https://github.com/abiswas97/sentei.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OpenFairyGUI/OpenFairyGUI",
+        "url": "https://github.com/OpenFairyGUI/OpenFairyGUI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hammadxcm/slay",
+        "url": "https://github.com/hammadxcm/slay.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gmlxo76/codex-image-in-cc",
+        "url": "https://github.com/gmlxo76/codex-image-in-cc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zzemy/VibeBridge",
+        "url": "https://github.com/zzemy/VibeBridge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rokaia1692006/clitodo",
+        "url": "https://github.com/rokaia1692006/clitodo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "IHUI-INF-AI/IHUI-AI",
+        "url": "https://github.com/IHUI-INF-AI/IHUI-AI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "abrelo-is-here/-QRrestaurant_client",
+        "url": "https://github.com/abrelo-is-here/-QRrestaurant_client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mensfeld/code-on-incus",
+        "url": "https://github.com/mensfeld/code-on-incus.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "imosudi/gemma4-deploy",
+        "url": "https://github.com/imosudi/gemma4-deploy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "harshapm27-source/claude-context-vault",
+        "url": "https://github.com/harshapm27-source/claude-context-vault.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NDDev-it-com/nddev-github-copilot-cli-app",
+        "url": "https://github.com/NDDev-it-com/nddev-github-copilot-cli-app.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "adfmsk/pocketcast-cli-commander",
+        "url": "https://github.com/adfmsk/pocketcast-cli-commander.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "HyperCLI/hypercli",
+        "url": "https://github.com/HyperCLI/hypercli.git",
+        "status": "Hasn't yet validated"
     }
 ]
