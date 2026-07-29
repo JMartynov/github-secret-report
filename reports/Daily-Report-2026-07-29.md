@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Krushnabhot2/Servicehub_frontend
+
+**URL:** https://github.com/Krushnabhot2/Servicehub_frontend.git
+
+- **Files Scanned:** 28
+- **Branches:** 1
+- **Size:** 1.1M
+- **Duration:** 0.83s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

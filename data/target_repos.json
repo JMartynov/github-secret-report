@@ -71913,5 +71913,95 @@
         "name": "HyperCLI/hypercli",
         "url": "https://github.com/HyperCLI/hypercli.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/jifiti",
+        "url": "https://github.com/api-evangelist/jifiti.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/odoo",
+        "url": "https://github.com/api-evangelist/odoo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/linear",
+        "url": "https://github.com/api-evangelist/linear.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/epcor",
+        "url": "https://github.com/api-evangelist/epcor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/maileroo",
+        "url": "https://github.com/api-evangelist/maileroo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/collegefootballdata-com",
+        "url": "https://github.com/api-evangelist/collegefootballdata-com.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/square",
+        "url": "https://github.com/api-evangelist/square.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ai-Invoice-Generator/ai-invoice-generator-api",
+        "url": "https://github.com/Ai-Invoice-Generator/ai-invoice-generator-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dangtuanminh28/HN_KS25_CNTT8_fastAPI_DangTuanMinh_he_ex02",
+        "url": "https://github.com/dangtuanminh28/HN_KS25_CNTT8_fastAPI_DangTuanMinh_he_ex02.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/monument-bank",
+        "url": "https://github.com/api-evangelist/monument-bank.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Shahbaz-19/Student-management-API",
+        "url": "https://github.com/Shahbaz-19/Student-management-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mysample97-a11y/Site-analysis-web-application",
+        "url": "https://github.com/mysample97-a11y/Site-analysis-web-application.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/unsw-sydney",
+        "url": "https://github.com/api-evangelist/unsw-sydney.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/zenduty",
+        "url": "https://github.com/api-evangelist/zenduty.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/getty-images",
+        "url": "https://github.com/api-evangelist/getty-images.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mehdirahbe/matesla",
+        "url": "https://github.com/mehdirahbe/matesla.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/portainer",
+        "url": "https://github.com/api-evangelist/portainer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agirahman/hacktiv8-AI-Productivity-and-AI-API-Integration-for-Developers-",
+        "url": "https://github.com/agirahman/hacktiv8-AI-Productivity-and-AI-API-Integration-for-Developers-.git",
+        "status": "Hasn't yet validated"
     }
 ]
