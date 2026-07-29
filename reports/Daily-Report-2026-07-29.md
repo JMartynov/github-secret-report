@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Kokila-Joga/Taskplanner
+
+**URL:** https://github.com/Kokila-Joga/Taskplanner.git
+
+- **Files Scanned:** 12
+- **Branches:** 1
+- **Size:** 3.0M
+- **Duration:** 0.14s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
