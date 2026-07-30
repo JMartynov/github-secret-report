@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bratislava/bratislava.sk
+
+**URL:** https://github.com/bratislava/bratislava.sk.git
+
+- **Files Scanned:** 17606
+- **Branches:** 53
+- **Size:** 77M
+- **Duration:** 1182.46s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
