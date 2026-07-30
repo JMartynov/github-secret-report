@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mukeshalstonair/New-project_NGOINDIA
+
+**URL:** https://github.com/mukeshalstonair/New-project_NGOINDIA.git
+
+- **Files Scanned:** 611
+- **Branches:** 1
+- **Size:** 167M
+- **Duration:** 4.69s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
