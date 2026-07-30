@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### BIBSYSDEV/NVA-Frontend
+
+**URL:** https://github.com/BIBSYSDEV/NVA-Frontend.git
+
+- **Files Scanned:** 36840
+- **Branches:** 29
+- **Size:** 116M
+- **Duration:** 1908.98s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
