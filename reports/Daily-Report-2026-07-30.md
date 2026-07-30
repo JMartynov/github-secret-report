@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NicoMartina/crm-uretek
+
+**URL:** https://github.com/NicoMartina/crm-uretek.git
+
+- **Files Scanned:** 821
+- **Branches:** 3
+- **Size:** 1.9M
+- **Duration:** 1.74s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
