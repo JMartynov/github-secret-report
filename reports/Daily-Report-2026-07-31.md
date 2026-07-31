@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bdbetterweb/Memebership-Plan-Component
+
+**URL:** https://github.com/bdbetterweb/Memebership-Plan-Component.git
+
+- **Files Scanned:** 14
+- **Branches:** 1
+- **Size:** 4.2M
+- **Duration:** 0.14s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

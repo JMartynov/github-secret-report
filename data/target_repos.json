@@ -73598,5 +73598,85 @@
         "name": "mpaas-ai-module/terraform-aws-api-gateway",
         "url": "https://github.com/mpaas-ai-module/terraform-aws-api-gateway.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "almoxantoniosousa-png/clinica-especial",
+        "url": "https://github.com/almoxantoniosousa-png/clinica-especial.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Myl0x-web/VostanieClient",
+        "url": "https://github.com/Myl0x-web/VostanieClient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Amirbarkhordari/confighunter",
+        "url": "https://github.com/Amirbarkhordari/confighunter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kirinnee/ferretry",
+        "url": "https://github.com/kirinnee/ferretry.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "repoprompt/repoprompt-ce",
+        "url": "https://github.com/repoprompt/repoprompt-ce.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "utensils/mold",
+        "url": "https://github.com/utensils/mold.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lenamonj/jeffy-loop",
+        "url": "https://github.com/lenamonj/jeffy-loop.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "josht3113/context-climate",
+        "url": "https://github.com/josht3113/context-climate.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hocy1609/Sona-Clipboard",
+        "url": "https://github.com/hocy1609/Sona-Clipboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "laws-africa/lawsafrica-cli",
+        "url": "https://github.com/laws-africa/lawsafrica-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Climbup-dev/Climbup_web",
+        "url": "https://github.com/Climbup-dev/Climbup_web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "methuos/alert",
+        "url": "https://github.com/methuos/alert.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ding-Ding-Projects/codex-material",
+        "url": "https://github.com/Ding-Ding-Projects/codex-material.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amarant-commerce/ama2-backend-axios-client",
+        "url": "https://github.com/amarant-commerce/ama2-backend-axios-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ilenader/clippershq-reports",
+        "url": "https://github.com/ilenader/clippershq-reports.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "niksavis/basicly",
+        "url": "https://github.com/niksavis/basicly.git",
+        "status": "Hasn't yet validated"
     }
 ]
