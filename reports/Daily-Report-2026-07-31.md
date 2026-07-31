@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### DanGarcia963/Ollin-Frontend
+
+**URL:** https://github.com/DanGarcia963/Ollin-Frontend.git
+
+- **Files Scanned:** 506
+- **Branches:** 1
+- **Size:** 16M
+- **Duration:** 2.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
