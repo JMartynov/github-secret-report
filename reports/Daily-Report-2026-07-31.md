@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### RaphaelPursino/mygoal-frontend
+
+**URL:** https://github.com/RaphaelPursino/mygoal-frontend.git
+
+- **Files Scanned:** 89
+- **Branches:** 1
+- **Size:** 916K
+- **Duration:** 0.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
