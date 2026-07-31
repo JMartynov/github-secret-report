@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### varunrajput007/fake-news-frontend
+
+**URL:** https://github.com/varunrajput007/fake-news-frontend.git
+
+- **Files Scanned:** 17
+- **Branches:** 1
+- **Size:** 520K
+- **Duration:** 0.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
