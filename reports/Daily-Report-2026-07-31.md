@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Halildeu/platform-web
+
+**URL:** https://github.com/Halildeu/platform-web.git
+
+- **Files Scanned:** 26694
+- **Branches:** 278
+- **Size:** 224M
+- **Duration:** 279.67s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
