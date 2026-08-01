@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Flix-ux/powersub-demo-7484
+
+**URL:** https://github.com/Flix-ux/powersub-demo-7484.git
+
+- **Files Scanned:** 6
+- **Branches:** 1
+- **Size:** 1.3M
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
