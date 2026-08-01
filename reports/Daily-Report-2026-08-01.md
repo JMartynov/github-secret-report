@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Thomas-Bezille/FrontEnd-Mentor_Single_price_grid_component
+
+**URL:** https://github.com/Thomas-Bezille/FrontEnd-Mentor_Single_price_grid_component.git
+
+- **Files Scanned:** 18
+- **Branches:** 1
+- **Size:** 816K
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
