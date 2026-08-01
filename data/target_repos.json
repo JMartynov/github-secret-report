@@ -74428,5 +74428,85 @@
         "name": "marcdomain/multiarch-image-pusher",
         "url": "https://github.com/marcdomain/multiarch-image-pusher.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "becomeless/cc-x",
+        "url": "https://github.com/becomeless/cc-x.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "naqcity/devops-cli",
+        "url": "https://github.com/naqcity/devops-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AIOCANA/aiorouter-mcp",
+        "url": "https://github.com/AIOCANA/aiorouter-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ashutoshb206/homebrew-clipdeck",
+        "url": "https://github.com/ashutoshb206/homebrew-clipdeck.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nateemma/fx-strategy-framework",
+        "url": "https://github.com/nateemma/fx-strategy-framework.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "grutino/mtg-forja",
+        "url": "https://github.com/grutino/mtg-forja.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AdarGit008/mcgyvr",
+        "url": "https://github.com/AdarGit008/mcgyvr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ie14com/client-skeleton",
+        "url": "https://github.com/ie14com/client-skeleton.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mahabubrahamanmiddya/Clint-reacher-Gmap",
+        "url": "https://github.com/mahabubrahamanmiddya/Clint-reacher-Gmap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cloud-sdk-builds/client-pca-connector-scep",
+        "url": "https://github.com/cloud-sdk-builds/client-pca-connector-scep.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cheezy/stride-copilot-exploratory-testing",
+        "url": "https://github.com/cheezy/stride-copilot-exploratory-testing.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GitoxideLabs/gitoxide",
+        "url": "https://github.com/GitoxideLabs/gitoxide.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "anshmehtamm/click-click-boom-clickhouse-hackathon-atlys",
+        "url": "https://github.com/anshmehtamm/click-click-boom-clickhouse-hackathon-atlys.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "codecove01-netizen/Clipboard-Landing-Page",
+        "url": "https://github.com/codecove01-netizen/Clipboard-Landing-Page.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aleksandarlabs/akrcontext",
+        "url": "https://github.com/aleksandarlabs/akrcontext.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Driveglitchcloud/orion-ai-assistant-v2",
+        "url": "https://github.com/Driveglitchcloud/orion-ai-assistant-v2.git",
+        "status": "Hasn't yet validated"
     }
 ]
