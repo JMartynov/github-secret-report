@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CaioSouza07/lista-compras-web
+
+**URL:** https://github.com/CaioSouza07/lista-compras-web.git
+
+- **Files Scanned:** 20
+- **Branches:** 1
+- **Size:** 440K
+- **Duration:** 0.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
