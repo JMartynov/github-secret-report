@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CS31A/attendance-management-frontend
+
+**URL:** https://github.com/CS31A/attendance-management-frontend.git
+
+- **Files Scanned:** 2038
+- **Branches:** 32
+- **Size:** 5.1M
+- **Duration:** 7.96s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
