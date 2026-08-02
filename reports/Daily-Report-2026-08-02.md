@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Xomware/xomify-frontend
+
+**URL:** https://github.com/Xomware/xomify-frontend.git
+
+- **Files Scanned:** 1940
+- **Branches:** 34
+- **Size:** 7.9M
+- **Duration:** 42.9s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
