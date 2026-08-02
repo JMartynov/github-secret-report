@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### RozgarDo/rozgardo-frontend
+
+**URL:** https://github.com/RozgarDo/rozgardo-frontend.git
+
+- **Files Scanned:** 370
+- **Branches:** 3
+- **Size:** 17M
+- **Duration:** 1.61s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
