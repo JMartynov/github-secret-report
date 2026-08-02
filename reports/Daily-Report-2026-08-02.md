@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### UBG20111/ubg-frontend
+
+**URL:** https://github.com/UBG20111/ubg-frontend.git
+
+- **Files Scanned:** 7
+- **Branches:** 1
+- **Size:** 324K
+- **Duration:** 0.1s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
