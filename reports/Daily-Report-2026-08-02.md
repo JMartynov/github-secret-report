@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dvilabsai-copilot/dvi_frontend
+
+**URL:** https://github.com/dvilabsai-copilot/dvi_frontend.git
+
+- **Files Scanned:** 6746
+- **Branches:** 337
+- **Size:** 297M
+- **Duration:** 202.78s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
