@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Smart-Ace-Designs/astro-article-preview-component
+
+**URL:** https://github.com/Smart-Ace-Designs/astro-article-preview-component.git
+
+- **Files Scanned:** 508
+- **Branches:** 1
+- **Size:** 1.7M
+- **Duration:** 12.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
