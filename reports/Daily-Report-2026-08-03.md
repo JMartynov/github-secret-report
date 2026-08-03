@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### IsabelFrazao/AgnosticEngine
+
+**URL:** https://github.com/IsabelFrazao/AgnosticEngine.git
+
+- **Files Scanned:** 831
+- **Branches:** 1
+- **Size:** 4.6M
+- **Duration:** 12.85s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
