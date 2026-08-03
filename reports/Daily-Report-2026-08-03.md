@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### MarketXpress/MarketX-frontend
+
+**URL:** https://github.com/MarketXpress/MarketX-frontend.git
+
+- **Files Scanned:** 276
+- **Branches:** 5
+- **Size:** 16M
+- **Duration:** 2.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
