@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lamis15/Vero-Frontend
+
+**URL:** https://github.com/lamis15/Vero-Frontend.git
+
+- **Files Scanned:** 1578
+- **Branches:** 9
+- **Size:** 345M
+- **Duration:** 16.51s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
