@@ -76503,5 +76503,85 @@
         "name": "csilvasantin/tool",
         "url": "https://github.com/csilvasantin/tool.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pmarreck/random",
+        "url": "https://github.com/pmarreck/random.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hamzaaboalshaikh-dotcom/Clinica-core2",
+        "url": "https://github.com/hamzaaboalshaikh-dotcom/Clinica-core2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "clickteleconsulta/clickteleconsulta1",
+        "url": "https://github.com/clickteleconsulta/clickteleconsulta1.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Skumm00/clicky_windows",
+        "url": "https://github.com/Skumm00/clicky_windows.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ncreighton/a9d85749-spacetech-satellite-api-clie",
+        "url": "https://github.com/ncreighton/a9d85749-spacetech-satellite-api-clie.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cloudorcl-lab/Fusion-studio-cli",
+        "url": "https://github.com/cloudorcl-lab/Fusion-studio-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "feapps/zed-api-client",
+        "url": "https://github.com/feapps/zed-api-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zack-fosterll5608/aws-least-privilege-checker",
+        "url": "https://github.com/zack-fosterll5608/aws-least-privilege-checker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DadiSoumia/ClickShop",
+        "url": "https://github.com/DadiSoumia/ClickShop.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "renovatebot/renovate",
+        "url": "https://github.com/renovatebot/renovate.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dcruzgalicia/iteraciones-cli",
+        "url": "https://github.com/dcruzgalicia/iteraciones-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "joycelpl333/CLITgame",
+        "url": "https://github.com/joycelpl333/CLITgame.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "teddy-cliqbux/Cliqbux_onboarding",
+        "url": "https://github.com/teddy-cliqbux/Cliqbux_onboarding.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kscius/KS-Cursor-Orchestrator",
+        "url": "https://github.com/kscius/KS-Cursor-Orchestrator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CaicoLeung/aic",
+        "url": "https://github.com/CaicoLeung/aic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "is-wenderson/pulso-clinico-forms",
+        "url": "https://github.com/is-wenderson/pulso-clinico-forms.git",
+        "status": "Hasn't yet validated"
     }
 ]
