@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Cmdliner/Caesura.Api
+
+**URL:** https://github.com/Cmdliner/Caesura.Api.git
+
+- **Files Scanned:** 168
+- **Branches:** 1
+- **Size:** 816K
+- **Duration:** 0.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
