@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jostagirl/PublicJonesBarWX_API
+
+**URL:** https://github.com/jostagirl/PublicJonesBarWX_API.git
+
+- **Files Scanned:** 23332
+- **Branches:** 1
+- **Size:** 84M
+- **Duration:** 534.48s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
