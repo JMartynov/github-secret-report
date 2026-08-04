@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Smart-Ace-Designs/astro-bookmark-landing-page
+
+**URL:** https://github.com/Smart-Ace-Designs/astro-bookmark-landing-page.git
+
+- **Files Scanned:** 607
+- **Branches:** 1
+- **Size:** 2.2M
+- **Duration:** 20.73s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
