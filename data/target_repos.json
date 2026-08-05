@@ -76758,5 +76758,90 @@
         "name": "rogergarciapages/VentosWebsurvey",
         "url": "https://github.com/rogergarciapages/VentosWebsurvey.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LaveneshRaaj/rpi-climate-logger",
+        "url": "https://github.com/LaveneshRaaj/rpi-climate-logger.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Effect-TS/effect",
+        "url": "https://github.com/Effect-TS/effect.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "depfixer/CLI",
+        "url": "https://github.com/depfixer/CLI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "conda-forge/lux-cli-feedstock",
+        "url": "https://github.com/conda-forge/lux-cli-feedstock.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sjawhar/knives",
+        "url": "https://github.com/sjawhar/knives.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lollucky/cli-clean-utils",
+        "url": "https://github.com/lollucky/cli-clean-utils.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "victorfs1234/claude-ralph-agent-bridge",
+        "url": "https://github.com/victorfs1234/claude-ralph-agent-bridge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BBINGE/dear-clinic",
+        "url": "https://github.com/BBINGE/dear-clinic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nervosnetwork/ckb-cli",
+        "url": "https://github.com/nervosnetwork/ckb-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agligon475/Clickapp",
+        "url": "https://github.com/agligon475/Clickapp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FlanderDev/GitHub-Android-Client",
+        "url": "https://github.com/FlanderDev/GitHub-Android-Client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mossipcams/ajax-cli",
+        "url": "https://github.com/mossipcams/ajax-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xTorres97/gestion-clientes",
+        "url": "https://github.com/xTorres97/gestion-clientes.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "joaorodrigues0764/wordle-cli-c",
+        "url": "https://github.com/joaorodrigues0764/wordle-cli-c.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kissgyorgy/coding-agents",
+        "url": "https://github.com/kissgyorgy/coding-agents.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "anuphongsrinawong/netscan",
+        "url": "https://github.com/anuphongsrinawong/netscan.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Wenri/TaskSolver",
+        "url": "https://github.com/Wenri/TaskSolver.git",
+        "status": "Hasn't yet validated"
     }
 ]
