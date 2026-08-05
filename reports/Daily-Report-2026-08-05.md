@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### andreobcosta/nexum-api
+
+**URL:** https://github.com/andreobcosta/nexum-api.git
+
+- **Files Scanned:** 425
+- **Branches:** 2
+- **Size:** 2.0M
+- **Duration:** 3.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
