@@ -76843,5 +76843,80 @@
         "name": "Wenri/TaskSolver",
         "url": "https://github.com/Wenri/TaskSolver.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hara-cli/hara",
+        "url": "https://github.com/hara-cli/hara.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cline/cline",
+        "url": "https://github.com/cline/cline.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "app-vitals/shipwright",
+        "url": "https://github.com/app-vitals/shipwright.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "asamassekou10/ship-safe",
+        "url": "https://github.com/asamassekou10/ship-safe.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agentgg-dev/agentgg",
+        "url": "https://github.com/agentgg-dev/agentgg.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sameer3435/majorgym-client-kotlin",
+        "url": "https://github.com/sameer3435/majorgym-client-kotlin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "outagedeck/homebrew-tap",
+        "url": "https://github.com/outagedeck/homebrew-tap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "scian0204/ClaudeCodeWorkspace",
+        "url": "https://github.com/scian0204/ClaudeCodeWorkspace.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MrLiuGangQiang/codex-pets",
+        "url": "https://github.com/MrLiuGangQiang/codex-pets.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "justraiah/CDM-Clinic-Monitoring-System-Promo",
+        "url": "https://github.com/justraiah/CDM-Clinic-Monitoring-System-Promo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ZenHive/rmap",
+        "url": "https://github.com/ZenHive/rmap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "edmundonajera4/sys-seguimiento-clientes",
+        "url": "https://github.com/edmundonajera4/sys-seguimiento-clientes.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ArkZ10/Clio",
+        "url": "https://github.com/ArkZ10/Clio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NorviaLabs/forge",
+        "url": "https://github.com/NorviaLabs/forge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wisent-ai/jeden",
+        "url": "https://github.com/wisent-ai/jeden.git",
+        "status": "Hasn't yet validated"
     }
 ]
