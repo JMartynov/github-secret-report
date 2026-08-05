@@ -77528,5 +77528,75 @@
         "name": "Hyphen/hyphen-components",
         "url": "https://github.com/Hyphen/hyphen-components.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "violetcrumble/od3b-fe",
+        "url": "https://github.com/violetcrumble/od3b-fe.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Marco222690/PerformanceMonitor",
+        "url": "https://github.com/Marco222690/PerformanceMonitor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dev-celestia/celestia-starter",
+        "url": "https://github.com/dev-celestia/celestia-starter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "marko-js/marko",
+        "url": "https://github.com/marko-js/marko.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "unorouter/unorouter",
+        "url": "https://github.com/unorouter/unorouter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "huytuandz9/payload-sanitizer",
+        "url": "https://github.com/huytuandz9/payload-sanitizer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "liascope/portfolio",
+        "url": "https://github.com/liascope/portfolio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Luis02051/bookmark-is-learned",
+        "url": "https://github.com/Luis02051/bookmark-is-learned.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thetimecabinets/crypto-densities-frontend",
+        "url": "https://github.com/thetimecabinets/crypto-densities-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mlnaarianto/React-weather-frontend",
+        "url": "https://github.com/mlnaarianto/React-weather-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yoelleyes2027-netizen/Zephyra_Genesis_Frontend",
+        "url": "https://github.com/yoelleyes2027-netizen/Zephyra_Genesis_Frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "darwin-miden/darwin-frontend",
+        "url": "https://github.com/darwin-miden/darwin-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bnnm/frontend",
+        "url": "https://github.com/bnnm/frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Juan5058/zona-avicola-Frontend",
+        "url": "https://github.com/Juan5058/zona-avicola-Frontend.git",
+        "status": "Hasn't yet validated"
     }
 ]
