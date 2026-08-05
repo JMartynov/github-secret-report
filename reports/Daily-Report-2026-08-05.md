@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cfuncdoor/knowledgebasedengine
+
+**URL:** https://github.com/cfuncdoor/knowledgebasedengine.git
+
+- **Files Scanned:** 91
+- **Branches:** 1
+- **Size:** 520K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
