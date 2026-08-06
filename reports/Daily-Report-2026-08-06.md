@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AbhiModszYT/ModMenu
+
+**URL:** https://github.com/AbhiModszYT/ModMenu.git
+
+- **Files Scanned:** 51
+- **Branches:** 1
+- **Size:** 1.2M
+- **Duration:** 0.27s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
