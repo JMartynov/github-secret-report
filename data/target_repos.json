@@ -77773,5 +77773,85 @@
         "name": "gov-cy/govcy-frontend-renderer",
         "url": "https://github.com/gov-cy/govcy-frontend-renderer.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dzenwertz/nexus-inventory-system",
+        "url": "https://github.com/dzenwertz/nexus-inventory-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Userluckytian/opencode2api_enhance",
+        "url": "https://github.com/Userluckytian/opencode2api_enhance.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ahmedizz/powersub-demo-8520",
+        "url": "https://github.com/Ahmedizz/powersub-demo-8520.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MarissaFamularo/verastar",
+        "url": "https://github.com/MarissaFamularo/verastar.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lichess-api/typescript",
+        "url": "https://github.com/lichess-api/typescript.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "outsourc-e/rc-operator-signals",
+        "url": "https://github.com/outsourc-e/rc-operator-signals.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "constantgillet/pixtimize",
+        "url": "https://github.com/constantgillet/pixtimize.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "metalaihq/threads-assets",
+        "url": "https://github.com/metalaihq/threads-assets.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "peviitor-scrapers/electrogrup-sa-python-scraper",
+        "url": "https://github.com/peviitor-scrapers/electrogrup-sa-python-scraper.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sachirainduwara/api",
+        "url": "https://github.com/sachirainduwara/api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Meena-Fyntune/affinity-api",
+        "url": "https://github.com/Meena-Fyntune/affinity-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ryokidev/Tikxedds-api",
+        "url": "https://github.com/Ryokidev/Tikxedds-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ellanan/apod-api",
+        "url": "https://github.com/ellanan/apod-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Bernardsamuelgallupg8/v2.app.api",
+        "url": "https://github.com/Bernardsamuelgallupg8/v2.app.api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gumalwaddnyaneshwar/Facial-Emotion-Recognition",
+        "url": "https://github.com/gumalwaddnyaneshwar/Facial-Emotion-Recognition.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mbdev4F/BizBankingConnect",
+        "url": "https://github.com/mbdev4F/BizBankingConnect.git",
+        "status": "Hasn't yet validated"
     }
 ]
