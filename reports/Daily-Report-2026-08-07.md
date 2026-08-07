@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jibarri/LinaCodec
+
+**URL:** https://github.com/jibarri/LinaCodec.git
+
+- **Files Scanned:** 32
+- **Branches:** 2
+- **Size:** 8.0M
+- **Duration:** 0.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
