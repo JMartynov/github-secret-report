@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Goku2018/library-management-system
+
+**URL:** https://github.com/Goku2018/library-management-system.git
+
+- **Files Scanned:** 39
+- **Branches:** 1
+- **Size:** 372K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
