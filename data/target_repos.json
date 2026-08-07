@@ -78778,5 +78778,65 @@
         "name": "unytco/unytctl",
         "url": "https://github.com/unytco/unytctl.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "powersystems1898-cell/passbolt-4-8-0-tool",
+        "url": "https://github.com/powersystems1898-cell/passbolt-4-8-0-tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "danicotech/palserver-tools",
+        "url": "https://github.com/danicotech/palserver-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sksumukhaa/IBM_Data_Analyst_Professional_Certificate",
+        "url": "https://github.com/sksumukhaa/IBM_Data_Analyst_Professional_Certificate.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "oil1114/my-tools",
+        "url": "https://github.com/oil1114/my-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gokan-dev/gokan-srs",
+        "url": "https://github.com/gokan-dev/gokan-srs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "maverick1982/esp32-nut",
+        "url": "https://github.com/maverick1982/esp32-nut.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Chideraobed/im-d-back-utility-v897",
+        "url": "https://github.com/Chideraobed/im-d-back-utility-v897.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rojj0311/mcp-photoshop-uxp-bridge",
+        "url": "https://github.com/rojj0311/mcp-photoshop-uxp-bridge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "junzhou-io1983/3m.Tool",
+        "url": "https://github.com/junzhou-io1983/3m.Tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ahrar-azmat/agent-teams-plugin",
+        "url": "https://github.com/ahrar-azmat/agent-teams-plugin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rh-ai-quickstart/showroom-intel-vllm-tool-calling",
+        "url": "https://github.com/rh-ai-quickstart/showroom-intel-vllm-tool-calling.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nnav20/Ashampoo-Snap-Capture-Tool",
+        "url": "https://github.com/Nnav20/Ashampoo-Snap-Capture-Tool.git",
+        "status": "Hasn't yet validated"
     }
 ]
