@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### reaatech/prompt-injection-bench
+
+**URL:** https://github.com/reaatech/prompt-injection-bench.git
+
+- **Files Scanned:** 370
+- **Branches:** 5
+- **Size:** 2.0M
+- **Duration:** 2.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
