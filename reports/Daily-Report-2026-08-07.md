@@ -214,3 +214,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### joshlacal/Petrel
+
+**URL:** https://github.com/joshlacal/Petrel.git
+
+- **Files Scanned:** 0
+- **Branches:** 43
+- **Size:** 322M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
