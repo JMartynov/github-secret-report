@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### amphp/amphp.org
+
+**URL:** https://github.com/amphp/amphp.org.git
+
+- **Files Scanned:** 4019
+- **Branches:** 1
+- **Size:** 5.9M
+- **Duration:** 6.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
