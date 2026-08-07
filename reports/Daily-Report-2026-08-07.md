@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pucelle/ff-uix
+
+**URL:** https://github.com/pucelle/ff-uix.git
+
+- **Files Scanned:** 2258
+- **Branches:** 1
+- **Size:** 6.3M
+- **Duration:** 5.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
