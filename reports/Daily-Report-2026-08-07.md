@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### zgornel/ParSitter.jl
+
+**URL:** https://github.com/zgornel/ParSitter.jl.git
+
+- **Files Scanned:** 453
+- **Branches:** 3
+- **Size:** 1.1M
+- **Duration:** 0.99s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
