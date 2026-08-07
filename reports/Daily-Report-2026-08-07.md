@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### google/osv-scalibr
+
+**URL:** https://github.com/google/osv-scalibr.git
+
+- **Files Scanned:** 0
+- **Branches:** 104
+- **Size:** 535M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
