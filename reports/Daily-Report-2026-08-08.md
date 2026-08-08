@@ -284,3 +284,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### solariun/easy
+
+**URL:** https://github.com/solariun/easy.git
+
+- **Files Scanned:** 1641
+- **Branches:** 3
+- **Size:** 17M
+- **Duration:** 58.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
