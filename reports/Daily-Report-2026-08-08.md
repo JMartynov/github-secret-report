@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lakeez201/null-e
+
+**URL:** https://github.com/lakeez201/null-e.git
+
+- **Files Scanned:** 173
+- **Branches:** 1
+- **Size:** 5.8M
+- **Duration:** 0.8s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
