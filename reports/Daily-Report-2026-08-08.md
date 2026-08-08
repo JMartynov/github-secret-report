@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### djosh34/cockroach_migrate_tool
+
+**URL:** https://github.com/djosh34/cockroach_migrate_tool.git
+
+- **Files Scanned:** 3352
+- **Branches:** 2
+- **Size:** 14M
+- **Duration:** 8.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
