@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### LiangNiang/OpenMantis
+
+**URL:** https://github.com/LiangNiang/OpenMantis.git
+
+- **Files Scanned:** 796
+- **Branches:** 3
+- **Size:** 22M
+- **Duration:** 3.17s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
