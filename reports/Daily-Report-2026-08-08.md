@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### GhostESP-Revival/GhostESP
+
+**URL:** https://github.com/GhostESP-Revival/GhostESP.git
+
+- **Files Scanned:** 0
+- **Branches:** 17
+- **Size:** 1.3G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
