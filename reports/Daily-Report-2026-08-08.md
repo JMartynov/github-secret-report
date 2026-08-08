@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rndmcnlly/gws-toolkit
+
+**URL:** https://github.com/rndmcnlly/gws-toolkit.git
+
+- **Files Scanned:** 25
+- **Branches:** 1
+- **Size:** 320K
+- **Duration:** 0.37s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
