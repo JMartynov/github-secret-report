@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### WISEinc-pharmacy/budget-tool
+
+**URL:** https://github.com/WISEinc-pharmacy/budget-tool.git
+
+- **Files Scanned:** 268
+- **Branches:** 1
+- **Size:** 3.1M
+- **Duration:** 12.99s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
