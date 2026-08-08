@@ -228,3 +228,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### PiotrBakIneos/znalezieni.pl-HR
+
+**URL:** https://github.com/PiotrBakIneos/znalezieni.pl-HR.git
+
+- **Files Scanned:** 69
+- **Branches:** 3
+- **Size:** 528K
+- **Duration:** 1.58s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
