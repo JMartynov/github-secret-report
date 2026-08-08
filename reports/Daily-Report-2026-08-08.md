@@ -256,3 +256,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### 1blasphemous1/20260119103526-anki-tts-cli
+
+**URL:** https://github.com/1blasphemous1/20260119103526-anki-tts-cli.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
