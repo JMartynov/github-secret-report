@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cuttalo/depscope
+
+**URL:** https://github.com/cuttalo/depscope.git
+
+- **Files Scanned:** 2
+- **Branches:** 1
+- **Size:** 200K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
