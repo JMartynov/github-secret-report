@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cottrell/nudge
+
+**URL:** https://github.com/cottrell/nudge.git
+
+- **Files Scanned:** 984
+- **Branches:** 1
+- **Size:** 8.0M
+- **Duration:** 3.3s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
