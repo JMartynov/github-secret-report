@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mcagnuccivasquez/zodkit
+
+**URL:** https://github.com/mcagnuccivasquez/zodkit.git
+
+- **Files Scanned:** 704
+- **Branches:** 1
+- **Size:** 7.1M
+- **Duration:** 4.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
