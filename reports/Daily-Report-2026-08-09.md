@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### kode-head/puzitu
+
+**URL:** https://github.com/kode-head/puzitu.git
+
+- **Files Scanned:** 9601
+- **Branches:** 1
+- **Size:** 26M
+- **Duration:** 225.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
