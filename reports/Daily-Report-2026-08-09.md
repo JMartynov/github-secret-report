@@ -214,3 +214,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### helixzz/mica
+
+**URL:** https://github.com/helixzz/mica.git
+
+- **Files Scanned:** 4280
+- **Branches:** 1
+- **Size:** 19M
+- **Duration:** 28.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
