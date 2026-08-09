@@ -256,3 +256,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hrpiyo2125/nihongo-tool
+
+**URL:** https://github.com/hrpiyo2125/nihongo-tool.git
+
+- **Files Scanned:** 1818
+- **Branches:** 1
+- **Size:** 20M
+- **Duration:** 12.77s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
