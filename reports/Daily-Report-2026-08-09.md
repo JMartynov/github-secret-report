@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### beyondelastic/agentic-devops-demo
+
+**URL:** https://github.com/beyondelastic/agentic-devops-demo.git
+
+- **Files Scanned:** 163
+- **Branches:** 6
+- **Size:** 1.1M
+- **Duration:** 0.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
