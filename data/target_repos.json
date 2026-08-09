@@ -81693,5 +81693,75 @@
         "name": "static-web-apps-testing-org/synthetics-swa-secrets-36ab2c731a4f474997ac47f4913fdea3",
         "url": "https://github.com/static-web-apps-testing-org/synthetics-swa-secrets-36ab2c731a4f474997ac47f4913fdea3.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "homespunapps/homespun",
+        "url": "https://github.com/homespunapps/homespun.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "avatarbd1/relife-clinic-os",
+        "url": "https://github.com/avatarbd1/relife-clinic-os.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cavi-ai/bobby-browser",
+        "url": "https://github.com/cavi-ai/bobby-browser.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "HylithLabs/please",
+        "url": "https://github.com/HylithLabs/please.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ecorkran/context-forge",
+        "url": "https://github.com/ecorkran/context-forge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jbdrak/propprofessor-mcp",
+        "url": "https://github.com/jbdrak/propprofessor-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KarnesTH/nf-installer",
+        "url": "https://github.com/KarnesTH/nf-installer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Gryt-chat/client",
+        "url": "https://github.com/Gryt-chat/client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chinmay-sawant/gowkhtmltopdf",
+        "url": "https://github.com/chinmay-sawant/gowkhtmltopdf.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Pythoughts-labs/pythinker-code",
+        "url": "https://github.com/Pythoughts-labs/pythinker-code.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "andrea82557575535-coder/space-clicker-server",
+        "url": "https://github.com/andrea82557575535-coder/space-clicker-server.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "permea-dev/agent",
+        "url": "https://github.com/permea-dev/agent.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "atakanturg/surcease-cli",
+        "url": "https://github.com/atakanturg/surcease-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sid-1996/ocr-trigger-clicker",
+        "url": "https://github.com/Sid-1996/ocr-trigger-clicker.git",
+        "status": "Hasn't yet validated"
     }
 ]
