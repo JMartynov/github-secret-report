@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### paularlott/scriptling-vscode
+
+**URL:** https://github.com/paularlott/scriptling-vscode.git
+
+- **Files Scanned:** 196
+- **Branches:** 1
+- **Size:** 1.3M
+- **Duration:** 0.37s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
