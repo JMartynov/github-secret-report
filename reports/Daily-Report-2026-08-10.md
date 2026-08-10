@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### beni-sambodo/manageme
+
+**URL:** https://github.com/beni-sambodo/manageme.git
+
+- **Files Scanned:** 333
+- **Branches:** 1
+- **Size:** 13M
+- **Duration:** 0.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
