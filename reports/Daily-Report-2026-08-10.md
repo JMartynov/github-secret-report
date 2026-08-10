@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### wanderbatistaf/wbjdbc
+
+**URL:** https://github.com/wanderbatistaf/wbjdbc.git
+
+- **Files Scanned:** 245
+- **Branches:** 2
+- **Size:** 102M
+- **Duration:** 1.38s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
