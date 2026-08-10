@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CartoDB/carto-api-client
+
+**URL:** https://github.com/CartoDB/carto-api-client.git
+
+- **Files Scanned:** 3665
+- **Branches:** 27
+- **Size:** 4.0M
+- **Duration:** 38.36s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
