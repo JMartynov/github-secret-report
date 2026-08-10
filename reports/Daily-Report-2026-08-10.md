@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### loujacob66/Sidecarr
+
+**URL:** https://github.com/loujacob66/Sidecarr.git
+
+- **Files Scanned:** 46
+- **Branches:** 1
+- **Size:** 912K
+- **Duration:** 0.17s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
