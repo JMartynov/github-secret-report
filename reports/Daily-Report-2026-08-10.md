@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pharmaverse/admiral
+
+**URL:** https://github.com/pharmaverse/admiral.git
+
+- **Files Scanned:** 443569
+- **Branches:** 28
+- **Size:** 472M
+- **Duration:** 2739.94s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
