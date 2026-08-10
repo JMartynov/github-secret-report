@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ZeroAlloc-Net/ZeroAlloc.Results
+
+**URL:** https://github.com/ZeroAlloc-Net/ZeroAlloc.Results.git
+
+- **Files Scanned:** 184
+- **Branches:** 3
+- **Size:** 2.1M
+- **Duration:** 0.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
