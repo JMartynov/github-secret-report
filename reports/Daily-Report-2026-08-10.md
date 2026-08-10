@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lithium-tech/iceberg-cxx
+
+**URL:** https://github.com/lithium-tech/iceberg-cxx.git
+
+- **Files Scanned:** 0
+- **Branches:** 39
+- **Size:** 14M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
