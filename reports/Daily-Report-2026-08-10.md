@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yunsmall/usbipdcpp
+
+**URL:** https://github.com/yunsmall/usbipdcpp.git
+
+- **Files Scanned:** 1691
+- **Branches:** 2
+- **Size:** 2.7M
+- **Duration:** 2.99s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
