@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Richasinhaaa/library-management-system
+
+**URL:** https://github.com/Richasinhaaa/library-management-system.git
+
+- **Files Scanned:** 15
+- **Branches:** 1
+- **Size:** 308K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
