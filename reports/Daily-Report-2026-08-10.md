@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### TannyBlaze/structured-prompt-builder
+
+**URL:** https://github.com/TannyBlaze/structured-prompt-builder.git
+
+- **Files Scanned:** 58
+- **Branches:** 1
+- **Size:** 4.2M
+- **Duration:** 0.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
