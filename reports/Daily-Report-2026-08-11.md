@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### learnovamy-hub/learnova-backend
+
+**URL:** https://github.com/learnovamy-hub/learnova-backend.git
+
+- **Files Scanned:** 5174
+- **Branches:** 1
+- **Size:** 13M
+- **Duration:** 75.0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
