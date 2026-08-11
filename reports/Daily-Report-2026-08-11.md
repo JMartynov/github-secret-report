@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### KoooV/bunch-backend-kotlin
+
+**URL:** https://github.com/KoooV/bunch-backend-kotlin.git
+
+- **Files Scanned:** 105
+- **Branches:** 1
+- **Size:** 652K
+- **Duration:** 0.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
