@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Crisff78/Virem-backend
+
+**URL:** https://github.com/Crisff78/Virem-backend.git
+
+- **Files Scanned:** 5082
+- **Branches:** 2
+- **Size:** 14M
+- **Duration:** 41.76s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
