@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dimagi/commcare-hq
+
+**URL:** https://github.com/dimagi/commcare-hq.git
+
+- **Files Scanned:** 0
+- **Branches:** 3609
+- **Size:** 1.2G
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
