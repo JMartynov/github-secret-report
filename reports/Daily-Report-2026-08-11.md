@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ManishaRana1195/Python_Projects
+
+**URL:** https://github.com/ManishaRana1195/Python_Projects.git
+
+- **Files Scanned:** 55
+- **Branches:** 1
+- **Size:** 7.6M
+- **Duration:** 0.26s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
