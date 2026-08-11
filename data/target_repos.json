@@ -84128,5 +84128,85 @@
         "name": "DeividLahasse/dev-burguer-api",
         "url": "https://github.com/DeividLahasse/dev-burguer-api.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ng-forge/ng-forge",
+        "url": "https://github.com/ng-forge/ng-forge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "grizzlypeak3d/tlRender",
+        "url": "https://github.com/grizzlypeak3d/tlRender.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ospp-org/ospp-sdk-ts",
+        "url": "https://github.com/ospp-org/ospp-sdk-ts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "quati-dev/quati",
+        "url": "https://github.com/quati-dev/quati.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "El7774/videoteca",
+        "url": "https://github.com/El7774/videoteca.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fktn-k/fkYAML",
+        "url": "https://github.com/fktn-k/fkYAML.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "grishman81/ArtistRadio",
+        "url": "https://github.com/grishman81/ArtistRadio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "googleapis/google-cloud-swift",
+        "url": "https://github.com/googleapis/google-cloud-swift.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lucasoal/igmapper",
+        "url": "https://github.com/lucasoal/igmapper.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "plastic-labs/honcho",
+        "url": "https://github.com/plastic-labs/honcho.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ospp-org/ospp-sdk-php",
+        "url": "https://github.com/ospp-org/ospp-sdk-php.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Interchouette-ITC/ceps-rust-ts-client",
+        "url": "https://github.com/Interchouette-ITC/ceps-rust-ts-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jatinrao/icons",
+        "url": "https://github.com/jatinrao/icons.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Aladex/gopds-api",
+        "url": "https://github.com/Aladex/gopds-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "facebook/folly",
+        "url": "https://github.com/facebook/folly.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NythicalNorm/PlanetShine",
+        "url": "https://github.com/NythicalNorm/PlanetShine.git",
+        "status": "Hasn't yet validated"
     }
 ]
