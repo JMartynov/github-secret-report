@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### casoon/pine-scripts
+
+**URL:** https://github.com/casoon/pine-scripts.git
+
+- **Files Scanned:** 1611
+- **Branches:** 1
+- **Size:** 14M
+- **Duration:** 4.13s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
