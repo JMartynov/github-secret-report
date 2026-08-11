@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sethbacon/terraform-registry-backend
+
+**URL:** https://github.com/sethbacon/terraform-registry-backend.git
+
+- **Files Scanned:** 4146
+- **Branches:** 2
+- **Size:** 27M
+- **Duration:** 62.58s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
