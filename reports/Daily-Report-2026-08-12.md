@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### evija-berzina/frontendmentor-weather-app
+
+**URL:** https://github.com/evija-berzina/frontendmentor-weather-app.git
+
+- **Files Scanned:** 137
+- **Branches:** 1
+- **Size:** 4.6M
+- **Duration:** 0.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
