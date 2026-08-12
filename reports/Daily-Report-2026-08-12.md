@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Tracy02022/werewolf-frontend
+
+**URL:** https://github.com/Tracy02022/werewolf-frontend.git
+
+- **Files Scanned:** 6351
+- **Branches:** 1
+- **Size:** 20M
+- **Duration:** 43.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
