@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Kumarnitesh4564/mern-fullstack-task
+
+**URL:** https://github.com/Kumarnitesh4564/mern-fullstack-task.git
+
+- **Files Scanned:** 237
+- **Branches:** 1
+- **Size:** 11M
+- **Duration:** 0.97s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
