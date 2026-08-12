@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### frankevg/FerretApp
+
+**URL:** https://github.com/frankevg/FerretApp.git
+
+- **Files Scanned:** 151
+- **Branches:** 1
+- **Size:** 816K
+- **Duration:** 0.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
