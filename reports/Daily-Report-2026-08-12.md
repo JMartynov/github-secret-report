@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SanaAmruth/expense-tracker-backend
+
+**URL:** https://github.com/SanaAmruth/expense-tracker-backend.git
+
+- **Files Scanned:** 26
+- **Branches:** 1
+- **Size:** 280K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
