@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### BrandonSocialRotation/social-rotation-backend
+
+**URL:** https://github.com/BrandonSocialRotation/social-rotation-backend.git
+
+- **Files Scanned:** 1247
+- **Branches:** 2
+- **Size:** 3.7M
+- **Duration:** 6.72s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
