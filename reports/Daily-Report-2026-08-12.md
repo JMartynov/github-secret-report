@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jorenheit/bcc
+
+**URL:** https://github.com/jorenheit/bcc.git
+
+- **Files Scanned:** 3356
+- **Branches:** 1
+- **Size:** 8.9M
+- **Duration:** 3.79s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
