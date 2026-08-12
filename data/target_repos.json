@@ -84723,5 +84723,60 @@
         "name": "cangjielanguage/cangjie_multiplatform_interop",
         "url": "https://github.com/cangjielanguage/cangjie_multiplatform_interop.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "apify/apify-actor-docker",
+        "url": "https://github.com/apify/apify-actor-docker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Semedw/api_driven_incremental_pipeline_with_docker",
+        "url": "https://github.com/Semedw/api_driven_incremental_pipeline_with_docker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PingsNest/PingsNest",
+        "url": "https://github.com/PingsNest/PingsNest.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ExTrakf/legado-desktop",
+        "url": "https://github.com/ExTrakf/legado-desktop.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zernio-dev/zernio-java",
+        "url": "https://github.com/zernio-dev/zernio-java.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CatChen/better-console-group",
+        "url": "https://github.com/CatChen/better-console-group.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tweaki-io/cdn-setup",
+        "url": "https://github.com/tweaki-io/cdn-setup.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MarcosFaura/Proyecto-devops-real",
+        "url": "https://github.com/MarcosFaura/Proyecto-devops-real.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Wadegroverdanield14/v2.hub.api",
+        "url": "https://github.com/Wadegroverdanield14/v2.hub.api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tinhien11/tdai-memory-mcp",
+        "url": "https://github.com/tinhien11/tdai-memory-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zernio-dev/zernio-go",
+        "url": "https://github.com/zernio-dev/zernio-go.git",
+        "status": "Hasn't yet validated"
     }
 ]

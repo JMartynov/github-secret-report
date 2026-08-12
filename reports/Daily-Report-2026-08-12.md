@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### matchstatv2/sofa-sports-api-backend
+
+**URL:** https://github.com/matchstatv2/sofa-sports-api-backend.git
+
+- **Files Scanned:** 96
+- **Branches:** 1
+- **Size:** 2.1M
+- **Duration:** 0.93s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
