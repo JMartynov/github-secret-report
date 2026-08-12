@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### horace-cheng/ots-frontend
+
+**URL:** https://github.com/horace-cheng/ots-frontend.git
+
+- **Files Scanned:** 318
+- **Branches:** 2
+- **Size:** 1.8M
+- **Duration:** 2.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
