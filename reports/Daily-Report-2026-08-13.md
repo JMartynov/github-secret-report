@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Pre-Mystdwyse/learning-frontend
+
+**URL:** https://github.com/Pre-Mystdwyse/learning-frontend.git
+
+- **Files Scanned:** 452
+- **Branches:** 2
+- **Size:** 5.4M
+- **Duration:** 2.4s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
