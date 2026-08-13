@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### DynamicNFCSoftware/DynamicNFC-Frontend
+
+**URL:** https://github.com/DynamicNFCSoftware/DynamicNFC-Frontend.git
+
+- **Files Scanned:** 0
+- **Branches:** 19
+- **Size:** 310M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
