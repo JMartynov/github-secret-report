@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### 404checkmate/Checkmate-Frontend
+
+**URL:** https://github.com/404checkmate/Checkmate-Frontend.git
+
+- **Files Scanned:** 1543
+- **Branches:** 13
+- **Size:** 24M
+- **Duration:** 6.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
