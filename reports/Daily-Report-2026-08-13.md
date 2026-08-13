@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Mwesh2004/frontend
+
+**URL:** https://github.com/Mwesh2004/frontend.git
+
+- **Files Scanned:** 141
+- **Branches:** 1
+- **Size:** 5.8M
+- **Duration:** 3.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
