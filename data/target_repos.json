@@ -86058,5 +86058,85 @@
         "name": "sinhasaurabh-genai/blog-app",
         "url": "https://github.com/sinhasaurabh-genai/blog-app.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rudivice/homebrew-tools",
+        "url": "https://github.com/rudivice/homebrew-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nyxbackup/nyxbackup-recovery",
+        "url": "https://github.com/nyxbackup/nyxbackup-recovery.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xplodingeggo/rl-profiles-linux",
+        "url": "https://github.com/xplodingeggo/rl-profiles-linux.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "foldways/foldways-api",
+        "url": "https://github.com/foldways/foldways-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jonahzheng/release-kit",
+        "url": "https://github.com/jonahzheng/release-kit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lars-olt/roistudio",
+        "url": "https://github.com/lars-olt/roistudio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "brainsparker/you.md",
+        "url": "https://github.com/brainsparker/you.md.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GDRCD/stack",
+        "url": "https://github.com/GDRCD/stack.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mwakidenis/WebCheck-OSINT",
+        "url": "https://github.com/mwakidenis/WebCheck-OSINT.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AxioDL/PrimeWorldEditor",
+        "url": "https://github.com/AxioDL/PrimeWorldEditor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "umgbhalla/desmos",
+        "url": "https://github.com/umgbhalla/desmos.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "trading-perso-2026/daily-stats-cache",
+        "url": "https://github.com/trading-perso-2026/daily-stats-cache.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "blue0009873736-dotcom/Digital_communication_lab3",
+        "url": "https://github.com/blue0009873736-dotcom/Digital_communication_lab3.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ImagingDataCommons/slim",
+        "url": "https://github.com/ImagingDataCommons/slim.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Lordjapa-a11/iso-forge-archive-tool",
+        "url": "https://github.com/Lordjapa-a11/iso-forge-archive-tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lacework/go-sdk",
+        "url": "https://github.com/lacework/go-sdk.git",
+        "status": "Hasn't yet validated"
     }
 ]

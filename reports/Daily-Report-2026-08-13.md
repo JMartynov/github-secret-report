@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### prasanth-s122/Frontend
+
+**URL:** https://github.com/prasanth-s122/Frontend.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 452M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
