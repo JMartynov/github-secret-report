@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### MaartenSchaep-MCT/frontend-portfolio
+
+**URL:** https://github.com/MaartenSchaep-MCT/frontend-portfolio.git
+
+- **Files Scanned:** 477
+- **Branches:** 2
+- **Size:** 1.6M
+- **Duration:** 1.59s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
