@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dzsantos/Work_frontend_logingoogle
+
+**URL:** https://github.com/dzsantos/Work_frontend_logingoogle.git
+
+- **Files Scanned:** 19
+- **Branches:** 1
+- **Size:** 380K
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
