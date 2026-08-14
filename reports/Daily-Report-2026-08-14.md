@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Slyb00ts/TentaFlow
+
+**URL:** https://github.com/Slyb00ts/TentaFlow.git
+
+- **Files Scanned:** 42164
+- **Branches:** 25
+- **Size:** 967M
+- **Duration:** 773.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
