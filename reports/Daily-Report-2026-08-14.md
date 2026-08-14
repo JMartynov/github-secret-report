@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mudman1986/devops-feed-hub
+
+**URL:** https://github.com/mudman1986/devops-feed-hub.git
+
+- **Files Scanned:** 22
+- **Branches:** 1
+- **Size:** 284K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
