@@ -87648,5 +87648,75 @@
         "name": "dngrtech/qlsm",
         "url": "https://github.com/dngrtech/qlsm.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LIM-AIT/cgv-api-watcher",
+        "url": "https://github.com/LIM-AIT/cgv-api-watcher.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Simus100/altair-brain",
+        "url": "https://github.com/Simus100/altair-brain.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tennysoncromwell-723/v3.core.api",
+        "url": "https://github.com/tennysoncromwell-723/v3.core.api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ox8884/LOL-Peronal-Coach-",
+        "url": "https://github.com/ox8884/LOL-Peronal-Coach-.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MRtecno98/civx",
+        "url": "https://github.com/MRtecno98/civx.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Edvaldo-Junior-Java/Projeto-Expasao-Java-SpringBoot-API-REST",
+        "url": "https://github.com/Edvaldo-Junior-Java/Projeto-Expasao-Java-SpringBoot-API-REST.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ahmadnawaz01/TravelSwarm---Multi-Agent-Travel-Planning-System---LangGraph---FastApi---Grok---PostgreSQL-",
+        "url": "https://github.com/ahmadnawaz01/TravelSwarm---Multi-Agent-Travel-Planning-System---LangGraph---FastApi---Grok---PostgreSQL-.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "centosupdated/rh-maven36-glassfish-annotation-api",
+        "url": "https://github.com/centosupdated/rh-maven36-glassfish-annotation-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "treetop-policy-engine/treetop-rest",
+        "url": "https://github.com/treetop-policy-engine/treetop-rest.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Marcelofazan/Next-Nest-ERP-kubernetes",
+        "url": "https://github.com/Marcelofazan/Next-Nest-ERP-kubernetes.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pemsa-devbk/rh-back",
+        "url": "https://github.com/pemsa-devbk/rh-back.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Takamasa045/nagano-eq-tracker",
+        "url": "https://github.com/Takamasa045/nagano-eq-tracker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LRodriguez30/APISistemaMonitoreoCSharp",
+        "url": "https://github.com/LRodriguez30/APISistemaMonitoreoCSharp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Abnergeoffrey-donne/v2.kernel.api",
+        "url": "https://github.com/Abnergeoffrey-donne/v2.kernel.api.git",
+        "status": "Hasn't yet validated"
     }
 ]

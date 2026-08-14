@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Arjun6381820/DesktopHut-Windows-App
+
+**URL:** https://github.com/Arjun6381820/DesktopHut-Windows-App.git
+
+- **Files Scanned:** 8
+- **Branches:** 1
+- **Size:** 4.0M
+- **Duration:** 0.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
