@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SPL-BGU/pddl-copilot-experiments
+
+**URL:** https://github.com/SPL-BGU/pddl-copilot-experiments.git
+
+- **Files Scanned:** 4166
+- **Branches:** 4
+- **Size:** 619M
+- **Duration:** 21.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
