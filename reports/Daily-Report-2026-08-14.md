@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### EvanPersad/WorkForceTools
+
+**URL:** https://github.com/EvanPersad/WorkForceTools.git
+
+- **Files Scanned:** 22
+- **Branches:** 1
+- **Size:** 13M
+- **Duration:** 0.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
