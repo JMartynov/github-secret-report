@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### seerge/g-helper
+
+**URL:** https://github.com/seerge/g-helper.git
+
+- **Files Scanned:** 8803
+- **Branches:** 35
+- **Size:** 56M
+- **Duration:** 49.29s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
