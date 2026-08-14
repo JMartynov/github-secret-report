@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Cupcake137/Simula-o_Ataque_PTES_Windows
+
+**URL:** https://github.com/Cupcake137/Simula-o_Ataque_PTES_Windows.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
