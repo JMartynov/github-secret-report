@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Vitgracer/Unchairted
+
+**URL:** https://github.com/Vitgracer/Unchairted.git
+
+- **Files Scanned:** 289
+- **Branches:** 4
+- **Size:** 72M
+- **Duration:** 2.89s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
