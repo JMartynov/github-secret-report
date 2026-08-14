@@ -87168,5 +87168,75 @@
         "name": "sailpoint-oss/api-specs",
         "url": "https://github.com/sailpoint-oss/api-specs.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RenseiAI/donmai",
+        "url": "https://github.com/RenseiAI/donmai.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "YD-233/kimi-usage",
+        "url": "https://github.com/YD-233/kimi-usage.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RelXsh/Clicker-Game-in-Plain-C",
+        "url": "https://github.com/RelXsh/Clicker-Game-in-Plain-C.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "atillalab/site-health",
+        "url": "https://github.com/atillalab/site-health.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PAKIKNOWLEDGE/dsh-client-ui-skin-claude",
+        "url": "https://github.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rr-develop/deep-worker",
+        "url": "https://github.com/rr-develop/deep-worker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SlavaFetisov/HW18_REST_API_ApiClient",
+        "url": "https://github.com/SlavaFetisov/HW18_REST_API_ApiClient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "As-tsaqib/cliproxyapi-module",
+        "url": "https://github.com/As-tsaqib/cliproxyapi-module.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "TheOnly-Coder/Heat-Client",
+        "url": "https://github.com/TheOnly-Coder/Heat-Client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "develra-dev/develra",
+        "url": "https://github.com/develra-dev/develra.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "temo-123/Climbing-In-Georgia-Mobile",
+        "url": "https://github.com/temo-123/Climbing-In-Georgia-Mobile.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lingkuma/Clipboard-Listener",
+        "url": "https://github.com/lingkuma/Clipboard-Listener.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GopikChenth/GroveGrab-CLI",
+        "url": "https://github.com/GopikChenth/GroveGrab-CLI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zeno528/cxswitch",
+        "url": "https://github.com/zeno528/cxswitch.git",
+        "status": "Hasn't yet validated"
     }
 ]

@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### frankywahl/error_notifier
+
+**URL:** https://github.com/frankywahl/error_notifier.git
+
+- **Files Scanned:** 96
+- **Branches:** 1
+- **Size:** 404K
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
