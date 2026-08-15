@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### JesseKoldewijn/WebOX-Browser
+
+**URL:** https://github.com/JesseKoldewijn/WebOX-Browser.git
+
+- **Files Scanned:** 366
+- **Branches:** 1
+- **Size:** 4.0M
+- **Duration:** 1.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
