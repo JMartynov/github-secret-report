@@ -312,3 +312,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### irfansyahasli/RustyXML
+
+**URL:** https://github.com/irfansyahasli/RustyXML.git
+
+- **Files Scanned:** 305
+- **Branches:** 1
+- **Size:** 2.9M
+- **Duration:** 0.82s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
