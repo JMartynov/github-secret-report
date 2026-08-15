@@ -228,3 +228,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dandi/dandi-archive
+
+**URL:** https://github.com/dandi/dandi-archive.git
+
+- **Files Scanned:** 12027
+- **Branches:** 116
+- **Size:** 18M
+- **Duration:** 105.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
