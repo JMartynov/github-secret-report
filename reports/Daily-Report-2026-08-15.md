@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Tala-Cherkawi/assgn5_webscraping
+
+**URL:** https://github.com/Tala-Cherkawi/assgn5_webscraping.git
+
+- **Files Scanned:** 3909
+- **Branches:** 1
+- **Size:** 127M
+- **Duration:** 490.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

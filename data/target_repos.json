@@ -88473,5 +88473,90 @@
         "name": "oberon-oss/resource-bundle-helper",
         "url": "https://github.com/oberon-oss/resource-bundle-helper.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SadPossum/BunkFy.Backend",
+        "url": "https://github.com/SadPossum/BunkFy.Backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "luckylittleman/Expense-Splitter",
+        "url": "https://github.com/luckylittleman/Expense-Splitter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "danilo111727-code/estofaria-backend",
+        "url": "https://github.com/danilo111727-code/estofaria-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hornleaf/nvterm-rs",
+        "url": "https://github.com/hornleaf/nvterm-rs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "EPISTEX0/Vietnamese-Recruit-Onboard-Operate-Manage",
+        "url": "https://github.com/EPISTEX0/Vietnamese-Recruit-Onboard-Operate-Manage.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ayotunde-codes/chrge-backend",
+        "url": "https://github.com/ayotunde-codes/chrge-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rafiul-neti/next-level-project-04-fixitnow-backend",
+        "url": "https://github.com/rafiul-neti/next-level-project-04-fixitnow-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PxslGames/api.pxsl.dev",
+        "url": "https://github.com/PxslGames/api.pxsl.dev.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tungagnaneswar/schema-vault-backend",
+        "url": "https://github.com/tungagnaneswar/schema-vault-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Papyrine/Scry",
+        "url": "https://github.com/Papyrine/Scry.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Developer1239534/backend_smlone_dev",
+        "url": "https://github.com/Developer1239534/backend_smlone_dev.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aniketvermadev/project-management-backend",
+        "url": "https://github.com/aniketvermadev/project-management-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "giabao1606/Food_Order_Backend",
+        "url": "https://github.com/giabao1606/Food_Order_Backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bothinathk-07/anti-addict-backend",
+        "url": "https://github.com/bothinathk-07/anti-addict-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "eventlab-dev/aukus-backend",
+        "url": "https://github.com/eventlab-dev/aukus-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agha-naveed/echoup-backend",
+        "url": "https://github.com/agha-naveed/echoup-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iput-object/nestjs-production-starter",
+        "url": "https://github.com/iput-object/nestjs-production-starter.git",
+        "status": "Hasn't yet validated"
     }
 ]
