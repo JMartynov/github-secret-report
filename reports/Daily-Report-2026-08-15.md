@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rodonis/wiki-website
+
+**URL:** https://github.com/rodonis/wiki-website.git
+
+- **Files Scanned:** 38
+- **Branches:** 16
+- **Size:** 424K
+- **Duration:** 0.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
