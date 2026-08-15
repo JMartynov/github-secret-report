@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### davca3/codedu-web
+
+**URL:** https://github.com/davca3/codedu-web.git
+
+- **Files Scanned:** 219
+- **Branches:** 1
+- **Size:** 28M
+- **Duration:** 1.33s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
