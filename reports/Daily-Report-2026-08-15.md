@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yanbenza/yan-pentest-portfolio
+
+**URL:** https://github.com/yanbenza/yan-pentest-portfolio.git
+
+- **Files Scanned:** 29
+- **Branches:** 1
+- **Size:** 14M
+- **Duration:** 0.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
