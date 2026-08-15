@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### the-filthy-count/Top-Shelf
+
+**URL:** https://github.com/the-filthy-count/Top-Shelf.git
+
+- **Files Scanned:** 5602
+- **Branches:** 2
+- **Size:** 73M
+- **Duration:** 31.66s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
