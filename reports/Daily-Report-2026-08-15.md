@@ -284,3 +284,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ayuda-inmediata-japon/ayuda-inmediata-en-japon
+
+**URL:** https://github.com/ayuda-inmediata-japon/ayuda-inmediata-en-japon.git
+
+- **Files Scanned:** 2047
+- **Branches:** 2
+- **Size:** 163M
+- **Duration:** 962.97s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
