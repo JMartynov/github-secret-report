@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### InfoKT23/Kala_Travel_pagina
+
+**URL:** https://github.com/InfoKT23/Kala_Travel_pagina.git
+
+- **Files Scanned:** 170
+- **Branches:** 1
+- **Size:** 5.7M
+- **Duration:** 1.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
