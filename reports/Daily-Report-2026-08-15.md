@@ -242,3 +242,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### glefait/martinique-public-websites
+
+**URL:** https://github.com/glefait/martinique-public-websites.git
+
+- **Files Scanned:** 926920
+- **Branches:** 2
+- **Size:** 9.2G
+- **Duration:** 2508.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
