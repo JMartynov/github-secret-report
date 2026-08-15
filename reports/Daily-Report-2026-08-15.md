@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### extremineitar/Jogo-web
+
+**URL:** https://github.com/extremineitar/Jogo-web.git
+
+- **Files Scanned:** 53
+- **Branches:** 2
+- **Size:** 2.8M
+- **Duration:** 0.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
