@@ -298,3 +298,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### davidvasquez02/SAPP-frontend
+
+**URL:** https://github.com/davidvasquez02/SAPP-frontend.git
+
+- **Files Scanned:** 0
+- **Branches:** 199
+- **Size:** 4.1M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
