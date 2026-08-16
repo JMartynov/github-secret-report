@@ -256,3 +256,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### majewsky/go-oblast
+
+**URL:** https://github.com/majewsky/go-oblast.git
+
+- **Files Scanned:** 340
+- **Branches:** 1
+- **Size:** 740K
+- **Duration:** 0.37s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
