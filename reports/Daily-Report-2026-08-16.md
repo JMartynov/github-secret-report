@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yoofa/media
+
+**URL:** https://github.com/yoofa/media.git
+
+- **Files Scanned:** 1445
+- **Branches:** 7
+- **Size:** 13M
+- **Duration:** 1.98s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
