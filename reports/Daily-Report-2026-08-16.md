@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rahul28042004/Library_Management_System
+
+**URL:** https://github.com/rahul28042004/Library_Management_System.git
+
+- **Files Scanned:** 12
+- **Branches:** 1
+- **Size:** 2.3M
+- **Duration:** 0.1s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
