@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### raffenit/Folio-Library-Server
+
+**URL:** https://github.com/raffenit/Folio-Library-Server.git
+
+- **Files Scanned:** 897
+- **Branches:** 2
+- **Size:** 33M
+- **Duration:** 8.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
