@@ -214,3 +214,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dotnet/macios-devtools
+
+**URL:** https://github.com/dotnet/macios-devtools.git
+
+- **Files Scanned:** 1236
+- **Branches:** 100
+- **Size:** 5.9M
+- **Duration:** 4.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
