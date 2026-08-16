@@ -270,3 +270,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### shenalgunsekera/Ceilao-Frontend
+
+**URL:** https://github.com/shenalgunsekera/Ceilao-Frontend.git
+
+- **Files Scanned:** 553
+- **Branches:** 1
+- **Size:** 3.8M
+- **Duration:** 10.51s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
