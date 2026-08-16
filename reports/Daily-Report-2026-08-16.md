@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hamzaka97/FallbackJS
+
+**URL:** https://github.com/hamzaka97/FallbackJS.git
+
+- **Files Scanned:** 21
+- **Branches:** 1
+- **Size:** 2.9M
+- **Duration:** 0.13s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
