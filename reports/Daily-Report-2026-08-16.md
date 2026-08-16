@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bertman12/wc3-w3ts-frame-components
+
+**URL:** https://github.com/bertman12/wc3-w3ts-frame-components.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 15M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
