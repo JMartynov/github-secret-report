@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CollapseLauncher/Hi3Helper.Plugin.Core
+
+**URL:** https://github.com/CollapseLauncher/Hi3Helper.Plugin.Core.git
+
+- **Files Scanned:** 969
+- **Branches:** 2
+- **Size:** 2.0M
+- **Duration:** 1.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
