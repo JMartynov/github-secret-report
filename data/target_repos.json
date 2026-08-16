@@ -90068,5 +90068,85 @@
         "name": "nanoframework/nf-VSCodeExtension",
         "url": "https://github.com/nanoframework/nf-VSCodeExtension.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "animesao/dck",
+        "url": "https://github.com/animesao/dck.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ubie-oss/n8n-cli",
+        "url": "https://github.com/ubie-oss/n8n-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "knowii-oss/knowii-ai-os",
+        "url": "https://github.com/knowii-oss/knowii-ai-os.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "daya7781r/miii-cli-offline-coder",
+        "url": "https://github.com/daya7781r/miii-cli-offline-coder.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "akakritagya/envdoc",
+        "url": "https://github.com/akakritagya/envdoc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "YunusEA12/Auto-Clipping-AI",
+        "url": "https://github.com/YunusEA12/Auto-Clipping-AI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iorate/wepub",
+        "url": "https://github.com/iorate/wepub.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Labir12/oh-my-pi-ai-toolbelt",
+        "url": "https://github.com/Labir12/oh-my-pi-ai-toolbelt.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nyaitter/Client",
+        "url": "https://github.com/Nyaitter/Client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Max19970/easy-server",
+        "url": "https://github.com/Max19970/easy-server.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amit8513/Climbers",
+        "url": "https://github.com/amit8513/Climbers.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tanmayagr2021/BrightSmileDentalClinic",
+        "url": "https://github.com/tanmayagr2021/BrightSmileDentalClinic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Noob-stupid/dsh-github-login",
+        "url": "https://github.com/Noob-stupid/dsh-github-login.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "homebridge/hap-client",
+        "url": "https://github.com/homebridge/hap-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dcc-mcp/dcc-cua",
+        "url": "https://github.com/dcc-mcp/dcc-cua.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Alan-IFT/singbox-cli",
+        "url": "https://github.com/Alan-IFT/singbox-cli.git",
+        "status": "Hasn't yet validated"
     }
 ]
