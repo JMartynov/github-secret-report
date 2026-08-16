@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### acornprover/acornlib
+
+**URL:** https://github.com/acornprover/acornlib.git
+
+- **Files Scanned:** 23380
+- **Branches:** 3
+- **Size:** 1.2G
+- **Duration:** 180.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
