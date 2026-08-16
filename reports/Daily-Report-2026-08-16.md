@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mfirhas/moneylib
+
+**URL:** https://github.com/mfirhas/moneylib.git
+
+- **Files Scanned:** 1208
+- **Branches:** 1
+- **Size:** 2.5M
+- **Duration:** 7.67s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
