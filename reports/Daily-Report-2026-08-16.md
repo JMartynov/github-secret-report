@@ -242,3 +242,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AshDevFr/codex
+
+**URL:** https://github.com/AshDevFr/codex.git
+
+- **Files Scanned:** 16988
+- **Branches:** 2
+- **Size:** 237M
+- **Duration:** 453.62s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
