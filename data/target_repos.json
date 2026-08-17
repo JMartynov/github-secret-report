@@ -91603,5 +91603,90 @@
         "name": "KSPAluminium/KSPNativeARM",
         "url": "https://github.com/KSPAluminium/KSPNativeARM.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alex-frolov/scalar-symfony",
+        "url": "https://github.com/alex-frolov/scalar-symfony.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Vagnis/flowzz-data.Public",
+        "url": "https://github.com/Vagnis/flowzz-data.Public.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "neermela/neermela-api",
+        "url": "https://github.com/neermela/neermela-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iamair2006/dialect-voice-demo",
+        "url": "https://github.com/iamair2006/dialect-voice-demo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tannhn0420/ai-translator-ext",
+        "url": "https://github.com/tannhn0420/ai-translator-ext.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CodeWays-PTY/academypro-api",
+        "url": "https://github.com/CodeWays-PTY/academypro-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jasperfordesq-ai/Project-NEXUS",
+        "url": "https://github.com/jasperfordesq-ai/Project-NEXUS.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Islam2718/health-api",
+        "url": "https://github.com/Islam2718/health-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "epilot-dev/terraform-provider-epilot-custom-variable",
+        "url": "https://github.com/epilot-dev/terraform-provider-epilot-custom-variable.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "antono4/codeigniter-rest-api-main",
+        "url": "https://github.com/antono4/codeigniter-rest-api-main.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "enonic/demo-react4xp",
+        "url": "https://github.com/enonic/demo-react4xp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lexis-project/ddi-service-apis",
+        "url": "https://github.com/lexis-project/ddi-service-apis.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SatPaingOo/information-hub-github-action",
+        "url": "https://github.com/SatPaingOo/information-hub-github-action.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hanlinh227-ship-it/trading-api",
+        "url": "https://github.com/hanlinh227-ship-it/trading-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "epilot-dev/terraform-provider-epilot-journey",
+        "url": "https://github.com/epilot-dev/terraform-provider-epilot-journey.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rknightion/grafana-cloud-vending-machine",
+        "url": "https://github.com/rknightion/grafana-cloud-vending-machine.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Xueyu334/k3cloud-open-api",
+        "url": "https://github.com/Xueyu334/k3cloud-open-api.git",
+        "status": "Hasn't yet validated"
     }
 ]

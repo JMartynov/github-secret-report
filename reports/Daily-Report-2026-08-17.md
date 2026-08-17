@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### UNLV-Econ-Working-Paper-Series/unlv-econ-undergrad-wps
+
+**URL:** https://github.com/UNLV-Econ-Working-Paper-Series/unlv-econ-undergrad-wps.git
+
+- **Files Scanned:** 312
+- **Branches:** 1
+- **Size:** 5.4M
+- **Duration:** 1.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
