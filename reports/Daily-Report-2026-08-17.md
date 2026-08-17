@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NoahJNieberle/niebsnet-frontend
+
+**URL:** https://github.com/NoahJNieberle/niebsnet-frontend.git
+
+- **Files Scanned:** 124
+- **Branches:** 1
+- **Size:** 6.4M
+- **Duration:** 0.92s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
