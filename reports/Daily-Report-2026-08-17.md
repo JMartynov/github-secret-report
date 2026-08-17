@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### samruddhichitnis02/Academic_Paper_Summarizer
+
+**URL:** https://github.com/samruddhichitnis02/Academic_Paper_Summarizer.git
+
+- **Files Scanned:** 23
+- **Branches:** 1
+- **Size:** 352K
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
