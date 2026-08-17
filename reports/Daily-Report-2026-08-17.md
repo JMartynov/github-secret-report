@@ -242,3 +242,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### devarajabc/box64-ebpf-tools
+
+**URL:** https://github.com/devarajabc/box64-ebpf-tools.git
+
+- **Files Scanned:** 382
+- **Branches:** 5
+- **Size:** 2.6M
+- **Duration:** 2.57s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
