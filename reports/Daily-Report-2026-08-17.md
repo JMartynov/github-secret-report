@@ -214,3 +214,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Rachman-Akbar/marketplace-frontend
+
+**URL:** https://github.com/Rachman-Akbar/marketplace-frontend.git
+
+- **Files Scanned:** 1056
+- **Branches:** 1
+- **Size:** 12M
+- **Duration:** 2.52s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
