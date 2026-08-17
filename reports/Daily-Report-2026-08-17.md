@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### vtempest/GRAB-URL
+
+**URL:** https://github.com/vtempest/GRAB-URL.git
+
+- **Files Scanned:** 3230
+- **Branches:** 1
+- **Size:** 20M
+- **Duration:** 28.94s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
