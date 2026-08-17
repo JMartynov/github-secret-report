@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Andalan-Artha-Primanusa/hris-frontend
+
+**URL:** https://github.com/Andalan-Artha-Primanusa/hris-frontend.git
+
+- **Files Scanned:** 2674
+- **Branches:** 20
+- **Size:** 35M
+- **Duration:** 11.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
