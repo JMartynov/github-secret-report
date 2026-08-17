@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### manukpo10/bspapeleria-frontend
+
+**URL:** https://github.com/manukpo10/bspapeleria-frontend.git
+
+- **Files Scanned:** 202
+- **Branches:** 1
+- **Size:** 5.5M
+- **Duration:** 1.1s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
