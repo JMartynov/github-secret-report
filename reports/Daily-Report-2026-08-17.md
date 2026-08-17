@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Genymede/dispense_deploy_frontend
+
+**URL:** https://github.com/Genymede/dispense_deploy_frontend.git
+
+- **Files Scanned:** 692
+- **Branches:** 1
+- **Size:** 6.3M
+- **Duration:** 4.94s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
