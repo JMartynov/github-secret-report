@@ -92118,5 +92118,95 @@
         "name": "NamazuStudios/elements",
         "url": "https://github.com/NamazuStudios/elements.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bitwarden/clients",
+        "url": "https://github.com/bitwarden/clients.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Anirudh-pandit-466/android-adb-tunnel-vantage",
+        "url": "https://github.com/Anirudh-pandit-466/android-adb-tunnel-vantage.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "trick77/opencode-presets",
+        "url": "https://github.com/trick77/opencode-presets.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "clinicasinergiaqro/Clinica-Fisio",
+        "url": "https://github.com/clinicasinergiaqro/Clinica-Fisio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "trdburnett/BetterU",
+        "url": "https://github.com/trdburnett/BetterU.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "smnbss/super",
+        "url": "https://github.com/smnbss/super.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Hamdardshifa/Hamdard-Shifa-Clinic-HSC",
+        "url": "https://github.com/Hamdardshifa/Hamdard-Shifa-Clinic-HSC.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CTCycle/LLMeter-local-benchmarks",
+        "url": "https://github.com/CTCycle/LLMeter-local-benchmarks.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mirurobotics/setup-cli",
+        "url": "https://github.com/mirurobotics/setup-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tempoxyz/wallet-cli",
+        "url": "https://github.com/tempoxyz/wallet-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rashedInt32/sidekick-zen.nvim",
+        "url": "https://github.com/rashedInt32/sidekick-zen.nvim.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yzr95924/llm-workspace-cli",
+        "url": "https://github.com/yzr95924/llm-workspace-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "remcojansen/oidc-client-migration",
+        "url": "https://github.com/remcojansen/oidc-client-migration.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "geolonia/geonicdb-cli",
+        "url": "https://github.com/geolonia/geonicdb-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DriftDisplayWedge/gif-maker-video-editor",
+        "url": "https://github.com/DriftDisplayWedge/gif-maker-video-editor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rainhuang0220/whereToken",
+        "url": "https://github.com/rainhuang0220/whereToken.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RudraNarayanRoy01/ClipForge",
+        "url": "https://github.com/RudraNarayanRoy01/ClipForge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OpenLinker-ai/openlinker-cli",
+        "url": "https://github.com/OpenLinker-ai/openlinker-cli.git",
+        "status": "Hasn't yet validated"
     }
 ]
