@@ -284,3 +284,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CodeBy-red/HomeLab_Dashboard_MCP_Integrated
+
+**URL:** https://github.com/CodeBy-red/HomeLab_Dashboard_MCP_Integrated.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
