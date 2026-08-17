@@ -228,3 +228,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### EURION-AI/Prix-Frontend
+
+**URL:** https://github.com/EURION-AI/Prix-Frontend.git
+
+- **Files Scanned:** 1221
+- **Branches:** 2
+- **Size:** 246M
+- **Duration:** 64.37s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

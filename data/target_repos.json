@@ -92208,5 +92208,90 @@
         "name": "OpenLinker-ai/openlinker-cli",
         "url": "https://github.com/OpenLinker-ai/openlinker-cli.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tzaczek/git-submodules-lesson-lib",
+        "url": "https://github.com/tzaczek/git-submodules-lesson-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vxern/discord.pony",
+        "url": "https://github.com/vxern/discord.pony.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "get-convex/convex-js",
+        "url": "https://github.com/get-convex/convex-js.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Adam-Gold/romgoblin",
+        "url": "https://github.com/Adam-Gold/romgoblin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cmzmasek/forester",
+        "url": "https://github.com/cmzmasek/forester.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Leejorz/xtoys-library",
+        "url": "https://github.com/Leejorz/xtoys-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "olexandrmykhailovskyi-oss/neon-gravity-runner",
+        "url": "https://github.com/olexandrmykhailovskyi-oss/neon-gravity-runner.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pipieter/glibness",
+        "url": "https://github.com/pipieter/glibness.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "k0d13/steam-epic-games",
+        "url": "https://github.com/k0d13/steam-epic-games.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Jcampillo1207/substance-icons",
+        "url": "https://github.com/Jcampillo1207/substance-icons.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "abdul-hamid-achik/minerva",
+        "url": "https://github.com/abdul-hamid-achik/minerva.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "danerjenkins/jenkins-library",
+        "url": "https://github.com/danerjenkins/jenkins-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Red-Hat-AI-Innovation-Team/its_hub",
+        "url": "https://github.com/Red-Hat-AI-Innovation-Team/its_hub.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "IS-PROJECT-2026/booknest-library-162831",
+        "url": "https://github.com/IS-PROJECT-2026/booknest-library-162831.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SMOLGAMEXZ97/Books-Library-Website",
+        "url": "https://github.com/SMOLGAMEXZ97/Books-Library-Website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "retroaktive/namper",
+        "url": "https://github.com/retroaktive/namper.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "prismatic-io/embedded",
+        "url": "https://github.com/prismatic-io/embedded.git",
+        "status": "Hasn't yet validated"
     }
 ]
