@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### kucc/KU_Club_Association_E-Voting_Frontend
+
+**URL:** https://github.com/kucc/KU_Club_Association_E-Voting_Frontend.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

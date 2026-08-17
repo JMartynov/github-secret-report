@@ -91343,5 +91343,85 @@
         "name": "digital-blueprint/toolbox-app",
         "url": "https://github.com/digital-blueprint/toolbox-app.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "codegeass25/Pikol_Client",
+        "url": "https://github.com/codegeass25/Pikol_Client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tecokimura/repo-sentry",
+        "url": "https://github.com/tecokimura/repo-sentry.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agentforce314/clawcodex",
+        "url": "https://github.com/agentforce314/clawcodex.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "uqeu/estelle-cli",
+        "url": "https://github.com/uqeu/estelle-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yannn14/opencode-claude-cortex-sync",
+        "url": "https://github.com/yannn14/opencode-claude-cortex-sync.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "janiluuk/tahti-electron-compatible-client",
+        "url": "https://github.com/janiluuk/tahti-electron-compatible-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sokldjs554/ko-search-clinic",
+        "url": "https://github.com/sokldjs554/ko-search-clinic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "librespeed/speedtest-cli",
+        "url": "https://github.com/librespeed/speedtest-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nzalexgarciagil-ctrl/wok-client",
+        "url": "https://github.com/nzalexgarciagil-ctrl/wok-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gaston1799/moomoo-client",
+        "url": "https://github.com/gaston1799/moomoo-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vineetjaydeo/client_aibi",
+        "url": "https://github.com/vineetjaydeo/client_aibi.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "violetljj/MLEvolve",
+        "url": "https://github.com/violetljj/MLEvolve.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "1609676823/YiKdWebClient-HTTP",
+        "url": "https://github.com/1609676823/YiKdWebClient-HTTP.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cristianoliveira/funzzy",
+        "url": "https://github.com/cristianoliveira/funzzy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "palgroup/palbase-cli",
+        "url": "https://github.com/palgroup/palbase-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lorenacodes/portal-do-cliente",
+        "url": "https://github.com/lorenacodes/portal-do-cliente.git",
+        "status": "Hasn't yet validated"
     }
 ]
