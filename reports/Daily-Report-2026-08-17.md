@@ -270,3 +270,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### penpot/penpot
+
+**URL:** https://github.com/penpot/penpot.git
+
+- **Files Scanned:** 88145
+- **Branches:** 217
+- **Size:** 685M
+- **Duration:** 723.85s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

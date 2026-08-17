@@ -92438,5 +92438,50 @@
         "name": "alexisr-dev/frontend_medico",
         "url": "https://github.com/alexisr-dev/frontend_medico.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wish-maker/minder",
+        "url": "https://github.com/wish-maker/minder.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mama-km/iptv-api",
+        "url": "https://github.com/mama-km/iptv-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "anas12bs-arch/knowledge-agents",
+        "url": "https://github.com/anas12bs-arch/knowledge-agents.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "issamsensi/free-dev-resources",
+        "url": "https://github.com/issamsensi/free-dev-resources.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Memyllyss/PAM-Api-Fetch",
+        "url": "https://github.com/Memyllyss/PAM-Api-Fetch.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "XeniaMartyshechkina/task-list-api",
+        "url": "https://github.com/XeniaMartyshechkina/task-list-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FridaBJ/ChatbotFrida",
+        "url": "https://github.com/FridaBJ/ChatbotFrida.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "limadavibrito-cmd/inow-x50-pwa",
+        "url": "https://github.com/limadavibrito-cmd/inow-x50-pwa.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "google-pay/compose-pay-button",
+        "url": "https://github.com/google-pay/compose-pay-button.git",
+        "status": "Hasn't yet validated"
     }
 ]
