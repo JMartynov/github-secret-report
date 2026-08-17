@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Athrayyanmuhmd/Frontend-AdminFlowin-PDAM
+
+**URL:** https://github.com/Athrayyanmuhmd/Frontend-AdminFlowin-PDAM.git
+
+- **Files Scanned:** 1351
+- **Branches:** 2
+- **Size:** 12M
+- **Duration:** 34.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
