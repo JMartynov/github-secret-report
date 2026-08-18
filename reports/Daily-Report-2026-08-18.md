@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Hunter-Leo/kiro-gateway-launcher
+
+**URL:** https://github.com/Hunter-Leo/kiro-gateway-launcher.git
+
+- **Files Scanned:** 45
+- **Branches:** 1
+- **Size:** 672K
+- **Duration:** 0.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
