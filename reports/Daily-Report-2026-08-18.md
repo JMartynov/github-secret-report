@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Oolab-labs/patchwork-os
+
+**URL:** https://github.com/Oolab-labs/patchwork-os.git
+
+- **Files Scanned:** 17856
+- **Branches:** 2
+- **Size:** 55M
+- **Duration:** 145.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
