@@ -92758,5 +92758,60 @@
         "name": "halcyon-video/halcyon-video",
         "url": "https://github.com/halcyon-video/halcyon-video.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shreemangalam/smart-clinic-system",
+        "url": "https://github.com/shreemangalam/smart-clinic-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "numan-cli/numan",
+        "url": "https://github.com/numan-cli/numan.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "maxair180/alerta-temprana-clima",
+        "url": "https://github.com/maxair180/alerta-temprana-clima.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ashutoshswamy/client-project-management-system",
+        "url": "https://github.com/ashutoshswamy/client-project-management-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mvu8912/perl5-http-api-client",
+        "url": "https://github.com/mvu8912/perl5-http-api-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "https-cert/deploy",
+        "url": "https://github.com/https-cert/deploy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hohoedu/book_clinic",
+        "url": "https://github.com/hohoedu/book_clinic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "valeriemtz/analisis-churn-clientes-m",
+        "url": "https://github.com/valeriemtz/analisis-churn-clientes-m.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "abdullah-alsaba/SportNest-client",
+        "url": "https://github.com/abdullah-alsaba/SportNest-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RopemakerEnd/ds4windows-lab-2026",
+        "url": "https://github.com/RopemakerEnd/ds4windows-lab-2026.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ChanduSharma/alarm-clock-cli-python",
+        "url": "https://github.com/ChanduSharma/alarm-clock-cli-python.git",
+        "status": "Hasn't yet validated"
     }
 ]
