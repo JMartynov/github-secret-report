@@ -93988,5 +93988,35 @@
         "name": "biota-geom/backend-biota-geom",
         "url": "https://github.com/biota-geom/backend-biota-geom.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "N3BB3Z4R/game-pixelator-godot-addon",
+        "url": "https://github.com/N3BB3Z4R/game-pixelator-godot-addon.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SmooAI/smooth-operator",
+        "url": "https://github.com/SmooAI/smooth-operator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Adrial0/RandomTools",
+        "url": "https://github.com/Adrial0/RandomTools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fiestared/keiri-tools",
+        "url": "https://github.com/fiestared/keiri-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "petrdvorsky9/wow-ah-sniper",
+        "url": "https://github.com/petrdvorsky9/wow-ah-sniper.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "u2giants/ai-devops",
+        "url": "https://github.com/u2giants/ai-devops.git",
+        "status": "Hasn't yet validated"
     }
 ]
