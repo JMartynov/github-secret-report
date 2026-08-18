@@ -256,3 +256,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Influish/influish-ui-lib
+
+**URL:** https://github.com/Influish/influish-ui-lib.git
+
+- **Files Scanned:** 10223
+- **Branches:** 2
+- **Size:** 49M
+- **Duration:** 46.76s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
