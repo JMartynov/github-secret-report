@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### onion-liu/arxiv_daily_aigc
+
+**URL:** https://github.com/onion-liu/arxiv_daily_aigc.git
+
+- **Files Scanned:** 1962
+- **Branches:** 1
+- **Size:** 52M
+- **Duration:** 13.52s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
