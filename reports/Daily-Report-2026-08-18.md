@@ -214,3 +214,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Speckled-pharyngeal993/core
+
+**URL:** https://github.com/Speckled-pharyngeal993/core.git
+
+- **Files Scanned:** 4
+- **Branches:** 1
+- **Size:** 1.4M
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
