@@ -270,3 +270,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### LoganEyram/NEA_CS_project
+
+**URL:** https://github.com/LoganEyram/NEA_CS_project.git
+
+- **Files Scanned:** 4
+- **Branches:** 1
+- **Size:** 38M
+- **Duration:** 0.67s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
