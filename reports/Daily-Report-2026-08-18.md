@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SevenKale/fund_tool_clean
+
+**URL:** https://github.com/SevenKale/fund_tool_clean.git
+
+- **Files Scanned:** 3871
+- **Branches:** 1
+- **Size:** 19M
+- **Duration:** 172.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
