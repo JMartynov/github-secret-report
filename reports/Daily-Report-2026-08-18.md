@@ -298,3 +298,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Capricious-storage478/japan-stay-tax
+
+**URL:** https://github.com/Capricious-storage478/japan-stay-tax.git
+
+- **Files Scanned:** 20
+- **Branches:** 1
+- **Size:** 1.5M
+- **Duration:** 0.1s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
