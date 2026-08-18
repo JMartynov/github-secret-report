@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### erus00/k-tools
+
+**URL:** https://github.com/erus00/k-tools.git
+
+- **Files Scanned:** 12097
+- **Branches:** 1
+- **Size:** 4.7M
+- **Duration:** 24.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
