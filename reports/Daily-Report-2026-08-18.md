@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### opentofu/registry
+
+**URL:** https://github.com/opentofu/registry.git
+
+- **Files Scanned:** 0
+- **Branches:** 29
+- **Size:** 4.0G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
