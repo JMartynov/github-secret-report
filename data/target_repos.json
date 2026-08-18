@@ -93503,5 +93503,90 @@
         "name": "static-web-apps-testing-org/synthetics-swa-traffic-b02eaa1f3f684f9e803704b2a286d8ab",
         "url": "https://github.com/static-web-apps-testing-org/synthetics-swa-traffic-b02eaa1f3f684f9e803704b2a286d8ab.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SonarSource/sonarqube-cli",
+        "url": "https://github.com/SonarSource/sonarqube-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kiwonilee/agents-cli",
+        "url": "https://github.com/kiwonilee/agents-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "studio4x/evolucao-clinica",
+        "url": "https://github.com/studio4x/evolucao-clinica.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Dauddev07/AI-Powered-Clinic-Management-System",
+        "url": "https://github.com/Dauddev07/AI-Powered-Clinic-Management-System.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fitbeard/radosgw-assume",
+        "url": "https://github.com/fitbeard/radosgw-assume.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nylo-core/support",
+        "url": "https://github.com/nylo-core/support.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Feezcodev/devops-environment-setup",
+        "url": "https://github.com/Feezcodev/devops-environment-setup.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tmy7533018/sunayama",
+        "url": "https://github.com/tmy7533018/sunayama.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KnockOutEZ/wigolo",
+        "url": "https://github.com/KnockOutEZ/wigolo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DaoMingyuan/kanyu-gis",
+        "url": "https://github.com/DaoMingyuan/kanyu-gis.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NIKKI-OG/CN-LAB-ASSIGNMENT--03-client.c",
+        "url": "https://github.com/NIKKI-OG/CN-LAB-ASSIGNMENT--03-client.c.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "azlann001/password_vault",
+        "url": "https://github.com/azlann001/password_vault.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "EthanNiksic/code-review-ai",
+        "url": "https://github.com/EthanNiksic/code-review-ai.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cameronraschke/uit-client",
+        "url": "https://github.com/cameronraschke/uit-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pcjustin/headfi-to-text",
+        "url": "https://github.com/pcjustin/headfi-to-text.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "IshitaJain2001/clinical_management",
+        "url": "https://github.com/IshitaJain2001/clinical_management.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DnzzL/permis-bateau-rag",
+        "url": "https://github.com/DnzzL/permis-bateau-rag.git",
+        "status": "Hasn't yet validated"
     }
 ]
