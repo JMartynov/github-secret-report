@@ -242,3 +242,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NVIDIA/Model-Optimizer
+
+**URL:** https://github.com/NVIDIA/Model-Optimizer.git
+
+- **Files Scanned:** 0
+- **Branches:** 559
+- **Size:** 148M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
