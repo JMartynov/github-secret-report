@@ -228,3 +228,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rbarmyarmy/PdfDriveExtractor
+
+**URL:** https://github.com/rbarmyarmy/PdfDriveExtractor.git
+
+- **Files Scanned:** 18
+- **Branches:** 1
+- **Size:** 4.4M
+- **Duration:** 0.18s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
