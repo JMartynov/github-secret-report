@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jangrarajat/school-website-Shriramacacemybansur-client
+
+**URL:** https://github.com/jangrarajat/school-website-Shriramacacemybansur-client.git
+
+- **Files Scanned:** 203
+- **Branches:** 1
+- **Size:** 70M
+- **Duration:** 3.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
