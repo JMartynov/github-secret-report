@@ -94223,5 +94223,75 @@
         "name": "alxlash/agenda-contactos-springboot",
         "url": "https://github.com/alxlash/agenda-contactos-springboot.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nextransit/CLIProxyAPI",
+        "url": "https://github.com/nextransit/CLIProxyAPI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LyenZo/Hospital-API",
+        "url": "https://github.com/LyenZo/Hospital-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nardjo/n8n-cli",
+        "url": "https://github.com/Nardjo/n8n-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nardjo/postiz-cli",
+        "url": "https://github.com/Nardjo/postiz-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Kysohee18/046_API_Deployment",
+        "url": "https://github.com/Kysohee18/046_API_Deployment.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "xiaoxin-zk/sub2api-credential-pusher",
+        "url": "https://github.com/xiaoxin-zk/sub2api-credential-pusher.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bagasadit123/220_API_Deployment",
+        "url": "https://github.com/bagasadit123/220_API_Deployment.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AshutoshDwivedi6805/CRUD-operations",
+        "url": "https://github.com/AshutoshDwivedi6805/CRUD-operations.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.docker.registry.httpclients",
+        "url": "https://github.com/soenneker/soenneker.docker.registry.httpclients.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BBI331/plugin-api-docs",
+        "url": "https://github.com/BBI331/plugin-api-docs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SebastianMontes-Dev/PostgresPulse",
+        "url": "https://github.com/SebastianMontes-Dev/PostgresPulse.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tsiorinirina-lgtm/Student-API",
+        "url": "https://github.com/tsiorinirina-lgtm/Student-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SrinivasBuddha7/go-url-shortener-service",
+        "url": "https://github.com/SrinivasBuddha7/go-url-shortener-service.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "taufiq72/233_API_Deployment",
+        "url": "https://github.com/taufiq72/233_API_Deployment.git",
+        "status": "Hasn't yet validated"
     }
 ]
