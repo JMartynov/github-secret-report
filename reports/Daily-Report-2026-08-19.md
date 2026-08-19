@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ragam2702/Library-System
+
+**URL:** https://github.com/ragam2702/Library-System.git
+
+- **Files Scanned:** 26
+- **Branches:** 1
+- **Size:** 5.1M
+- **Duration:** 0.18s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
