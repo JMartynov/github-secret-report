@@ -256,3 +256,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### huisjerry/effect-distributed-lock
+
+**URL:** https://github.com/huisjerry/effect-distributed-lock.git
+
+- **Files Scanned:** 94
+- **Branches:** 1
+- **Size:** 1.4M
+- **Duration:** 0.26s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
