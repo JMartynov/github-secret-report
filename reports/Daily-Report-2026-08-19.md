@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pkjmesra/PKBrokers
+
+**URL:** https://github.com/pkjmesra/PKBrokers.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 1.3G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
