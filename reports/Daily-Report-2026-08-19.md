@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### MarkusNeusinger/anyplot
+
+**URL:** https://github.com/MarkusNeusinger/anyplot.git
+
+- **Files Scanned:** 39531
+- **Branches:** 41
+- **Size:** 180M
+- **Duration:** 182.6s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
