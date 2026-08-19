@@ -284,3 +284,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rorkai/App-Store-Connect-CLI
+
+**URL:** https://github.com/rorkai/App-Store-Connect-CLI.git
+
+- **Files Scanned:** 20670
+- **Branches:** 69
+- **Size:** 131M
+- **Duration:** 134.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
