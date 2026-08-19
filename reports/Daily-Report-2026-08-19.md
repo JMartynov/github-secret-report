@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nghttp2/nghttp2
+
+**URL:** https://github.com/nghttp2/nghttp2.git
+
+- **Files Scanned:** 0
+- **Branches:** 37
+- **Size:** 50M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
