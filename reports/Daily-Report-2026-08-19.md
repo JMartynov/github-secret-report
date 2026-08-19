@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yositomi-opu/stack_questions
+
+**URL:** https://github.com/yositomi-opu/stack_questions.git
+
+- **Files Scanned:** 907
+- **Branches:** 2
+- **Size:** 5.2M
+- **Duration:** 1.61s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
