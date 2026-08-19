@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### open-circle/schema-benchmarks
+
+**URL:** https://github.com/open-circle/schema-benchmarks.git
+
+- **Files Scanned:** 8672
+- **Branches:** 3
+- **Size:** 36M
+- **Duration:** 227.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
