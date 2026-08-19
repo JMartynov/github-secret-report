@@ -94433,5 +94433,85 @@
         "name": "pepkio/pepkio-journal-club-shuffle",
         "url": "https://github.com/pepkio/pepkio-journal-club-shuffle.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FreeRDP/FreeRDP",
+        "url": "https://github.com/FreeRDP/FreeRDP.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JoeyEngg/library-resource-scheduling",
+        "url": "https://github.com/JoeyEngg/library-resource-scheduling.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PySysLink/PySysLinkToolkit",
+        "url": "https://github.com/PySysLink/PySysLinkToolkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "VladislavLevitskii/aiopapouch",
+        "url": "https://github.com/VladislavLevitskii/aiopapouch.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tomereli/immich-mcp",
+        "url": "https://github.com/tomereli/immich-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Particle-Academy/react-fancy",
+        "url": "https://github.com/Particle-Academy/react-fancy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kavos113/karin",
+        "url": "https://github.com/kavos113/karin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "findkit/findkit",
+        "url": "https://github.com/findkit/findkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jpmml/sklearn2pmml",
+        "url": "https://github.com/jpmml/sklearn2pmml.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "QtShadcn/qtshadcn",
+        "url": "https://github.com/QtShadcn/qtshadcn.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yjh0502/rust-s2",
+        "url": "https://github.com/yjh0502/rust-s2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.blazor.logjson",
+        "url": "https://github.com/soenneker/soenneker.blazor.logjson.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wanjau2/Immich-MCP-server",
+        "url": "https://github.com/wanjau2/Immich-MCP-server.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chaewonki/CommonLibrary",
+        "url": "https://github.com/chaewonki/CommonLibrary.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MairaKhan-AI/Language-Translator",
+        "url": "https://github.com/MairaKhan-AI/Language-Translator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soapwong/codex-skills-library",
+        "url": "https://github.com/soapwong/codex-skills-library.git",
+        "status": "Hasn't yet validated"
     }
 ]
