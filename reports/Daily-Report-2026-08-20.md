@@ -284,3 +284,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### deyvidferrer/vmetrix-query-manager-api
+
+**URL:** https://github.com/deyvidferrer/vmetrix-query-manager-api.git
+
+- **Files Scanned:** 181
+- **Branches:** 1
+- **Size:** 1.6M
+- **Duration:** 0.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
