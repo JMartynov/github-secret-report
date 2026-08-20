@@ -256,3 +256,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gusteborges/RAG_offline
+
+**URL:** https://github.com/gusteborges/RAG_offline.git
+
+- **Files Scanned:** 149
+- **Branches:** 1
+- **Size:** 2.5M
+- **Duration:** 1.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
