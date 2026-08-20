@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Oshinji/clinics-wait-time
+
+**URL:** https://github.com/Oshinji/clinics-wait-time.git
+
+- **Files Scanned:** 37584
+- **Branches:** 3
+- **Size:** 25M
+- **Duration:** 170.87s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
