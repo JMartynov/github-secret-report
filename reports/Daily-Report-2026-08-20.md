@@ -228,3 +228,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mateus-vitor-ferreira-dev/recanto-vila-rica-api
+
+**URL:** https://github.com/mateus-vitor-ferreira-dev/recanto-vila-rica-api.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
