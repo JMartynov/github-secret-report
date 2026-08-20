@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mulkatz/mulder
+
+**URL:** https://github.com/mulkatz/mulder.git
+
+- **Files Scanned:** 4123
+- **Branches:** 5
+- **Size:** 19M
+- **Duration:** 21.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
