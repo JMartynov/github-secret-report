@@ -270,3 +270,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### guardian/google-admanager-api
+
+**URL:** https://github.com/guardian/google-admanager-api.git
+
+- **Files Scanned:** 3622
+- **Branches:** 62
+- **Size:** 4.6M
+- **Duration:** 30.39s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
