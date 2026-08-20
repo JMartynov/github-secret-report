@@ -242,3 +242,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### johnnypork6767mustard-hub/openai-nim-proxy
+
+**URL:** https://github.com/johnnypork6767mustard-hub/openai-nim-proxy.git
+
+- **Files Scanned:** 3
+- **Branches:** 2
+- **Size:** 208K
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
