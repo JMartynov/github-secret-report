@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AnnickCang/gestion-stock-cli-python
+
+**URL:** https://github.com/AnnickCang/gestion-stock-cli-python.git
+
+- **Files Scanned:** 145
+- **Branches:** 1
+- **Size:** 480K
+- **Duration:** 0.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
