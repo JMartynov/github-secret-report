@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### navikt/melosys-api
+
+**URL:** https://github.com/navikt/melosys-api.git
+
+- **Files Scanned:** 51394
+- **Branches:** 57
+- **Size:** 62M
+- **Duration:** 82.29s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
