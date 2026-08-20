@@ -312,3 +312,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mazenaly256/Cinema-Seat-Reservation-System
+
+**URL:** https://github.com/mazenaly256/Cinema-Seat-Reservation-System.git
+
+- **Files Scanned:** 365
+- **Branches:** 6
+- **Size:** 1.8M
+- **Duration:** 0.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
