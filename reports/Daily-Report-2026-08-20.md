@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### BoatraceOpenAPI/previews
+
+**URL:** https://github.com/BoatraceOpenAPI/previews.git
+
+- **Files Scanned:** 23865
+- **Branches:** 1
+- **Size:** 933M
+- **Duration:** 96.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
