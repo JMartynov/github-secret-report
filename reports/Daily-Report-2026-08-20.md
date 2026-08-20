@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mickablondo/crypto-dashboard
+
+**URL:** https://github.com/mickablondo/crypto-dashboard.git
+
+- **Files Scanned:** 42
+- **Branches:** 1
+- **Size:** 1016K
+- **Duration:** 0.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
