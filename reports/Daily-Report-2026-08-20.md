@@ -298,3 +298,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### RxFit/SDM-Headless-Enterprise
+
+**URL:** https://github.com/RxFit/SDM-Headless-Enterprise.git
+
+- **Files Scanned:** 11453
+- **Branches:** 1
+- **Size:** 7.2M
+- **Duration:** 35.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
