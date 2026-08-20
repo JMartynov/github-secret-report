@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nowaytouse/modern-format-boost
+
+**URL:** https://github.com/nowaytouse/modern-format-boost.git
+
+- **Files Scanned:** 22996
+- **Branches:** 6
+- **Size:** 130M
+- **Duration:** 248.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
