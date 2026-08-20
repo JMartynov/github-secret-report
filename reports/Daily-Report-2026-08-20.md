@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Qidro/notesClient
+
+**URL:** https://github.com/Qidro/notesClient.git
+
+- **Files Scanned:** 62
+- **Branches:** 1
+- **Size:** 2.1M
+- **Duration:** 2.44s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
