@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### K9i-0/ccpocket
+
+**URL:** https://github.com/K9i-0/ccpocket.git
+
+- **Files Scanned:** 14739
+- **Branches:** 7
+- **Size:** 697M
+- **Duration:** 223.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

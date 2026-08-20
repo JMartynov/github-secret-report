@@ -95903,5 +95903,30 @@
         "name": "octarq-org/octarq",
         "url": "https://github.com/octarq-org/octarq.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "showell/codex-zig-ladder",
+        "url": "https://github.com/showell/codex-zig-ladder.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Signal-K/atlas",
+        "url": "https://github.com/Signal-K/atlas.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mcpplibs/sbase",
+        "url": "https://github.com/mcpplibs/sbase.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mwakidenis/scrcpy-magix",
+        "url": "https://github.com/mwakidenis/scrcpy-magix.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iamemby-websites/GetOpenSofts",
+        "url": "https://github.com/iamemby-websites/GetOpenSofts.git",
+        "status": "Hasn't yet validated"
     }
 ]
