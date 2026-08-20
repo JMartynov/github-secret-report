@@ -214,3 +214,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cyh92/iptv-api-cctv
+
+**URL:** https://github.com/cyh92/iptv-api-cctv.git
+
+- **Files Scanned:** 37641
+- **Branches:** 1
+- **Size:** 273M
+- **Duration:** 393.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
