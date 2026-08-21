@@ -256,3 +256,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### grafana/grafana-foundation-sdk
+
+**URL:** https://github.com/grafana/grafana-foundation-sdk.git
+
+- **Files Scanned:** 250498
+- **Branches:** 43
+- **Size:** 137M
+- **Duration:** 362.78s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
