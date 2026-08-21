@@ -298,3 +298,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### suvayan1111/sweet-cookie
+
+**URL:** https://github.com/suvayan1111/sweet-cookie.git
+
+- **Files Scanned:** 419
+- **Branches:** 1
+- **Size:** 1.5M
+- **Duration:** 0.43s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
