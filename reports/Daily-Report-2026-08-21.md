@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### codectified/mindroots
+
+**URL:** https://github.com/codectified/mindroots.git
+
+- **Files Scanned:** 3406
+- **Branches:** 57
+- **Size:** 42M
+- **Duration:** 20.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
