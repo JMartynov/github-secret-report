@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### DJChanahCJD/OtterHub
+
+**URL:** https://github.com/DJChanahCJD/OtterHub.git
+
+- **Files Scanned:** 2520
+- **Branches:** 4
+- **Size:** 5.4M
+- **Duration:** 5.23s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
