@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### EHESPO-international-organization/eheps-websit
+
+**URL:** https://github.com/EHESPO-international-organization/eheps-websit.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
