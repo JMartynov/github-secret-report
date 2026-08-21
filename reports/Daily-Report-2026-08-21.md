@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rfxn/cpanel-sessionscribe
+
+**URL:** https://github.com/rfxn/cpanel-sessionscribe.git
+
+- **Files Scanned:** 336
+- **Branches:** 1
+- **Size:** 2.4M
+- **Duration:** 21.23s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
