@@ -97503,5 +97503,40 @@
         "name": "jonmico/todo-client",
         "url": "https://github.com/jonmico/todo-client.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lwsheen/sheen-toolbox",
+        "url": "https://github.com/lwsheen/sheen-toolbox.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "moureau-dev/pipeflow",
+        "url": "https://github.com/moureau-dev/pipeflow.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "isledecomp/reccmp",
+        "url": "https://github.com/isledecomp/reccmp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Caligari/local_words",
+        "url": "https://github.com/Caligari/local_words.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yvonne9523/stock-analysis-tool",
+        "url": "https://github.com/yvonne9523/stock-analysis-tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MentallyQuill/Tavernary",
+        "url": "https://github.com/MentallyQuill/Tavernary.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mobilEKG/CSV-Splitter",
+        "url": "https://github.com/mobilEKG/CSV-Splitter.git",
+        "status": "Hasn't yet validated"
     }
 ]

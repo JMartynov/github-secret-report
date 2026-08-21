@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### kotyadaanusha341-hash/employee-management-api
+
+**URL:** https://github.com/kotyadaanusha341-hash/employee-management-api.git
+
+- **Files Scanned:** 15
+- **Branches:** 1
+- **Size:** 212K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
