@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ClearTechnologies/clear-capital-approvals
+
+**URL:** https://github.com/ClearTechnologies/clear-capital-approvals.git
+
+- **Files Scanned:** 39
+- **Branches:** 1
+- **Size:** 340K
+- **Duration:** 0.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
