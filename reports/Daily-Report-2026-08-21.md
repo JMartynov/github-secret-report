@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mikev3003/wro-dwschemwq-dashboard
+
+**URL:** https://github.com/mikev3003/wro-dwschemwq-dashboard.git
+
+- **Files Scanned:** 23
+- **Branches:** 1
+- **Size:** 316K
+- **Duration:** 0.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
