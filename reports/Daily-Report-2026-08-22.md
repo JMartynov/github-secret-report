@@ -228,3 +228,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Shlok-Saxena-thinks/student-performance-predictor
+
+**URL:** https://github.com/Shlok-Saxena-thinks/student-performance-predictor.git
+
+- **Files Scanned:** 12
+- **Branches:** 1
+- **Size:** 312K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
