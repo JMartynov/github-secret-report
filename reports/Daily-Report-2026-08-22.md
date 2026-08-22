@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### kellyfourlove-del/kelly-web
+
+**URL:** https://github.com/kellyfourlove-del/kelly-web.git
+
+- **Files Scanned:** 42
+- **Branches:** 1
+- **Size:** 16M
+- **Duration:** 835.93s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
