@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### YaelRoman/sala-juntas-ibero
+
+**URL:** https://github.com/YaelRoman/sala-juntas-ibero.git
+
+- **Files Scanned:** 437
+- **Branches:** 1
+- **Size:** 2.0M
+- **Duration:** 1.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
