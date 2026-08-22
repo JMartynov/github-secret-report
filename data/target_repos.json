@@ -100443,5 +100443,85 @@
         "name": "joeyshi12/casper",
         "url": "https://github.com/joeyshi12/casper.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bborbe/vault-cli",
+        "url": "https://github.com/bborbe/vault-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ahundt/ai-session-search",
+        "url": "https://github.com/ahundt/ai-session-search.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "blumaa/mond-design-system",
+        "url": "https://github.com/blumaa/mond-design-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cdswindell/PyLegacy",
+        "url": "https://github.com/cdswindell/PyLegacy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agbrs/agb",
+        "url": "https://github.com/agbrs/agb.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "404sl/session-replay-integration",
+        "url": "https://github.com/404sl/session-replay-integration.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gharveymn/small_vector",
+        "url": "https://github.com/gharveymn/small_vector.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "stefanalfbo/GeneticAlgorithms",
+        "url": "https://github.com/stefanalfbo/GeneticAlgorithms.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "llbbl/logan-logger-ts",
+        "url": "https://github.com/llbbl/logan-logger-ts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CMR1329/gal-library",
+        "url": "https://github.com/CMR1329/gal-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "astrapi69/mystic-crypt",
+        "url": "https://github.com/astrapi69/mystic-crypt.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "poulpy-fhe/poulpy",
+        "url": "https://github.com/poulpy-fhe/poulpy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Alex-git-repos/WinMaster-Wrapper",
+        "url": "https://github.com/Alex-git-repos/WinMaster-Wrapper.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ukorvl/web-of-flaws",
+        "url": "https://github.com/ukorvl/web-of-flaws.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yagizyagli/universal_dental_ai",
+        "url": "https://github.com/yagizyagli/universal_dental_ai.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fabiohl/NeuralAmpModeler-rs",
+        "url": "https://github.com/fabiohl/NeuralAmpModeler-rs.git",
+        "status": "Hasn't yet validated"
     }
 ]
