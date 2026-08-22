@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ShreeBohara/road-rage-webgl-build
+
+**URL:** https://github.com/ShreeBohara/road-rage-webgl-build.git
+
+- **Files Scanned:** 235
+- **Branches:** 1
+- **Size:** 590M
+- **Duration:** 25.71s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
