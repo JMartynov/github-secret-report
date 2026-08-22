@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### idkfwmmmmmmd/tunnelto
+
+**URL:** https://github.com/idkfwmmmmmmd/tunnelto.git
+
+- **Files Scanned:** 682
+- **Branches:** 2
+- **Size:** 7.2M
+- **Duration:** 23.17s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
