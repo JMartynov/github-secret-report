@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SvetaKrava/chorrosion
+
+**URL:** https://github.com/SvetaKrava/chorrosion.git
+
+- **Files Scanned:** 1361
+- **Branches:** 5
+- **Size:** 6.0M
+- **Duration:** 9.43s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
