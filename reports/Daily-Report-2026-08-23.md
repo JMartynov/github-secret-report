@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### enzonotario/esjs-argentina-datos
+
+**URL:** https://github.com/enzonotario/esjs-argentina-datos.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 8.3G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
