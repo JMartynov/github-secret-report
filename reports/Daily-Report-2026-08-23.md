@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### maxcalijuri/awesome-free-apis
+
+**URL:** https://github.com/maxcalijuri/awesome-free-apis.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
