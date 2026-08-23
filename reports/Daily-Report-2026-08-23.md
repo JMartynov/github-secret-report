@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Skytrion/Phantom-Wallet-Geteway-Solona-Api-Sdk-Connect-Web3
+
+**URL:** https://github.com/Skytrion/Phantom-Wallet-Geteway-Solona-Api-Sdk-Connect-Web3.git
+
+- **Files Scanned:** 29417
+- **Branches:** 1
+- **Size:** 23M
+- **Duration:** 4.92s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
