@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bro-gervil/userApi
+
+**URL:** https://github.com/bro-gervil/userApi.git
+
+- **Files Scanned:** 2358
+- **Branches:** 2
+- **Size:** 65M
+- **Duration:** 10.99s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
