@@ -270,3 +270,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### natharmatron/MediSight.AI
+
+**URL:** https://github.com/natharmatron/MediSight.AI.git
+
+- **Files Scanned:** 12
+- **Branches:** 1
+- **Size:** 1.4M
+- **Duration:** 0.07s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
