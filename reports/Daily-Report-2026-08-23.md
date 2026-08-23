@@ -242,3 +242,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Balance312/Celestial-the-Nasa-based-astronomy-website
+
+**URL:** https://github.com/Balance312/Celestial-the-Nasa-based-astronomy-website.git
+
+- **Files Scanned:** 337
+- **Branches:** 3
+- **Size:** 1.1M
+- **Duration:** 1.18s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
