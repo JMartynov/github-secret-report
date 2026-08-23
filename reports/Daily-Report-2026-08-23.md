@@ -214,3 +214,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lewi522/MT4-MT5-Trade-Copier-Backend
+
+**URL:** https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
