@@ -284,3 +284,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### QudsLab/NextSSL
+
+**URL:** https://github.com/QudsLab/NextSSL.git
+
+- **Files Scanned:** 14749
+- **Branches:** 1
+- **Size:** 669M
+- **Duration:** 140.88s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
