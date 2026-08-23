@@ -101263,5 +101263,50 @@
         "name": "Marty-LFG/tcg-listing-tools",
         "url": "https://github.com/Marty-LFG/tcg-listing-tools.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FFraud-com/ip-fraud-database",
+        "url": "https://github.com/FFraud-com/ip-fraud-database.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "submtd-bit/Amazon-webhook-api",
+        "url": "https://github.com/submtd-bit/Amazon-webhook-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "libretro/blueMSX-libretro",
+        "url": "https://github.com/libretro/blueMSX-libretro.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "harshareddy93922/LocalVibe-Backend",
+        "url": "https://github.com/harshareddy93922/LocalVibe-Backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pankajpandey0001/AI-Q-A-Project",
+        "url": "https://github.com/pankajpandey0001/AI-Q-A-Project.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gooking/apifm-uniapp",
+        "url": "https://github.com/gooking/apifm-uniapp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "finografic/monorepo-starter",
+        "url": "https://github.com/finografic/monorepo-starter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Fakhrialfi9/arunika-coffee-api-users-service",
+        "url": "https://github.com/Fakhrialfi9/arunika-coffee-api-users-service.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "enesyaray/KutuphaneApi",
+        "url": "https://github.com/enesyaray/KutuphaneApi.git",
+        "status": "Hasn't yet validated"
     }
 ]

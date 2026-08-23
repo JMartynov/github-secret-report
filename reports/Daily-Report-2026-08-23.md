@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### chpock/openusage-cli
+
+**URL:** https://github.com/chpock/openusage-cli.git
+
+- **Files Scanned:** 396
+- **Branches:** 1
+- **Size:** 3.6M
+- **Duration:** 3.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
