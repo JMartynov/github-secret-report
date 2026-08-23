@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Catengue/stillepost
+
+**URL:** https://github.com/Catengue/stillepost.git
+
+- **Files Scanned:** 19
+- **Branches:** 2
+- **Size:** 5.5M
+- **Duration:** 0.29s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
