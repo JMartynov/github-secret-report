@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### antoniosaints/w-api-manager
+
+**URL:** https://github.com/antoniosaints/w-api-manager.git
+
+- **Files Scanned:** 341
+- **Branches:** 2
+- **Size:** 3.1M
+- **Duration:** 1.75s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
