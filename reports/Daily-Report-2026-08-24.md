@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sendoeth/post-fiat-signals
+
+**URL:** https://github.com/sendoeth/post-fiat-signals.git
+
+- **Files Scanned:** 16689
+- **Branches:** 1
+- **Size:** 13M
+- **Duration:** 1570.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
