@@ -1,0 +1,323 @@
+# Daily Cumulative Secret Scan Report - 2026-08-23
+
+## Executive Summary
+
+| Metric | Value |
+|---|---|
+| **Total Repositories Scanned** | 22 |
+| **Total Files Scanned** | 74972 |
+| **Total Scan Duration** | 4168.88 seconds |
+| **Total Secrets Detected** | 0 |
+
+---
+
+## Repository Breakdown
+
+### Livepeer-FrameWorks/monorepo
+
+**URL:** https://github.com/Livepeer-FrameWorks/monorepo.git
+
+- **Files Scanned:** 25632
+- **Branches:** 27
+- **Size:** 505M
+- **Duration:** 396.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Kleinster2/portuguese-drills-expanded
+
+**URL:** https://github.com/Kleinster2/portuguese-drills-expanded.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### SvetaKrava/chorrosion
+
+**URL:** https://github.com/SvetaKrava/chorrosion.git
+
+- **Files Scanned:** 1361
+- **Branches:** 5
+- **Size:** 6.0M
+- **Duration:** 9.43s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### enzonotario/esjs-argentina-datos
+
+**URL:** https://github.com/enzonotario/esjs-argentina-datos.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 8.3G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### antoniosaints/w-api-manager
+
+**URL:** https://github.com/antoniosaints/w-api-manager.git
+
+- **Files Scanned:** 341
+- **Branches:** 2
+- **Size:** 3.1M
+- **Duration:** 1.75s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Skytrion/Phantom-Wallet-Geteway-Solona-Api-Sdk-Connect-Web3
+
+**URL:** https://github.com/Skytrion/Phantom-Wallet-Geteway-Solona-Api-Sdk-Connect-Web3.git
+
+- **Files Scanned:** 29417
+- **Branches:** 1
+- **Size:** 23M
+- **Duration:** 4.92s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker
+
+**URL:** https://github.com/Waelkens/Binance-Crypto-Payment-Ecommerce-Gateway-Transaction-Tracker.git
+
+- **Files Scanned:** 11
+- **Branches:** 1
+- **Size:** 272K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### chpock/openusage-cli
+
+**URL:** https://github.com/chpock/openusage-cli.git
+
+- **Files Scanned:** 396
+- **Branches:** 1
+- **Size:** 3.6M
+- **Duration:** 3.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### maxcalijuri/awesome-free-apis
+
+**URL:** https://github.com/maxcalijuri/awesome-free-apis.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### NamanVinayak/claude-code-hedge-fund
+
+**URL:** https://github.com/NamanVinayak/claude-code-hedge-fund.git
+
+- **Files Scanned:** 0
+- **Branches:** 7
+- **Size:** 91M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### lphillipe/djangoflix-api
+
+**URL:** https://github.com/lphillipe/djangoflix-api.git
+
+- **Files Scanned:** 339
+- **Branches:** 1
+- **Size:** 784K
+- **Duration:** 0.13s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### sarmadshakeel/fastscaff
+
+**URL:** https://github.com/sarmadshakeel/fastscaff.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Catengue/stillepost
+
+**URL:** https://github.com/Catengue/stillepost.git
+
+- **Files Scanned:** 19
+- **Branches:** 2
+- **Size:** 5.5M
+- **Duration:** 0.29s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### NikkkoPrime/zenith-image-generator
+
+**URL:** https://github.com/NikkkoPrime/zenith-image-generator.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### bro-gervil/userApi
+
+**URL:** https://github.com/bro-gervil/userApi.git
+
+- **Files Scanned:** 2358
+- **Branches:** 2
+- **Size:** 65M
+- **Duration:** 10.99s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### lewi522/MT4-MT5-Trade-Copier-Backend
+
+**URL:** https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### tetss2/mvp-content-api
+
+**URL:** https://github.com/tetss2/mvp-content-api.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### Balance312/Celestial-the-Nasa-based-astronomy-website
+
+**URL:** https://github.com/Balance312/Celestial-the-Nasa-based-astronomy-website.git
+
+- **Files Scanned:** 337
+- **Branches:** 3
+- **Size:** 1.1M
+- **Duration:** 1.18s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### rosemqa/QA_API_Repeat_RestfullApp
+
+**URL:** https://github.com/rosemqa/QA_API_Repeat_RestfullApp.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### natharmatron/MediSight.AI
+
+**URL:** https://github.com/natharmatron/MediSight.AI.git
+
+- **Files Scanned:** 12
+- **Branches:** 1
+- **Size:** 1.4M
+- **Duration:** 0.07s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### QudsLab/NextSSL
+
+**URL:** https://github.com/QudsLab/NextSSL.git
+
+- **Files Scanned:** 14749
+- **Branches:** 1
+- **Size:** 669M
+- **Duration:** 140.88s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
+### bancabrasileirajb/imagens-temporarias-meta
+
+**URL:** https://github.com/bancabrasileirajb/imagens-temporarias-meta.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
