@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rapaev95/latamsellers-api
+
+**URL:** https://github.com/rapaev95/latamsellers-api.git
+
+- **Files Scanned:** 866
+- **Branches:** 1
+- **Size:** 5.2M
+- **Duration:** 19.85s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
