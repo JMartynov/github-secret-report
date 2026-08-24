@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AmerXO1/ado-pet_webapi_course-alura-exceptions_part-1_dotnet-8_csharp-12
+
+**URL:** https://github.com/AmerXO1/ado-pet_webapi_course-alura-exceptions_part-1_dotnet-8_csharp-12.git
+
+- **Files Scanned:** 40
+- **Branches:** 1
+- **Size:** 548K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
