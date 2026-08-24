@@ -103638,5 +103638,80 @@
         "name": "Ricou-IA/Frontend-Baikal",
         "url": "https://github.com/Ricou-IA/Frontend-Baikal.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JoshuaRamirez/ms-ado-az-claude-code-plugin",
+        "url": "https://github.com/JoshuaRamirez/ms-ado-az-claude-code-plugin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bgill55/daedalus",
+        "url": "https://github.com/bgill55/daedalus.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "viraatdas/rudder",
+        "url": "https://github.com/viraatdas/rudder.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vertesia/vertesia-client-go",
+        "url": "https://github.com/vertesia/vertesia-client-go.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SkyMelloo/api-client",
+        "url": "https://github.com/SkyMelloo/api-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vertesia/vertesia-client-java",
+        "url": "https://github.com/vertesia/vertesia-client-java.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "1deat0r/pi-rust",
+        "url": "https://github.com/1deat0r/pi-rust.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Gefermanpernia/acm",
+        "url": "https://github.com/Gefermanpernia/acm.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ratatui/ratatui",
+        "url": "https://github.com/ratatui/ratatui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "otaviocc/Holodeck",
+        "url": "https://github.com/otaviocc/Holodeck.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JamMaster1999/agent-runner",
+        "url": "https://github.com/JamMaster1999/agent-runner.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "VWS-Python/vws-cli",
+        "url": "https://github.com/VWS-Python/vws-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "l1a/retch",
+        "url": "https://github.com/l1a/retch.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "F5Alejo/cliente_financeup",
+        "url": "https://github.com/F5Alejo/cliente_financeup.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "haiqigeng/gtm-client-recette",
+        "url": "https://github.com/haiqigeng/gtm-client-recette.git",
+        "status": "Hasn't yet validated"
     }
 ]
