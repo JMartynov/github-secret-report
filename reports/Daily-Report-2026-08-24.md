@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### chuanghiduoc/nestjs-fastify-nx
+
+**URL:** https://github.com/chuanghiduoc/nestjs-fastify-nx.git
+
+- **Files Scanned:** 2800
+- **Branches:** 5
+- **Size:** 12M
+- **Duration:** 68.97s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
