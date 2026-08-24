@@ -214,3 +214,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Jleoneel/rrhh-frontend
+
+**URL:** https://github.com/Jleoneel/rrhh-frontend.git
+
+- **Files Scanned:** 410
+- **Branches:** 2
+- **Size:** 2.6M
+- **Duration:** 1.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
