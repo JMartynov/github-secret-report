@@ -284,3 +284,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### LiruiCao/banking-portal
+
+**URL:** https://github.com/LiruiCao/banking-portal.git
+
+- **Files Scanned:** 180
+- **Branches:** 1
+- **Size:** 1.8M
+- **Duration:** 1.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
