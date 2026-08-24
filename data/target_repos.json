@@ -102653,5 +102653,75 @@
         "name": "AkariLabs/akari-video",
         "url": "https://github.com/AkariLabs/akari-video.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NEURAL-Y/ice-orca",
+        "url": "https://github.com/NEURAL-Y/ice-orca.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wlm77-op/Library",
+        "url": "https://github.com/wlm77-op/Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "andrewxie04/umdrooms",
+        "url": "https://github.com/andrewxie04/umdrooms.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "arthur-ai/arthur-common",
+        "url": "https://github.com/arthur-ai/arthur-common.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MarioMH8/moxfield-api",
+        "url": "https://github.com/MarioMH8/moxfield-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "YonyUk/pylgen",
+        "url": "https://github.com/YonyUk/pylgen.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ALIasgharBalochi/library_management",
+        "url": "https://github.com/ALIasgharBalochi/library_management.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gtretiak/Cpp_Webserver",
+        "url": "https://github.com/gtretiak/Cpp_Webserver.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "janephp/json-schema",
+        "url": "https://github.com/janephp/json-schema.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sidekick-labs/sidekick-ui",
+        "url": "https://github.com/sidekick-labs/sidekick-ui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zulfie1003/SprintDesk",
+        "url": "https://github.com/zulfie1003/SprintDesk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "VersaX-CS/alcms",
+        "url": "https://github.com/VersaX-CS/alcms.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "a-schild/nextcloud-java-api",
+        "url": "https://github.com/a-schild/nextcloud-java-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AV-Coders/c-sharp-device-library",
+        "url": "https://github.com/AV-Coders/c-sharp-device-library.git",
+        "status": "Hasn't yet validated"
     }
 ]

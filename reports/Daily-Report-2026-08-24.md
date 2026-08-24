@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### DylanAbrahams/API-Dylan
+
+**URL:** https://github.com/DylanAbrahams/API-Dylan.git
+
+- **Files Scanned:** 174
+- **Branches:** 1
+- **Size:** 42M
+- **Duration:** 1.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
