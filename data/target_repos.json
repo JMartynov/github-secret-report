@@ -102723,5 +102723,70 @@
         "name": "AV-Coders/c-sharp-device-library",
         "url": "https://github.com/AV-Coders/c-sharp-device-library.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "m1m0zzz/tremolo-ui",
+        "url": "https://github.com/m1m0zzz/tremolo-ui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sneat-co/sneat-libs",
+        "url": "https://github.com/sneat-co/sneat-libs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pocoproject/poco",
+        "url": "https://github.com/pocoproject/poco.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ikalus1988/MisakaNet",
+        "url": "https://github.com/Ikalus1988/MisakaNet.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "azaan-mahmood/opto-sim-dev",
+        "url": "https://github.com/azaan-mahmood/opto-sim-dev.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DTY17/library-fe",
+        "url": "https://github.com/DTY17/library-fe.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "janosch12345/gatealert",
+        "url": "https://github.com/janosch12345/gatealert.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "IntelPython/mkl_fft",
+        "url": "https://github.com/IntelPython/mkl_fft.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "coldsmirk/go-streams",
+        "url": "https://github.com/coldsmirk/go-streams.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gazebosim/gz-common",
+        "url": "https://github.com/gazebosim/gz-common.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "intellectwithvivek/chatterbox",
+        "url": "https://github.com/intellectwithvivek/chatterbox.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LeakyAbstractions/result-docs",
+        "url": "https://github.com/LeakyAbstractions/result-docs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "richardwooding/codemetrics",
+        "url": "https://github.com/richardwooding/codemetrics.git",
+        "status": "Hasn't yet validated"
     }
 ]

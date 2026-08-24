@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### platonso/hrmate-api
+
+**URL:** https://github.com/platonso/hrmate-api.git
+
+- **Files Scanned:** 283
+- **Branches:** 1
+- **Size:** 2.7M
+- **Duration:** 44.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
