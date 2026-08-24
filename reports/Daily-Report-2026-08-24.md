@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ilyes86/screen-sound_console_course-alura-consuming-api-and-using-linq_part-2_dotnet-6_csharp-10
+
+**URL:** https://github.com/ilyes86/screen-sound_console_course-alura-consuming-api-and-using-linq_part-2_dotnet-6_csharp-10.git
+
+- **Files Scanned:** 12
+- **Branches:** 1
+- **Size:** 252K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
