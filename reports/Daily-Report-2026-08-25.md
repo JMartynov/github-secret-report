@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Programmercito/cotizaciones_ng
+
+**URL:** https://github.com/Programmercito/cotizaciones_ng.git
+
+- **Files Scanned:** 0
+- **Branches:** 2
+- **Size:** 19M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
