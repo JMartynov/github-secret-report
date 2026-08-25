@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### amanadhikari1995-wq/app-frontend
+
+**URL:** https://github.com/amanadhikari1995-wq/app-frontend.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

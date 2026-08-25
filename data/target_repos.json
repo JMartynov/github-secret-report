@@ -104703,5 +104703,95 @@
         "name": "OpenRouterLabs/homebrew-tap",
         "url": "https://github.com/OpenRouterLabs/homebrew-tap.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LusterMarineBear/android-multi-tools-hub",
+        "url": "https://github.com/LusterMarineBear/android-multi-tools-hub.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BMANASH/Ai-document-table-extractor",
+        "url": "https://github.com/BMANASH/Ai-document-table-extractor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "strade0/YouTubeToolkitThree",
+        "url": "https://github.com/strade0/YouTubeToolkitThree.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ubik42/unreal-pipeline-studio",
+        "url": "https://github.com/Ubik42/unreal-pipeline-studio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Romeomian/Tool-Agent-with-RAG-Chatflow",
+        "url": "https://github.com/Romeomian/Tool-Agent-with-RAG-Chatflow.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Netra-Internal/netra-autonomy",
+        "url": "https://github.com/Netra-Internal/netra-autonomy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bryancollins99/agent-skills",
+        "url": "https://github.com/bryancollins99/agent-skills.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "skthewimp/dataviz-repair-site",
+        "url": "https://github.com/skthewimp/dataviz-repair-site.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GyroPilot/Apple-LISACom",
+        "url": "https://github.com/GyroPilot/Apple-LISACom.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Muhammad-Zain01/agentdock",
+        "url": "https://github.com/Muhammad-Zain01/agentdock.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MartinHalvorson/CIVVIS",
+        "url": "https://github.com/MartinHalvorson/CIVVIS.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tierxdcs/tx-peoplehub",
+        "url": "https://github.com/tierxdcs/tx-peoplehub.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Franzferdinan51/CannaAI",
+        "url": "https://github.com/Franzferdinan51/CannaAI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "selevycho/immune-escape-demo",
+        "url": "https://github.com/selevycho/immune-escape-demo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gustavomartinellidev/aiknowledgemap",
+        "url": "https://github.com/gustavomartinellidev/aiknowledgemap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "backupline202205-droid/BNI-Traffic-Light-Tool",
+        "url": "https://github.com/backupline202205-droid/BNI-Traffic-Light-Tool.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "devanoapriyani/TOOL-ADVOKASI",
+        "url": "https://github.com/devanoapriyani/TOOL-ADVOKASI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "theretrobristolian/tinycore-tools",
+        "url": "https://github.com/theretrobristolian/tinycore-tools.git",
+        "status": "Hasn't yet validated"
     }
 ]
