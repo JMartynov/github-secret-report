@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mateyr/sisprenic_frontend
+
+**URL:** https://github.com/mateyr/sisprenic_frontend.git
+
+- **Files Scanned:** 296
+- **Branches:** 1
+- **Size:** 1.3M
+- **Duration:** 1.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
