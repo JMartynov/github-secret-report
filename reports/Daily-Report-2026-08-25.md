@@ -228,3 +228,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### xNhongz-jpg/milkcoffee-backend
+
+**URL:** https://github.com/xNhongz-jpg/milkcoffee-backend.git
+
+- **Files Scanned:** 1247
+- **Branches:** 1
+- **Size:** 25M
+- **Duration:** 2.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
