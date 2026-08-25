@@ -242,3 +242,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SamVidor/rose-bay-sushi-backend
+
+**URL:** https://github.com/SamVidor/rose-bay-sushi-backend.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
