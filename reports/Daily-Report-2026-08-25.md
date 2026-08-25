@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### innowarelabs/RestuarantPanel
+
+**URL:** https://github.com/innowarelabs/RestuarantPanel.git
+
+- **Files Scanned:** 751
+- **Branches:** 1
+- **Size:** 9.2M
+- **Duration:** 26.33s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
