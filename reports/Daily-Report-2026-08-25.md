@@ -214,3 +214,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### amine359/eaze-websocket-java
+
+**URL:** https://github.com/amine359/eaze-websocket-java.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
