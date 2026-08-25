@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AlfeuAlves/zappicidade-frontend
+
+**URL:** https://github.com/AlfeuAlves/zappicidade-frontend.git
+
+- **Files Scanned:** 177
+- **Branches:** 1
+- **Size:** 5.0M
+- **Duration:** 1.77s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
