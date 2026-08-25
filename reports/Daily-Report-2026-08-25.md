@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Dom-303/pinflow
+
+**URL:** https://github.com/Dom-303/pinflow.git
+
+- **Files Scanned:** 5890
+- **Branches:** 2
+- **Size:** 82M
+- **Duration:** 109.76s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
