@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### wifeybabyb/jquery-fancy-light-box
+
+**URL:** https://github.com/wifeybabyb/jquery-fancy-light-box.git
+
+- **Files Scanned:** 24
+- **Branches:** 1
+- **Size:** 4.4M
+- **Duration:** 0.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
