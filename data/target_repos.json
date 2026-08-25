@@ -105238,5 +105238,90 @@
         "name": "jianping1987/iptv-api",
         "url": "https://github.com/jianping1987/iptv-api.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ProteoWizard/pwiz",
+        "url": "https://github.com/ProteoWizard/pwiz.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "micapolos/micascheme",
+        "url": "https://github.com/micapolos/micascheme.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "TWiStErRob/glide-support",
+        "url": "https://github.com/TWiStErRob/glide-support.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ctoth/cacophony",
+        "url": "https://github.com/ctoth/cacophony.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "4thel00z/pdfboss",
+        "url": "https://github.com/4thel00z/pdfboss.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Dicklesworthstone/franken_markdown",
+        "url": "https://github.com/Dicklesworthstone/franken_markdown.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PirucaxD/uczone-toolkit",
+        "url": "https://github.com/PirucaxD/uczone-toolkit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "warrnamboolcameraclub-sys/wcc-resource-library",
+        "url": "https://github.com/warrnamboolcameraclub-sys/wcc-resource-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jorgesislema/mcp-master-library",
+        "url": "https://github.com/jorgesislema/mcp-master-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "synapse-2/ESP32_UtilityFunctions",
+        "url": "https://github.com/synapse-2/ESP32_UtilityFunctions.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "darekf77/ng2-rest",
+        "url": "https://github.com/darekf77/ng2-rest.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "janephp/open-api-3-1",
+        "url": "https://github.com/janephp/open-api-3-1.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rcarubbi/Carubbi.GenericRepository",
+        "url": "https://github.com/rcarubbi/Carubbi.GenericRepository.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bodifan-droid/evenec",
+        "url": "https://github.com/bodifan-droid/evenec.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KagiamamaHIna/PinIn4Cpp",
+        "url": "https://github.com/KagiamamaHIna/PinIn4Cpp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "helidon-io/helidon",
+        "url": "https://github.com/helidon-io/helidon.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CarstVaartjes/vonk-forge-recipes",
+        "url": "https://github.com/CarstVaartjes/vonk-forge-recipes.git",
+        "status": "Hasn't yet validated"
     }
 ]

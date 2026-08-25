@@ -284,3 +284,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ngoctuhan/Cortexa
+
+**URL:** https://github.com/ngoctuhan/Cortexa.git
+
+- **Files Scanned:** 255
+- **Branches:** 5
+- **Size:** 4.7M
+- **Duration:** 0.37s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
