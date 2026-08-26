@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### xFenitorio1/Backend-Tingeso
+
+**URL:** https://github.com/xFenitorio1/Backend-Tingeso.git
+
+- **Files Scanned:** 202
+- **Branches:** 1
+- **Size:** 812K
+- **Duration:** 0.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
