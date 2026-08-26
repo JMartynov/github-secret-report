@@ -144,3 +144,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### unorouter/new-api-sync
+
+**URL:** https://github.com/unorouter/new-api-sync.git
+
+- **Files Scanned:** 3405
+- **Branches:** 2
+- **Size:** 26M
+- **Duration:** 20.77s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
