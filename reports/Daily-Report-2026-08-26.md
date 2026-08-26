@@ -186,3 +186,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### harsh-yadav0030/backendlearning
+
+**URL:** https://github.com/harsh-yadav0030/backendlearning.git
+
+- **Files Scanned:** 77
+- **Branches:** 1
+- **Size:** 824K
+- **Duration:** 0.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
