@@ -200,3 +200,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### StarDust130/blinkit-backend
+
+**URL:** https://github.com/StarDust130/blinkit-backend.git
+
+- **Files Scanned:** 355
+- **Branches:** 2
+- **Size:** 7.3M
+- **Duration:** 1.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
