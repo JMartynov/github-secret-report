@@ -172,3 +172,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hardikg2508/Influencer-Connect-Backend
+
+**URL:** https://github.com/hardikg2508/Influencer-Connect-Backend.git
+
+- **Files Scanned:** 26
+- **Branches:** 1
+- **Size:** 336K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
