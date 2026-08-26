@@ -130,3 +130,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### salman-devs/blog-platform-api
+
+**URL:** https://github.com/salman-devs/blog-platform-api.git
+
+- **Files Scanned:** 243
+- **Branches:** 5
+- **Size:** 752K
+- **Duration:** 0.12s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

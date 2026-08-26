@@ -105958,5 +105958,75 @@
         "name": "ausmartway/vault-plugin-secrets-temporalcloud",
         "url": "https://github.com/ausmartway/vault-plugin-secrets-temporalcloud.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "comhon-project/laravel-morphed-model-exporter",
+        "url": "https://github.com/comhon-project/laravel-morphed-model-exporter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LLLdo/digital-library",
+        "url": "https://github.com/LLLdo/digital-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "omnizip/omnizip",
+        "url": "https://github.com/omnizip/omnizip.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "humanoid-path-planner/hpp-pinocchio",
+        "url": "https://github.com/humanoid-path-planner/hpp-pinocchio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wavesplatform/gowaves",
+        "url": "https://github.com/wavesplatform/gowaves.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "abbaumara391/AGU-LIBRARY",
+        "url": "https://github.com/abbaumara391/AGU-LIBRARY.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.github.repositories.discussions",
+        "url": "https://github.com/soenneker/soenneker.github.repositories.discussions.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mcoria/goyeneche",
+        "url": "https://github.com/mcoria/goyeneche.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.redis.suite",
+        "url": "https://github.com/soenneker/soenneker.redis.suite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BahaaHayajneh99/nexium-ui",
+        "url": "https://github.com/BahaaHayajneh99/nexium-ui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "beling/bsuccinct-rs",
+        "url": "https://github.com/beling/bsuccinct-rs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pxsty0/pxserv.arduino",
+        "url": "https://github.com/pxsty0/pxserv.arduino.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "webcaster/podcore_V2",
+        "url": "https://github.com/webcaster/podcore_V2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ai20251209/library-kecf",
+        "url": "https://github.com/ai20251209/library-kecf.git",
+        "status": "Hasn't yet validated"
     }
 ]
