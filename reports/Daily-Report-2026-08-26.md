@@ -158,3 +158,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### KvalitetsIT/stakit-backend
+
+**URL:** https://github.com/KvalitetsIT/stakit-backend.git
+
+- **Files Scanned:** 1492
+- **Branches:** 21
+- **Size:** 2.3M
+- **Duration:** 2.14s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
