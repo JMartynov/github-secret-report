@@ -102,3 +102,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### SUSOBHANLAL/kec_dashboard_backend
+
+**URL:** https://github.com/SUSOBHANLAL/kec_dashboard_backend.git
+
+- **Files Scanned:** 50
+- **Branches:** 3
+- **Size:** 464K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
