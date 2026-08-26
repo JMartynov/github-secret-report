@@ -116,3 +116,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Kashish041206/capstone_web_dev_backend
+
+**URL:** https://github.com/Kashish041206/capstone_web_dev_backend.git
+
+- **Files Scanned:** 6
+- **Branches:** 1
+- **Size:** 200K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

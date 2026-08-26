@@ -105883,5 +105883,80 @@
         "name": "pixelPopping/frontend.vs.python",
         "url": "https://github.com/pixelPopping/frontend.vs.python.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tanowaf/WAF-Core",
+        "url": "https://github.com/tanowaf/WAF-Core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DerLop/cotizacion-norte-cambios",
+        "url": "https://github.com/DerLop/cotizacion-norte-cambios.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "asmaaGitDev/task-manager-api",
+        "url": "https://github.com/asmaaGitDev/task-manager-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aakashkumarswe/aakashkumarswe",
+        "url": "https://github.com/aakashkumarswe/aakashkumarswe.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "boatraceopenapi/programs",
+        "url": "https://github.com/boatraceopenapi/programs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kiraqht/iptv-api",
+        "url": "https://github.com/kiraqht/iptv-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "stock2026tartagal-bit/api-tienda",
+        "url": "https://github.com/stock2026tartagal-bit/api-tienda.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RobertHH-IS/icelandic-grammar-mcp",
+        "url": "https://github.com/RobertHH-IS/icelandic-grammar-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "andrzejsantocki/tidify-ui",
+        "url": "https://github.com/andrzejsantocki/tidify-ui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "waelLotfy/cloud-resume-challenge",
+        "url": "https://github.com/waelLotfy/cloud-resume-challenge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lumaa-dev/Nafyn",
+        "url": "https://github.com/lumaa-dev/Nafyn.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Intastellar-Solutions-International/intastellar-consents-platform",
+        "url": "https://github.com/Intastellar-Solutions-International/intastellar-consents-platform.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amiencoy/catapult",
+        "url": "https://github.com/amiencoy/catapult.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fongap/ai-gateway",
+        "url": "https://github.com/fongap/ai-gateway.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ausmartway/vault-plugin-secrets-temporalcloud",
+        "url": "https://github.com/ausmartway/vault-plugin-secrets-temporalcloud.git",
+        "status": "Hasn't yet validated"
     }
 ]
