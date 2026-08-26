@@ -105403,5 +105403,85 @@
         "name": "juans05/puntoVenta_frontend",
         "url": "https://github.com/juans05/puntoVenta_frontend.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ngriaznov/js-x-ray-rs",
+        "url": "https://github.com/ngriaznov/js-x-ray-rs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.blob.service",
+        "url": "https://github.com/soenneker/soenneker.blob.service.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sandeeg/kilimanjaro-training",
+        "url": "https://github.com/sandeeg/kilimanjaro-training.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mayanggumelarr/Hybrid-Library-Book-Recomendation-Content-Base-Filtering",
+        "url": "https://github.com/mayanggumelarr/Hybrid-Library-Book-Recomendation-Content-Base-Filtering.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MiMiTheCoder39/PUMUB-Lib-InfoBot",
+        "url": "https://github.com/MiMiTheCoder39/PUMUB-Lib-InfoBot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "warp-drive-data/warp-drive",
+        "url": "https://github.com/warp-drive-data/warp-drive.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rios0rios0/langforge",
+        "url": "https://github.com/rios0rios0/langforge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "degero/simpleopentelemetry",
+        "url": "https://github.com/degero/simpleopentelemetry.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zthun/romulator",
+        "url": "https://github.com/zthun/romulator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alexical-analysis/palidate",
+        "url": "https://github.com/alexical-analysis/palidate.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "intel/torchlib-xpu",
+        "url": "https://github.com/intel/torchlib-xpu.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jackykuei822-pixel/icloud-video-library",
+        "url": "https://github.com/jackykuei822-pixel/icloud-video-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "usnistgov/thermoextrap",
+        "url": "https://github.com/usnistgov/thermoextrap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alic3dev/clic3",
+        "url": "https://github.com/alic3dev/clic3.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.redis.client",
+        "url": "https://github.com/soenneker/soenneker.redis.client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.utils.xml",
+        "url": "https://github.com/soenneker/soenneker.utils.xml.git",
+        "status": "Hasn't yet validated"
     }
 ]
