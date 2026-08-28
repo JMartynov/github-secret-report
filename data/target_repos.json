@@ -106868,5 +106868,75 @@
         "name": "open-energy-transition/geodiff-tool",
         "url": "https://github.com/open-energy-transition/geodiff-tool.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "serialbench/data",
+        "url": "https://github.com/serialbench/data.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "seqsense/kinesisvideomanager",
+        "url": "https://github.com/seqsense/kinesisvideomanager.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AlvinG08/sdk",
+        "url": "https://github.com/AlvinG08/sdk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tryAGI/SoundCloud",
+        "url": "https://github.com/tryAGI/SoundCloud.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Isovoltss/GameUtil",
+        "url": "https://github.com/Isovoltss/GameUtil.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "caltechlibrary/CL-web-components",
+        "url": "https://github.com/caltechlibrary/CL-web-components.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "phoebegng/library-checkout",
+        "url": "https://github.com/phoebegng/library-checkout.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ArchiveLabs/lenny",
+        "url": "https://github.com/ArchiveLabs/lenny.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/deezer",
+        "url": "https://github.com/api-evangelist/deezer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "md-toybur-rahman/bookshelf_server",
+        "url": "https://github.com/md-toybur-rahman/bookshelf_server.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "withzeusai/hercules-js",
+        "url": "https://github.com/withzeusai/hercules-js.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mystro404/kotlin-dsv",
+        "url": "https://github.com/mystro404/kotlin-dsv.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yomallakshitha/MVFC.SQLCraft",
+        "url": "https://github.com/yomallakshitha/MVFC.SQLCraft.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "userno267/library-systemOMHOST1",
+        "url": "https://github.com/userno267/library-systemOMHOST1.git",
+        "status": "Hasn't yet validated"
     }
 ]
