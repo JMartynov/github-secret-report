@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### meghaghose62-code/spotify-clone
+
+**URL:** https://github.com/meghaghose62-code/spotify-clone.git
+
+- **Files Scanned:** 40
+- **Branches:** 1
+- **Size:** 568K
+- **Duration:** 0.17s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
