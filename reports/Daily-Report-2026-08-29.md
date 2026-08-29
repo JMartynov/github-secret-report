@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### MuhammadAqibRafiq/Backend-Rental
+
+**URL:** https://github.com/MuhammadAqibRafiq/Backend-Rental.git
+
+- **Files Scanned:** 38
+- **Branches:** 3
+- **Size:** 376K
+- **Duration:** 0.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
