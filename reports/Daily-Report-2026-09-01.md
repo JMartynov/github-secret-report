@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Piyushkrmu340/Minor-project-WebGenAi
+
+**URL:** https://github.com/Piyushkrmu340/Minor-project-WebGenAi.git
+
+- **Files Scanned:** 9
+- **Branches:** 1
+- **Size:** 232K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
