@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### EaseYourTease/eyt-website
+
+**URL:** https://github.com/EaseYourTease/eyt-website.git
+
+- **Files Scanned:** 19
+- **Branches:** 1
+- **Size:** 288K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
