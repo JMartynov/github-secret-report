@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mikeblocky/my-website
+
+**URL:** https://github.com/mikeblocky/my-website.git
+
+- **Files Scanned:** 3230
+- **Branches:** 1
+- **Size:** 1.1G
+- **Duration:** 52.99s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
