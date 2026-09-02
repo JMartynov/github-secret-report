@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### FORKY-G/HANWOL-WEBMAP
+
+**URL:** https://github.com/FORKY-G/HANWOL-WEBMAP.git
+
+- **Files Scanned:** 1297
+- **Branches:** 1
+- **Size:** 515M
+- **Duration:** 14.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
