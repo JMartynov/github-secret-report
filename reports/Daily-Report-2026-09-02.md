@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Marek93739/mega-ssh-udp
+
+**URL:** https://github.com/Marek93739/mega-ssh-udp.git
+
+- **Files Scanned:** 34
+- **Branches:** 1
+- **Size:** 4.3M
+- **Duration:** 0.27s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
