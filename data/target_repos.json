@@ -109188,5 +109188,85 @@
         "name": "lacodda/rhapsod",
         "url": "https://github.com/lacodda/rhapsod.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "WanderingPagan/cc-cache-fix",
+        "url": "https://github.com/WanderingPagan/cc-cache-fix.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alexfalkowski/go-signal",
+        "url": "https://github.com/alexfalkowski/go-signal.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SamuelAtef1234/Modern-Library",
+        "url": "https://github.com/SamuelAtef1234/Modern-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chemplexity/molecules",
+        "url": "https://github.com/chemplexity/molecules.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ashfaquelab34/Library-management-system",
+        "url": "https://github.com/Ashfaquelab34/Library-management-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pac4j/spring-webmvc-pac4j-boot-demo",
+        "url": "https://github.com/pac4j/spring-webmvc-pac4j-boot-demo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.redis.lock",
+        "url": "https://github.com/soenneker/soenneker.redis.lock.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ximeneznarrowminded65/worldmesh",
+        "url": "https://github.com/Ximeneznarrowminded65/worldmesh.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.utils.string.cosinesimilarity",
+        "url": "https://github.com/soenneker/soenneker.utils.string.cosinesimilarity.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zlgopen/tkc",
+        "url": "https://github.com/zlgopen/tkc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rabcater/rabcater_library",
+        "url": "https://github.com/rabcater/rabcater_library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rigplane/rigplane-core",
+        "url": "https://github.com/rigplane/rigplane-core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pac4j/jee-pac4j-cdi-demo",
+        "url": "https://github.com/pac4j/jee-pac4j-cdi-demo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OldCrow/libstats",
+        "url": "https://github.com/OldCrow/libstats.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "capsolver-ai/llamaindex-capsolver",
+        "url": "https://github.com/capsolver-ai/llamaindex-capsolver.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Oswelllowinterest832/book-theme",
+        "url": "https://github.com/Oswelllowinterest832/book-theme.git",
+        "status": "Hasn't yet validated"
     }
 ]
