@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### saugatbry/manga-api
+
+**URL:** https://github.com/saugatbry/manga-api.git
+
+- **Files Scanned:** 34
+- **Branches:** 1
+- **Size:** 392K
+- **Duration:** 0.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
