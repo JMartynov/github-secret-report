@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mirceanton/streamarr
+
+**URL:** https://github.com/mirceanton/streamarr.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 1.2M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
