@@ -109608,5 +109608,65 @@
         "name": "robs-ramblings/gears",
         "url": "https://github.com/robs-ramblings/gears.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "snxd/interop-steam",
+        "url": "https://github.com/snxd/interop-steam.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "natanfranca/nexus-api",
+        "url": "https://github.com/natanfranca/nexus-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "charles8051/periphery",
+        "url": "https://github.com/charles8051/periphery.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MuckRock/documentcloud-ocrspace-addon",
+        "url": "https://github.com/MuckRock/documentcloud-ocrspace-addon.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rwilliamspbg-ops/Ghostlink",
+        "url": "https://github.com/rwilliamspbg-ops/Ghostlink.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.radarr.openapiclient",
+        "url": "https://github.com/soenneker/soenneker.radarr.openapiclient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "evantahler/upptime",
+        "url": "https://github.com/evantahler/upptime.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vaughnalec04-ui/extraction-demo",
+        "url": "https://github.com/vaughnalec04-ui/extraction-demo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jasonfarrell-msft/ws-api-center",
+        "url": "https://github.com/jasonfarrell-msft/ws-api-center.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "guiestevam01/estudo",
+        "url": "https://github.com/guiestevam01/estudo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "johnlikescarrot/IELTS-API",
+        "url": "https://github.com/johnlikescarrot/IELTS-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "groq/groq-typescript",
+        "url": "https://github.com/groq/groq-typescript.git",
+        "status": "Hasn't yet validated"
     }
 ]

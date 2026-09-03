@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### boltz-bio/boltz-compute-api-go
+
+**URL:** https://github.com/boltz-bio/boltz-compute-api-go.git
+
+- **Files Scanned:** 1929
+- **Branches:** 11
+- **Size:** 13M
+- **Duration:** 60.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
