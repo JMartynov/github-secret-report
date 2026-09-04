@@ -109668,5 +109668,90 @@
         "name": "groq/groq-typescript",
         "url": "https://github.com/groq/groq-typescript.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.hangfire.redis.util",
+        "url": "https://github.com/soenneker/soenneker.hangfire.redis.util.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ponylang/uri",
+        "url": "https://github.com/ponylang/uri.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kirimao/library",
+        "url": "https://github.com/kirimao/library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "abelreji2/ACLBoost",
+        "url": "https://github.com/abelreji2/ACLBoost.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.cosmos.container",
+        "url": "https://github.com/soenneker/soenneker.cosmos.container.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.communication.sms.util",
+        "url": "https://github.com/soenneker/soenneker.communication.sms.util.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ice0306-arch/turnstile-breeze-php",
+        "url": "https://github.com/ice0306-arch/turnstile-breeze-php.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "VaderConsulting/DOTNETCOM",
+        "url": "https://github.com/VaderConsulting/DOTNETCOM.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Zaurzo/MoonLight-Library",
+        "url": "https://github.com/Zaurzo/MoonLight-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lambertius/playarr",
+        "url": "https://github.com/lambertius/playarr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.redis.client.server",
+        "url": "https://github.com/soenneker/soenneker.redis.client.server.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ashtable/mboss-core",
+        "url": "https://github.com/ashtable/mboss-core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jackrstringer/affiliate-program-build",
+        "url": "https://github.com/jackrstringer/affiliate-program-build.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JaCraig/Simple-Html-To-Pdf",
+        "url": "https://github.com/JaCraig/Simple-Html-To-Pdf.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yiuhong/demo-library",
+        "url": "https://github.com/yiuhong/demo-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.pdfs.html",
+        "url": "https://github.com/soenneker/soenneker.pdfs.html.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "deagy/recall",
+        "url": "https://github.com/deagy/recall.git",
+        "status": "Hasn't yet validated"
     }
 ]
