@@ -109923,5 +109923,85 @@
         "name": "sisi0318/tool-website",
         "url": "https://github.com/sisi0318/tool-website.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "oras-project/oras-go",
+        "url": "https://github.com/oras-project/oras-go.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "damien-robotsix/robotsix-github-auth",
+        "url": "https://github.com/damien-robotsix/robotsix-github-auth.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aportelli/latan",
+        "url": "https://github.com/aportelli/latan.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "open-telemetry/otel-arrow",
+        "url": "https://github.com/open-telemetry/otel-arrow.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "StudentHubHelp/studenthubhelp",
+        "url": "https://github.com/StudentHubHelp/studenthubhelp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "napiza/KicadLib",
+        "url": "https://github.com/napiza/KicadLib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hellacardgames/lib",
+        "url": "https://github.com/hellacardgames/lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MichaelYagi/kiri",
+        "url": "https://github.com/MichaelYagi/kiri.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KatherineShell/ui-kit",
+        "url": "https://github.com/KatherineShell/ui-kit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vindeckyy/OpenBoxGL",
+        "url": "https://github.com/vindeckyy/OpenBoxGL.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zachbornheimer/evident-output",
+        "url": "https://github.com/zachbornheimer/evident-output.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "miramedia-app/miramedia",
+        "url": "https://github.com/miramedia-app/miramedia.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "esoltys/luminous",
+        "url": "https://github.com/esoltys/luminous.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "muhammetozeski/ChaySocialSonnet",
+        "url": "https://github.com/muhammetozeski/ChaySocialSonnet.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "finleyfamily/f-lib",
+        "url": "https://github.com/finleyfamily/f-lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gabrielggiani-alt/library-management-system",
+        "url": "https://github.com/gabrielggiani-alt/library-management-system.git",
+        "status": "Hasn't yet validated"
     }
 ]
