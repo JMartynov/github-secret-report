@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### TalhaY61/open-hutbe-api
+
+**URL:** https://github.com/TalhaY61/open-hutbe-api.git
+
+- **Files Scanned:** 497
+- **Branches:** 1
+- **Size:** 281M
+- **Duration:** 9.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
