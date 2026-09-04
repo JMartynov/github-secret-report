@@ -109753,5 +109753,100 @@
         "name": "deagy/recall",
         "url": "https://github.com/deagy/recall.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dungsil-ai/gg",
+        "url": "https://github.com/dungsil-ai/gg.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LeisHo/Clicko",
+        "url": "https://github.com/LeisHo/Clicko.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kkdev92/clipshot",
+        "url": "https://github.com/kkdev92/clipshot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aleclewiss/clipped-review",
+        "url": "https://github.com/aleclewiss/clipped-review.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "YJK-Technologies/client-decrypt",
+        "url": "https://github.com/YJK-Technologies/client-decrypt.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ilyasakkus/supa-backup-s3",
+        "url": "https://github.com/ilyasakkus/supa-backup-s3.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Bestmed5455/transcribe.cpp",
+        "url": "https://github.com/Bestmed5455/transcribe.cpp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lacodda/rigger",
+        "url": "https://github.com/lacodda/rigger.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "keli2311/AdbClipboard",
+        "url": "https://github.com/keli2311/AdbClipboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PUNITH-KUMAR-R/pet-Clinic-Management",
+        "url": "https://github.com/PUNITH-KUMAR-R/pet-Clinic-Management.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "maxigimenez/parallax-cli",
+        "url": "https://github.com/maxigimenez/parallax-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MallboroMint/Shamal-Client-1.16.5-1.21.4",
+        "url": "https://github.com/MallboroMint/Shamal-Client-1.16.5-1.21.4.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alphaparkinc/genpark-client-side-hydration-runtime-error-triage-skill",
+        "url": "https://github.com/alphaparkinc/genpark-client-side-hydration-runtime-error-triage-skill.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Tai-Kimura/jsonui-cli",
+        "url": "https://github.com/Tai-Kimura/jsonui-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "IvicaudaxW2/x-video-download-to-gif",
+        "url": "https://github.com/IvicaudaxW2/x-video-download-to-gif.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "baseragoni/coinjoin-client",
+        "url": "https://github.com/baseragoni/coinjoin-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agentstation/starmap",
+        "url": "https://github.com/agentstation/starmap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nurigitdev/local_ai_chat_client",
+        "url": "https://github.com/nurigitdev/local_ai_chat_client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "voku/agent-loop",
+        "url": "https://github.com/voku/agent-loop.git",
+        "status": "Hasn't yet validated"
     }
 ]
