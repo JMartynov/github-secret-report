@@ -110493,5 +110493,85 @@
         "name": "lakshman-neduri/docker-repo-frontend",
         "url": "https://github.com/lakshman-neduri/docker-repo-frontend.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tweaki-io/cdn-clickbuy",
+        "url": "https://github.com/tweaki-io/cdn-clickbuy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "workclip11-ctrl/cliptwo",
+        "url": "https://github.com/workclip11-ctrl/cliptwo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alrayyes/movie-planner",
+        "url": "https://github.com/alrayyes/movie-planner.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "notfence/vless-core-cli",
+        "url": "https://github.com/notfence/vless-core-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ronchak/cope-code",
+        "url": "https://github.com/ronchak/cope-code.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thomasfranke/writrun-cli",
+        "url": "https://github.com/thomasfranke/writrun-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "martineastwood/niminal",
+        "url": "https://github.com/martineastwood/niminal.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jplozf/lied",
+        "url": "https://github.com/jplozf/lied.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Prakshalijain/MCP_cli_project",
+        "url": "https://github.com/Prakshalijain/MCP_cli_project.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "matheusmerlim1/ProgramacaoClienteWeb",
+        "url": "https://github.com/matheusmerlim1/ProgramacaoClienteWeb.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "skketa/ensp-external-tools-client",
+        "url": "https://github.com/skketa/ensp-external-tools-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jooservices/go-jabledownloader",
+        "url": "https://github.com/jooservices/go-jabledownloader.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rezzt-dev/py.scripts",
+        "url": "https://github.com/rezzt-dev/py.scripts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Barayo/testpulse-vitest",
+        "url": "https://github.com/Barayo/testpulse-vitest.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "4oOkSk/flclash-client-shell",
+        "url": "https://github.com/4oOkSk/flclash-client-shell.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KevinTrinhDev/dispatch",
+        "url": "https://github.com/KevinTrinhDev/dispatch.git",
+        "status": "Hasn't yet validated"
     }
 ]

@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sho-kawasaki-dd/gem-read-for-android
+
+**URL:** https://github.com/sho-kawasaki-dd/gem-read-for-android.git
+
+- **Files Scanned:** 276
+- **Branches:** 1
+- **Size:** 1.6M
+- **Duration:** 0.26s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
