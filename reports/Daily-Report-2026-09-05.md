@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### boltz-bio/boltz-compute-api-cli
+
+**URL:** https://github.com/boltz-bio/boltz-compute-api-cli.git
+
+- **Files Scanned:** 1879
+- **Branches:** 51
+- **Size:** 2.7M
+- **Duration:** 5.92s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
