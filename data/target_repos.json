@@ -110683,5 +110683,95 @@
         "name": "soenneker/soenneker.bland.suite",
         "url": "https://github.com/soenneker/soenneker.bland.suite.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "warlockjs/create-warlock",
+        "url": "https://github.com/warlockjs/create-warlock.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "memento-engineering/power_station",
+        "url": "https://github.com/memento-engineering/power_station.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "caverav/flutterdec",
+        "url": "https://github.com/caverav/flutterdec.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "alifhossinsajjad/Zap-Shift-client-Side",
+        "url": "https://github.com/alifhossinsajjad/Zap-Shift-client-Side.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rakaarwaky/agents-arwaky",
+        "url": "https://github.com/rakaarwaky/agents-arwaky.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "castgomezborja-git/expense-cli",
+        "url": "https://github.com/castgomezborja-git/expense-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wallace-2105/clinica-eliane-brait",
+        "url": "https://github.com/wallace-2105/clinica-eliane-brait.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "openclaw/Peekaboo",
+        "url": "https://github.com/openclaw/Peekaboo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ryan-mac74/nowsworld_client",
+        "url": "https://github.com/ryan-mac74/nowsworld_client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kaveh096/astro-pipeline",
+        "url": "https://github.com/kaveh096/astro-pipeline.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Qualflare/qualflare-jest",
+        "url": "https://github.com/Qualflare/qualflare-jest.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shingrus/1time.io",
+        "url": "https://github.com/shingrus/1time.io.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "clay-good/agent-replay",
+        "url": "https://github.com/clay-good/agent-replay.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sahil170595/quantfit",
+        "url": "https://github.com/Sahil170595/quantfit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Storybloq/storybloq",
+        "url": "https://github.com/Storybloq/storybloq.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pjw-blue-stack/clinic-site",
+        "url": "https://github.com/pjw-blue-stack/clinic-site.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lacker/click",
+        "url": "https://github.com/lacker/click.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gagarin-cloud/gg",
+        "url": "https://github.com/gagarin-cloud/gg.git",
+        "status": "Hasn't yet validated"
     }
 ]
