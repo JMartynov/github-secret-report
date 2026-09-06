@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### jainpunit3012/ApplyCalleeTypeEx
+
+**URL:** https://github.com/jainpunit3012/ApplyCalleeTypeEx.git
+
+- **Files Scanned:** 28
+- **Branches:** 1
+- **Size:** 9.9M
+- **Duration:** 0.33s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
