@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### genfuture/cryptocurrency-scraper
+
+**URL:** https://github.com/genfuture/cryptocurrency-scraper.git
+
+- **Files Scanned:** 2346
+- **Branches:** 1
+- **Size:** 12M
+- **Duration:** 70.82s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
