@@ -111688,5 +111688,75 @@
         "name": "ossia/score-api-docs",
         "url": "https://github.com/ossia/score-api-docs.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Agash/Veadotube.Client",
+        "url": "https://github.com/Agash/Veadotube.Client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nomos-N4s/apivo-news",
+        "url": "https://github.com/Nomos-N4s/apivo-news.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dustycompiler/borealis-solana",
+        "url": "https://github.com/dustycompiler/borealis-solana.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "amr-lounis/MirrorLAN",
+        "url": "https://github.com/amr-lounis/MirrorLAN.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gbreye/blogProject",
+        "url": "https://github.com/gbreye/blogProject.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MOHAMED19OS/footonsat-api",
+        "url": "https://github.com/MOHAMED19OS/footonsat-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "safepay/ha_google_weather",
+        "url": "https://github.com/safepay/ha_google_weather.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cemyilmazzzz122/yokatlas-api",
+        "url": "https://github.com/cemyilmazzzz122/yokatlas-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CPerezz/pbt-devnet",
+        "url": "https://github.com/CPerezz/pbt-devnet.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.cloudinary.openapiclient",
+        "url": "https://github.com/soenneker/soenneker.cloudinary.openapiclient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "chiptoe-svg/canvas-api-guard",
+        "url": "https://github.com/chiptoe-svg/canvas-api-guard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.instantly.leads",
+        "url": "https://github.com/soenneker/soenneker.instantly.leads.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mshobeyri/multimeter-examples",
+        "url": "https://github.com/mshobeyri/multimeter-examples.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "HarnessRouter/harnessrouter",
+        "url": "https://github.com/HarnessRouter/harnessrouter.git",
+        "status": "Hasn't yet validated"
     }
 ]
