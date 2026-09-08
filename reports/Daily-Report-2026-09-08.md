@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ArcadianSnow/Auto-Applier
+
+**URL:** https://github.com/ArcadianSnow/Auto-Applier.git
+
+- **Files Scanned:** 1873
+- **Branches:** 2
+- **Size:** 7.9M
+- **Duration:** 9.83s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
