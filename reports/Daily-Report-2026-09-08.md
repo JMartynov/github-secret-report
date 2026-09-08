@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### wulffern/cicsim
+
+**URL:** https://github.com/wulffern/cicsim.git
+
+- **Files Scanned:** 865
+- **Branches:** 11
+- **Size:** 3.3M
+- **Duration:** 1.65s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
