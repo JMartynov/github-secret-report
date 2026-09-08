@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### swastik-bhandari/Layout-Preserving-Document-Translator-Better-PDF-Translation-than-Google-Translate-
+
+**URL:** https://github.com/swastik-bhandari/Layout-Preserving-Document-Translator-Better-PDF-Translation-than-Google-Translate-.git
+
+- **Files Scanned:** 60
+- **Branches:** 1
+- **Size:** 6.7M
+- **Duration:** 0.4s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
