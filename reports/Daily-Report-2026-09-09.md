@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Wilhofstrasse/hc-knowledge
+
+**URL:** https://github.com/Wilhofstrasse/hc-knowledge.git
+
+- **Files Scanned:** 159421
+- **Branches:** 1
+- **Size:** 56M
+- **Duration:** 98.94s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
