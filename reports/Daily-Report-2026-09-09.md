@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Drswith/quantex-cli
+
+**URL:** https://github.com/Drswith/quantex-cli.git
+
+- **Files Scanned:** 8141
+- **Branches:** 12
+- **Size:** 12M
+- **Duration:** 13.82s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
