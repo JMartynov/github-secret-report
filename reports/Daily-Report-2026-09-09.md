@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### paulbolter/School
+
+**URL:** https://github.com/paulbolter/School.git
+
+- **Files Scanned:** 477
+- **Branches:** 1
+- **Size:** 7.8M
+- **Duration:** 44.94s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

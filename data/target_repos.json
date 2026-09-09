@@ -112293,5 +112293,95 @@
         "name": "navyorca/guide-web",
         "url": "https://github.com/navyorca/guide-web.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "agrietech/agriEtech-backend",
+        "url": "https://github.com/agrietech/agriEtech-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "type-rb/type-rb-native",
+        "url": "https://github.com/type-rb/type-rb-native.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dasuttam05-netizen/hansaria-app-backend",
+        "url": "https://github.com/dasuttam05-netizen/hansaria-app-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rsmsurya-sys/-NCMRWF",
+        "url": "https://github.com/rsmsurya-sys/-NCMRWF.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shishirkush/telecalling-app",
+        "url": "https://github.com/shishirkush/telecalling-app.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "salamaashoush/ferridriver",
+        "url": "https://github.com/salamaashoush/ferridriver.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Stuart-Lyons-Haulage/slh-tms-api",
+        "url": "https://github.com/Stuart-Lyons-Haulage/slh-tms-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Priyanshuverma23/megatron-backend",
+        "url": "https://github.com/Priyanshuverma23/megatron-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LadyRed145/LadyRed145",
+        "url": "https://github.com/LadyRed145/LadyRed145.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bobiib/Task-Scheduler-backend",
+        "url": "https://github.com/bobiib/Task-Scheduler-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "avishek999/supportIQ_backend",
+        "url": "https://github.com/avishek999/supportIQ_backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Jai2jay/cnt-scn-backend",
+        "url": "https://github.com/Jai2jay/cnt-scn-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "osameh15/osameh.dev",
+        "url": "https://github.com/osameh15/osameh.dev.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "basaltkit/basalt",
+        "url": "https://github.com/basaltkit/basalt.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mernd24-prog/backend",
+        "url": "https://github.com/mernd24-prog/backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "enwelder/web-traffic-speedometer",
+        "url": "https://github.com/enwelder/web-traffic-speedometer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aryant-nigam/portfolio-backend",
+        "url": "https://github.com/aryant-nigam/portfolio-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SumitG007/backtesting-backend",
+        "url": "https://github.com/SumitG007/backtesting-backend.git",
+        "status": "Hasn't yet validated"
     }
 ]
