@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hal-imaxabdi/SEMIS---Secure-Employee-Management-Information-System-
+
+**URL:** https://github.com/hal-imaxabdi/SEMIS---Secure-Employee-Management-Information-System-.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
