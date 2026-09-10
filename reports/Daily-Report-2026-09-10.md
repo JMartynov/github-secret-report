@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CarolinaRolling/carolina-rolling-web-backend
+
+**URL:** https://github.com/CarolinaRolling/carolina-rolling-web-backend.git
+
+- **Files Scanned:** 1595
+- **Branches:** 1
+- **Size:** 6.5M
+- **Duration:** 40.89s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
