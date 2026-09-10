@@ -113008,5 +113008,75 @@
         "name": "VectrionX/SurfaceX",
         "url": "https://github.com/VectrionX/SurfaceX.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aygp-dr/deprecation-detective",
+        "url": "https://github.com/aygp-dr/deprecation-detective.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "windsorcli/cli",
+        "url": "https://github.com/windsorcli/cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "concept2cure/ClinicalSageAI-2-replit",
+        "url": "https://github.com/concept2cure/ClinicalSageAI-2-replit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FallGameDev/clicker",
+        "url": "https://github.com/FallGameDev/clicker.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "umut-yalcn/lume-app",
+        "url": "https://github.com/umut-yalcn/lume-app.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "atomicstrata/llm-wiki-compiler",
+        "url": "https://github.com/atomicstrata/llm-wiki-compiler.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JPChoyon/ema-john-client",
+        "url": "https://github.com/JPChoyon/ema-john-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "taihen/rosup",
+        "url": "https://github.com/taihen/rosup.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "heroku/heroku-cli-util",
+        "url": "https://github.com/heroku/heroku-cli-util.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "YoshikiIFUKU/VisualSummary",
+        "url": "https://github.com/YoshikiIFUKU/VisualSummary.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jpeyret/rxedit",
+        "url": "https://github.com/jpeyret/rxedit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rockerlabs/keel",
+        "url": "https://github.com/rockerlabs/keel.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "binsoore/rss_clien_hot10",
+        "url": "https://github.com/binsoore/rss_clien_hot10.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "boyter/scc",
+        "url": "https://github.com/boyter/scc.git",
+        "status": "Hasn't yet validated"
     }
 ]
