@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Dedapo23/Company-Website
+
+**URL:** https://github.com/Dedapo23/Company-Website.git
+
+- **Files Scanned:** 130
+- **Branches:** 1
+- **Size:** 29M
+- **Duration:** 1.93s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
