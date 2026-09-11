@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### HugoHSevero/chamados-app
+
+**URL:** https://github.com/HugoHSevero/chamados-app.git
+
+- **Files Scanned:** 343
+- **Branches:** 1
+- **Size:** 26M
+- **Duration:** 13.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
