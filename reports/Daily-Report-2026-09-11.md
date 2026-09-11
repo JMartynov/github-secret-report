@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Aashish1A/InsightAI
+
+**URL:** https://github.com/Aashish1A/InsightAI.git
+
+- **Files Scanned:** 210
+- **Branches:** 1
+- **Size:** 3.4M
+- **Duration:** 1.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
