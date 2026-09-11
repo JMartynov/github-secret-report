@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bivancic/anketa_web
+
+**URL:** https://github.com/bivancic/anketa_web.git
+
+- **Files Scanned:** 14594
+- **Branches:** 1
+- **Size:** 7.8M
+- **Duration:** 10.78s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
