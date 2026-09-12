@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### m72900024/LOS-Flight-Simulator
+
+**URL:** https://github.com/m72900024/LOS-Flight-Simulator.git
+
+- **Files Scanned:** 342
+- **Branches:** 4
+- **Size:** 1.6M
+- **Duration:** 1.34s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
