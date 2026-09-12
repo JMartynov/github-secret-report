@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### YassBuilds92/vertex-ai-app
+
+**URL:** https://github.com/YassBuilds92/vertex-ai-app.git
+
+- **Files Scanned:** 1587
+- **Branches:** 8
+- **Size:** 39M
+- **Duration:** 30.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
