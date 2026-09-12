@@ -113963,5 +113963,105 @@
         "name": "soenneker/soenneker.validators.basicauth",
         "url": "https://github.com/soenneker/soenneker.validators.basicauth.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sperendiopedro/LumiBackend",
+        "url": "https://github.com/sperendiopedro/LumiBackend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yinxiangming/bfg-server-django",
+        "url": "https://github.com/yinxiangming/bfg-server-django.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aganzechristophe2007-eng/CBFSOKO-BACKEND",
+        "url": "https://github.com/aganzechristophe2007-eng/CBFSOKO-BACKEND.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Zaindev-lab/fluxswarm",
+        "url": "https://github.com/Zaindev-lab/fluxswarm.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "juanxbini/CRM-STOESSEL-BACKEND",
+        "url": "https://github.com/juanxbini/CRM-STOESSEL-BACKEND.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "PNelsonFTP/ClassicCars",
+        "url": "https://github.com/PNelsonFTP/ClassicCars.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "adrisantu62/MyStock-firebase",
+        "url": "https://github.com/adrisantu62/MyStock-firebase.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AT175/sims_backends",
+        "url": "https://github.com/AT175/sims_backends.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MattyHeartless/LavanderiaProBackend",
+        "url": "https://github.com/MattyHeartless/LavanderiaProBackend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nfgalindez-aiko/sorteos-ar",
+        "url": "https://github.com/nfgalindez-aiko/sorteos-ar.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Moustachez/etna-tremore-backend",
+        "url": "https://github.com/Moustachez/etna-tremore-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pkarpovich/allspeak-catalog",
+        "url": "https://github.com/pkarpovich/allspeak-catalog.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jaikanth-r/portfolio",
+        "url": "https://github.com/jaikanth-r/portfolio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "oldmoldycake/Snagr",
+        "url": "https://github.com/oldmoldycake/Snagr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rjm51643-ctrl/project-backend",
+        "url": "https://github.com/rjm51643-ctrl/project-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nexflowx-hub/backend.xpayments.digital",
+        "url": "https://github.com/nexflowx-hub/backend.xpayments.digital.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "anishidra76/anishidra-portfolio",
+        "url": "https://github.com/anishidra76/anishidra-portfolio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SamyrFateh/komerce-backend",
+        "url": "https://github.com/SamyrFateh/komerce-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ulasfirinciogullari-design/lecturesift-backend",
+        "url": "https://github.com/ulasfirinciogullari-design/lecturesift-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sebdysart/hustlexp-ai-backend",
+        "url": "https://github.com/Sebdysart/hustlexp-ai-backend.git",
+        "status": "Hasn't yet validated"
     }
 ]

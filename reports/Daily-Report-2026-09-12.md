@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### tothKarolyDavid/Habitinator
+
+**URL:** https://github.com/tothKarolyDavid/Habitinator.git
+
+- **Files Scanned:** 4128
+- **Branches:** 1
+- **Size:** 62M
+- **Duration:** 13.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
