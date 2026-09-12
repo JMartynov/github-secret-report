@@ -113908,5 +113908,60 @@
         "name": "BAGOMBEKA-JOB-DEV/ovrin",
         "url": "https://github.com/BAGOMBEKA-JOB-DEV/ovrin.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zairosoft/workless",
+        "url": "https://github.com/zairosoft/workless.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nifork-oss/tablitsa-api",
+        "url": "https://github.com/nifork-oss/tablitsa-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "profullstack/coinpayportal",
+        "url": "https://github.com/profullstack/coinpayportal.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-project-micro/api-micros-chillan",
+        "url": "https://github.com/api-project-micro/api-micros-chillan.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mutterkorn/ct-hoy-medien",
+        "url": "https://github.com/mutterkorn/ct-hoy-medien.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "davorinrusevljan/dead-drop",
+        "url": "https://github.com/davorinrusevljan/dead-drop.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Edark94/devin-sentinel",
+        "url": "https://github.com/Edark94/devin-sentinel.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "is-leeroy-jenkins/iyr",
+        "url": "https://github.com/is-leeroy-jenkins/iyr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sheikhti1205/FindBack",
+        "url": "https://github.com/sheikhti1205/FindBack.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Leitonez/pdfservices",
+        "url": "https://github.com/Leitonez/pdfservices.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.validators.basicauth",
+        "url": "https://github.com/soenneker/soenneker.validators.basicauth.git",
+        "status": "Hasn't yet validated"
     }
 ]

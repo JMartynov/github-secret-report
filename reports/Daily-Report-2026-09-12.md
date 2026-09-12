@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ManuUBA/EMBI-Argentine-API
+
+**URL:** https://github.com/ManuUBA/EMBI-Argentine-API.git
+
+- **Files Scanned:** 896
+- **Branches:** 1
+- **Size:** 436K
+- **Duration:** 0.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
