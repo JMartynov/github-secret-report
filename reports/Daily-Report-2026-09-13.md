@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### alanfischer/hop
+
+**URL:** https://github.com/alanfischer/hop.git
+
+- **Files Scanned:** 678
+- **Branches:** 2
+- **Size:** 6.0M
+- **Duration:** 2.39s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
