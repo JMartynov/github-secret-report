@@ -88,3 +88,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### harB33/Anime-and-Manga-Quiz
+
+**URL:** https://github.com/harB33/Anime-and-Manga-Quiz.git
+
+- **Files Scanned:** 262
+- **Branches:** 1
+- **Size:** 29M
+- **Duration:** 3.66s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

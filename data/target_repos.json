@@ -114573,5 +114573,65 @@
         "name": "tystudio-26020701/DracoPho-community",
         "url": "https://github.com/tystudio-26020701/DracoPho-community.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "arthursobral/planner-api",
+        "url": "https://github.com/arthursobral/planner-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "joy-sheng/iptv-api",
+        "url": "https://github.com/joy-sheng/iptv-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rijoeng/sistema-rijo-backend",
+        "url": "https://github.com/rijoeng/sistema-rijo-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Polsiv/PQC-API",
+        "url": "https://github.com/Polsiv/PQC-API.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kasan120991/fwa",
+        "url": "https://github.com/kasan120991/fwa.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gr8monk3ys/spotify",
+        "url": "https://github.com/gr8monk3ys/spotify.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "digitaldevotion/ai-companion-alcove",
+        "url": "https://github.com/digitaldevotion/ai-companion-alcove.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.instantly.unibox",
+        "url": "https://github.com/soenneker/soenneker.instantly.unibox.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shawngidley/wrc-fantasy-football",
+        "url": "https://github.com/shawngidley/wrc-fantasy-football.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "OxfordIHTM/roinc",
+        "url": "https://github.com/OxfordIHTM/roinc.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lalibimohamed-maker/-dorar-hadith-api-official",
+        "url": "https://github.com/lalibimohamed-maker/-dorar-hadith-api-official.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.cohere.runners.openapiclient",
+        "url": "https://github.com/soenneker/soenneker.cohere.runners.openapiclient.git",
+        "status": "Hasn't yet validated"
     }
 ]
