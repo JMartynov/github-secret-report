@@ -114323,5 +114323,85 @@
         "name": "epsx/Goliath",
         "url": "https://github.com/epsx/Goliath.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.blazor.tomselect",
+        "url": "https://github.com/soenneker/soenneker.blazor.tomselect.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AIwolfie/Ember",
+        "url": "https://github.com/AIwolfie/Ember.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kalif7722/aws-library",
+        "url": "https://github.com/kalif7722/aws-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iDepHub/UI-Library",
+        "url": "https://github.com/iDepHub/UI-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cplieger/seadex-scout",
+        "url": "https://github.com/cplieger/seadex-scout.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NmindsAcademy/UniversalFingerprint",
+        "url": "https://github.com/NmindsAcademy/UniversalFingerprint.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "frnAlt/Floppa-Chatbot",
+        "url": "https://github.com/frnAlt/Floppa-Chatbot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Legendofzaday/lufloat",
+        "url": "https://github.com/Legendofzaday/lufloat.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "si4795/BoiBitan",
+        "url": "https://github.com/si4795/BoiBitan.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dportin/varerr",
+        "url": "https://github.com/dportin/varerr.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LouhPaang/Xiyi",
+        "url": "https://github.com/LouhPaang/Xiyi.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cplieger/tautulli-remap",
+        "url": "https://github.com/cplieger/tautulli-remap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.keyvault.util",
+        "url": "https://github.com/soenneker/soenneker.keyvault.util.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "orkait/supergraph",
+        "url": "https://github.com/orkait/supergraph.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "collinleiber/ClustPy",
+        "url": "https://github.com/collinleiber/ClustPy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Astrionix/RaagaX",
+        "url": "https://github.com/Astrionix/RaagaX.git",
+        "status": "Hasn't yet validated"
     }
 ]
