@@ -114403,5 +114403,95 @@
         "name": "Astrionix/RaagaX",
         "url": "https://github.com/Astrionix/RaagaX.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wardenoss/warden-sdk",
+        "url": "https://github.com/wardenoss/warden-sdk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tamarauoffender9126/Clipboard-History-Manager-Tool-2026",
+        "url": "https://github.com/tamarauoffender9126/Clipboard-History-Manager-Tool-2026.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "loplex/intellij-maven-lens",
+        "url": "https://github.com/loplex/intellij-maven-lens.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lindabarb112233-debug/Spectrasonics-Omnisphere-3-Patcher",
+        "url": "https://github.com/lindabarb112233-debug/Spectrasonics-Omnisphere-3-Patcher.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kornia/kornia",
+        "url": "https://github.com/kornia/kornia.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Polymorpha-io/polymorpha-stella",
+        "url": "https://github.com/Polymorpha-io/polymorpha-stella.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sam-dumont/immich-video-memory-generator",
+        "url": "https://github.com/sam-dumont/immich-video-memory-generator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sujaybn/biblio-manager",
+        "url": "https://github.com/sujaybn/biblio-manager.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "13304930782/moonccisite",
+        "url": "https://github.com/13304930782/moonccisite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aribajahan/ariba-jahan-site",
+        "url": "https://github.com/aribajahan/ariba-jahan-site.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lucas-puerari/ccnl-engine",
+        "url": "https://github.com/lucas-puerari/ccnl-engine.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "siljehtangen/stitchbud",
+        "url": "https://github.com/siljehtangen/stitchbud.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rpeart73/soc122",
+        "url": "https://github.com/rpeart73/soc122.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AbdelmonemAwad/cadenza",
+        "url": "https://github.com/AbdelmonemAwad/cadenza.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Adamj8335/omakade",
+        "url": "https://github.com/Adamj8335/omakade.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "neilcochran/squawk",
+        "url": "https://github.com/neilcochran/squawk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SoyNya/VoidLibrary",
+        "url": "https://github.com/SoyNya/VoidLibrary.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Abol3ela/library-system",
+        "url": "https://github.com/Abol3ela/library-system.git",
+        "status": "Hasn't yet validated"
     }
 ]
