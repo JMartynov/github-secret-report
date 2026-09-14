@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bdanielsRCS/RelkorRunbooks
+
+**URL:** https://github.com/bdanielsRCS/RelkorRunbooks.git
+
+- **Files Scanned:** 38
+- **Branches:** 1
+- **Size:** 836K
+- **Duration:** 0.17s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
