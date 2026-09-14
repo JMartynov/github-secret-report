@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NadiaFathi/library-manager
+
+**URL:** https://github.com/NadiaFathi/library-manager.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
