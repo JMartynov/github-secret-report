@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Michaelunkai/game-library-manager-web
+
+**URL:** https://github.com/Michaelunkai/game-library-manager-web.git
+
+- **Files Scanned:** 9952
+- **Branches:** 20
+- **Size:** 586M
+- **Duration:** 44.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
