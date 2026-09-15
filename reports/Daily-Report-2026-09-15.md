@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### plotly/plotly.py
+
+**URL:** https://github.com/plotly/plotly.py.git
+
+- **Files Scanned:** 0
+- **Branches:** 127
+- **Size:** 482M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
