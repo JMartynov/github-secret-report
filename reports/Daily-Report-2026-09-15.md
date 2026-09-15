@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### caarlos0/env
+
+**URL:** https://github.com/caarlos0/env.git
+
+- **Files Scanned:** 747
+- **Branches:** 1
+- **Size:** 996K
+- **Duration:** 2.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
