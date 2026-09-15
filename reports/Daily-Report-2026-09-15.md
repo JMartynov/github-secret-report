@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mosabsomaer/Khazna
+
+**URL:** https://github.com/mosabsomaer/Khazna.git
+
+- **Files Scanned:** 983
+- **Branches:** 1
+- **Size:** 100M
+- **Duration:** 5.48s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

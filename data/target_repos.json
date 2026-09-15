@@ -115238,5 +115238,90 @@
         "name": "SEKY443/TovChat",
         "url": "https://github.com/SEKY443/TovChat.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jasanchev/api-mlops",
+        "url": "https://github.com/jasanchev/api-mlops.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Miakapp/MiakAPI",
+        "url": "https://github.com/Miakapp/MiakAPI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nextcloud/app_api",
+        "url": "https://github.com/nextcloud/app_api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lgromero1234/productos-api-railway",
+        "url": "https://github.com/lgromero1234/productos-api-railway.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ravikantbhatia/Daily-Weather-Forecast-Rain-Alert-n8n",
+        "url": "https://github.com/ravikantbhatia/Daily-Weather-Forecast-Rain-Alert-n8n.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kamigokun/todo-api",
+        "url": "https://github.com/kamigokun/todo-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "eliaspereira77-sudo/sousa20",
+        "url": "https://github.com/eliaspereira77-sudo/sousa20.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GoForceX/agg2api",
+        "url": "https://github.com/GoForceX/agg2api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bilgabrielaraujo/pizzariaApi",
+        "url": "https://github.com/bilgabrielaraujo/pizzariaApi.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AssemblyAI-Solutions/hybrid-dual-channel-streaming",
+        "url": "https://github.com/AssemblyAI-Solutions/hybrid-dual-channel-streaming.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "a895469093-commits/video-merge-api",
+        "url": "https://github.com/a895469093-commits/video-merge-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "llyen/srem-korki",
+        "url": "https://github.com/llyen/srem-korki.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rahmatsyaparudin/yii3-api-boilerplate",
+        "url": "https://github.com/rahmatsyaparudin/yii3-api-boilerplate.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "universal-tool-calling-protocol/typescript-utcp",
+        "url": "https://github.com/universal-tool-calling-protocol/typescript-utcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "abdussamadcodes/walletWise-JavaFX",
+        "url": "https://github.com/abdussamadcodes/walletWise-JavaFX.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sextantpst-commits/LoL_Signification_Monitor",
+        "url": "https://github.com/sextantpst-commits/LoL_Signification_Monitor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "stokaro/ptah-atlas-conformance",
+        "url": "https://github.com/stokaro/ptah-atlas-conformance.git",
+        "status": "Hasn't yet validated"
     }
 ]
