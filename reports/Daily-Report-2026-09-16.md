@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pablojabb/Library-example
+
+**URL:** https://github.com/pablojabb/Library-example.git
+
+- **Files Scanned:** 110
+- **Branches:** 1
+- **Size:** 1.3M
+- **Duration:** 0.38s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
