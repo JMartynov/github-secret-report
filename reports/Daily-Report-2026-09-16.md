@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### networkmanager-rs/nmrs-gui
+
+**URL:** https://github.com/networkmanager-rs/nmrs-gui.git
+
+- **Files Scanned:** 221
+- **Branches:** 3
+- **Size:** 808K
+- **Duration:** 0.82s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
