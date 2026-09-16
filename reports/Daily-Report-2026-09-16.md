@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Thesirix/Thesirix
+
+**URL:** https://github.com/Thesirix/Thesirix.git
+
+- **Files Scanned:** 13975
+- **Branches:** 5
+- **Size:** 2.4G
+- **Duration:** 251.27s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
