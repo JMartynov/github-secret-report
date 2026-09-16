@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ocl-foss/ocl
+
+**URL:** https://github.com/ocl-foss/ocl.git
+
+- **Files Scanned:** 0
+- **Branches:** 17
+- **Size:** 864K
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
