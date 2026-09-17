@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Cantertech/acewassce_frontend
+
+**URL:** https://github.com/Cantertech/acewassce_frontend.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 100M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
