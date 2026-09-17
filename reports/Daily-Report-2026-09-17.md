@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ezeta-03/erp-cotizador-frontend
+
+**URL:** https://github.com/ezeta-03/erp-cotizador-frontend.git
+
+- **Files Scanned:** 861
+- **Branches:** 8
+- **Size:** 17M
+- **Duration:** 2.94s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
