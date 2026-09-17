@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rimond12/lms-frontend
+
+**URL:** https://github.com/rimond12/lms-frontend.git
+
+- **Files Scanned:** 865
+- **Branches:** 1
+- **Size:** 32M
+- **Duration:** 10.83s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
