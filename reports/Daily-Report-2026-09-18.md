@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nonfictional-fireside301/DATADEX
+
+**URL:** https://github.com/nonfictional-fireside301/DATADEX.git
+
+- **Files Scanned:** 13
+- **Branches:** 1
+- **Size:** 1.3M
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
