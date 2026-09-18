@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### raguramkc-26/Library-Management-System-Frontend
+
+**URL:** https://github.com/raguramkc-26/Library-Management-System-Frontend.git
+
+- **Files Scanned:** 583
+- **Branches:** 1
+- **Size:** 1.1M
+- **Duration:** 0.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
