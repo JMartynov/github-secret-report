@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Tkyle9439/OpenGauss
+
+**URL:** https://github.com/Tkyle9439/OpenGauss.git
+
+- **Files Scanned:** 4
+- **Branches:** 1
+- **Size:** 1.3M
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
