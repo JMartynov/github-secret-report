@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ELIJAHBELAN/volleyball-league-frontend
+
+**URL:** https://github.com/ELIJAHBELAN/volleyball-league-frontend.git
+
+- **Files Scanned:** 4384
+- **Branches:** 1
+- **Size:** 128M
+- **Duration:** 23.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
