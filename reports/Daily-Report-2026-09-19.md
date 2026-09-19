@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### RedHatInsights/insights-inventory-frontend
+
+**URL:** https://github.com/RedHatInsights/insights-inventory-frontend.git
+
+- **Files Scanned:** 0
+- **Branches:** 33
+- **Size:** 65M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
