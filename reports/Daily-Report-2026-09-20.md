@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sdomi4/arriero-backend
+
+**URL:** https://github.com/sdomi4/arriero-backend.git
+
+- **Files Scanned:** 464
+- **Branches:** 2
+- **Size:** 880K
+- **Duration:** 0.39s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
