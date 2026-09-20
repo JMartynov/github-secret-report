@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### UNIZAR-30226-2026-01/laser_chess_backend
+
+**URL:** https://github.com/UNIZAR-30226-2026-01/laser_chess_backend.git
+
+- **Files Scanned:** 1333
+- **Branches:** 3
+- **Size:** 1.9M
+- **Duration:** 1.82s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
