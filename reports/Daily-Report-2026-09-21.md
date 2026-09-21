@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### marquis-code/flybeth-backend-service
+
+**URL:** https://github.com/marquis-code/flybeth-backend-service.git
+
+- **Files Scanned:** 799
+- **Branches:** 1
+- **Size:** 3.9M
+- **Duration:** 3.79s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
