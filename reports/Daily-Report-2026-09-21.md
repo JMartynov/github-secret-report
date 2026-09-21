@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### manekandan31/animal-care-backend
+
+**URL:** https://github.com/manekandan31/animal-care-backend.git
+
+- **Files Scanned:** 101
+- **Branches:** 1
+- **Size:** 59M
+- **Duration:** 2.57s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
