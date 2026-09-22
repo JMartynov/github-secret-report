@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### timtoole02/Camelid
+
+**URL:** https://github.com/timtoole02/Camelid.git
+
+- **Files Scanned:** 19307
+- **Branches:** 512
+- **Size:** 405M
+- **Duration:** 554.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
