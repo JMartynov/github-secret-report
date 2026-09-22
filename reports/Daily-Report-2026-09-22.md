@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CWN221/zentory-backend
+
+**URL:** https://github.com/CWN221/zentory-backend.git
+
+- **Files Scanned:** 66
+- **Branches:** 1
+- **Size:** 47M
+- **Duration:** 0.79s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
