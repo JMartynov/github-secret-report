@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### apsaraclean-maker/apsara_backend
+
+**URL:** https://github.com/apsaraclean-maker/apsara_backend.git
+
+- **Files Scanned:** 354
+- **Branches:** 3
+- **Size:** 1.9M
+- **Duration:** 1.79s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
