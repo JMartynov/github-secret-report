@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rrichglitch/rep_soc_front
+
+**URL:** https://github.com/rrichglitch/rep_soc_front.git
+
+- **Files Scanned:** 8697
+- **Branches:** 2
+- **Size:** 31M
+- **Duration:** 52.97s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
