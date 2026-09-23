@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### charifaMK/pimjo-assesment-frontend
+
+**URL:** https://github.com/charifaMK/pimjo-assesment-frontend.git
+
+- **Files Scanned:** 156
+- **Branches:** 1
+- **Size:** 93M
+- **Duration:** 185.23s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
