@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Maavin-Tech-Solution/driveinnovate-server
+
+**URL:** https://github.com/Maavin-Tech-Solution/driveinnovate-server.git
+
+- **Files Scanned:** 632
+- **Branches:** 1
+- **Size:** 2.2M
+- **Duration:** 1.56s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
