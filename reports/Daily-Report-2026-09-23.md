@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nooralbatol25-hub/classroom-backend
+
+**URL:** https://github.com/nooralbatol25-hub/classroom-backend.git
+
+- **Files Scanned:** 44
+- **Branches:** 1
+- **Size:** 348K
+- **Duration:** 0.07s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
