@@ -118863,5 +118863,90 @@
         "name": "gamerforgood469-art/electron-desktop-builds",
         "url": "https://github.com/gamerforgood469-art/electron-desktop-builds.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nativelite/atrium",
+        "url": "https://github.com/nativelite/atrium.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "christopherkarani/Wax",
+        "url": "https://github.com/christopherkarani/Wax.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cambridgetcg/natscript-homebrew",
+        "url": "https://github.com/cambridgetcg/natscript-homebrew.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "makewand/makewand",
+        "url": "https://github.com/makewand/makewand.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "percyho/codexc-apsule",
+        "url": "https://github.com/percyho/codexc-apsule.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pyrite-wiki/pyrite",
+        "url": "https://github.com/pyrite-wiki/pyrite.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "huajianluoli/my-bili-web-client",
+        "url": "https://github.com/huajianluoli/my-bili-web-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jarobi199/SpringBootCorklineWineCLI",
+        "url": "https://github.com/jarobi199/SpringBootCorklineWineCLI.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "forcewake/forge",
+        "url": "https://github.com/forcewake/forge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vollerodaniele-rgb/clients",
+        "url": "https://github.com/vollerodaniele-rgb/clients.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "TokensAPI/tokens_DshPluginCheck_code",
+        "url": "https://github.com/TokensAPI/tokens_DshPluginCheck_code.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "unifare/ai-env",
+        "url": "https://github.com/unifare/ai-env.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AartikSarma/CLIF-PBWPFVC",
+        "url": "https://github.com/AartikSarma/CLIF-PBWPFVC.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lividlabs/codefall-cli",
+        "url": "https://github.com/lividlabs/codefall-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "greaber/syq",
+        "url": "https://github.com/greaber/syq.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "offdutythoughts/cliniq",
+        "url": "https://github.com/offdutythoughts/cliniq.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "uhuntu/clisweave",
+        "url": "https://github.com/uhuntu/clisweave.git",
+        "status": "Hasn't yet validated"
     }
 ]
