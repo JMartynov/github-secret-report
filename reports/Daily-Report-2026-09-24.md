@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### yousef-hussein222/ecommerce-springboot-react-project
+
+**URL:** https://github.com/yousef-hussein222/ecommerce-springboot-react-project.git
+
+- **Files Scanned:** 81
+- **Branches:** 1
+- **Size:** 864K
+- **Duration:** 0.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
