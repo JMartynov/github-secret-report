@@ -119433,5 +119433,85 @@
         "name": "DataDog/dd-trace-dotnet",
         "url": "https://github.com/DataDog/dd-trace-dotnet.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "D-W-KUZNETSOV/mealtracker-frontend",
+        "url": "https://github.com/D-W-KUZNETSOV/mealtracker-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ComES-University-of-Ruhuna/comes-web-frontend",
+        "url": "https://github.com/ComES-University-of-Ruhuna/comes-web-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kirang29/Class_anchor_frontend",
+        "url": "https://github.com/kirang29/Class_anchor_frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Jassim1809/CRM-frontend",
+        "url": "https://github.com/Jassim1809/CRM-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mechnow44/resQ_frontend",
+        "url": "https://github.com/mechnow44/resQ_frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yuossefsabry0/full-stack-food-platform",
+        "url": "https://github.com/yuossefsabry0/full-stack-food-platform.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SachinYadav6/Frontend",
+        "url": "https://github.com/SachinYadav6/Frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Mh265/tienda-el-faro-literario",
+        "url": "https://github.com/Mh265/tienda-el-faro-literario.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Apfirebolt/anime_recommendation_frontend",
+        "url": "https://github.com/Apfirebolt/anime_recommendation_frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/casdoor",
+        "url": "https://github.com/api-evangelist/casdoor.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Yaroslaw00/frontend-4-hw-9-",
+        "url": "https://github.com/Yaroslaw00/frontend-4-hw-9-.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ehlersio/eyewallanalytics",
+        "url": "https://github.com/ehlersio/eyewallanalytics.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NaveedIlyas786/My_Portfolio_Reactjs",
+        "url": "https://github.com/NaveedIlyas786/My_Portfolio_Reactjs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "douglasboardman/gere-scraper-frontend",
+        "url": "https://github.com/douglasboardman/gere-scraper-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "KorbaStats/frontend-react",
+        "url": "https://github.com/KorbaStats/frontend-react.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vardhanyadav1714/AI-Companion-Frontend",
+        "url": "https://github.com/vardhanyadav1714/AI-Companion-Frontend.git",
+        "status": "Hasn't yet validated"
     }
 ]
