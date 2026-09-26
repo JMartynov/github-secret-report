@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### marianorluna/stock-app-frontend
+
+**URL:** https://github.com/marianorluna/stock-app-frontend.git
+
+- **Files Scanned:** 441
+- **Branches:** 5
+- **Size:** 2.5M
+- **Duration:** 2.86s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
