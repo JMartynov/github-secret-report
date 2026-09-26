@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ChisomJude/TenantHub-App
+
+**URL:** https://github.com/ChisomJude/TenantHub-App.git
+
+- **Files Scanned:** 21
+- **Branches:** 1
+- **Size:** 364K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
