@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ali-ay/moneyanalyze-frontend
+
+**URL:** https://github.com/ali-ay/moneyanalyze-frontend.git
+
+- **Files Scanned:** 927
+- **Branches:** 1
+- **Size:** 5.7M
+- **Duration:** 1.81s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
