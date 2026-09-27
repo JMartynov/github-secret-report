@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pizard31/InseeApiSirene.Net
+
+**URL:** https://github.com/pizard31/InseeApiSirene.Net.git
+
+- **Files Scanned:** 95
+- **Branches:** 1
+- **Size:** 816K
+- **Duration:** 0.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
