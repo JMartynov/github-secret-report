@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Simodevv/CloudFail
+
+**URL:** https://github.com/Simodevv/CloudFail.git
+
+- **Files Scanned:** 96
+- **Branches:** 1
+- **Size:** 1.5M
+- **Duration:** 0.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
