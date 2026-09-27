@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hobbyzhu/iptv-api
+
+**URL:** https://github.com/hobbyzhu/iptv-api.git
+
+- **Files Scanned:** 11519
+- **Branches:** 1
+- **Size:** 2.2G
+- **Duration:** 548.08s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
