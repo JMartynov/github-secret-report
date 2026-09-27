@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### su617592743/iptv-api
+
+**URL:** https://github.com/su617592743/iptv-api.git
+
+- **Files Scanned:** 14209
+- **Branches:** 1
+- **Size:** 2.7G
+- **Duration:** 794.3s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
