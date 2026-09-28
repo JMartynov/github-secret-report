@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### meerl/iptv-api
+
+**URL:** https://github.com/meerl/iptv-api.git
+
+- **Files Scanned:** 11677
+- **Branches:** 1
+- **Size:** 2.3G
+- **Duration:** 998.13s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
