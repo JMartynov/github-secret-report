@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### srivagdevi/ujson
+
+**URL:** https://github.com/srivagdevi/ujson.git
+
+- **Files Scanned:** 57
+- **Branches:** 1
+- **Size:** 2.3M
+- **Duration:** 1.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
