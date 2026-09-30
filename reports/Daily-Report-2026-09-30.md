@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### aqiang2618-debug/iptv-api
+
+**URL:** https://github.com/aqiang2618-debug/iptv-api.git
+
+- **Files Scanned:** 12226
+- **Branches:** 1
+- **Size:** 2.7G
+- **Duration:** 1160.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
