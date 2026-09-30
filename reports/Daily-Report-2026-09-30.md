@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### cn8v8/iptv-api
+
+**URL:** https://github.com/cn8v8/iptv-api.git
+
+- **Files Scanned:** 11239
+- **Branches:** 1
+- **Size:** 2.6G
+- **Duration:** 700.57s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
