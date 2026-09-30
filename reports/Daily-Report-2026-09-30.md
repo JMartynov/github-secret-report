@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### rishiraj5219/rest-gateway-1771917362-4
+
+**URL:** https://github.com/rishiraj5219/rest-gateway-1771917362-4.git
+
+- **Files Scanned:** 165
+- **Branches:** 2
+- **Size:** 48M
+- **Duration:** 3.32s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
