@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nektro/zig-tracer
+
+**URL:** https://github.com/nektro/zig-tracer.git
+
+- **Files Scanned:** 140
+- **Branches:** 1
+- **Size:** 308K
+- **Duration:** 0.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
