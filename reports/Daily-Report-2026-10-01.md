@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Elprofessor-git/IMS-backend
+
+**URL:** https://github.com/Elprofessor-git/IMS-backend.git
+
+- **Files Scanned:** 929
+- **Branches:** 5
+- **Size:** 9.0M
+- **Duration:** 4.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
