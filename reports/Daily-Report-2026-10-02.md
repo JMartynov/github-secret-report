@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### LuyerPerez/Comercio360-Backend
+
+**URL:** https://github.com/LuyerPerez/Comercio360-Backend.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
