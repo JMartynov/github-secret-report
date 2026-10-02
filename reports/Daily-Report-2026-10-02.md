@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### azulflame/tradelist-backend
+
+**URL:** https://github.com/azulflame/tradelist-backend.git
+
+- **Files Scanned:** 63
+- **Branches:** 1
+- **Size:** 480K
+- **Duration:** 0.09s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
