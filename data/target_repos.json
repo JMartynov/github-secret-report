@@ -122303,5 +122303,90 @@
         "name": "ramanflorfresca/antar-fastapi",
         "url": "https://github.com/ramanflorfresca/antar-fastapi.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "http4s/http4s-armeria",
+        "url": "https://github.com/http4s/http4s-armeria.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sagaalmiroj/astercomp-backend",
+        "url": "https://github.com/sagaalmiroj/astercomp-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kageyamountain/kageyamountain.net-backend",
+        "url": "https://github.com/kageyamountain/kageyamountain.net-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Stephen707/backend-technoastuce",
+        "url": "https://github.com/Stephen707/backend-technoastuce.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Aitherium/awdk",
+        "url": "https://github.com/Aitherium/awdk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iloveZzz/create-yss-harness-backend",
+        "url": "https://github.com/iloveZzz/create-yss-harness-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "themoretheless/fvid",
+        "url": "https://github.com/themoretheless/fvid.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "flooooooooooow/flow",
+        "url": "https://github.com/flooooooooooow/flow.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Iypan-admin/Academic_Service_Backend_Version2",
+        "url": "https://github.com/Iypan-admin/Academic_Service_Backend_Version2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dhiraj-khandagale/superrdev-patch-exercise-dhiraj",
+        "url": "https://github.com/dhiraj-khandagale/superrdev-patch-exercise-dhiraj.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sebatmail/Arriendo-maquinaria-drf-postgresql",
+        "url": "https://github.com/sebatmail/Arriendo-maquinaria-drf-postgresql.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Kristantowinata/netspace-backend",
+        "url": "https://github.com/Kristantowinata/netspace-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "isteeakCodeFoundry/spotter-fuel-route",
+        "url": "https://github.com/isteeakCodeFoundry/spotter-fuel-route.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "aroha-astrology/backend",
+        "url": "https://github.com/aroha-astrology/backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Tanneeru5404/superkart_model_dep",
+        "url": "https://github.com/Tanneeru5404/superkart_model_dep.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Deahesi/deahesi-os-backend",
+        "url": "https://github.com/Deahesi/deahesi-os-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Avinash77068/astroAiBackend",
+        "url": "https://github.com/Avinash77068/astroAiBackend.git",
+        "status": "Hasn't yet validated"
     }
 ]
