@@ -122223,5 +122223,85 @@
         "name": "cdalar/boxctl",
         "url": "https://github.com/cdalar/boxctl.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thamer-123/CyberGuard_backend",
+        "url": "https://github.com/thamer-123/CyberGuard_backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "oscarlmjr/Aplicacao_web_completa_integrando_Django_e_Angular_Framework",
+        "url": "https://github.com/oscarlmjr/Aplicacao_web_completa_integrando_Django_e_Angular_Framework.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ohartwig/keyvalue-store",
+        "url": "https://github.com/ohartwig/keyvalue-store.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "GLec1er/GLec1er",
+        "url": "https://github.com/GLec1er/GLec1er.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FasterXML/jackson-dataformats-binary",
+        "url": "https://github.com/FasterXML/jackson-dataformats-binary.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hello-nrfcloud/map-backend",
+        "url": "https://github.com/hello-nrfcloud/map-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "stopbars/Core",
+        "url": "https://github.com/stopbars/Core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "anolilab/lunora",
+        "url": "https://github.com/anolilab/lunora.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MASH-Tech-Ltd/Easy-Business-backend",
+        "url": "https://github.com/MASH-Tech-Ltd/Easy-Business-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JoseFerrao20/my-fullstack-app",
+        "url": "https://github.com/JoseFerrao20/my-fullstack-app.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JefersonBatista/my-wallet-backend-2",
+        "url": "https://github.com/JefersonBatista/my-wallet-backend-2.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sahilranjan00017/tazzzo-backend",
+        "url": "https://github.com/Sahilranjan00017/tazzzo-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Jesus-Escala/solvia-backend",
+        "url": "https://github.com/Jesus-Escala/solvia-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rcttavares/codepix-api",
+        "url": "https://github.com/rcttavares/codepix-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "XROLE/Rmts-backend",
+        "url": "https://github.com/XROLE/Rmts-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ramanflorfresca/antar-fastapi",
+        "url": "https://github.com/ramanflorfresca/antar-fastapi.git",
+        "status": "Hasn't yet validated"
     }
 ]
