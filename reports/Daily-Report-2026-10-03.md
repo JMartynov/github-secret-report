@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### LakshyaGitHub98/Aluminix_backend
+
+**URL:** https://github.com/LakshyaGitHub98/Aluminix_backend.git
+
+- **Files Scanned:** 1846
+- **Branches:** 1
+- **Size:** 25M
+- **Duration:** 4.29s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

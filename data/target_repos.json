@@ -122583,5 +122583,65 @@
         "name": "kinderhead/Amethyst",
         "url": "https://github.com/kinderhead/Amethyst.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wakamex/gesso",
+        "url": "https://github.com/wakamex/gesso.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tommyvone/fes-library",
+        "url": "https://github.com/tommyvone/fes-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rcarmo/go-ooxml",
+        "url": "https://github.com/rcarmo/go-ooxml.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dustinestes/Hatchery-Library",
+        "url": "https://github.com/dustinestes/Hatchery-Library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mnewnham/ADOdb-unittest",
+        "url": "https://github.com/mnewnham/ADOdb-unittest.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "venoyxibiggie/Covenant-Full-Version",
+        "url": "https://github.com/venoyxibiggie/Covenant-Full-Version.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "colinw7/CGeometry3D",
+        "url": "https://github.com/colinw7/CGeometry3D.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ZonG0D/agent-tux",
+        "url": "https://github.com/ZonG0D/agent-tux.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "stelicho/Swiftmiko",
+        "url": "https://github.com/stelicho/Swiftmiko.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sumingwang233/GameLibrary",
+        "url": "https://github.com/sumingwang233/GameLibrary.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "michael092749/skillshelf",
+        "url": "https://github.com/michael092749/skillshelf.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dotnet/android-libraries",
+        "url": "https://github.com/dotnet/android-libraries.git",
+        "status": "Hasn't yet validated"
     }
 ]
