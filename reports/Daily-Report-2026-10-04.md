@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### vwccompanies23/kasuku-backend
+
+**URL:** https://github.com/vwccompanies23/kasuku-backend.git
+
+- **Files Scanned:** 612
+- **Branches:** 1
+- **Size:** 1.9G
+- **Duration:** 75.9s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
