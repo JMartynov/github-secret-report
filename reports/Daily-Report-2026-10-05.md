@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### oualioumaima71-afk/frontend
+
+**URL:** https://github.com/oualioumaima71-afk/frontend.git
+
+- **Files Scanned:** 113
+- **Branches:** 1
+- **Size:** 4.6M
+- **Duration:** 1.2s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
