@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nilesh94/scrapcy-backend
+
+**URL:** https://github.com/nilesh94/scrapcy-backend.git
+
+- **Files Scanned:** 589
+- **Branches:** 4
+- **Size:** 2.0M
+- **Duration:** 1.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
