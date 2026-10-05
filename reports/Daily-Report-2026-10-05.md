@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### RohitKushwah19032001-RK/SmartBuy_Frontend
+
+**URL:** https://github.com/RohitKushwah19032001-RK/SmartBuy_Frontend.git
+
+- **Files Scanned:** 165
+- **Branches:** 1
+- **Size:** 59M
+- **Duration:** 1.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
