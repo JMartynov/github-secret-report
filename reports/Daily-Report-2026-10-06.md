@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### pghoshal/design-system-mcp
+
+**URL:** https://github.com/pghoshal/design-system-mcp.git
+
+- **Files Scanned:** 442
+- **Branches:** 1
+- **Size:** 14M
+- **Duration:** 1.95s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
