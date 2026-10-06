@@ -123283,5 +123283,95 @@
         "name": "stefanbosak/gemini-cli",
         "url": "https://github.com/stefanbosak/gemini-cli.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nuelll20/Agent-Clipper",
+        "url": "https://github.com/Nuelll20/Agent-Clipper.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bobs-org/bob-cli--research",
+        "url": "https://github.com/bobs-org/bob-cli--research.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yuchdev/ModelCompass",
+        "url": "https://github.com/yuchdev/ModelCompass.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "corosolto/client",
+        "url": "https://github.com/corosolto/client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "andrejsstepanovs/ztime",
+        "url": "https://github.com/andrejsstepanovs/ztime.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ben-spark-tutoring/portal-clickup-dashboard",
+        "url": "https://github.com/ben-spark-tutoring/portal-clickup-dashboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "thelastofinusa/pushai",
+        "url": "https://github.com/thelastofinusa/pushai.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ayushkatiyar31/clickstream-funnel-cohort-engine",
+        "url": "https://github.com/ayushkatiyar31/clickstream-funnel-cohort-engine.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "edgee-ai/edgee",
+        "url": "https://github.com/edgee-ai/edgee.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wp-cli/wp-cli",
+        "url": "https://github.com/wp-cli/wp-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "buchochelliq-labs/rs-rich-cli",
+        "url": "https://github.com/buchochelliq-labs/rs-rich-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "queen-mq/php-client",
+        "url": "https://github.com/queen-mq/php-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "leejianrong/kaya",
+        "url": "https://github.com/leejianrong/kaya.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Aape1231/agent-client",
+        "url": "https://github.com/Aape1231/agent-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SifisoInnocent/clinic-system",
+        "url": "https://github.com/SifisoInnocent/clinic-system.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "minipuft/claude-prompts-mcp",
+        "url": "https://github.com/minipuft/claude-prompts-mcp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "zxbdzh/pi-clickable-toast",
+        "url": "https://github.com/zxbdzh/pi-clickable-toast.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jeffbai996/vecgrep",
+        "url": "https://github.com/jeffbai996/vecgrep.git",
+        "status": "Hasn't yet validated"
     }
 ]
