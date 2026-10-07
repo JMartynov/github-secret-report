@@ -123783,5 +123783,95 @@
         "name": "DEFRA/waste-movement-backend",
         "url": "https://github.com/DEFRA/waste-movement-backend.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Biddlebaddleboo/compact-std-library-rust",
+        "url": "https://github.com/Biddlebaddleboo/compact-std-library-rust.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SpaRcle-Studio/SRCommon",
+        "url": "https://github.com/SpaRcle-Studio/SRCommon.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vortexopenclaw/dashcam-offloader",
+        "url": "https://github.com/vortexopenclaw/dashcam-offloader.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "tamnd/rupg",
+        "url": "https://github.com/tamnd/rupg.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vlang/vtl",
+        "url": "https://github.com/vlang/vtl.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BusinessChain/BTokenCore",
+        "url": "https://github.com/BusinessChain/BTokenCore.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "HorizonRepublic/nominal-types",
+        "url": "https://github.com/HorizonRepublic/nominal-types.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mikastiv/vk-kickstart",
+        "url": "https://github.com/mikastiv/vk-kickstart.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "TauCetiProject/TauCetiRoadmap",
+        "url": "https://github.com/TauCetiProject/TauCetiRoadmap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Dicklesworthstone/flywheel_connectors",
+        "url": "https://github.com/Dicklesworthstone/flywheel_connectors.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "merchisdk/merchi_ts",
+        "url": "https://github.com/merchisdk/merchi_ts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hirobius/hds",
+        "url": "https://github.com/hirobius/hds.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "oxyc/den-edge",
+        "url": "https://github.com/oxyc/den-edge.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "danielaLopes/pymab",
+        "url": "https://github.com/danielaLopes/pymab.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fsegurai/ngx-markdown",
+        "url": "https://github.com/fsegurai/ngx-markdown.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "itsloopyo/cameraunlock-core",
+        "url": "https://github.com/itsloopyo/cameraunlock-core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kerrfairtex/Library-management-system-with-notification",
+        "url": "https://github.com/kerrfairtex/Library-management-system-with-notification.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sahlberg/libnfs",
+        "url": "https://github.com/sahlberg/libnfs.git",
+        "status": "Hasn't yet validated"
     }
 ]
