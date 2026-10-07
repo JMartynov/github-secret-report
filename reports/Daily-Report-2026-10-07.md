@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### wacht-platform/frontend-api
+
+**URL:** https://github.com/wacht-platform/frontend-api.git
+
+- **Files Scanned:** 2328
+- **Branches:** 8
+- **Size:** 80M
+- **Duration:** 7.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
