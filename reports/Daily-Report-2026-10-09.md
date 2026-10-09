@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ysdhuri312/learning-management-system-v1
+
+**URL:** https://github.com/ysdhuri312/learning-management-system-v1.git
+
+- **Files Scanned:** 278
+- **Branches:** 1
+- **Size:** 5.7M
+- **Duration:** 5.71s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
