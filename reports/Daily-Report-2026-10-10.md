@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### CJcode6754/job-tracker-frontend
+
+**URL:** https://github.com/CJcode6754/job-tracker-frontend.git
+
+- **Files Scanned:** 202
+- **Branches:** 1
+- **Size:** 1.5M
+- **Duration:** 0.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
