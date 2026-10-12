@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### clivejefferies/mobile-debug-tools
+
+**URL:** https://github.com/clivejefferies/mobile-debug-tools.git
+
+- **Files Scanned:** 1512
+- **Branches:** 18
+- **Size:** 18M
+- **Duration:** 5.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
