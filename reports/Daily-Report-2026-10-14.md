@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### NetBSDfr/smolBSD
+
+**URL:** https://github.com/NetBSDfr/smolBSD.git
+
+- **Files Scanned:** 1460
+- **Branches:** 6
+- **Size:** 8.0M
+- **Duration:** 1.78s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
