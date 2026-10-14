@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### xiaoqwwewq/yx-tools
+
+**URL:** https://github.com/xiaoqwwewq/yx-tools.git
+
+- **Files Scanned:** 43617
+- **Branches:** 1
+- **Size:** 19M
+- **Duration:** 5.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
