@@ -1,0 +1,20 @@
+# Daily Secret Scan Report - 2026-10-14
+
+This report is updated hourly. Cumulative totals are generated at the end of the day.
+
+---
+
+### dllvll/NosyPy
+
+**URL:** https://github.com/dllvll/NosyPy.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.02s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
