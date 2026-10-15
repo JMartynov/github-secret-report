@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Anas-Furqan/National-Tax-Frontend-TECHWON
+
+**URL:** https://github.com/Anas-Furqan/National-Tax-Frontend-TECHWON.git
+
+- **Files Scanned:** 149
+- **Branches:** 1
+- **Size:** 2.2M
+- **Duration:** 1.12s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
