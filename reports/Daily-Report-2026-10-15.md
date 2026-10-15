@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### kiyotaka-codes/blog-card-preview
+
+**URL:** https://github.com/kiyotaka-codes/blog-card-preview.git
+
+- **Files Scanned:** 11
+- **Branches:** 1
+- **Size:** 220K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
