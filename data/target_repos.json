@@ -126393,5 +126393,85 @@
         "name": "nextcloud/Android-SingleSignOn",
         "url": "https://github.com/nextcloud/Android-SingleSignOn.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pullboard-dev/pullboard",
+        "url": "https://github.com/pullboard-dev/pullboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "krapie/mycelium",
+        "url": "https://github.com/krapie/mycelium.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sk8erDev/helm_deployer",
+        "url": "https://github.com/Sk8erDev/helm_deployer.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "developer88/obsidian-ai-chat-extension",
+        "url": "https://github.com/developer88/obsidian-ai-chat-extension.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ccvar/cligc_link",
+        "url": "https://github.com/ccvar/cligc_link.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "emaxe/open-artifacts",
+        "url": "https://github.com/emaxe/open-artifacts.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "samavia-b/climate-agriculture-pakistan",
+        "url": "https://github.com/samavia-b/climate-agriculture-pakistan.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lomiafrica/lomi.",
+        "url": "https://github.com/lomiafrica/lomi..git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "caigee-cmd/cli2api",
+        "url": "https://github.com/caigee-cmd/cli2api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "STRIKERnz/OpenL7",
+        "url": "https://github.com/STRIKERnz/OpenL7.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "abo3dam-hub/clinic-demo",
+        "url": "https://github.com/abo3dam-hub/clinic-demo.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "unbraind/pm-ts-starter",
+        "url": "https://github.com/unbraind/pm-ts-starter.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "LegionMerchantStyle/Twitch-Mod-Client-2026",
+        "url": "https://github.com/LegionMerchantStyle/Twitch-Mod-Client-2026.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "driftcell/rocket",
+        "url": "https://github.com/driftcell/rocket.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "radoslawbilke/Clipboard-landing-page",
+        "url": "https://github.com/radoslawbilke/Clipboard-landing-page.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ai-ecoverse/slicc-cli",
+        "url": "https://github.com/ai-ecoverse/slicc-cli.git",
+        "status": "Hasn't yet validated"
     }
 ]
