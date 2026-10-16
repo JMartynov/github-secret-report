@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nramc/journey-api
+
+**URL:** https://github.com/nramc/journey-api.git
+
+- **Files Scanned:** 5214
+- **Branches:** 3
+- **Size:** 7.2M
+- **Duration:** 3.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
