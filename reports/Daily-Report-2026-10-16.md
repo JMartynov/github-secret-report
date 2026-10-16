@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Nitheeshhd/olive-frontend-assignment
+
+**URL:** https://github.com/Nitheeshhd/olive-frontend-assignment.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 4.1M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
