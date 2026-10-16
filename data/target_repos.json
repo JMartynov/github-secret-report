@@ -126523,5 +126523,100 @@
         "name": "OneZero-Network/mcp-threat-intel",
         "url": "https://github.com/OneZero-Network/mcp-threat-intel.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "dotstories/web-engine",
+        "url": "https://github.com/dotstories/web-engine.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "static-web-apps-testing-org/synthetics-swa-users-b01c9a710b714bb49607ffa7f84102cb",
+        "url": "https://github.com/static-web-apps-testing-org/synthetics-swa-users-b01c9a710b714bb49607ffa7f84102cb.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "static-web-apps-testing-org/synthetics-swa-basicauth-3e9a05758fc944cca7a65d4469647035",
+        "url": "https://github.com/static-web-apps-testing-org/synthetics-swa-basicauth-3e9a05758fc944cca7a65d4469647035.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "remarkablegames/fantasea",
+        "url": "https://github.com/remarkablegames/fantasea.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "static-web-apps-testing-org/synthetics-swa-basicauth-be1c67a831d4446e80afc1b62c562e16",
+        "url": "https://github.com/static-web-apps-testing-org/synthetics-swa-basicauth-be1c67a831d4446e80afc1b62c562e16.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/tavily",
+        "url": "https://github.com/api-evangelist/tavily.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "trakt/trakt-web",
+        "url": "https://github.com/trakt/trakt-web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "umarigladwin-oss/wnb-governor-website",
+        "url": "https://github.com/umarigladwin-oss/wnb-governor-website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jlunasaiz-hue/margen-web",
+        "url": "https://github.com/jlunasaiz-hue/margen-web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "api-evangelist/tealium",
+        "url": "https://github.com/api-evangelist/tealium.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hgn389/opencode-web-login-module",
+        "url": "https://github.com/hgn389/opencode-web-login-module.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "joeamerica629/listicka",
+        "url": "https://github.com/joeamerica629/listicka.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mohammad-rabius-sani/EduspireLeadWeb",
+        "url": "https://github.com/mohammad-rabius-sani/EduspireLeadWeb.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "maxhugit/codex-webui-unraid",
+        "url": "https://github.com/maxhugit/codex-webui-unraid.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "static-web-apps-testing-org/synthetics-swa-basicauth-1f6dca3c5d8e46dfa346c099181bde43",
+        "url": "https://github.com/static-web-apps-testing-org/synthetics-swa-basicauth-1f6dca3c5d8e46dfa346c099181bde43.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Optimal-Pipeline-Solutions/OPS-Website",
+        "url": "https://github.com/Optimal-Pipeline-Solutions/OPS-Website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "CMOURASIGA/webappshotokanmadeira",
+        "url": "https://github.com/CMOURASIGA/webappshotokanmadeira.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "calvinadhikang/daidokoro-web",
+        "url": "https://github.com/calvinadhikang/daidokoro-web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jpeg91/WebMChan",
+        "url": "https://github.com/jpeg91/WebMChan.git",
+        "status": "Hasn't yet validated"
     }
 ]
