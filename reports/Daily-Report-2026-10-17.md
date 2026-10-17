@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### labedihejer-pixel/swafy-frontend
+
+**URL:** https://github.com/labedihejer-pixel/swafy-frontend.git
+
+- **Files Scanned:** 98
+- **Branches:** 1
+- **Size:** 2.3M
+- **Duration:** 0.4s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
