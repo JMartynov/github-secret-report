@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Heoster/SOHAM-frontend
+
+**URL:** https://github.com/Heoster/SOHAM-frontend.git
+
+- **Files Scanned:** 634
+- **Branches:** 1
+- **Size:** 16M
+- **Duration:** 1.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
