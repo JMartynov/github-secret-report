@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ibra-kdbra/Journey_FullStack
+
+**URL:** https://github.com/ibra-kdbra/Journey_FullStack.git
+
+- **Files Scanned:** 7910
+- **Branches:** 88
+- **Size:** 341M
+- **Duration:** 131.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
