@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### 1magine0/carsharingFrontend
+
+**URL:** https://github.com/1magine0/carsharingFrontend.git
+
+- **Files Scanned:** 125
+- **Branches:** 1
+- **Size:** 1.2M
+- **Duration:** 0.29s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
