@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AkshayParate61/MLOPS-DVC-DataVersions
+
+**URL:** https://github.com/AkshayParate61/MLOPS-DVC-DataVersions.git
+
+- **Files Scanned:** 23
+- **Branches:** 1
+- **Size:** 296K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
