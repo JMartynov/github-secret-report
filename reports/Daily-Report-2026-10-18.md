@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bandlakoti29/aws_serverless_etl_pipeline
+
+**URL:** https://github.com/bandlakoti29/aws_serverless_etl_pipeline.git
+
+- **Files Scanned:** 10
+- **Branches:** 1
+- **Size:** 1.2M
+- **Duration:** 0.1s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
