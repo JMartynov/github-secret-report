@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### McGondyGaming/STTC-TT
+
+**URL:** https://github.com/McGondyGaming/STTC-TT.git
+
+- **Files Scanned:** 186
+- **Branches:** 2
+- **Size:** 1.1M
+- **Duration:** 3.36s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
