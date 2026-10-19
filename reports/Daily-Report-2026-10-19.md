@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### akshat-rbg/scrapper-tool
+
+**URL:** https://github.com/akshat-rbg/scrapper-tool.git
+
+- **Files Scanned:** 27
+- **Branches:** 1
+- **Size:** 1.4M
+- **Duration:** 0.06s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
