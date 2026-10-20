@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### dipakvaghela99/rl-academy-data-analytics
+
+**URL:** https://github.com/dipakvaghela99/rl-academy-data-analytics.git
+
+- **Files Scanned:** 18
+- **Branches:** 1
+- **Size:** 23M
+- **Duration:** 67.64s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
