@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Piyushdalai/homebrew-duobolt
+
+**URL:** https://github.com/Piyushdalai/homebrew-duobolt.git
+
+- **Files Scanned:** 25
+- **Branches:** 1
+- **Size:** 5.4M
+- **Duration:** 0.25s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
