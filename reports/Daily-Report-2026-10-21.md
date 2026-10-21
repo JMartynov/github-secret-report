@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mongotochroma/frontend
+
+**URL:** https://github.com/mongotochroma/frontend.git
+
+- **Files Scanned:** 116
+- **Branches:** 1
+- **Size:** 1.1M
+- **Duration:** 0.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
