@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### gokulrl-developer/calmconnect-frontend
+
+**URL:** https://github.com/gokulrl-developer/calmconnect-frontend.git
+
+- **Files Scanned:** 545
+- **Branches:** 48
+- **Size:** 2.3M
+- **Duration:** 1.96s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
