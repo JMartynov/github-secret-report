@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bborbe/code-reviewer
+
+**URL:** https://github.com/bborbe/code-reviewer.git
+
+- **Files Scanned:** 4735
+- **Branches:** 9
+- **Size:** 31M
+- **Duration:** 16.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
