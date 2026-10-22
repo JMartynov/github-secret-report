@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Euca4923/qucore-dynamic-packages
+
+**URL:** https://github.com/Euca4923/qucore-dynamic-packages.git
+
+- **Files Scanned:** 49
+- **Branches:** 1
+- **Size:** 1.6M
+- **Duration:** 0.63s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
