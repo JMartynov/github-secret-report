@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sharvanreddy/FSAD-Frontend-Final
+
+**URL:** https://github.com/sharvanreddy/FSAD-Frontend-Final.git
+
+- **Files Scanned:** 97
+- **Branches:** 1
+- **Size:** 1.8M
+- **Duration:** 0.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
