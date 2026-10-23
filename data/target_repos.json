@@ -129303,5 +129303,80 @@
         "name": "HASVIK-Technologies/hasvik-crm-backend",
         "url": "https://github.com/HASVIK-Technologies/hasvik-crm-backend.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fastm3/dolibarr-invoices-woocommerce",
+        "url": "https://github.com/fastm3/dolibarr-invoices-woocommerce.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "FahadBinJunaid/express-crud-api",
+        "url": "https://github.com/FahadBinJunaid/express-crud-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "urantia-hub/urantia-dev-api",
+        "url": "https://github.com/urantia-hub/urantia-dev-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "adleraaa/pathpilot-ai",
+        "url": "https://github.com/adleraaa/pathpilot-ai.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ArminDashti/Helix",
+        "url": "https://github.com/ArminDashti/Helix.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "david-almeida-silva/automacao-postman-erp",
+        "url": "https://github.com/david-almeida-silva/automacao-postman-erp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Juxn89/juangomezb",
+        "url": "https://github.com/Juxn89/juangomezb.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "okjace/jace",
+        "url": "https://github.com/okjace/jace.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "adleraaa/pgqueue",
+        "url": "https://github.com/adleraaa/pgqueue.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BerriAI/litellm",
+        "url": "https://github.com/BerriAI/litellm.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lilvirgola/mitm_proxy_plugin",
+        "url": "https://github.com/lilvirgola/mitm_proxy_plugin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MBHudson/Autonomous",
+        "url": "https://github.com/MBHudson/Autonomous.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens",
+        "url": "https://github.com/livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yarakigit/youtube_ranking_build",
+        "url": "https://github.com/yarakigit/youtube_ranking_build.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Mykeylife/rate-limit-middleware",
+        "url": "https://github.com/Mykeylife/rate-limit-middleware.git",
+        "status": "Hasn't yet validated"
     }
 ]

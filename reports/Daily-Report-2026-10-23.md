@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Roiwhiz/geowatch-frontend
+
+**URL:** https://github.com/Roiwhiz/geowatch-frontend.git
+
+- **Files Scanned:** 179
+- **Branches:** 2
+- **Size:** 2.0M
+- **Duration:** 0.36s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
