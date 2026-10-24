@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### bourbonhunter/bourbon-pourcast-frontend
+
+**URL:** https://github.com/bourbonhunter/bourbon-pourcast-frontend.git
+
+- **Files Scanned:** 23172
+- **Branches:** 1
+- **Size:** 106M
+- **Duration:** 357.78s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
