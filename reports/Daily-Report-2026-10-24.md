@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sswahn/devour-frontend
+
+**URL:** https://github.com/sswahn/devour-frontend.git
+
+- **Files Scanned:** 0
+- **Branches:** 13
+- **Size:** 31M
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
