@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ANUBHAV-03042004/CodeSync-Code-Collaboration-Platform-Frontend
+
+**URL:** https://github.com/ANUBHAV-03042004/CodeSync-Code-Collaboration-Platform-Frontend.git
+
+- **Files Scanned:** 305
+- **Branches:** 3
+- **Size:** 4.1M
+- **Duration:** 1.79s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
