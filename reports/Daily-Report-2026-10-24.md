@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### KIMOO1987/kimoo-frontend
+
+**URL:** https://github.com/KIMOO1987/kimoo-frontend.git
+
+- **Files Scanned:** 2678
+- **Branches:** 1
+- **Size:** 7.9M
+- **Duration:** 11.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
