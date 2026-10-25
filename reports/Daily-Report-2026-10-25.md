@@ -74,3 +74,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### anirbit16/edunexus
+
+**URL:** https://github.com/anirbit16/edunexus.git
+
+- **Files Scanned:** 108
+- **Branches:** 1
+- **Size:** 1.2M
+- **Duration:** 0.34s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
