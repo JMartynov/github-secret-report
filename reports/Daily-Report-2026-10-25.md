@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### holywolf92-a11y/recruitment-portal-frontend
+
+**URL:** https://github.com/holywolf92-a11y/recruitment-portal-frontend.git
+
+- **Files Scanned:** 0
+- **Branches:** 3
+- **Size:** 30M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
