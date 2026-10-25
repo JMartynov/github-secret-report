@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hyperlinqai/ahi-admin-front
+
+**URL:** https://github.com/hyperlinqai/ahi-admin-front.git
+
+- **Files Scanned:** 191
+- **Branches:** 2
+- **Size:** 407M
+- **Duration:** 13.71s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
