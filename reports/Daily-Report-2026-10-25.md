@@ -60,3 +60,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### snehadasgupta1675-bit/Netflix-Clone-Frontend
+
+**URL:** https://github.com/snehadasgupta1675-bit/Netflix-Clone-Frontend.git
+
+- **Files Scanned:** 23
+- **Branches:** 1
+- **Size:** 12M
+- **Duration:** 0.21s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
