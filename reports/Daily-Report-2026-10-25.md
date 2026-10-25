@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### StellarBridge-Finance/stellar-bridge-finance-frontend
+
+**URL:** https://github.com/StellarBridge-Finance/stellar-bridge-finance-frontend.git
+
+- **Files Scanned:** 24
+- **Branches:** 1
+- **Size:** 504K
+- **Duration:** 0.16s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
