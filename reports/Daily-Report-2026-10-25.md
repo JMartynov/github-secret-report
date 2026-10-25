@@ -1,0 +1,20 @@
+# Daily Secret Scan Report - 2026-10-25
+
+This report is updated hourly. Cumulative totals are generated at the end of the day.
+
+---
+
+### mywyau/tarotea-frontend
+
+**URL:** https://github.com/mywyau/tarotea-frontend.git
+
+- **Files Scanned:** 4655
+- **Branches:** 36
+- **Size:** 9.2M
+- **Duration:** 22.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
