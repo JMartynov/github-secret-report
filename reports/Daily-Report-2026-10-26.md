@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Baebin/bing-web-frontend
+
+**URL:** https://github.com/Baebin/bing-web-frontend.git
+
+- **Files Scanned:** 333
+- **Branches:** 1
+- **Size:** 4.4M
+- **Duration:** 0.54s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
