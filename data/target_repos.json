@@ -130528,5 +130528,80 @@
         "name": "BlakvGhost/PHPValidator",
         "url": "https://github.com/BlakvGhost/PHPValidator.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Lukeus/taurus",
+        "url": "https://github.com/Lukeus/taurus.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "robertabezerra-ai/clipping-lets",
+        "url": "https://github.com/robertabezerra-ai/clipping-lets.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gumayunov/skill-vmlogs-cli",
+        "url": "https://github.com/gumayunov/skill-vmlogs-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "univkaiss/ksama-cli",
+        "url": "https://github.com/univkaiss/ksama-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "v1z0r-x/yt-dlp-docker-windows",
+        "url": "https://github.com/v1z0r-x/yt-dlp-docker-windows.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "castrowithcee/qatlas-cli",
+        "url": "https://github.com/castrowithcee/qatlas-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Sassy-Dog/skills",
+        "url": "https://github.com/Sassy-Dog/skills.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DnaMes/lore",
+        "url": "https://github.com/DnaMes/lore.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "YosefHayim/agent-session-pack",
+        "url": "https://github.com/YosefHayim/agent-session-pack.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "YosefHayim/launch-store",
+        "url": "https://github.com/YosefHayim/launch-store.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hasibislam123/sdpca_clint",
+        "url": "https://github.com/hasibislam123/sdpca_clint.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "emanuelc89/climaaperto",
+        "url": "https://github.com/emanuelc89/climaaperto.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "computor-org/computor-backend",
+        "url": "https://github.com/computor-org/computor-backend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Piebald-AI/awesome-gemini-cli-extensions",
+        "url": "https://github.com/Piebald-AI/awesome-gemini-cli-extensions.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "YosefHayim/ai-browser-bridge",
+        "url": "https://github.com/YosefHayim/ai-browser-bridge.git",
+        "status": "Hasn't yet validated"
     }
 ]
