@@ -130448,5 +130448,85 @@
         "name": "domenicovitale95-create/argus-omni-live-v1",
         "url": "https://github.com/domenicovitale95-create/argus-omni-live-v1.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "blinklabs-io/gouroboros",
+        "url": "https://github.com/blinklabs-io/gouroboros.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shlomif/fc-solve",
+        "url": "https://github.com/shlomif/fc-solve.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iTwin/presentation",
+        "url": "https://github.com/iTwin/presentation.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.blazor.dayjs",
+        "url": "https://github.com/soenneker/soenneker.blazor.dayjs.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "gpipperr/IHateWeblogic",
+        "url": "https://github.com/gpipperr/IHateWeblogic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "folio-org/data-import-utils",
+        "url": "https://github.com/folio-org/data-import-utils.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ttheurus-art/Creator",
+        "url": "https://github.com/ttheurus-art/Creator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "folio-org/folio-holdingsiq-client",
+        "url": "https://github.com/folio-org/folio-holdingsiq-client.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pixelfederation/pf-podtemplate-library",
+        "url": "https://github.com/pixelfederation/pf-podtemplate-library.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "royrscb/lib",
+        "url": "https://github.com/royrscb/lib.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RamazanKara/Rubylight",
+        "url": "https://github.com/RamazanKara/Rubylight.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ConvertAPI/convertapi-library-node",
+        "url": "https://github.com/ConvertAPI/convertapi-library-node.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "belomaxorka/yaoplm",
+        "url": "https://github.com/belomaxorka/yaoplm.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jonathanfreiredev/genblocks",
+        "url": "https://github.com/jonathanfreiredev/genblocks.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "caferyukseloglu/android-tv-home",
+        "url": "https://github.com/caferyukseloglu/android-tv-home.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "BlakvGhost/PHPValidator",
+        "url": "https://github.com/BlakvGhost/PHPValidator.git",
+        "status": "Hasn't yet validated"
     }
 ]

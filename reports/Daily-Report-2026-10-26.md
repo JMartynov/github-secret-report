@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### elGuapoTheMainCharacter/GameStore-FullStack
+
+**URL:** https://github.com/elGuapoTheMainCharacter/GameStore-FullStack.git
+
+- **Files Scanned:** 81
+- **Branches:** 1
+- **Size:** 628K
+- **Duration:** 0.12s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
