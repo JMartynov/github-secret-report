@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Zee7280/ciel_frontend
+
+**URL:** https://github.com/Zee7280/ciel_frontend.git
+
+- **Files Scanned:** 4617
+- **Branches:** 7
+- **Size:** 47M
+- **Duration:** 43.34s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
