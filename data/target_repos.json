@@ -130683,5 +130683,100 @@
         "name": "mongodb/mongodb-atlas-cli",
         "url": "https://github.com/mongodb/mongodb-atlas-cli.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "serdarsalim/N8N-Tester-Webapp",
+        "url": "https://github.com/serdarsalim/N8N-Tester-Webapp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "HadinNazmi/portofolio-website",
+        "url": "https://github.com/HadinNazmi/portofolio-website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pplytas/good-webhooks",
+        "url": "https://github.com/pplytas/good-webhooks.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "meir1997/betzalel-cohen-website",
+        "url": "https://github.com/meir1997/betzalel-cohen-website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "jeryjs/pi-web-ui-discord-plugin",
+        "url": "https://github.com/jeryjs/pi-web-ui-discord-plugin.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "magnus80a/Magnit-Website",
+        "url": "https://github.com/magnus80a/Magnit-Website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Faidlix/Web",
+        "url": "https://github.com/Faidlix/Web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AartiVerma4/ServiceHub",
+        "url": "https://github.com/AartiVerma4/ServiceHub.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "callmechits/own-website",
+        "url": "https://github.com/callmechits/own-website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mskgeul/townfall-play",
+        "url": "https://github.com/mskgeul/townfall-play.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Nuxy1/shopify-webhook-relay",
+        "url": "https://github.com/Nuxy1/shopify-webhook-relay.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cesar1/my-expenses",
+        "url": "https://github.com/cesar1/my-expenses.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "kmheon/new-custom-website-camnexbd",
+        "url": "https://github.com/kmheon/new-custom-website-camnexbd.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sjo589669-creator/WEB_DESIGN",
+        "url": "https://github.com/sjo589669-creator/WEB_DESIGN.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "UseKratose/usekratose-web",
+        "url": "https://github.com/UseKratose/usekratose-web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "iamSayeedR/nixora-website",
+        "url": "https://github.com/iamSayeedR/nixora-website.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "clipbq/clipbq-desktop-web",
+        "url": "https://github.com/clipbq/clipbq-desktop-web.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "balhar-jakub/sgwint-vysledky",
+        "url": "https://github.com/balhar-jakub/sgwint-vysledky.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "sofiapotapova333-art/my_first_websitee",
+        "url": "https://github.com/sofiapotapova333-art/my_first_websitee.git",
+        "status": "Hasn't yet validated"
     }
 ]

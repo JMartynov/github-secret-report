@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### HustlerXIV/topdee-frontend
+
+**URL:** https://github.com/HustlerXIV/topdee-frontend.git
+
+- **Files Scanned:** 259
+- **Branches:** 3
+- **Size:** 1.8M
+- **Duration:** 1.41s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
