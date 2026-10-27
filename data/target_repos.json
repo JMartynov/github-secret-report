@@ -130618,5 +130618,70 @@
         "name": "IKE-Network/ike-tooling",
         "url": "https://github.com/IKE-Network/ike-tooling.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "yuanying/porkadot",
+        "url": "https://github.com/yuanying/porkadot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "andretozi/QuickClick",
+        "url": "https://github.com/andretozi/QuickClick.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "clikaempresas/site-clika",
+        "url": "https://github.com/clikaempresas/site-clika.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "shinepythonladle/scratchy-loot-dc-console",
+        "url": "https://github.com/shinepythonladle/scratchy-loot-dc-console.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "cinpsi/clinica-cinpsi",
+        "url": "https://github.com/cinpsi/clinica-cinpsi.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MarceloDomingos-dev/clicar-planos",
+        "url": "https://github.com/MarceloDomingos-dev/clicar-planos.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "talos-hq/clud",
+        "url": "https://github.com/talos-hq/clud.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ramp-public/ramp-cli",
+        "url": "https://github.com/ramp-public/ramp-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "helixid/helix-sdk-js",
+        "url": "https://github.com/helixid/helix-sdk-js.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "honua-io/honua-sdk-dotnet",
+        "url": "https://github.com/honua-io/honua-sdk-dotnet.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "asteby/metacore-sdk",
+        "url": "https://github.com/asteby/metacore-sdk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "vizzly-testing/cli",
+        "url": "https://github.com/vizzly-testing/cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mongodb/mongodb-atlas-cli",
+        "url": "https://github.com/mongodb/mongodb-atlas-cli.git",
+        "status": "Hasn't yet validated"
     }
 ]
