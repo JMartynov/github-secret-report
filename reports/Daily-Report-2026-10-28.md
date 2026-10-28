@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### glpkart/glpkart-frontend
+
+**URL:** https://github.com/glpkart/glpkart-frontend.git
+
+- **Files Scanned:** 60
+- **Branches:** 2
+- **Size:** 372K
+- **Duration:** 0.15s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
