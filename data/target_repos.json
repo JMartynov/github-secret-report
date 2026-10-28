@@ -131103,5 +131103,80 @@
         "name": "paolobossi/vega-showroom",
         "url": "https://github.com/paolobossi/vega-showroom.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "masorange/titan-cli",
+        "url": "https://github.com/masorange/titan-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lh-borges/analise-churn-retencao-clientes",
+        "url": "https://github.com/lh-borges/analise-churn-retencao-clientes.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JorrynRen/PilotDesk",
+        "url": "https://github.com/JorrynRen/PilotDesk.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "NismaK/carefirst-clinic",
+        "url": "https://github.com/NismaK/carefirst-clinic.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "TadahiroYamamura/quenta",
+        "url": "https://github.com/TadahiroYamamura/quenta.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "anchore/clio",
+        "url": "https://github.com/anchore/clio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Theyashsawarkar/kaushal",
+        "url": "https://github.com/Theyashsawarkar/kaushal.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "congdoe/aggy",
+        "url": "https://github.com/congdoe/aggy.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "luxurymen306/Clipping-Pilot",
+        "url": "https://github.com/luxurymen306/Clipping-Pilot.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wuminuvm/fond-parser-cli",
+        "url": "https://github.com/wuminuvm/fond-parser-cli.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "maxgfr/pdfvault",
+        "url": "https://github.com/maxgfr/pdfvault.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mi-for-the-rust-of-us/vast-skopos",
+        "url": "https://github.com/mi-for-the-rust-of-us/vast-skopos.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "wacht-platform/snippet-service",
+        "url": "https://github.com/wacht-platform/snippet-service.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "career-ops-hq/career-ops",
+        "url": "https://github.com/career-ops-hq/career-ops.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SGit-AI/SGit-AI__CLI",
+        "url": "https://github.com/SGit-AI/SGit-AI__CLI.git",
+        "status": "Hasn't yet validated"
     }
 ]

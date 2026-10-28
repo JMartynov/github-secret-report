@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Licenta-proiect/frontend
+
+**URL:** https://github.com/Licenta-proiect/frontend.git
+
+- **Files Scanned:** 575
+- **Branches:** 1
+- **Size:** 2.0M
+- **Duration:** 2.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
