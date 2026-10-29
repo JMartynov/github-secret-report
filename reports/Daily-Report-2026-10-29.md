@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### afzaldhale/MyRide-Backend
+
+**URL:** https://github.com/afzaldhale/MyRide-Backend.git
+
+- **Files Scanned:** 186
+- **Branches:** 1
+- **Size:** 980K
+- **Duration:** 0.22s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
