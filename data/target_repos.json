@@ -131788,5 +131788,95 @@
         "name": "facebookresearch/atlas-lean",
         "url": "https://github.com/facebookresearch/atlas-lean.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "DEFRA/cdp-portal-frontend",
+        "url": "https://github.com/DEFRA/cdp-portal-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "RealsamBackendDev/CampusPadi-frontend",
+        "url": "https://github.com/RealsamBackendDev/CampusPadi-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "urben88/ai-frontend-guide-kit",
+        "url": "https://github.com/urben88/ai-frontend-guide-kit.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "asengardeon/btt-sdd-pipeline",
+        "url": "https://github.com/asengardeon/btt-sdd-pipeline.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Open-CMSIS-Pack/vscode-cmsis-sds",
+        "url": "https://github.com/Open-CMSIS-Pack/vscode-cmsis-sds.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ankan20/erp-frontend",
+        "url": "https://github.com/ankan20/erp-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "nitin-580/aa-frontend",
+        "url": "https://github.com/nitin-580/aa-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "AmineCHIBOUB/gestion-chantier",
+        "url": "https://github.com/AmineCHIBOUB/gestion-chantier.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ahmedsabrari/ahmedsabrari",
+        "url": "https://github.com/ahmedsabrari/ahmedsabrari.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "rafaeltorok/cpus-sql",
+        "url": "https://github.com/rafaeltorok/cpus-sql.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "JanLahmann/doQumentation",
+        "url": "https://github.com/JanLahmann/doQumentation.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "austin-tss/k12-southeast-dashboard",
+        "url": "https://github.com/austin-tss/k12-southeast-dashboard.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "pigeonbox/frontend-core",
+        "url": "https://github.com/pigeonbox/frontend-core.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "SampatiNagaNitishReddy/Real-Time-cricket-scoring-system-frontend",
+        "url": "https://github.com/SampatiNagaNitishReddy/Real-Time-cricket-scoring-system-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "simai/ui",
+        "url": "https://github.com/simai/ui.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "martin-codex3/Data-Analyser-v1",
+        "url": "https://github.com/martin-codex3/Data-Analyser-v1.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "samulanaresh2-droid/fno-easy-trading-frontend",
+        "url": "https://github.com/samulanaresh2-droid/fno-easy-trading-frontend.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hmcts/opal-rm-frontend",
+        "url": "https://github.com/hmcts/opal-rm-frontend.git",
+        "status": "Hasn't yet validated"
     }
 ]
