@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Linakhenfri/dzshop-backend
+
+**URL:** https://github.com/Linakhenfri/dzshop-backend.git
+
+- **Files Scanned:** 4390
+- **Branches:** 1
+- **Size:** 39M
+- **Duration:** 4.0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
