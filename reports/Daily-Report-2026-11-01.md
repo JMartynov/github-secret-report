@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Ritesh-Kumar-Thakre/BookNest
+
+**URL:** https://github.com/Ritesh-Kumar-Thakre/BookNest.git
+
+- **Files Scanned:** 343
+- **Branches:** 1
+- **Size:** 88M
+- **Duration:** 1.31s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
