@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### nagasubrahmanyammeka/FSAD_project_backend
+
+**URL:** https://github.com/nagasubrahmanyammeka/FSAD_project_backend.git
+
+- **Files Scanned:** 248
+- **Branches:** 6
+- **Size:** 2.3M
+- **Duration:** 0.27s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
