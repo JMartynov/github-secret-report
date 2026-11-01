@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### harshsharma1211/Backend-Engineering-with-Go
+
+**URL:** https://github.com/harshsharma1211/Backend-Engineering-with-Go.git
+
+- **Files Scanned:** 2
+- **Branches:** 1
+- **Size:** 196K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
