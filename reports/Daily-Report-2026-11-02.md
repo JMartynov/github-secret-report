@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lucasfloripa/StrativyFlowBackend
+
+**URL:** https://github.com/lucasfloripa/StrativyFlowBackend.git
+
+- **Files Scanned:** 1255
+- **Branches:** 2
+- **Size:** 3.8M
+- **Duration:** 5.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
