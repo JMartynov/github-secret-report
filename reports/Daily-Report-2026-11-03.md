@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Dawson12315/Adjacent-Music-Player
+
+**URL:** https://github.com/Dawson12315/Adjacent-Music-Player.git
+
+- **Files Scanned:** 1637
+- **Branches:** 2
+- **Size:** 19M
+- **Duration:** 13.13s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
