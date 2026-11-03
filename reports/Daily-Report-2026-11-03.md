@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### reznikmm/sdf_fonts
+
+**URL:** https://github.com/reznikmm/sdf_fonts.git
+
+- **Files Scanned:** 40
+- **Branches:** 1
+- **Size:** 464K
+- **Duration:** 0.07s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+

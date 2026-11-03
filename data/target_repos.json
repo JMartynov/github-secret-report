@@ -133118,5 +133118,85 @@
         "name": "dxw/govuk-components-plugin",
         "url": "https://github.com/dxw/govuk-components-plugin.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Ekco-S64QTN6/Kaiacord",
+        "url": "https://github.com/Ekco-S64QTN6/Kaiacord.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "hugoalves-dev/IA-hugo-do-zap",
+        "url": "https://github.com/hugoalves-dev/IA-hugo-do-zap.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "lucaslamass/expense-tracker-api",
+        "url": "https://github.com/lucaslamass/expense-tracker-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "0o0-ct/Aura-Line",
+        "url": "https://github.com/0o0-ct/Aura-Line.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "mwakidenis/E-COMMERCE",
+        "url": "https://github.com/mwakidenis/E-COMMERCE.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "haau3/haau3-node",
+        "url": "https://github.com/haau3/haau3-node.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "Shinobi4n/meu_portfolio",
+        "url": "https://github.com/Shinobi4n/meu_portfolio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "meziantou/Meziantou.Framework",
+        "url": "https://github.com/meziantou/Meziantou.Framework.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "soenneker/soenneker.blazor.apiclient",
+        "url": "https://github.com/soenneker/soenneker.blazor.apiclient.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "caldvs/gdp",
+        "url": "https://github.com/caldvs/gdp.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "HermeticaLabs/caelis-engine",
+        "url": "https://github.com/HermeticaLabs/caelis-engine.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "ABHC/design-system-tester",
+        "url": "https://github.com/ABHC/design-system-tester.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bayshores/godspeed",
+        "url": "https://github.com/bayshores/godspeed.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "fernandoadms/todo-api",
+        "url": "https://github.com/fernandoadms/todo-api.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "haau3/haau3-python",
+        "url": "https://github.com/haau3/haau3-python.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "MohamedRamadanSalah/figma-lens",
+        "url": "https://github.com/MohamedRamadanSalah/figma-lens.git",
+        "status": "Hasn't yet validated"
     }
 ]
