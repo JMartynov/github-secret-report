@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Sultandrillr/Library-Management-System
+
+**URL:** https://github.com/Sultandrillr/Library-Management-System.git
+
+- **Files Scanned:** 37
+- **Branches:** 1
+- **Size:** 520K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
