@@ -133198,5 +133198,35 @@
         "name": "MohamedRamadanSalah/figma-lens",
         "url": "https://github.com/MohamedRamadanSalah/figma-lens.git",
         "status": "Hasn't yet validated"
+    },
+    {
+        "name": "bropacman/bropacman-email-studio",
+        "url": "https://github.com/bropacman/bropacman-email-studio.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "affinidi/affinidi-messaging-mediator",
+        "url": "https://github.com/affinidi/affinidi-messaging-mediator.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "databricks/databricks-agent-skills",
+        "url": "https://github.com/databricks/databricks-agent-skills.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "njit-fkcy/njitmcl-tools",
+        "url": "https://github.com/njit-fkcy/njitmcl-tools.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "VoHoang07/tool_scan_video_tiktok",
+        "url": "https://github.com/VoHoang07/tool_scan_video_tiktok.git",
+        "status": "Hasn't yet validated"
+    },
+    {
+        "name": "adrifoster/meristem",
+        "url": "https://github.com/adrifoster/meristem.git",
+        "status": "Hasn't yet validated"
     }
 ]
