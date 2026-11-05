@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### sg-2512/icon-hub
+
+**URL:** https://github.com/sg-2512/icon-hub.git
+
+- **Files Scanned:** 3094
+- **Branches:** 2
+- **Size:** 131M
+- **Duration:** 33.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
