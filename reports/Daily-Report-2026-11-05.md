@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Hollow-house-institute/Hollow_House_Standards_Library
+
+**URL:** https://github.com/Hollow-house-institute/Hollow_House_Standards_Library.git
+
+- **Files Scanned:** 0
+- **Branches:** 12
+- **Size:** 4.0M
+- **Duration:** 0s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
