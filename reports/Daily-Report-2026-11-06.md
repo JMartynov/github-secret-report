@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Fikoko/Canon-C
+
+**URL:** https://github.com/Fikoko/Canon-C.git
+
+- **Files Scanned:** 4136
+- **Branches:** 1
+- **Size:** 20M
+- **Duration:** 46.17s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
