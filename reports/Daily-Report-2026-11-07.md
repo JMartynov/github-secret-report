@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### DemeterAbelBence/LglEngine
+
+**URL:** https://github.com/DemeterAbelBence/LglEngine.git
+
+- **Files Scanned:** 791
+- **Branches:** 1
+- **Size:** 66M
+- **Duration:** 1.94s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
