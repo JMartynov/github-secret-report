@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### hasankaz/arbaeen-backend
+
+**URL:** https://github.com/hasankaz/arbaeen-backend.git
+
+- **Files Scanned:** 51663
+- **Branches:** 1
+- **Size:** 12M
+- **Duration:** 12.5s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
