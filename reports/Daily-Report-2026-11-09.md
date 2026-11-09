@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### lmarielouise/factsonly-backend
+
+**URL:** https://github.com/lmarielouise/factsonly-backend.git
+
+- **Files Scanned:** 2842
+- **Branches:** 1
+- **Size:** 19M
+- **Duration:** 10.62s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
