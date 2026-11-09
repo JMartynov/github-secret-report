@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mulearnucek/ams-backend
+
+**URL:** https://github.com/mulearnucek/ams-backend.git
+
+- **Files Scanned:** 411
+- **Branches:** 4
+- **Size:** 1.6M
+- **Duration:** 0.94s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
