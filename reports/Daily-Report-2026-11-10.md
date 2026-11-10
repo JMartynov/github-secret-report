@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### oboyeboade-code/workspaceOS
+
+**URL:** https://github.com/oboyeboade-code/workspaceOS.git
+
+- **Files Scanned:** 191
+- **Branches:** 2
+- **Size:** 2.0M
+- **Duration:** 0.42s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
