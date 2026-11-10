@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### shaperail/shaperail
+
+**URL:** https://github.com/shaperail/shaperail.git
+
+- **Files Scanned:** 2134
+- **Branches:** 57
+- **Size:** 7.8M
+- **Duration:** 19.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
