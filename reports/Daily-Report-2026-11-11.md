@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Yous2ef/FleetOps-Backend
+
+**URL:** https://github.com/Yous2ef/FleetOps-Backend.git
+
+- **Files Scanned:** 612
+- **Branches:** 1
+- **Size:** 6.8M
+- **Duration:** 0.55s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
