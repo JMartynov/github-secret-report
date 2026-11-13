@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### AhsanBilal-748/pb_manager
+
+**URL:** https://github.com/AhsanBilal-748/pb_manager.git
+
+- **Files Scanned:** 50
+- **Branches:** 1
+- **Size:** 3.6M
+- **Duration:** 0.19s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
