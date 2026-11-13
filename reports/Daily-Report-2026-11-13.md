@@ -46,3 +46,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Edwhord/coingecko-webflow-sync
+
+**URL:** https://github.com/Edwhord/coingecko-webflow-sync.git
+
+- **Files Scanned:** 0
+- **Branches:** 1
+- **Size:** 1.5G
+- **Duration:** 1800s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
