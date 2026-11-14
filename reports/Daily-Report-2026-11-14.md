@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### vendiesel1703-MOH/College-Projects
+
+**URL:** https://github.com/vendiesel1703-MOH/College-Projects.git
+
+- **Files Scanned:** 9
+- **Branches:** 1
+- **Size:** 248K
+- **Duration:** 0.04s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
