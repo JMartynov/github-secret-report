@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### murlimanohar7041-cloud/Resume-builder
+
+**URL:** https://github.com/murlimanohar7041-cloud/Resume-builder.git
+
+- **Files Scanned:** 2
+- **Branches:** 1
+- **Size:** 572K
+- **Duration:** 0.24s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
