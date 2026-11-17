@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### ZoyaFaisalSiddiqui/Chocolate-E-Commerce-Website
+
+**URL:** https://github.com/ZoyaFaisalSiddiqui/Chocolate-E-Commerce-Website.git
+
+- **Files Scanned:** 6
+- **Branches:** 1
+- **Size:** 224K
+- **Duration:** 0.03s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
