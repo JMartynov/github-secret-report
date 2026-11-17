@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### MariamBB-a/holbertonschool-web_back_end
+
+**URL:** https://github.com/MariamBB-a/holbertonschool-web_back_end.git
+
+- **Files Scanned:** 140
+- **Branches:** 1
+- **Size:** 732K
+- **Duration:** 0.05s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
