@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### MatthijsMoerkerke/academic-website
+
+**URL:** https://github.com/MatthijsMoerkerke/academic-website.git
+
+- **Files Scanned:** 2788
+- **Branches:** 36
+- **Size:** 47M
+- **Duration:** 560.47s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
