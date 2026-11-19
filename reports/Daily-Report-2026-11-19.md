@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Franbossdammy/sharpLook-BackEnd
+
+**URL:** https://github.com/Franbossdammy/sharpLook-BackEnd.git
+
+- **Files Scanned:** 2202
+- **Branches:** 2
+- **Size:** 9.8M
+- **Duration:** 4.35s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
