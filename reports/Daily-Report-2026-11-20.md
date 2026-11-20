@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### JoaquinFossati/pediloCasares-backend
+
+**URL:** https://github.com/JoaquinFossati/pediloCasares-backend.git
+
+- **Files Scanned:** 116
+- **Branches:** 1
+- **Size:** 936K
+- **Duration:** 0.43s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
