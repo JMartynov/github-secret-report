@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### libra625/qualification_backend
+
+**URL:** https://github.com/libra625/qualification_backend.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
