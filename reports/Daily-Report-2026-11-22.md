@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### RafaellLobo/Kuzushiji-Project
+
+**URL:** https://github.com/RafaellLobo/Kuzushiji-Project.git
+
+- **Files Scanned:** 951
+- **Branches:** 2
+- **Size:** 24M
+- **Duration:** 0.7s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
