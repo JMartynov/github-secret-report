@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### mehediakash01/skillBridge_server
+
+**URL:** https://github.com/mehediakash01/skillBridge_server.git
+
+- **Files Scanned:** 215
+- **Branches:** 1
+- **Size:** 920K
+- **Duration:** 0.65s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
