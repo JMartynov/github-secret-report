@@ -32,3 +32,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### Drelga/cloakshare
+
+**URL:** https://github.com/Drelga/cloakshare.git
+
+- **Files Scanned:** 0
+- **Branches:** 0
+- **Size:** Unknown
+- **Duration:** 0.01s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
