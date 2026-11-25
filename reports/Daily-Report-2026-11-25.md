@@ -18,3 +18,17 @@ This report is updated hourly. Cumulative totals are generated at the end of the
 
 ---
 
+### joshconkel/Veritas-POC
+
+**URL:** https://github.com/joshconkel/Veritas-POC.git
+
+- **Files Scanned:** 87
+- **Branches:** 2
+- **Size:** 42M
+- **Duration:** 2.49s
+- **Findings:** 0
+
+*No secrets detected.*
+
+---
+
